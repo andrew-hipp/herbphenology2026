@@ -10,7 +10,7 @@
 #Output file: The output file will be the same CSV as the input file plus an additional "Phenophase" column. This is the assigned numerical phenophase (1-9) of the specimen. Specimens that were not assessable will be listed as NA in this column.
 #############################
 
-dat=dat.til_am
+dat <- dat.til_am
 # names (dat)
 
 for(i in 1:dim(dat)[1]){
@@ -34,3 +34,5 @@ for(i in 1:dim(dat)[1]){
         }
       }
 write.csv(dat, "out/Tilia_Phenology_Output.csv")
+phenoPh.til_am <- dat
+
