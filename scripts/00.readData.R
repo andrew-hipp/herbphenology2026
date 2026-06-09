@@ -10,7 +10,10 @@ write.csv(dat.gr.summary, 'out/dat.gr.summary.csv')
 dat.til_am <- read.xlsx('data/Tilia_americana_all.xlsx')
 dat.til_am <- dat.til_am[!is.na(dat.til_am$SpecimenAccession),]
 row.names(dat.til_am) <- dat.til_am$SpecimenAccession
-
-p=ggplot(dat.til_am, aes( x=Year, y=Percent.Flowers))
-p= p+geom_point()
-print(p)
+for(i in c("Buds", "Flowers", "Fruits", "Percent.Buds", "Percent.Flowers", 
+"Percent.Fruit")) {
+    class(dat.til_am[[i]]) <- "numeric"
+}
+p <- ggplot(dat.til_am, aes(x=Year, y=Percent.Flowers))
+p <- p+geom_point() + geom_smooth(method = 'lm')
+ggsave('out/firstBasicPlot.pdf')
