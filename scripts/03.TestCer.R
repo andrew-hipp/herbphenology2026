@@ -9,25 +9,25 @@ dat.gr.summary <-
     sort(decreasing = T)
 write.csv(dat.gr.summary, 'out/dat.gr.summary.csv')
 
-dat.cer_am <- read.xlsx('data/Cercis.xlsx')
-dat.cer_am <- dat.cer_am[!is.na(dat.cer_am$SpecimenAccession),]
-row.names(dat.cer_am) <- dat.cer_am$SpecimenAccession
+dat.cer <- read.xlsx('data/Cercis.xlsx')
+dat.cer <- dat.cer[!is.na(dat.cer$SpecimenAccession),]
+row.names(dat.cer) <- dat.cer$SpecimenAccession
 for(i in c("Buds", "Flowers", "Fruits", "Percent.Buds", "Percent.Flowers", 
 "Percent.Fruit")) {
-    class(dat.cer_am[[i]]) <- "numeric"
+    class(dat.cer[[i]]) <- "numeric"
 }
 
-dat.cer_am$DayOfYear <- as.integer(
+dat.cer$DayOfYear <- as.integer(
     format(
         as.Date(
             sprintf("2025-%02d-%02d",
-                    as.numeric(dat.cer_am$Month),
-                    as.numeric(dat.cer_am$Day))
+                    as.numeric(dat.cer$Month),
+                    as.numeric(dat.cer$Day))
         ),
         "%j"
     )
 )
-dat.cer.per <- dat.cer_am %>%
+dat.cer.per <- dat.cer %>%
   pivot_longer(
     cols = c(Percent.Buds, Percent.Flowers, Percent.Fruit),
     names_to = "Phenophase",
