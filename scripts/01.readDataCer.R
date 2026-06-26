@@ -26,9 +26,3 @@ dat.cer_am$DayOfYear <- as.integer(
         "%j"
     )
 )
-
-p <- ggplot(dat.cer_am, aes(x=DayOfYear, y=Percent.Flowers))
-p <- p+geom_point() + geom_smooth(method = 'lm') + labs(x= "Day of Year", y="Percent Flowers")
-quartz()
-print(p)
-ggsave('out/DOYBasicPlot.pdf')

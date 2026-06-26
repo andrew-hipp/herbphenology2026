@@ -7,7 +7,7 @@ dat.gr.summary <-
     sort(decreasing = T)
 write.csv(dat.gr.summary, 'out/dat.gr.summary.csv')
 
-dat.til_am <- read.xlsx('data/Tilia_americana_all.xlsx')
+dat.til_am <- read.xlsx('data/Tilia_americana.xlsx')
 dat.til_am <- dat.til_am[!is.na(dat.til_am$SpecimenAccession),]
 row.names(dat.til_am) <- dat.til_am$SpecimenAccession
 for(i in c("Buds", "Flowers", "Fruits")) {
@@ -22,7 +22,7 @@ for(i in c("Percent.Buds", "Percent.Flowers",
 
 dat.til_am <- dat.til_am[!is.na(dat.til_am$Percent.Flowers), ]
 dat.til_am$doy <- 
-    paste(dat$Year, dat$Month, dat$Day, sep = '-') |>
+    paste(dat.til_am$Year, dat.til_am$Month, dat.til_am$Day, sep = '-') |>
     as.Date() |>
     format("%j") |>
     as.numeric()
