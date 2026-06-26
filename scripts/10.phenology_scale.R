@@ -33,6 +33,6 @@ for(i in 1:dim(dat)[1]){
           }
         }
       }
-write.csv(dat, "out/Tilia_Phenology_Output.csv")
+write.csv(dat, file.path(path.expand("~"), "Desktop", "Tilia_Phenology_Output.csv"))
 phenoPh.til_am <- dat
 
