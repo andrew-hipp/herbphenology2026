@@ -1,144 +1,140 @@
 "","SpecimenAccession","SpecimenBarcode","DeterminationCalcFullName","Collectors","CollectorNumber","Day","Month","Year","FamilyName","CalcFullName","LocalityNotes","Accounted.for","Buds","Flowers","Fruits","Notes","Percent.Buds","Percent.Flowers","Percent.Fruit","doy","Phenophase"
-"3",3,NA,"Cercis canadensis 'Hearts of Gold'","Potenberg, K","18904v25",31,7,2025,"Fabaceae","Cercis canadensis 'Hearts of Gold'","Ornamental Flowering Trees: U-32/21-34","Yes",0,0,7,NA,0,0,100,212,9
-"4",4,NA,"Cercis canadensis 'JN2'","Potenberg, K","18905v25",31,7,2025,"Fabaceae","Cercis canadensis 'JN2'","Ornamental Flowering Trees: U-32/24-49","Yes",0,0,8,NA,0,0,100,212,9
-"196266",196266,NA,"Cercis canadensis 'UMN7101'","Potenberg, K","18906v25",31,7,2025,"Fabaceae","Cercis canadensis 'UMN7101'","Ornamental Flowering Trees: U-32/67-03","Yes",0,0,2,NA,0,0,100,212,9
-"5",5,NA,"Cercis canadensis 'Vanilla Twist'","Potenberg, K","18903v25",31,7,2025,"Fabaceae","Cercis canadensis 'Vanilla Twist'","Ornamental Flowering Trees: U-32/07-45","Yes",0,0,12,NA,0,0,100,212,9
-"6",6,NA,"Cercis canadensis 'Vanilla Twist'","Potenberg, K","19120v26",16,4,2026,"Fabaceae","Cercis canadensis 'Vanilla Twist'","Dwarf Woody Plants: E-47/45-78","Yes",41,85,0,NA,32.5396825396825,67.4603174603175,0,106,NA
-"194982",194982,"0112581MOR","Cercis canadensis L.","Chen, S","18881v25",10,7,2025,"Fabaceae","Cercis canadensis L.","Sterling Pond: R-5/40-02","Yes",0,0,9,NA,0,0,100,191,9
+"159877",159877,"0052536MOR","Cercis canadensis 'Covey'","Jurczynski, J","10300V06",26,4,2006,"Fabaceae","Cercis canadensis 'Covey'","Dwarf Woody Plants, bed 3; D-47/76-72","Yes",4,213,0,NA,1.84331797235023,98.1566820276498,0,116,5
+"168248",168248,"0052057MOR","Cercis canadensis 'Covey'","Glaysher, L","11587v09",14,5,2009,"Fabaceae","Cercis canadensis 'Covey'","Dwarf Woody Plants, bed 3: D-47/76-72","Yes",3,22,0,NA,12,88,0,134,5
+"172694",172694,"0057719MOR","Cercis canadensis 'Forest Pansy'","Courtney, C","12867v11",11,5,2011,"Fabaceae","Cercis canadensis 'Forest Pansy'","Fragrance Garden: KK-25/81-77","Yes",0,28,0,NA,0,100,0,131,5
+"173564",173564,"0058856MOR","Cercis canadensis 'Forest Pansy'","Sachdev, S","13355v12",11,4,2012,"Fabaceae","Cercis canadensis 'Forest Pansy'","Fragrance Garden: KK-25/81-77","Yes",1,85,0,NA,1.16279069767442,98.8372093023256,0,102,5
+"182600",182600,"0088559MOR","Cercis canadensis 'Forest Pansy'","Carle, M","14806v16",4,5,2016,"Fabaceae","Cercis canadensis 'Forest Pansy'","Four Seasons Garden: KK-28/14-87","Yes",1,110,0,NA,0.900900900900901,99.0990990990991,0,125,5
 "186563",186563,"0098844MOR","Cercis canadensis 'MN Strain'","Nowicki, B","15964v18",10,9,2018,"Fabaceae","Cercis canadensis 'MN Strain'","Entrance Drive: O-41/18-34","Yes",0,0,6,NA,0,0,100,253,9
 "190656",190656,"0101682MOR","Cercis canadensis 'MN Strain'","Potenberg, K","17821v23",20,4,2023,"Fabaceae","Cercis canadensis 'MN Strain'","Service Drive: M-41/12-57","Yes",96,45,0,NA,68.0851063829787,31.9148936170213,0,110,2
 "172622",172622,"0057666MOR","Cercis canadensis 'Morton'","Moran, E","12831v11",4,5,2011,"Fabaceae","Cercis canadensis 'Morton'","Arbor Court: L-47/06-02","Yes",92,14,0,NA,86.7924528301887,13.2075471698113,0,124,2
 "184882",184882,"0095836MOR","Cercis canadensis 'Pauline Lily'","Nowicki, B","15658v17",18,9,2017,"Fabaceae","Cercis canadensis 'Pauline Lily'","Godshalk Meadow: M-30/97-88","Yes",0,0,3,NA,0,0,100,261,9
 "191209",191209,"0102499MOR","Cercis canadensis 'Pink Pom Poms'","Nowicki, B","17868v23",11,5,2023,"Fabaceae","Cercis canadensis 'Pink Pom Poms'","Research Building: H-41/24-76","Yes",0,34,0,NA,0,100,0,131,5
-"74542",74542,"0043149MOR","Cercis canadensis 'Pinkbud'","Podrasky, N","1899V88",12,5,1988,"Fabaceae","Cercis canadensis 'Pinkbud'","Chinese Collection, Y-62/64-41","Yes",1,209,1,NA,0.4739336492891,99.0521327014218,0.4739336492891,133,5
-"86350",86350,"0043146MOR","Cercis canadensis 'Pinkbud'","Shimp, E","2424V89",10,5,1989,"Fabaceae","Cercis canadensis 'Pinkbud'","Leguminosae Collection, L-64/90-00","Yes",60,54,NA,NA,52.6315789473684,47.3684210526316,0,130,3
-"86366",86366,"0043147MOR","Cercis canadensis 'Pinkbud'","Shimp, E","2425V89",10,5,1989,"Fabaceae","Cercis canadensis 'Pinkbud'","Leguminosae Collection, L-63/80-85","Yes",48,74,0,NA,39.344262295082,60.655737704918,0,130,3
 "13947",13947,"0043156MOR","Cercis canadensis 'Pinkbud'","Ciolac, C","s.n.",1,5,1970,"Fabaceae","Cercis canadensis 'Pinkbud'","Along Oakwood Dr. near DuPage River and Abies concolor.","Yes",82,0,0,NA,100,0,0,121,1
+"74542",74542,"0043149MOR","Cercis canadensis 'Pinkbud'","Podrasky, N","1899V88",12,5,1988,"Fabaceae","Cercis canadensis 'Pinkbud'","Chinese Collection, Y-62/64-41","Yes",1,209,1,NA,0.4739336492891,99.0521327014218,0.4739336492891,133,5
+"86350",86350,"0043146MOR","Cercis canadensis 'Pinkbud'","Shimp, E","2424V89",10,5,1989,"Fabaceae","Cercis canadensis 'Pinkbud'","Leguminosae Collection, L-64/90-00","Yes",60,54,0,NA,52.6315789473684,47.3684210526316,0,130,3
+"86366",86366,"0043147MOR","Cercis canadensis 'Pinkbud'","Shimp, E","2425V89",10,5,1989,"Fabaceae","Cercis canadensis 'Pinkbud'","Leguminosae Collection, L-63/80-85","Yes",48,74,0,NA,39.344262295082,60.655737704918,0,130,3
 "86355",86355,"0043148MOR","Cercis canadensis 'Pinkbud'","Shimp, E","2419V89",10,5,1989,"Fabaceae","Cercis canadensis 'Pinkbud'","Leguminosae Collection, N-63/85-40","Yes",23,112,0,NA,17.037037037037,82.962962962963,0,130,5
+"196266",196266,NA,"Cercis canadensis 'UMN7101'","Potenberg, K","18906v25",31,7,2025,"Fabaceae","Cercis canadensis 'UMN7101'","Ornamental Flowering Trees: U-32/67-03","Yes",0,0,2,NA,0,0,100,212,9
 "13950",13950,"0043161MOR","Cercis canadensis 'Wither's Pink Charm'","Braham, R","s.n.",28,7,1971,"Fabaceae","Cercis canadensis 'Wither's Pink Charm'","M-62/45-95","Yes",0,0,5,NA,0,0,100,209,9
 "13951",13951,"0043162MOR","Cercis canadensis 'Wither's Pink Charm'","Braham, R","s.n.",18,5,1971,"Fabaceae","Cercis canadensis 'Wither's Pink Charm'","M-62/45-95","Yes",0,155,0,NA,0,100,0,138,5
 "65250",65250,"0043151MOR","Cercis canadensis 'Wither's Pink Charm'","Deal, G","840V87",28,4,1987,"Fabaceae","Cercis canadensis 'Wither's Pink Charm'","M-62/10-75","Yes",108,8,0,NA,93.1034482758621,6.89655172413793,0,118,1
+"13946",13946,"0043141MOR","Cercis canadensis f. alba Rehder","Kammerer, E","s.n.",21,5,1937,"Fabaceae","Cercis canadensis f. alba Rehder",NA,"Yes",2,56,0,NA,3.44827586206897,96.551724137931,0,141,5
+"13942",13942,"0043142MOR","Cercis canadensis f. alba Rehder","Kammerer, E","s.n.",9,5,1939,"Fabaceae","Cercis canadensis f. alba Rehder",NA,"Yes",39,100,0,NA,28.0575539568345,71.9424460431655,0,129,NA
+"13944",13944,"0043140MOR","Cercis canadensis f. alba Rehder","Read, RW","808",12,8,1970,"Fabaceae","Cercis canadensis f. alba Rehder","S side of Meadow Lake along Illinois Tree Trail, N-50/20-45","Yes",0,0,2,NA,0,0,100,224,9
+"13945",13945,"0043139MOR","Cercis canadensis f. alba Rehder","Ciolac, C","s.n.",6,5,1970,"Fabaceae","Cercis canadensis f. alba Rehder","N-47/0-35","Yes",275,0,0,NA,100,0,0,126,1
+"75004",75004,"0043133MOR","Cercis canadensis f. alba Rehder","Podrasky, N","1888V88",12,5,1988,"Fabaceae","Cercis canadensis f. alba Rehder","Near Meadow Lake, N-50/20-45","Yes",12,129,0,NA,8.51063829787234,91.4893617021277,0,133,5
+"92588",92588,"0043144MOR","Cercis canadensis f. alba Rehder","Packard, S","3560V90",3,7,1990,"Fabaceae","Cercis canadensis f. alba Rehder","Near Meadow Lake, N-50/20-45","Yes",0,0,3,NA,0,0,100,184,9
+"131836",131836,"0043143MOR","Cercis canadensis f. alba Rehder","Altvatter, K","7360V96",30,5,1996,"Fabaceae","Cercis canadensis f. alba Rehder","S side of Meadow Lake, N-51/55-65","Yes",0,18,0,NA,0,100,0,151,5
+"13915",13915,"0043079MOR","Cercis canadensis L.","Braham, R","s.n.",14,5,1971,"Fabaceae","Cercis canadensis L.","E side of Simonds Rd., near Thornhill; JJ-31/area","Yes",2,142,0,NA,1.38888888888889,98.6111111111111,0,134,5
+"13919",13919,"0043134MOR","Cercis canadensis L.","Braham, R","s.n.",28,7,1971,"Fabaceae","Cercis canadensis L.","N side of Simonds Rd. near Thornhill, JJ-31/area","Yes",0,0,20,NA,0,0,100,209,9
+"75322",75322,"0043082MOR","Cercis canadensis L.","Podrasky, N","1322V87",8,7,1987,"Fabaceae","Cercis canadensis L.","Near East Cloverleaf, O-43","Yes",0,0,5,NA,0,0,100,189,9
+"80381",80381,"0043081MOR","Cercis canadensis L.","Craft, A","2132V88",5,7,1988,"Fabaceae","Cercis canadensis L.","Chinese Collection, Y-62/64-41","Yes",0,0,7,NA,0,0,100,187,9
+"86735",86735,"0043084MOR","Cercis canadensis L.","Klock, K","2454V89",17,5,1989,"Fabaceae","Cercis canadensis L.","F-60/area on Frost Hill","Yes",1,103,0,NA,0.961538461538462,99.0384615384615,0,137,5
+"85641",85641,"0043088MOR","Cercis canadensis L.","Shimp, E","2410V89",10,5,1989,"Fabaceae","Cercis canadensis L.","Northern Illinois Collection, K-60/95-52","Yes",10,158,0,NA,5.95238095238095,94.047619047619,0,130,5
+"85786",85786,"0043073MOR","Cercis canadensis L.","Shimp, E","2409V89",10,5,1989,"Fabaceae","Cercis canadensis L.","Northern Illinois, L-60/02-46","Yes",85,72,NA,NA,54.140127388535,45.859872611465,0,130,3
+"85800",85800,"0043074MOR","Cercis canadensis L.","Shimp, E","2408V89",10,5,1989,"Fabaceae","Cercis canadensis L.","Northern Illinois, K-60/96-34","Yes",121,7,0,NA,94.53125,5.46875,0,130,1
+"91528",91528,"0043075MOR","Cercis canadensis L.","Gavlak, N","3309V90",9,5,1990,"Fabaceae","Cercis canadensis L.","K-41/area near Administration Bldg.","Yes",0,68,0,NA,0,100,0,129,5
+"95904",95904,"0043087MOR","Cercis canadensis L.","Gavlak, N","4040V90",31,8,1990,"Fabaceae","Cercis canadensis L.","Near Visitor Center, N-47/Area","Yes",0,0,3,NA,0,0,100,243,9
+"96308",96308,"0043086MOR","Cercis canadensis L.","Gavlak, N","4045V90",31,8,1990,"Fabaceae","Cercis canadensis L.","Near Meadow Lake, P-48/Area","Yes",0,0,44,NA,0,0,100,243,9
+"97408",97408,"0043138MOR","Cercis canadensis L.","Gavlak, N","4378V91",16,4,1991,"Fabaceae","Cercis canadensis L.","Near Visitor's Center, N-47/Area","Yes",228,0,0,NA,100,0,0,106,1
+"97238",97238,"0043090MOR","Cercis canadensis L.","Packard, S","4384V91",19,4,1991,"Fabaceae","Cercis canadensis L.","Godshalk Meadow, L-35/63-44","Yes",305,0,0,NA,100,0,0,109,1
+"97248",97248,"0043129MOR","Cercis canadensis L.","Gavlak, N","4380V91",16,4,1991,"Fabaceae","Cercis canadensis L.","Near Meadow Lake, P-48/Area","Yes",134,0,0,NA,100,0,0,106,1
+"98711",98711,"0043096MOR","Cercis canadensis L.","Packard, S","4931V91",10,9,1991,"Fabaceae","Cercis canadensis L.","Northern Illinois Collection, K-60/95-52","Yes",0,0,3,NA,0,0,100,253,9
+"104064",104064,"0043083MOR","Cercis canadensis L.","Altvatter, K","5060V92",14,5,1992,"Fabaceae","Cercis canadensis L.","NE cloverleaf area","Yes",0,195,0,NA,0,100,0,135,5
+"104979",104979,"0043091MOR","Cercis canadensis L.","Hess, WJ","5309V92",9,7,1992,"Fabaceae","Cercis canadensis L.","Sunfish Pond, near clump of Cornus amomum; BB-43/area","Yes",0,0,8,NA,0,0,100,191,9
+"104989",104989,"0043085MOR","Cercis canadensis L.","Hess, WJ","5308V92",9,7,1992,"Fabaceae","Cercis canadensis L.","Sunfish Pond; several trees in clump near spruce plantation; BB-43/area","Yes",0,0,9,NA,0,0,100,191,9
+"111803",111803,"0043089MOR","Cercis canadensis L.","Brunke, K","5687V93",11,5,1993,"Fabaceae","Cercis canadensis L.","Near West Treatment Plant, L-28/area","Yes",0,105,0,NA,0,100,0,131,5
+"126779",126779,"0043092MOR","Cercis canadensis L.","Packard, S","6984V95",16,5,1995,"Fabaceae","Cercis canadensis L.","Ozark Collection, Q-26/35-71","Yes",5,92,0,NA,5.15463917525773,94.8453608247423,0,136,5
+"126740",126740,"0043132MOR","Cercis canadensis L.","Packard, S","6991V95",16,5,1995,"Fabaceae","Cercis canadensis L.","Ozark Collection, T-28/22-98","Yes",8,53,0,NA,13.1147540983607,86.8852459016393,0,136,5
+"126741",126741,"0043131MOR","Cercis canadensis L.","Packard, S","6992V95",16,5,1995,"Fabaceae","Cercis canadensis L.","Ozark Collection, T-29/01-01","Yes",1,46,0,NA,2.12765957446809,97.8723404255319,0,136,5
+"126780",126780,"0043130MOR","Cercis canadensis L.","Packard, S","6985V95",16,5,1995,"Fabaceae","Cercis canadensis L.","Ozark Collection, Q-26/41-88","Yes",0,13,0,NA,0,100,0,136,5
+"131430",131430,"0043068MOR","Cercis canadensis L.","Altvatter, K","7336V96",24,5,1996,"Fabaceae","Cercis canadensis L.","SW Cloverleaf, N-38/26-46","Yes",0,26,0,NA,0,100,0,145,5
+"131629",131629,"0043076MOR","Cercis canadensis L.","Allen, K","7335V96",24,5,1996,"Fabaceae","Cercis canadensis L.","Southwest Cloverleaf, N-38/12-46","Yes",0,13,0,NA,0,100,0,145,5
+"131518",131518,"0043067MOR","Cercis canadensis L.","Allen, K","7334V96",24,5,1996,"Fabaceae","Cercis canadensis L.","Southwest Cloverleaf, N-38/14-35","Yes",5,11,0,NA,31.25,68.75,0,145,NA
+"131370",131370,"0043078MOR","Cercis canadensis L.","Altvatter, K","7337V96",24,5,1996,"Fabaceae","Cercis canadensis L.","SW Cloverleaf, N-38/22-33","Yes",0,34,0,NA,0,100,0,145,5
+"135721",135721,"0043077MOR","Cercis canadensis L.","Wise, R","7739V97",13,5,1997,"Fabaceae","Cercis canadensis L.","Meadow Lake Collection, N-50/23-61","Yes",21,24,0,NA,46.6666666666667,53.3333333333333,0,133,3
+"151859",151859,"0043135MOR","Cercis canadensis L.","Allen, K","9235V01",23,4,2001,"Fabaceae","Cercis canadensis L.","East Cloverleaf, N-43/84-31","Yes",137,0,0,NA,100,0,0,113,1
+"151871",151871,"0043136MOR","Cercis canadensis L.","Allen, K","9236V01",23,4,2001,"Fabaceae","Cercis canadensis L.","East Cloverleaf, N-43/88-41","Yes",135,0,0,NA,100,0,0,113,1
+"151924",151924,"0043137MOR","Cercis canadensis L.","Allen, K","9237V01",23,4,2001,"Fabaceae","Cercis canadensis L.","East Cloverleaf, N-43/77-43","Yes",59,0,0,NA,100,0,0,113,1
+"159654",159654,"0050139MOR","Cercis canadensis L.","Nordmann, K","10150V05",9,8,2005,"Fabaceae","Cercis canadensis L.","Godshalk Meadow, southeast side, shade bed; L-35/63-44","Yes",0,0,5,NA,0,0,100,221,9
+"160615",160615,"0052414MOR","Cercis canadensis L.","Smith, AM","10301V06",24,4,2006,"Fabaceae","Cercis canadensis L.","Near Administration Building, west fence: J-39/28-59","Yes",27,144,0,NA,15.7894736842105,84.2105263157895,0,114,5
+"159987",159987,"0052429MOR","Cercis canadensis L.","Olker, B","10308V06",1,5,2006,"Fabaceae","Cercis canadensis L.","Northern Illinois; K-62/05-09","Yes",0,136,0,NA,0,100,0,121,5
+"159918",159918,"0052451MOR","Cercis canadensis L.","Means, E","10393V06",9,10,2006,"Fabaceae","Cercis canadensis L.","Leguminosae; Q-59/34-30","Yes",0,0,4,NA,0,0,100,282,9
+"164172",164172,"0052570MOR","Cercis canadensis L.","Courtney, C","10525V07",8,8,2007,"Fabaceae","Cercis canadensis L.","Godshalk Meadow, south side: L-29/94-03","Yes",0,0,4,NA,0,0,100,220,9
+"164652",164652,"0053062MOR","Cercis canadensis L.","Potenberg, K","10734V07",25,9,2007,"Fabaceae","Cercis canadensis L.","Northern Illinois: K-60/96-34","Yes",0,0,17,NA,0,0,100,268,9
+"164333",164333,"0052767MOR","Cercis canadensis L.","Potenberg, K","10735V07",25,9,2007,"Fabaceae","Cercis canadensis L.","Northern Illinois: L-60/02-46","Yes",0,0,4,NA,0,0,100,268,9
+"167146",167146,"0052079MOR","Cercis canadensis L.","Potenberg, K","10924v08",6,5,2008,"Fabaceae","Cercis canadensis L.","Northern Illinois: K-62/09-21","Yes",5,64,0,NA,7.2463768115942,92.7536231884058,0,127,5
+"167017",167017,"0054406MOR","Cercis canadensis L.","Courtney, C","10947v08",14,5,2008,"Fabaceae","Cercis canadensis L.","Thornhill Building, northwest section: LL-27/32-43","Yes",0,38,0,NA,0,100,0,135,5
+"167027",167027,"0054416MOR","Cercis canadensis L.","Kubic, C","10942v08",14,5,2008,"Fabaceae","Cercis canadensis L.","Thornhill Building, northwest section: LL-27/39-28","Yes",0,104,0,NA,0,100,0,135,5
+"167258",167258,"0054324MOR","Cercis canadensis L.","Kubic, C","10950v08",21,5,2008,"Fabaceae","Cercis canadensis L.","Thornhill Building, northwest section: LL-27/51-32","Yes",0,40,0,NA,0,100,0,142,5
+"167139",167139,"0054099MOR","Cercis canadensis L.","Brown, B","11208v08",5,8,2008,"Fabaceae","Cercis canadensis L.","Northern Illinois: K-62/09-21","Yes",0,0,2,NA,0,0,100,218,9
+"167137",167137,"0054139MOR","Cercis canadensis L.","Brown, B","11207v08",5,8,2008,"Fabaceae","Cercis canadensis L.","Northern Illinois: K-62/05-09","Yes",0,0,1,NA,0,0,100,218,9
+"167720",167720,"0055590MOR","Cercis canadensis L.","Carle, M","11323v08",17,9,2008,"Fabaceae","Cercis canadensis L.","Arbor House, west fence: H-36/66-39","Yes",0,0,3,NA,0,0,100,261,9
+"166555",166555,"0053814MOR","Cercis canadensis L.","Vastalo, P","10922V08",5,5,2008,"Fabaceae","Cercis canadensis L.","Administration Building, west fence: J-39/11-52.","Yes",16,32,0,NA,33.3333333333333,66.6666666666667,0,126,NA
+"170320",170320,"0056004MOR","Cercis canadensis L.","Potenberg, K","11528-v09",5,5,2009,"Fabaceae","Cercis canadensis L.","Northern Illinois: K-62/17-13","Yes",17,154,0,NA,9.94152046783626,90.0584795321637,0,125,5
+"169880",169880,"0055279MOR","Cercis canadensis L.","Ivany, L","11768v09",6,8,2009,"Fabaceae","Cercis canadensis L.","Northern Illinois: K-62/17-13","Yes",0,0,2,NA,0,0,100,218,9
+"171143",171143,"0056213MOR","Cercis canadensis L.","Kubic, C","12203v10",12,5,2010,"Fabaceae","Cercis canadensis L.","Godshalk Meadow, south side: L-29/95-00","Yes",0,10,0,NA,0,100,0,132,5
+"171283",171283,"0056356MOR","Cercis canadensis L.","Kubic, C","12183v10",5,5,2010,"Fabaceae","Cercis canadensis L.","Staff Parking, south side: L-42/04-46","Yes",0,34,0,NA,0,100,0,125,5
+"168377",168377,"0054219MOR","Cercis canadensis L.","Sturner, J","12393v10",26,7,2010,"Fabaceae","Cercis canadensis L.","Children's Garden, Evergreen Tree Walk; K-50/91-01","Yes",0,0,3,NA,0,0,100,207,9
+"171378",171378,"0056293MOR","Cercis canadensis L.","Vastalo, P","12677v10",18,10,2010,"Fabaceae","Cercis canadensis L.","Meadow Lake, west side: Q-49/75-27","Yes",0,0,5,NA,0,0,100,291,9
+"168362",168362,"0054223MOR","Cercis canadensis L.","Henry, J","12392v10",26,7,2010,"Fabaceae","Cercis canadensis L.","Children's Garden, Evergreen Tree Walk; K-50/86-09","Yes",0,0,2,NA,0,0,100,207,9
+"172935",172935,"0058052MOR","Cercis canadensis L.","Moran, E","12872v11",11,5,2011,"Fabaceae","Cercis canadensis L.","Childrens Garden:K-50/86-09","Yes",22,121,0,NA,15.3846153846154,84.6153846153846,0,131,5
+"172613",172613,"0057675MOR","Cercis canadensis L.","Kubic, C","12905v11",18,5,2011,"Fabaceae","Cercis canadensis L.","Staff Parking: K-42/94-36","Yes",0,42,0,NA,0,100,0,138,5
+"172712",172712,"0057737MOR","Cercis canadensis L.","Vastalo, P","12844v11",9,5,2011,"Fabaceae","Cercis canadensis L.","Appalachia: CC-74/76-27","Yes",119,24,0,NA,83.2167832167832,16.7832167832168,0,129,2
+"172617",172617,"0057671MOR","Cercis canadensis L.","Beck, J","12841v11",5,5,2011,"Fabaceae","Cercis canadensis L.","Midwest: L-63/02-43","Yes",82,3,0,NA,96.4705882352941,3.52941176470588,0,125,1
+"172325",172325,"0057355MOR","Cercis canadensis L.","Vastalo, P","13102v11",15,8,2011,"Fabaceae","Cercis canadensis L.","Visitor Center Parking: R-49/03-25","Yes",0,0,3,NA,0,0,100,227,9
+"172327",172327,"0057353MOR","Cercis canadensis L.","Vastalo, P","13104v11",15,8,2011,"Fabaceae","Cercis canadensis L.","Meadow Lake: P-48/70-50","Yes",0,0,4,NA,0,0,100,227,9
+"172326",172326,"0057354MOR","Cercis canadensis L.","Vastalo, P","13103v11",15,8,2011,"Fabaceae","Cercis canadensis L.","Visitor Center Parking: Q-48/13-53","Yes",0,0,3,NA,0,0,100,227,9
+"172560",172560,"0057591MOR","Cercis canadensis L.","Vastalo, P","13085v11",15,8,2011,"Fabaceae","Cercis canadensis L.","Visitor Center Parking: R-50/72-52","Yes",0,0,3,NA,0,0,100,227,9
+"172713",172713,"0057738MOR","Cercis canadensis L.","Vastalo, P","12843v11",9,5,2011,"Fabaceae","Cercis canadensis L.","Appalachia: CC-74/72-14","Yes",101,15,0,NA,87.0689655172414,12.9310344827586,0,129,2
+"173922",173922,"0058803MOR","Cercis canadensis L.","Moran, E","13351v12",11,4,2012,"Fabaceae","Cercis canadensis L.","Thornhill Building: LL-27/39-28","Yes",0,123,NA,NA,0,100,0,102,5
+"174551",174551,"0059617MOR","Cercis canadensis L.","Carle, M","13484v12",6,6,2012,"Fabaceae","Cercis canadensis L.","Childrens Garden: K-52/07-63","Yes",0,0,18,NA,0,0,100,158,9
+"175477",175477,"0061037MOR","Cercis canadensis L.","Glaysher, L","13574v12",6,9,2012,"Fabaceae","Cercis canadensis L.","Thornhill Building: LL-27/51-32","Yes",0,0,8,NA,0,0,100,250,9
+"175310",175310,"0060764MOR","Cercis canadensis L.","Potenberg, K","13548v12",28,8,2012,"Fabaceae","Cercis canadensis L.","Midwest: K-68/46-50","Yes",0,0,3,NA,0,0,100,241,9
+"175442",175442,"0060960MOR","Cercis canadensis L.","Connolly, G","13600v12",25,9,2012,"Fabaceae","Cercis canadensis L.","Midwest: K-63/75-59","Yes",0,0,4,NA,0,0,100,269,9
+"174552",174552,"0059616MOR","Cercis canadensis L.","DeVries, C","13482v12",6,6,2012,"Fabaceae","Cercis canadensis L.","Childrens Garden: J-49/93-90","Yes",0,0,5,NA,0,0,100,158,9
+"175213",175213,"0060719MOR","Cercis canadensis L.","Potenberg, K","13547v12",28,8,2012,"Fabaceae","Cercis canadensis L.","Midwest: K-63/94-56","Yes",0,0,5,NA,0,0,100,241,9
+"175492",175492,"0061045MOR","Cercis canadensis L.","Connolly, G","13603v12",25,9,2012,"Fabaceae","Cercis canadensis L.","Midwest: K-68/37-25","Yes",0,0,7,NA,0,0,100,269,9
+"177778",177778,"0065940MOR","Cercis canadensis L.","Sherman, L","13615v12",2,10,2012,"Fabaceae","Cercis canadensis L.","Visitor Center Parking: Q-49/94-14","Yes",0,0,24,NA,0,0,100,276,9
+"177026",177026,"0064053MOR","Cercis canadensis L.","Casey, A","13856v13",1,7,2013,"Fabaceae","Cercis canadensis L.","Administration Building: J-39/28-59","Yes",0,0,6,NA,0,0,100,182,9
+"177027",177027,"0064054MOR","Cercis canadensis L.","Casey, A","13857v13",1,7,2013,"Fabaceae","Cercis canadensis L.","Administration Building: J-39/11-52","Yes",0,0,2,NA,0,0,100,182,9
+"182175",182175,"0084732MOR","Cercis canadensis L.","Glaysher, L","14669v15",22,10,2015,"Fabaceae","Cercis canadensis L.","Godshalk Meadow: L-27/99-69","Yes",0,0,2,NA,0,0,100,295,9
+"182535",182535,"0088632MOR","Cercis canadensis L.","Madden, ME","14778v16",2,5,2016,"Fabaceae","Cercis canadensis L.","Childrens Garden: J-51/36-46","Yes",0,115,0,NA,0,100,0,123,5
+"182597",182597,"0088541MOR","Cercis canadensis L.","Moran, E","14803v16",4,5,2016,"Fabaceae","Cercis canadensis L.","Thornhill Building: LL-28/85-39","Yes",0,146,0,NA,0,100,0,125,5
+"182537",182537,"0088620MOR","Cercis canadensis L.","Madden, ME","14776v16",2,5,2016,"Fabaceae","Cercis canadensis L.","Childrens Garden: K-50/99-43","Yes",3,201,0,NA,1.47058823529412,98.5294117647059,0,123,5
+"182536",182536,"0088626MOR","Cercis canadensis L.","Nowicki, B","14777v16",2,5,2016,"Fabaceae","Cercis canadensis L.","Childrens Garden: J-49/93-90","Yes",0,153,0,NA,0,100,0,123,5
+"182533",182533,"0088639MOR","Cercis canadensis L.","Madden, ME","14780v16",2,5,2016,"Fabaceae","Cercis canadensis L.","Childrens Garden: K-52/16-58","Yes",0,109,0,NA,0,100,0,123,5
+"182596",182596,"0088542MOR","Cercis canadensis L.","DeVries, C","14802v16",4,5,2016,"Fabaceae","Cercis canadensis L.","Thornhill Parking: LL-27/94-90","Yes",21,118,0,NA,15.1079136690647,84.8920863309353,0,125,5
+"182531",182531,"0088627MOR","Cercis canadensis L.","Nowicki, B","14786v16",2,5,2016,"Fabaceae","Cercis canadensis L.","Forecourt: M-44/44-81","Yes",2,191,0,NA,1.03626943005181,98.9637305699482,0,123,5
+"182598",182598,"0088547MOR","Cercis canadensis L.","Moran, E","14804v16",4,5,2016,"Fabaceae","Cercis canadensis L.","Thornhill Parking: LL-29/97-17","Yes",0,80,0,NA,0,100,0,125,5
+"182635",182635,"0090088MOR","Cercis canadensis L.","Carle, M","14807v16",4,5,2016,"Fabaceae","Cercis canadensis L.","Thornhill Building: JJ-27/58-73","Yes",0,194,0,NA,0,100,0,125,5
+"182534",182534,"0088638MOR","Cercis canadensis L.","Nowicki, B","14779v16",2,5,2016,"Fabaceae","Cercis canadensis L.","Childrens Garden: J-51/75-37","Yes",4,192,0,NA,2.04081632653061,97.9591836734694,0,123,5
+"182532",182532,"0088633MOR","Cercis canadensis L.","Madden, ME","14782v16",2,5,2016,"Fabaceae","Cercis canadensis L.","Childrens Garden: K-52/07-63","Yes",1,178,0,NA,0.558659217877095,99.4413407821229,0,123,5
+"182599",182599,"0088553MOR","Cercis canadensis L.","Moran, E","14805v16",4,5,2016,"Fabaceae","Cercis canadensis L.","Thornhill Building: LL-29/15-12","Yes",10,190,0,NA,5,95,0,125,5
+"184229",184229,"0093222MOR","Cercis canadensis L.","Madden, ME","15341v17",8,5,2017,"Fabaceae","Cercis canadensis L.","Meadow Lake: N-51/59-86","Yes",0,129,0,NA,0,100,0,128,5
+"184867",184867,"0095825MOR","Cercis canadensis L.","Moran, E","15618v17",30,8,2017,"Fabaceae","Cercis canadensis L.","Thornhill Overflow Lot: PP-22/76-49","Yes",0,0,11,NA,0,0,100,242,9
+"184285",184285,"0095784MOR","Cercis canadensis L.","Madden, ME","15439v17",26,6,2017,"Fabaceae","Cercis canadensis L.","Meadow Lake: N-51/42-84","Yes",0,0,7,NA,0,0,100,177,9
+"186568",186568,"0098850MOR","Cercis canadensis L.","Moran, E","15931v18",8,8,2018,"Fabaceae","Cercis canadensis L.","Thornhill Parking: LL-28/85-39","Yes",0,0,4,NA,0,0,100,220,9
+"186689",186689,"0096770MOR","Cercis canadensis L.","Madden, ME","16105v19",13,5,2019,"Fabaceae","Cercis canadensis L.","Fragrance Garden: KK-25/73-90","Yes",1,55,0,NA,1.78571428571429,98.2142857142857,0,133,5
+"186866",186866,"0098190MOR","Cercis canadensis L.","Nowicki, B","16213v19",17,6,2019,"Fabaceae","Cercis canadensis L.","Forecourt: N-44/21-80","Yes",0,0,2,NA,0,0,100,168,9
+"187274",187274,"0098347MOR","Cercis canadensis L.","Potenberg, K","16622v19",24,10,2019,"Fabaceae","Cercis canadensis L.","Thornhill Building: founder's room: JJ-27/58-73","Yes",0,0,1,NA,0,0,100,297,9
+"188363",188363,"0099752MOR","Cercis canadensis L.","Dorrell, J","16823v21",24,6,2021,"Fabaceae","Cercis canadensis L.","Thornhill: Thornhill Building: JJ-27/58-73","Yes",0,0,4,NA,0,0,100,175,9
+"188392",188392,"0099952MOR","Cercis canadensis L.","Dorrell, J","16874v21",22,7,2021,"Fabaceae","Cercis canadensis L.","Godshalk Meadow: Parking 33: east side: J-36/14-07","Yes",0,0,8,NA,0,0,100,203,9
+"188398",188398,"0099946MOR","Cercis canadensis L.","Potenberg, K","16791v21",10,6,2021,"Fabaceae","Cercis canadensis L.","Fragrance garden north bed: KK-25/75-58","Yes",0,0,4,NA,0,0,100,161,9
+"190657",190657,"0101681MOR","Cercis canadensis L.","Potenberg, K","17822v23",20,4,2023,"Fabaceae","Cercis canadensis L.","Service Drive: M-41/09-37","Yes",141,17,0,NA,89.2405063291139,10.7594936708861,0,110,2
+"190846",190846,"0102562MOR","Cercis canadensis L.","Nowicki, B","17975v23",19,6,2023,"Fabaceae","Cercis canadensis L.","Founder's Grove: CC-30/99-54","Yes",0,0,3,NA,0,0,100,170,9
+"194022",194022,"0109184MOR","Cercis canadensis L.","Dorrell, J","18672v24",7,11,2024,"Fabaceae","Cercis canadensis L.","Visitor Center Parking: southeast: O-46/96-34","Yes",0,0,11,NA,0,0,100,312,9
+"194982",194982,"0112581MOR","Cercis canadensis L.","Chen, S","18881v25",10,7,2025,"Fabaceae","Cercis canadensis L.","Sterling Pond: R-5/40-02","Yes",0,0,9,NA,0,0,100,191,9
 "99518",99518,"0043153MOR","Cercis canadensis var. texensis (S.Watson) M.Hopkins","Packard, S","4967V91",8,10,1991,"Fabaceae","Cercis canadensis var. texensis (S.Watson) M.Hopkins","Southwest US, T-19/Area","Yes",0,0,4,NA,0,0,100,281,9
 "136087",136087,"0043155MOR","Cercis canadensis var. texensis (S.Watson) M.Hopkins","Maggerise, J","7801V97",21,5,1997,"Fabaceae","Cercis canadensis var. texensis (S.Watson) M.Hopkins","Pinaceae Collection, Larix Section; K-54/31-28","Yes",17,23,0,NA,42.5,57.5,0,141,3
 "135771",135771,"0043145MOR","Cercis canadensis var. texensis (S.Watson) M.Hopkins","Maggerise, J","7802V97",21,5,1997,"Fabaceae","Cercis canadensis var. texensis (S.Watson) M.Hopkins","Pinaceae Collection, Larix section; K-54/18-32","Yes",5,19,0,NA,20.8333333333333,79.1666666666667,0,141,NA
 "154147",154147,"0043152MOR","Cercis canadensis var. texensis (S.Watson) M.Hopkins","Packard, S","9285V01",17,7,2001,"Fabaceae","Cercis canadensis var. texensis (S.Watson) M.Hopkins","Hatchmeadow, CC-43/73-05","Yes",0,0,4,NA,0,0,100,198,9
-"159877",159877,"0052536MOR","Cercis canadensis 'Covey'","Jurczynski, J","10300V06",26,4,2006,"Fabaceae","Cercis canadensis 'Covey'","Dwarf Woody Plants, bed 3; D-47/76-72","Yes",4,213,0,NA,1.84331797235023,98.1566820276498,0,116,5
-"168248",168248,"0052057MOR","Cercis canadensis 'Covey'","Glaysher, L","11587v09",14,5,2009,"Fabaceae","Cercis canadensis 'Covey'","Dwarf Woody Plants, bed 3: D-47/76-72","Yes",3,22,0,NA,12,88,0,134,5
-"172694",172694,"0057719MOR","Cercis canadensis 'Forest Pansy'","Courtney, C","12867v11",11,5,2011,"Fabaceae","Cercis canadensis 'Forest Pansy'","Fragrance Garden: KK-25/81-77","Yes",0,28,0,NA,0,100,0,131,5
-"182600",182600,"0088559MOR","Cercis canadensis 'Forest Pansy'","Carle, M","14806v16",4,5,2016,"Fabaceae","Cercis canadensis 'Forest Pansy'","Four Seasons Garden: KK-28/14-87","Yes",1,110,0,NA,0.900900900900901,99.0990990990991,0,125,5
-"173564",173564,"0058856MOR","Cercis canadensis 'Forest Pansy'","Sachdev, S","13355v12",11,4,2012,"Fabaceae","Cercis canadensis 'Forest Pansy'","Fragrance Garden: KK-25/81-77","Yes",1,85,0,NA,1.16279069767442,98.8372093023256,0,102,5
-"13942",13942,"0043142MOR","Cercis canadensis f. alba Rehder","Kammerer, E","s.n.",9,5,1939,"Fabaceae","Cercis canadensis f. alba Rehder",NA,"Yes",39,100,0,NA,28.0575539568345,71.9424460431655,0,129,NA
-"13944",13944,"0043140MOR","Cercis canadensis f. alba Rehder","Read, RW","808",12,8,1970,"Fabaceae","Cercis canadensis f. alba Rehder","S side of Meadow Lake along Illinois Tree Trail, N-50/20-45","Yes",0,0,2,NA,0,0,100,224,9
-"13946",13946,"0043141MOR","Cercis canadensis f. alba Rehder","Kammerer, E","s.n.",21,5,1937,"Fabaceae","Cercis canadensis f. alba Rehder",NA,"Yes",2,56,0,NA,3.44827586206897,96.551724137931,0,141,5
-"13945",13945,"0043139MOR","Cercis canadensis f. alba Rehder","Ciolac, C","s.n.",6,5,1970,"Fabaceae","Cercis canadensis f. alba Rehder","N-47/0-35","Yes",275,0,0,NA,100,0,0,126,1
-"131836",131836,"0043143MOR","Cercis canadensis f. alba Rehder","Altvatter, K","7360V96",30,5,1996,"Fabaceae","Cercis canadensis f. alba Rehder","S side of Meadow Lake, N-51/55-65","Yes",0,18,0,NA,0,100,0,151,5
-"92588",92588,"0043144MOR","Cercis canadensis f. alba Rehder","Packard, S","3560V90",3,7,1990,"Fabaceae","Cercis canadensis f. alba Rehder","Near Meadow Lake, N-50/20-45","Yes",0,0,3,NA,0,0,100,184,9
-"75004",75004,"0043133MOR","Cercis canadensis f. alba Rehder","Podrasky, N","1888V88",12,5,1988,"Fabaceae","Cercis canadensis f. alba Rehder","Near Meadow Lake, N-50/20-45","Yes",12,129,0,NA,8.51063829787234,91.4893617021277,0,133,5
-"182535",182535,"0088632MOR","Cercis canadensis L.","Madden, ME","14778v16",2,5,2016,"Fabaceae","Cercis canadensis L.","Childrens Garden: J-51/36-46","Yes",0,115,0,NA,0,100,0,123,5
-"13915",13915,"0043079MOR","Cercis canadensis L.","Braham, R","s.n.",14,5,1971,"Fabaceae","Cercis canadensis L.","E side of Simonds Rd., near Thornhill; JJ-31/area","Yes",2,142,0,NA,1.38888888888889,98.6111111111111,0,134,5
-"126779",126779,"0043092MOR","Cercis canadensis L.","Packard, S","6984V95",16,5,1995,"Fabaceae","Cercis canadensis L.","Ozark Collection, Q-26/35-71","Yes",5,92,0,NA,5.15463917525773,94.8453608247423,0,136,5
-"86735",86735,"0043084MOR","Cercis canadensis L.","Klock, K","2454V89",17,5,1989,"Fabaceae","Cercis canadensis L.","F-60/area on Frost Hill","Yes",1,103,0,NA,0.961538461538462,99.0384615384615,0,137,5
-"111803",111803,"0043089MOR","Cercis canadensis L.","Brunke, K","5687V93",11,5,1993,"Fabaceae","Cercis canadensis L.","Near West Treatment Plant, L-28/area","Yes",0,105,0,NA,0,100,0,131,5
-"126740",126740,"0043132MOR","Cercis canadensis L.","Packard, S","6991V95",16,5,1995,"Fabaceae","Cercis canadensis L.","Ozark Collection, T-28/22-98","Yes",8,53,0,NA,13.1147540983607,86.8852459016393,0,136,5
-"85641",85641,"0043088MOR","Cercis canadensis L.","Shimp, E","2410V89",10,5,1989,"Fabaceae","Cercis canadensis L.","Northern Illinois Collection, K-60/95-52","Yes",10,158,0,NA,5.95238095238095,94.047619047619,0,130,5
-"182597",182597,"0088541MOR","Cercis canadensis L.","Moran, E","14803v16",4,5,2016,"Fabaceae","Cercis canadensis L.","Thornhill Building: LL-28/85-39","Yes",0,146,0,NA,0,100,0,125,5
-"167146",167146,"0052079MOR","Cercis canadensis L.","Potenberg, K","10924v08",6,5,2008,"Fabaceae","Cercis canadensis L.","Northern Illinois: K-62/09-21","Yes",5,64,0,NA,7.2463768115942,92.7536231884058,0,127,5
-"184229",184229,"0093222MOR","Cercis canadensis L.","Madden, ME","15341v17",8,5,2017,"Fabaceae","Cercis canadensis L.","Meadow Lake: N-51/59-86","Yes",0,129,0,NA,0,100,0,128,5
-"171143",171143,"0056213MOR","Cercis canadensis L.","Kubic, C","12203v10",12,5,2010,"Fabaceae","Cercis canadensis L.","Godshalk Meadow, south side: L-29/95-00","Yes",0,10,0,NA,0,100,0,132,5
-"170320",170320,"0056004MOR","Cercis canadensis L.","Potenberg, K","11528-v09",5,5,2009,"Fabaceae","Cercis canadensis L.","Northern Illinois: K-62/17-13","Yes",17,154,0,NA,9.94152046783626,90.0584795321637,0,125,5
-"160615",160615,"0052414MOR","Cercis canadensis L.","Smith, AM","10301V06",24,4,2006,"Fabaceae","Cercis canadensis L.","Near Administration Building, west fence: J-39/28-59","Yes",27,144,0,NA,15.7894736842105,84.2105263157895,0,114,5
-"135721",135721,"0043077MOR","Cercis canadensis L.","Wise, R","7739V97",13,5,1997,"Fabaceae","Cercis canadensis L.","Meadow Lake Collection, N-50/23-61","Yes",21,24,0,NA,46.6666666666667,53.3333333333333,0,133,3
-"182537",182537,"0088620MOR","Cercis canadensis L.","Madden, ME","14776v16",2,5,2016,"Fabaceae","Cercis canadensis L.","Childrens Garden: K-50/99-43","Yes",3,201,0,NA,1.47058823529412,98.5294117647059,0,123,5
-"186689",186689,"0096770MOR","Cercis canadensis L.","Madden, ME","16105v19",13,5,2019,"Fabaceae","Cercis canadensis L.","Fragrance Garden: KK-25/73-90","Yes",1,55,0,NA,1.78571428571429,98.2142857142857,0,133,5
-"172935",172935,"0058052MOR","Cercis canadensis L.","Moran, E","12872v11",11,5,2011,"Fabaceae","Cercis canadensis L.","Childrens Garden:K-50/86-09","Yes",22,121,0,NA,15.3846153846154,84.6153846153846,0,131,5
-"91528",91528,"0043075MOR","Cercis canadensis L.","Gavlak, N","3309V90",9,5,1990,"Fabaceae","Cercis canadensis L.","K-41/area near Administration Bldg.","Yes",0,68,0,NA,0,100,0,129,5
-"182536",182536,"0088626MOR","Cercis canadensis L.","Nowicki, B","14777v16",2,5,2016,"Fabaceae","Cercis canadensis L.","Childrens Garden: J-49/93-90","Yes",0,153,0,NA,0,100,0,123,5
-"182533",182533,"0088639MOR","Cercis canadensis L.","Madden, ME","14780v16",2,5,2016,"Fabaceae","Cercis canadensis L.","Childrens Garden: K-52/16-58","Yes",0,109,0,NA,0,100,0,123,5
-"167017",167017,"0054406MOR","Cercis canadensis L.","Courtney, C","10947v08",14,5,2008,"Fabaceae","Cercis canadensis L.","Thornhill Building, northwest section: LL-27/32-43","Yes",0,38,0,NA,0,100,0,135,5
-"182596",182596,"0088542MOR","Cercis canadensis L.","DeVries, C","14802v16",4,5,2016,"Fabaceae","Cercis canadensis L.","Thornhill Parking: LL-27/94-90","Yes",21,118,0,NA,15.1079136690647,84.8920863309353,0,125,5
-"159987",159987,"0052429MOR","Cercis canadensis L.","Olker, B","10308V06",1,5,2006,"Fabaceae","Cercis canadensis L.","Northern Illinois; K-62/05-09","Yes",0,136,0,NA,0,100,0,121,5
-"167027",167027,"0054416MOR","Cercis canadensis L.","Kubic, C","10942v08",14,5,2008,"Fabaceae","Cercis canadensis L.","Thornhill Building, northwest section: LL-27/39-28","Yes",0,104,0,NA,0,100,0,135,5
-"171283",171283,"0056356MOR","Cercis canadensis L.","Kubic, C","12183v10",5,5,2010,"Fabaceae","Cercis canadensis L.","Staff Parking, south side: L-42/04-46","Yes",0,34,0,NA,0,100,0,125,5
-"182531",182531,"0088627MOR","Cercis canadensis L.","Nowicki, B","14786v16",2,5,2016,"Fabaceae","Cercis canadensis L.","Forecourt: M-44/44-81","Yes",2,191,0,NA,1.03626943005181,98.9637305699482,0,123,5
-"182598",182598,"0088547MOR","Cercis canadensis L.","Moran, E","14804v16",4,5,2016,"Fabaceae","Cercis canadensis L.","Thornhill Parking: LL-29/97-17","Yes",0,80,0,NA,0,100,0,125,5
-"131430",131430,"0043068MOR","Cercis canadensis L.","Altvatter, K","7336V96",24,5,1996,"Fabaceae","Cercis canadensis L.","SW Cloverleaf, N-38/26-46","Yes",0,26,0,NA,0,100,0,145,5
-"126741",126741,"0043131MOR","Cercis canadensis L.","Packard, S","6992V95",16,5,1995,"Fabaceae","Cercis canadensis L.","Ozark Collection, T-29/01-01","Yes",1,46,0,NA,2.12765957446809,97.8723404255319,0,136,5
-"131629",131629,"0043076MOR","Cercis canadensis L.","Allen, K","7335V96",24,5,1996,"Fabaceae","Cercis canadensis L.","Southwest Cloverleaf, N-38/12-46","Yes",0,13,0,NA,0,100,0,145,5
-"182635",182635,"0090088MOR","Cercis canadensis L.","Carle, M","14807v16",4,5,2016,"Fabaceae","Cercis canadensis L.","Thornhill Building: JJ-27/58-73","Yes",0,194,0,NA,0,100,0,125,5
-"182534",182534,"0088638MOR","Cercis canadensis L.","Nowicki, B","14779v16",2,5,2016,"Fabaceae","Cercis canadensis L.","Childrens Garden: J-51/75-37","Yes",4,192,0,NA,2.04081632653061,97.9591836734694,0,123,5
-"131518",131518,"0043067MOR","Cercis canadensis L.","Allen, K","7334V96",24,5,1996,"Fabaceae","Cercis canadensis L.","Southwest Cloverleaf, N-38/14-35","Yes",5,11,0,NA,31.25,68.75,0,145,NA
-"182532",182532,"0088633MOR","Cercis canadensis L.","Madden, ME","14782v16",2,5,2016,"Fabaceae","Cercis canadensis L.","Childrens Garden: K-52/07-63","Yes",1,178,0,NA,0.558659217877095,99.4413407821229,0,123,5
-"167258",167258,"0054324MOR","Cercis canadensis L.","Kubic, C","10950v08",21,5,2008,"Fabaceae","Cercis canadensis L.","Thornhill Building, northwest section: LL-27/51-32","Yes",0,40,0,NA,0,100,0,142,5
-"104064",104064,"0043083MOR","Cercis canadensis L.","Altvatter, K","5060V92",14,5,1992,"Fabaceae","Cercis canadensis L.","NE cloverleaf area","Yes",0,195,0,NA,0,100,0,135,5
-"126780",126780,"0043130MOR","Cercis canadensis L.","Packard, S","6985V95",16,5,1995,"Fabaceae","Cercis canadensis L.","Ozark Collection, Q-26/41-88","Yes",0,13,0,NA,0,100,0,136,5
-"172613",172613,"0057675MOR","Cercis canadensis L.","Kubic, C","12905v11",18,5,2011,"Fabaceae","Cercis canadensis L.","Staff Parking: K-42/94-36","Yes",0,42,0,NA,0,100,0,138,5
-"182599",182599,"0088553MOR","Cercis canadensis L.","Moran, E","14805v16",4,5,2016,"Fabaceae","Cercis canadensis L.","Thornhill Building: LL-29/15-12","Yes",10,190,0,NA,5,95,0,125,5
-"131370",131370,"0043078MOR","Cercis canadensis L.","Altvatter, K","7337V96",24,5,1996,"Fabaceae","Cercis canadensis L.","SW Cloverleaf, N-38/22-33","Yes",0,34,0,NA,0,100,0,145,5
-"173922",173922,"0058803MOR","Cercis canadensis L.","Moran, E","13351v12",11,4,2012,"Fabaceae","Cercis canadensis L.","Thornhill Building: LL-27/39-28","Yes",0,123,NA,NA,0,100,0,102,5
-"186568",186568,"0098850MOR","Cercis canadensis L.","Moran, E","15931v18",8,8,2018,"Fabaceae","Cercis canadensis L.","Thornhill Parking: LL-28/85-39","Yes",0,0,4,NA,0,0,100,220,9
-"186866",186866,"0098190MOR","Cercis canadensis L.","Nowicki, B","16213v19",17,6,2019,"Fabaceae","Cercis canadensis L.","Forecourt: N-44/21-80","Yes",0,0,2,NA,0,0,100,168,9
-"187274",187274,"0098347MOR","Cercis canadensis L.","Potenberg, K","16622v19",24,10,2019,"Fabaceae","Cercis canadensis L.","Thornhill Building: founder's room: JJ-27/58-73","Yes",0,0,1,NA,0,0,100,297,9
-"182175",182175,"0084732MOR","Cercis canadensis L.","Glaysher, L","14669v15",22,10,2015,"Fabaceae","Cercis canadensis L.","Godshalk Meadow: L-27/99-69","Yes",0,0,2,NA,0,0,100,295,9
-"188363",188363,"0099752MOR","Cercis canadensis L.","Dorrell, J","16823v21",24,6,2021,"Fabaceae","Cercis canadensis L.","Thornhill: Thornhill Building: JJ-27/58-73","Yes",0,0,4,NA,0,0,100,175,9
-"188392",188392,"0099952MOR","Cercis canadensis L.","Dorrell, J","16874v21",22,7,2021,"Fabaceae","Cercis canadensis L.","Godshalk Meadow: Parking 33: east side: J-36/14-07","Yes",0,0,8,NA,0,0,100,203,9
-"190657",190657,"0101681MOR","Cercis canadensis L.","Potenberg, K","17822v23",20,4,2023,"Fabaceae","Cercis canadensis L.","Service Drive: M-41/09-37","Yes",141,17,0,NA,89.2405063291139,10.7594936708861,0,110,2
-"188398",188398,"0099946MOR","Cercis canadensis L.","Potenberg, K","16791v21",10,6,2021,"Fabaceae","Cercis canadensis L.","Fragrance garden north bed: KK-25/75-58","Yes",0,0,4,NA,0,0,100,161,9
-"190846",190846,"0102562MOR","Cercis canadensis L.","Nowicki, B","17975v23",19,6,2023,"Fabaceae","Cercis canadensis L.","Founder's Grove: CC-30/99-54","Yes",0,0,3,NA,0,0,100,170,9
-"194022",194022,"0109184MOR","Cercis canadensis L.","Dorrell, J","18672v24",7,11,2024,"Fabaceae","Cercis canadensis L.","Visitor Center Parking: southeast: O-46/96-34","Yes",0,0,11,NA,0,0,100,312,9
-"167139",167139,"0054099MOR","Cercis canadensis L.","Brown, B","11208v08",5,8,2008,"Fabaceae","Cercis canadensis L.","Northern Illinois: K-62/09-21","Yes",0,0,2,NA,0,0,100,218,9
-"104979",104979,"0043091MOR","Cercis canadensis L.","Hess, WJ","5309V92",9,7,1992,"Fabaceae","Cercis canadensis L.","Sunfish Pond, near clump of Cornus amomum; BB-43/area","Yes",0,0,8,NA,0,0,100,191,9
-"177026",177026,"0064053MOR","Cercis canadensis L.","Casey, A","13856v13",1,7,2013,"Fabaceae","Cercis canadensis L.","Administration Building: J-39/28-59","Yes",0,0,6,NA,0,0,100,182,9
-"174551",174551,"0059617MOR","Cercis canadensis L.","Carle, M","13484v12",6,6,2012,"Fabaceae","Cercis canadensis L.","Childrens Garden: K-52/07-63","Yes",0,0,18,NA,0,0,100,158,9
-"167137",167137,"0054139MOR","Cercis canadensis L.","Brown, B","11207v08",5,8,2008,"Fabaceae","Cercis canadensis L.","Northern Illinois: K-62/05-09","Yes",0,0,1,NA,0,0,100,218,9
-"95904",95904,"0043087MOR","Cercis canadensis L.","Gavlak, N","4040V90",31,8,1990,"Fabaceae","Cercis canadensis L.","Near Visitor Center, N-47/Area","Yes",0,0,3,NA,0,0,100,243,9
-"175477",175477,"0061037MOR","Cercis canadensis L.","Glaysher, L","13574v12",6,9,2012,"Fabaceae","Cercis canadensis L.","Thornhill Building: LL-27/51-32","Yes",0,0,8,NA,0,0,100,250,9
-"159654",159654,"0050139MOR","Cercis canadensis L.","Nordmann, K","10150V05",9,8,2005,"Fabaceae","Cercis canadensis L.","Godshalk Meadow, southeast side, shade bed; L-35/63-44","Yes",0,0,5,NA,0,0,100,221,9
-"175310",175310,"0060764MOR","Cercis canadensis L.","Potenberg, K","13548v12",28,8,2012,"Fabaceae","Cercis canadensis L.","Midwest: K-68/46-50","Yes",0,0,3,NA,0,0,100,241,9
-"172712",172712,"0057737MOR","Cercis canadensis L.","Vastalo, P","12844v11",9,5,2011,"Fabaceae","Cercis canadensis L.","Appalachia: CC-74/76-27","Yes",119,24,0,NA,83.2167832167832,16.7832167832168,0,129,2
-"175442",175442,"0060960MOR","Cercis canadensis L.","Connolly, G","13600v12",25,9,2012,"Fabaceae","Cercis canadensis L.","Midwest: K-63/75-59","Yes",0,0,4,NA,0,0,100,269,9
-"96308",96308,"0043086MOR","Cercis canadensis L.","Gavlak, N","4045V90",31,8,1990,"Fabaceae","Cercis canadensis L.","Near Meadow Lake, P-48/Area","Yes",0,0,44,NA,0,0,100,243,9
-"168377",168377,"0054219MOR","Cercis canadensis L.","Sturner, J","12393v10",26,7,2010,"Fabaceae","Cercis canadensis L.","Children's Garden, Evergreen Tree Walk; K-50/91-01","Yes",0,0,3,NA,0,0,100,207,9
-"80381",80381,"0043081MOR","Cercis canadensis L.","Craft, A","2132V88",5,7,1988,"Fabaceae","Cercis canadensis L.","Chinese Collection, Y-62/64-41","Yes",0,0,7,NA,0,0,100,187,9
-"172617",172617,"0057671MOR","Cercis canadensis L.","Beck, J","12841v11",5,5,2011,"Fabaceae","Cercis canadensis L.","Midwest: L-63/02-43","Yes",82,3,0,NA,96.4705882352941,3.52941176470588,0,125,1
-"164172",164172,"0052570MOR","Cercis canadensis L.","Courtney, C","10525V07",8,8,2007,"Fabaceae","Cercis canadensis L.","Godshalk Meadow, south side: L-29/94-03","Yes",0,0,4,NA,0,0,100,220,9
-"13919",13919,"0043134MOR","Cercis canadensis L.","Braham, R","s.n.",28,7,1971,"Fabaceae","Cercis canadensis L.","N side of Simonds Rd. near Thornhill, JJ-31/area","Yes",0,0,20,NA,0,0,100,209,9
-"151859",151859,"0043135MOR","Cercis canadensis L.","Allen, K","9235V01",23,4,2001,"Fabaceae","Cercis canadensis L.","East Cloverleaf, N-43/84-31","Yes",137,0,0,NA,100,0,0,113,1
-"171378",171378,"0056293MOR","Cercis canadensis L.","Vastalo, P","12677v10",18,10,2010,"Fabaceae","Cercis canadensis L.","Meadow Lake, west side: Q-49/75-27","Yes",0,0,5,NA,0,0,100,291,9
-"174552",174552,"0059616MOR","Cercis canadensis L.","DeVries, C","13482v12",6,6,2012,"Fabaceae","Cercis canadensis L.","Childrens Garden: J-49/93-90","Yes",0,0,5,NA,0,0,100,158,9
-"172325",172325,"0057355MOR","Cercis canadensis L.","Vastalo, P","13102v11",15,8,2011,"Fabaceae","Cercis canadensis L.","Visitor Center Parking: R-49/03-25","Yes",0,0,3,NA,0,0,100,227,9
-"172327",172327,"0057353MOR","Cercis canadensis L.","Vastalo, P","13104v11",15,8,2011,"Fabaceae","Cercis canadensis L.","Meadow Lake: P-48/70-50","Yes",0,0,4,NA,0,0,100,227,9
-"169880",169880,"0055279MOR","Cercis canadensis L.","Ivany, L","11768v09",6,8,2009,"Fabaceae","Cercis canadensis L.","Northern Illinois: K-62/17-13","Yes",0,0,2,NA,0,0,100,218,9
-"97408",97408,"0043138MOR","Cercis canadensis L.","Gavlak, N","4378V91",16,4,1991,"Fabaceae","Cercis canadensis L.","Near Visitor's Center, N-47/Area","Yes",228,0,0,NA,100,0,0,106,1
-"172326",172326,"0057354MOR","Cercis canadensis L.","Vastalo, P","13103v11",15,8,2011,"Fabaceae","Cercis canadensis L.","Visitor Center Parking: Q-48/13-53","Yes",0,0,3,NA,0,0,100,227,9
-"104989",104989,"0043085MOR","Cercis canadensis L.","Hess, WJ","5308V92",9,7,1992,"Fabaceae","Cercis canadensis L.","Sunfish Pond; several trees in clump near spruce plantation; BB-43/area","Yes",0,0,9,NA,0,0,100,191,9
-"151871",151871,"0043136MOR","Cercis canadensis L.","Allen, K","9236V01",23,4,2001,"Fabaceae","Cercis canadensis L.","East Cloverleaf, N-43/88-41","Yes",135,0,0,NA,100,0,0,113,1
-"151924",151924,"0043137MOR","Cercis canadensis L.","Allen, K","9237V01",23,4,2001,"Fabaceae","Cercis canadensis L.","East Cloverleaf, N-43/77-43","Yes",59,0,0,NA,100,0,0,113,1
-"175213",175213,"0060719MOR","Cercis canadensis L.","Potenberg, K","13547v12",28,8,2012,"Fabaceae","Cercis canadensis L.","Midwest: K-63/94-56","Yes",0,0,5,NA,0,0,100,241,9
-"164652",164652,"0053062MOR","Cercis canadensis L.","Potenberg, K","10734V07",25,9,2007,"Fabaceae","Cercis canadensis L.","Northern Illinois: K-60/96-34","Yes",0,0,17,NA,0,0,100,268,9
-"184867",184867,"0095825MOR","Cercis canadensis L.","Moran, E","15618v17",30,8,2017,"Fabaceae","Cercis canadensis L.","Thornhill Overflow Lot: PP-22/76-49","Yes",0,0,11,NA,0,0,100,242,9
-"175492",175492,"0061045MOR","Cercis canadensis L.","Connolly, G","13603v12",25,9,2012,"Fabaceae","Cercis canadensis L.","Midwest: K-68/37-25","Yes",0,0,7,NA,0,0,100,269,9
-"184285",184285,"0095784MOR","Cercis canadensis L.","Madden, ME","15439v17",26,6,2017,"Fabaceae","Cercis canadensis L.","Meadow Lake: N-51/42-84","Yes",0,0,7,NA,0,0,100,177,9
-"164333",164333,"0052767MOR","Cercis canadensis L.","Potenberg, K","10735V07",25,9,2007,"Fabaceae","Cercis canadensis L.","Northern Illinois: L-60/02-46","Yes",0,0,4,NA,0,0,100,268,9
-"97238",97238,"0043090MOR","Cercis canadensis L.","Packard, S","4384V91",19,4,1991,"Fabaceae","Cercis canadensis L.","Godshalk Meadow, L-35/63-44","Yes",305,0,0,NA,100,0,0,109,1
-"177778",177778,"0065940MOR","Cercis canadensis L.","Sherman, L","13615v12",2,10,2012,"Fabaceae","Cercis canadensis L.","Visitor Center Parking: Q-49/94-14","Yes",0,0,24,NA,0,0,100,276,9
-"168362",168362,"0054223MOR","Cercis canadensis L.","Henry, J","12392v10",26,7,2010,"Fabaceae","Cercis canadensis L.","Children's Garden, Evergreen Tree Walk; K-50/86-09","Yes",0,0,2,NA,0,0,100,207,9
-"177027",177027,"0064054MOR","Cercis canadensis L.","Casey, A","13857v13",1,7,2013,"Fabaceae","Cercis canadensis L.","Administration Building: J-39/11-52","Yes",0,0,2,NA,0,0,100,182,9
-"85786",85786,"0043073MOR","Cercis canadensis L.","Shimp, E","2409V89",10,5,1989,"Fabaceae","Cercis canadensis L.","Northern Illinois, L-60/02-46","Yes",85,72,NA,NA,54.140127388535,45.859872611465,0,130,3
-"97248",97248,"0043129MOR","Cercis canadensis L.","Gavlak, N","4380V91",16,4,1991,"Fabaceae","Cercis canadensis L.","Near Meadow Lake, P-48/Area","Yes",134,0,0,NA,100,0,0,106,1
-"172560",172560,"0057591MOR","Cercis canadensis L.","Vastalo, P","13085v11",15,8,2011,"Fabaceae","Cercis canadensis L.","Visitor Center Parking: R-50/72-52","Yes",0,0,3,NA,0,0,100,227,9
-"167720",167720,"0055590MOR","Cercis canadensis L.","Carle, M","11323v08",17,9,2008,"Fabaceae","Cercis canadensis L.","Arbor House, west fence: H-36/66-39","Yes",0,0,3,NA,0,0,100,261,9
-"98711",98711,"0043096MOR","Cercis canadensis L.","Packard, S","4931V91",10,9,1991,"Fabaceae","Cercis canadensis L.","Northern Illinois Collection, K-60/95-52","Yes",0,0,3,NA,0,0,100,253,9
-"159918",159918,"0052451MOR","Cercis canadensis L.","Means, E","10393V06",9,10,2006,"Fabaceae","Cercis canadensis L.","Leguminosae; Q-59/34-30","Yes",0,0,4,NA,0,0,100,282,9
-"166555",166555,"0053814MOR","Cercis canadensis L.","Vastalo, P","10922V08",5,5,2008,"Fabaceae","Cercis canadensis L.","Administration Building, west fence: J-39/11-52.","Yes",16,32,0,NA,33.3333333333333,66.6666666666667,0,126,NA
-"172713",172713,"0057738MOR","Cercis canadensis L.","Vastalo, P","12843v11",9,5,2011,"Fabaceae","Cercis canadensis L.","Appalachia: CC-74/72-14","Yes",101,15,0,NA,87.0689655172414,12.9310344827586,0,129,2
-"85800",85800,"0043074MOR","Cercis canadensis L.","Shimp, E","2408V89",10,5,1989,"Fabaceae","Cercis canadensis L.","Northern Illinois, K-60/96-34","Yes",121,7,0,NA,94.53125,5.46875,0,130,1
-"75322",75322,"0043082MOR","Cercis canadensis L.","Podrasky, N","1322V87",8,7,1987,"Fabaceae","Cercis canadensis L.","Near East Cloverleaf, O-43","Yes",0,0,5,NA,0,0,100,189,9
-"113047",113047,"0043159MOR","Cercis chinensis Bunge","Altvatter, K","5953V93",7,7,1993,"Fabaceae","Cercis chinensis Bunge","Diversity Collection, P-58/30-45","Yes",0,0,20,NA,0,0,100,188,9
-"75870",75870,"0043167MOR","Cercis chinensis Bunge","Packard, S","1380V87",14,7,1987,"Fabaceae","Cercis chinensis Bunge","Sand Beds, bed 3; D-45/28-69","Yes",0,0,29,NA,0,0,100,195,9
 "13952",13952,"0043165MOR","Cercis chinensis Bunge","Braham, R","s.n.",18,5,1971,"Fabaceae","Cercis chinensis Bunge","Drainage, D-45/25-65","Yes",3,98,0,NA,2.97029702970297,97.029702970297,0,138,5
-"97411",97411,"0043158MOR","Cercis chinensis Bunge","Gavlak, N","4371V91",15,4,1991,"Fabaceae","Cercis chinensis Bunge","Plants for Sandy Soils, D-45/28-69","Yes",165,0,0,NA,100,0,0,105,1
-"113773",113773,"0043168MOR","Cercis chinensis Bunge","Packard, S","6039V93",20,7,1993,"Fabaceae","Cercis chinensis Bunge","Leguminosae Collection, P-59/17-53","Yes",0,0,15,NA,0,0,100,201,9
-"97931",97931,"0043157MOR","Cercis chinensis Bunge","Hess, WJ","4464V91",9,5,1991,"Fabaceae","Cercis chinensis Bunge","Diversity Collection, P-58/25-55","Yes",0,28,0,NA,0,100,0,129,5
-"112989",112989,"0043160MOR","Cercis chinensis Bunge","Altvatter, K","5952V93",7,7,1993,"Fabaceae","Cercis chinensis Bunge","Diversity Collection, P-58/25-55","Yes",0,0,4,NA,0,0,100,188,9
 "13953",13953,"0043164MOR","Cercis chinensis Bunge","Braham, R","s.n.",28,7,1971,"Fabaceae","Cercis chinensis Bunge","Drainage, D-45/25-65","Yes",0,0,30,NA,0,0,100,209,9
+"75870",75870,"0043167MOR","Cercis chinensis Bunge","Packard, S","1380V87",14,7,1987,"Fabaceae","Cercis chinensis Bunge","Sand Beds, bed 3; D-45/28-69","Yes",0,0,29,NA,0,0,100,195,9
+"97411",97411,"0043158MOR","Cercis chinensis Bunge","Gavlak, N","4371V91",15,4,1991,"Fabaceae","Cercis chinensis Bunge","Plants for Sandy Soils, D-45/28-69","Yes",165,0,0,NA,100,0,0,105,1
+"97931",97931,"0043157MOR","Cercis chinensis Bunge","Hess, WJ","4464V91",9,5,1991,"Fabaceae","Cercis chinensis Bunge","Diversity Collection, P-58/25-55","Yes",0,28,0,NA,0,100,0,129,5
+"113047",113047,"0043159MOR","Cercis chinensis Bunge","Altvatter, K","5953V93",7,7,1993,"Fabaceae","Cercis chinensis Bunge","Diversity Collection, P-58/30-45","Yes",0,0,20,NA,0,0,100,188,9
+"113773",113773,"0043168MOR","Cercis chinensis Bunge","Packard, S","6039V93",20,7,1993,"Fabaceae","Cercis chinensis Bunge","Leguminosae Collection, P-59/17-53","Yes",0,0,15,NA,0,0,100,201,9
+"112989",112989,"0043160MOR","Cercis chinensis Bunge","Altvatter, K","5952V93",7,7,1993,"Fabaceae","Cercis chinensis Bunge","Diversity Collection, P-58/25-55","Yes",0,0,4,NA,0,0,100,188,9
 "13959",13959,"0043163MOR","Cercis siliquastrum L.","Schulenberg, RF","s.n.",14,5,1975,"Fabaceae","Cercis siliquastrum L.","Between greenhouses","Yes",1,10,0,NA,9.09090909090909,90.9090909090909,0,134,5
