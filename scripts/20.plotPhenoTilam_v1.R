@@ -20,3 +20,5 @@ p <- ggplot(plotDat.til_am, aes(x = Year, y = doy, color= Phenophase))
 p <- p + geom_point() + scale_color_viridis_d() + geom_smooth(aes(group = 1), method = 'lm', color= "black", se= FALSE) 
 ggsave('out/til_am_betterDOY.pdf')
 # Not enough points
+
+#split up by 1-3, 4-6, 7-8 by genera and species. Only include species with ? or more
