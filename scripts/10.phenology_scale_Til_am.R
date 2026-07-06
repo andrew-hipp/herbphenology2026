@@ -14,6 +14,7 @@
 dat <- dat.til_am
 # names (dat)
 
+# this loop is constant across genera (as of 7/6/2026)
 for(i in 1:dim(dat)[1]){
 # print(i)
   if((dat$Percent.Buds[i]>=90) & (dat$Percent.Flowers[i]<10) & (dat$Percent.Fruit[i]<10)){ dat$Phenophase[i]=1 } else {
