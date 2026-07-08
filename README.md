@@ -24,9 +24,11 @@ Climate warming advances flowering phenology, and climate sensitivity (e.g., slo
     * Native in the Chicago region (T, F) -- from Plants of the Chicago Region
 
 ## Analysis overview for each hypothesis
+[where DOY = day of year, CS = climate sensitivity]  
 * H1 : 
     * DOYx–y ~ Temp; 
     * DOYx–y ~ Year (where x, y = [1,3; 4,6; 7,8])
     * In the global model: Random effects: species, continent, individual
 * H2 :
-    * ClimateSens ~ nativity + 
+    * CS ~ nativity + 1|genus (vs no random effect just to see)
+* H3 : 
