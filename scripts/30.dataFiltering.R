@@ -4,6 +4,10 @@
 
 if(!exists('dat.mat')) stop('** Run scripts 00 and 10 before this one **')
 
+## variables that matter
+threshold = 5 # min number of inds / phenophase
+
+## doing stuff
 dat_ph <- list(
     ph1.3 = dat.mat[dat.mat$Phenophase %in% 1:3, ],
     ph4.6 = dat.mat[dat.mat$Phenophase %in% 4:6, ],
@@ -20,7 +24,7 @@ dat.sum <- sapply(dat_ph, function(x, hybexclude = T, cultexclude = T) {
 }
 )
 
-whosin <- function(x, thresh = 5) {
+whosin <- function(x, thresh = threshold) {
     names(which(x >= thresh))
 }
 
