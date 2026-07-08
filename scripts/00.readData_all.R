@@ -23,3 +23,38 @@ colsToUse <- Reduce(intersect, temp)
 
 dat.list <- lapply(dat.list, function(x) x[,colsToUse])
 dat.mat <- Reduce(rbind, dat.list)
+
+## now clean up the rbind'ed matrix
+### cleanup 1
+dat.mat <- dat.mat[!is.na(as.numeric(dat.mat$SpecimenAccession)),]
+row.names(dat.mat) <- make.unique(as.character(dat.mat$SpecimenAccession))
+
+### cleanup 2
+for(i in c("Buds", "Flowers", "Fruits")) {
+    class(dat.mat[[i]]) <- "numeric"
+}
+
+### cleanup 3
+temp.rowsExclude <- which(is.na(dat.mat$Buds) | is.na(dat.mat$Flower) | is.na(dat.mat$Fruits))
+write.csv(dat.mat[temp.rowsExclude, ], 'out/excluded_cleanup3.csv')
+dat.mat <- dat.mat[-temp.rowsExclude, ]
+
+### cleanup 4
+for(i in c("Percent.Buds", "Percent.Flowers", "Percent.Fruit")) {
+    class(dat.mat[[i]]) <- "numeric"
+    dat.mat[[i]] <- dat.mat[[i]] * 100
+}
+
+temp.rowsExclude <- which(is.na(dat.mat$Percent.Flowers))
+write.csv(dat.mat[temp.rowsExclude, ], 'out/excluded_cleanup4.csv')
+dat.mat <- dat.mat[-temp.rowsExclude, ]
+
+stop('left off here')
+
+dat.mat$doy <- 
+    paste(dat.mat$Year, dat.mat$Month, dat.mat$Day, sep = '-') |>
+    as.Date() |>
+    format("%j") |>
+    as.numeric()
+
+write.csv(dat.mat, 'out/dat.mat.cleaned.csv')
