@@ -55,13 +55,22 @@ temp.rowsExclude <- which(is.na(dat.mat$Percent.Flowers))
 write.csv(dat.mat[temp.rowsExclude, ], 'out/excluded_cleanup4.csv')
 dat.mat <- dat.mat[-temp.rowsExclude, ]
 
-stop('left off here')
-
 dat.mat$doy <- 
     paste(dat.mat$Year, dat.mat$Month, dat.mat$Day, sep = '-') |>
     as.Date() |>
     format("%j") |>
     as.numeric()
+
+temp <- dat.mat$DeterminationCalcFullName
+temp <- strsplit(temp, " ", fixed = T)
+temp <- sapply(temp, function(x) paste(x[1:min(2, length(x))], collapse = ' '))
+dat.mat$spClean <- temp
+
+dat.mat$cult <- F
+dat.mat$hyb <- F
+
+dat.mat$cult[grep("'", dat.mat$DeterminationCalcFullName)] <- T
+dat.mat$hyb[grep("×", dat.mat$DeterminationCalcFullName)] <- T
 
 write.csv(dat.mat, 'out/dat.mat.cleaned.csv')
 rm(i, temp, temp.rowsExclude, colsToUse)
