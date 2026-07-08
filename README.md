@@ -17,5 +17,16 @@ Climate warming advances flowering phenology, and climate sensitivity (e.g., slo
 * H3: Earlier flowering phases will exhibit greater climate sensitivity than later flowering phases
 * H4 [for later]: Phylogeny matters: more closely-related species will have more similar climatic sensitivity
 
-## Analysis overview for each hypothesis
+## Analysis questions
+* How do we quantify climate sensitivity?  
+* Supplementary data needed for taxa (created as a matrix with a line for each taxon):
+    * Continent of origin (three columns: EU, AS, NA, with T or F in each) -- From WFO
+    * Native in the Chicago region (T, F) -- from Plants of the Chicago Region
 
+## Analysis overview for each hypothesis
+* H1 : 
+    * DOYx–y ~ Temp; 
+    * DOYx–y ~ Year (where x, y = [1,3; 4,6; 7,8])
+    * In the global model: Random effects: species, continent, individual
+* H2 :
+    * ClimateSens ~ nativity + 
