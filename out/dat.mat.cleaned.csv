@@ -146,8 +146,8 @@
 "188242","188242","0099473MOR","Tilia cordata Mill.","Moran, E","16228v19",26,6,2019,"Central Europe: Y-32/40-69","Yes",39,33,0,NA,54.1666666666667,45.8333333333333,0,177,"Tilia cordata",FALSE,FALSE
 "182181","182181","0084738MOR","Tilia cordata Mill.","?","14534v15",NA,NA,NA,"Tilia: W-56/80-35","Yes",0,0,49,NA,0,0,100,NA,"Tilia cordata",FALSE,FALSE
 "27961","27961","0049484MOR","Tilia cordata Mill. subsp. cordata","Ciolac, C","s.n.",9,7,1969,"Along DuPage River.","Yes",1,52,3,NA,1.78571428571429,92.8571428571429,5.35714285714286,190,"Tilia cordata",FALSE,FALSE
-"36817","36817","0049485MOR","Tilia cordata Mill. subsp. cordata","Anderson, B","7918",6,7,1979,"Tilia Collection; W-54/00-80","Yes",0,31,12,NA,0,72.0930232558139,27.906976744186,187,"Tilia cordata",FALSE,FALSE
-"63399","63399","0049548MOR","Tilia cordata Mill. subsp. cordata","Podrasky, N","717V86",23,6,1986,"Near west cloverleaf, N-38/10-10.","Yes",1,13,5,NA,5.26315789473684,68.4210526315789,26.3157894736842,174,"Tilia cordata",FALSE,FALSE
+"36817","36817","0049485MOR","Tilia cordata Mill. subsp. cordata","Anderson, B","7918",6,7,1979,"Tilia Collection; W-54/00-80","Yes",0,31,12,NA,0,72.093023255814,27.906976744186,187,"Tilia cordata",FALSE,FALSE
+"63399","63399","0049548MOR","Tilia cordata Mill. subsp. cordata","Podrasky, N","717V86",23,6,1986,"Near west cloverleaf, N-38/10-10.","Yes",1,13,5,NA,5.26315789473684,68.421052631579,26.3157894736842,174,"Tilia cordata",FALSE,FALSE
 "93112","93112","0049479MOR","Tilia cordata Mill. subsp. cordata","Packard, S","3650V90",17,7,1990,"Tilia, U-55/40-55","Yes",0,0,46,NA,0,0,100,198,"Tilia cordata",FALSE,FALSE
 "93263","93263","0049480MOR","Tilia cordata Mill. subsp. cordata","Packard, S","3651V90",17,7,1990,"Tilia, U-55/35-25","Yes",0,0,54,NA,0,0,100,198,"Tilia cordata",FALSE,FALSE
 "155787","155787","0040420MOR","Tilia cordata Mill. subsp. cordata","Stephens, M","10",30,6,2003,"Southwest Cloverleaf, N-38/10-10","Yes",37,149,0,NA,19.8924731182796,80.1075268817204,0,181,"Tilia cordata",FALSE,FALSE
@@ -275,12 +275,12 @@
 "120174","120174","0071254MOR","Tilia platyphyllos Scop.","Carlino, J","6618V94",14,7,1994,"Tilia Collection, [W-55/50-65]","Yes",0,0,11,NA,0,0,100,195,"Tilia platyphyllos",FALSE,FALSE
 "119805","119805","0071256MOR","Tilia platyphyllos Scop.","Altvatter, K","6568V94",16,6,1994,"Tilia Collection, [Z-52/60-00]","Yes",5,20,7,NA,15.625,62.5,21.875,167,"Tilia platyphyllos",FALSE,FALSE
 "122448","122448","0071252MOR","Tilia platyphyllos Scop.","Altvatter, K","6608V94",6,7,1994,"Tilia Collection, [Z-52/60-00]","Yes",0,2,16,NA,0,11.1111111111111,88.8888888888889,187,"Tilia platyphyllos",FALSE,FALSE
-"155785","155785","0040401MOR","Tilia platyphyllos Scop.","Stephens, M","6",25,6,2003,"N-32/92-28 Godshalk Meadow","Yes",32,7,0,NA,82.051282051282,17.9487179487179,0,176,"Tilia platyphyllos",FALSE,FALSE
+"155785","155785","0040401MOR","Tilia platyphyllos Scop.","Stephens, M","6",25,6,2003,"N-32/92-28 Godshalk Meadow","Yes",32,7,0,NA,82.051282051282,17.948717948718,0,176,"Tilia platyphyllos",FALSE,FALSE
 "158027","158027","0050165MOR","Tilia platyphyllos Scop.","Shroll, E","10189V05",5,7,2005,"Godshalk Meadow, north side: N-30/59-95","Yes",0,0,24,NA,0,0,100,186,"Tilia platyphyllos",FALSE,FALSE
 "188240","188240","0099475MOR","Tilia platyphyllos Scop.","Potenberg, K","16229v19",27,6,2019,"Central Europe: DD-34/05-82","Yes",0,0,13,NA,0,0,100,178,"Tilia platyphyllos",FALSE,FALSE
 "65114","65114","0049521MOR","Tilia platyphyllos subsp. cordifolia (Besser) C.K.Schneid. [1]","Stoynoff, N","s.n.",28,6,1984,"Alnus Loop, O-30/70-30","Yes",3,12,32,NA,6.38297872340425,25.531914893617,68.0851063829787,180,"Tilia platyphyllos",FALSE,FALSE
 "112754","112754","0049520MOR","Tilia platyphyllos subsp. cordifolia (Besser) C.K.Schneid. [1]","Bradtke, HL","5861V93",16,6,1993,"Alnus Collection, O-29/20-25","Yes",6,24,4,NA,17.6470588235294,70.5882352941177,11.7647058823529,167,"Tilia platyphyllos",FALSE,FALSE
-"112730","112730","0049519MOR","Tilia platyphyllos subsp. cordifolia (Besser) C.K.Schneid. [1]","Bradtke, HL","5862V93",16,6,1993,"Alnus Collection, 0-30/90-85","Yes",16,39,2,NA,28.0701754385965,68.4210526315789,3.50877192982456,167,"Tilia platyphyllos",FALSE,FALSE
+"112730","112730","0049519MOR","Tilia platyphyllos subsp. cordifolia (Besser) C.K.Schneid. [1]","Bradtke, HL","5862V93",16,6,1993,"Alnus Collection, 0-30/90-85","Yes",16,39,2,NA,28.0701754385965,68.421052631579,3.50877192982456,167,"Tilia platyphyllos",FALSE,FALSE
 "138173","138173","0049518MOR","Tilia platyphyllos subsp. cordifolia (Besser) C.K.Schneid. [1]","Wise, R","8230V97",6,8,1997,"West DuPage River Collection, O-30/9-85","Yes",0,0,13,NA,0,0,100,218,"Tilia platyphyllos",FALSE,FALSE
 "188465","188465","0100249MOR","Tilia platyphyllos subsp. corinthiaca (Bosc ex K.Koch) Pigott","Worcester, L","LW403",25,9,2018,"Tilia: Z-51/50-70","Yes",0,0,1,NA,0,0,100,268,"Tilia platyphyllos",FALSE,FALSE
 "187835","187835","0099157MOR","Tilia platyphyllos subsp. platyphyllos","Worcester, L","LW281",3,8,2018,"Central Europe: Z-33/43-60","Yes",0,0,3,NA,0,0,100,215,"Tilia platyphyllos",FALSE,FALSE
@@ -375,7 +375,7 @@
 "105018","105018","0049464MOR","Tilia americana var. americana","Hess, WJ","5294V92",9,7,1992,"East side of Valley Road","Yes",15,5,0,NA,75,25,0,191,"Tilia americana",FALSE,FALSE
 "142820","142820","0049465MOR","Tilia americana var. americana","Kirt, S","8558V98",28,6,1998,"Tilia, north section: AA-52/35-45","Yes",0,2,14,NA,0,12.5,87.5,179,"Tilia americana",FALSE,FALSE
 "142830","142830","0049466MOR","Tilia americana var. americana","Kirt, S","8572V98",30,6,1998,"Hedge Garden, south section: G-45/69-19","Yes",24,27,2,NA,45.2830188679245,50.9433962264151,3.77358490566038,181,"Tilia americana",FALSE,FALSE
-"89774","89774","0049467MOR","Tilia americana var. americana","Packard, S","2795V89",25,7,1989,"Tilia, south section: Y-56/45-45","Yes",0,1,28,NA,0,3.44827586206897,96.551724137931,206,"Tilia americana",FALSE,FALSE
+"89774","89774","0049467MOR","Tilia americana var. americana","Packard, S","2795V89",25,7,1989,"Tilia, south section: Y-56/45-45","Yes",0,1,28,NA,0,3.44827586206897,96.5517241379311,206,"Tilia americana",FALSE,FALSE
 "89853","89853","0049468MOR","Tilia americana var. americana","Packard, S","2786V89",25,7,1989,"Tilia, north section: Z-53/45-20","Yes",0,0,16,NA,0,0,100,206,"Tilia americana",FALSE,FALSE
 "89854","89854","0049469MOR","Tilia americana var. americana","Packard, S","2785V89",25,7,1989,"Tilia, north section: Z-52/50-95","Yes",0,0,3,NA,0,0,100,206,"Tilia americana",FALSE,FALSE
 "85524","85524","0049470MOR","Tilia americana var. americana","Klock, K","2873V89",9,8,1989,"Tiliaceae, V-50/65-55","Yes",0,0,5,NA,0,0,100,221,"Tilia americana",FALSE,FALSE
@@ -668,7 +668,7 @@
 "161907","161907","0053237MOR","Acer carpinifolium × tataricum subsp. ginnala [2]","Bonnewell, V",NA,14,5,2007,"Tree Breeding Nursery, EN1A/J2","Yes",9,39,0,NA,18.75,81.25,0,134,"Acer carpinifolium",FALSE,TRUE
 "161908","161908","0053238MOR","Acer carpinifolium × tataricum subsp. ginnala [2]","Bonnewell, V",NA,14,5,2007,"Tree Breeding Nursery, EN1A/J1","Yes",14,127,0,NA,9.9290780141844,90.0709219858156,0,134,"Acer carpinifolium",FALSE,TRUE
 "163416","163416","0053217MOR","Acer carpinifolium × tataricum subsp. ginnala [2]","Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1/I07","Yes",70,18,0,NA,79.5454545454545,20.4545454545455,0,127,"Acer carpinifolium",FALSE,TRUE
-"9416","9416","0039391MOR","Acer carpinifolium Siebold & Zucc.","Schulenberg, RF","s.n.",20,4,1977,"Frost Hill, E-63/5.5-2","Yes",6,13,0,NA,31.5789473684211,68.4210526315789,0,110,"Acer carpinifolium",FALSE,FALSE
+"9416","9416","0039391MOR","Acer carpinifolium Siebold & Zucc.","Schulenberg, RF","s.n.",20,4,1977,"Frost Hill, E-63/5.5-2","Yes",6,13,0,NA,31.578947368421,68.421052631579,0,110,"Acer carpinifolium",FALSE,FALSE
 "111560","111560","0039397MOR","Acer carpinifolium Siebold & Zucc.","Wiegrefe, S","262",6,5,1993,"Diversity, X-60/58-73","Yes",0,5,0,NA,0,100,0,126,"Acer carpinifolium",FALSE,FALSE
 "112995","112995","0039393MOR","Acer carpinifolium Siebold & Zucc.","Altvatter, K","5950V93",6,7,1993,"Acer Collection, X-60/58-73","Yes",0,0,9,NA,0,0,100,187,"Acer carpinifolium",FALSE,FALSE
 "135348","135348","0039395MOR","Acer carpinifolium Siebold & Zucc.","Wiegrefe, S","259",5,5,1993,"Frost Hill, E-63/55-20","Yes",10,8,0,NA,55.5555555555556,44.4444444444444,0,125,"Acer carpinifolium",FALSE,FALSE
@@ -702,7 +702,7 @@
 "149266","149266","0039413MOR","Acer davidii subsp. grosseri (Pax) P.C.de Jong","Allen, K","9143V00",27,4,2000,"X-60/63-69 Aceraceae.","Yes",0,18,0,NA,0,100,0,118,"Acer davidii",FALSE,FALSE
 "187859","187859","0099251MOR","Acer davidii subsp. grosseri (Pax) P.C.de Jong","Worcester, L","LW269",31,7,2018,"China: X-65/83-47","Yes",0,0,5,NA,0,0,100,212,"Acer davidii",FALSE,FALSE
 "67999","67999","0039419MOR","Acer forrestii Diels","Schulenberg, RF","158V84",23,5,1984,"China Collection, BB-66/22-06.","Yes",0,8,28,NA,0,22.2222222222222,77.7777777777778,144,"Acer forrestii",FALSE,FALSE
-"135208","135208","0039418MOR","Acer forrestii Diels","Wiegrefe, S","271",7,5,1993,"Acer Collection, BB-66/02-06.","Yes",68,73,2,NA,47.5524475524476,51.0489510489511,1.3986013986014,127,"Acer forrestii",FALSE,FALSE
+"135208","135208","0039418MOR","Acer forrestii Diels","Wiegrefe, S","271",7,5,1993,"Acer Collection, BB-66/02-06.","Yes",68,73,2,NA,47.5524475524476,51.048951048951,1.3986013986014,127,"Acer forrestii",FALSE,FALSE
 "137629","137629","0039417MOR","Acer forrestii Diels","Bradtke, HL","8175V97",28,7,1997,"V-63/29-02 Aceraceae Collection.","Yes",0,0,7,NA,0,0,100,209,"Acer forrestii",FALSE,FALSE
 "157210","157210","0050512MOR","Acer forrestii Diels","Stephens, M","9831V03",18,7,2003,"China, central section: BB-66/22-06","Yes",0,0,18,NA,0,0,100,199,"Acer forrestii",FALSE,FALSE
 "53285","53285","0039432MOR","Acer ginnala 'Durand Dwarf'","Stoynoff, N","224V84",18,5,1984,"Acer Collection, W-101/75-50.","Yes",0,0,42,NA,0,0,100,139,"Acer ginnala",TRUE,FALSE
@@ -1073,7 +1073,7 @@
 "524","524","0039723MOR","Acer rubrum L.","Ciolac, C","s.n.",16,4,1970,"Oleaceae Collection, Q-38/75-60, near entrance gate to west side of Arboretum.","Yes",101,72,0,NA,58.3815028901734,41.6184971098266,0,106,"Acer rubrum",FALSE,FALSE
 "525","525","0039740MOR","Acer rubrum L.","Braham, R","s.n.",4,5,1971,"#135-40 along Illinois tree trail, Meadow Lake, R-52/25-55.","Yes",0,11,60,NA,0,15.4929577464789,84.5070422535211,124,"Acer rubrum",FALSE,FALSE
 "526","526","0039710MOR","Acer rubrum L.","Lesica, P","s.n.",25,5,1972,"Acer Collection, R-99/70-40.","Yes",0,0,48,NA,0,0,100,146,"Acer rubrum",FALSE,FALSE
-"32264","32264","0039742MOR","Acer rubrum L.","Hess, WJ","4091",25,4,1978,"Acer Collection, south side entrance to Administration & greenhouses.","Yes",7,139,0,NA,4.79452054794521,95.2054794520548,0,115,"Acer rubrum",FALSE,FALSE
+"32264","32264","0039742MOR","Acer rubrum L.","Hess, WJ","4091",25,4,1978,"Acer Collection, south side entrance to Administration & greenhouses.","Yes",7,139,0,NA,4.7945205479452,95.2054794520548,0,115,"Acer rubrum",FALSE,FALSE
 "43859","43859","0039746MOR","Acer rubrum L.","Levins, P","s.n.",1,4,1981,"Pinaceae Coll., J-54/00-10 in the Administration Building Meadow, S of Meadow Lake.","Yes",10,60,0,NA,14.2857142857143,85.7142857142857,0,91,"Acer rubrum",FALSE,FALSE
 "43860","43860","0039747MOR","Acer rubrum L.","Levins, P","s.n.",1,4,1981,"Acer Collection, R-99/40-40, NE of parking area 8.","Yes",93,12,0,NA,88.5714285714286,11.4285714285714,0,91,"Acer rubrum",FALSE,FALSE
 "19117","19117","0039732MOR","Acer rubrum L.","Podrasky, N","31V84",7,5,1984,"Diversity, N-57/Area.","Yes",0,191,532,NA,0,26.417704011065,73.582295988935,128,"Acer rubrum",FALSE,FALSE

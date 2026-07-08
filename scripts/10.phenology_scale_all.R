@@ -10,7 +10,7 @@
 #Output file: The output file will be the same CSV as the input file plus an additional "Phenophase" column. This is the assigned numerical phenophase (1-9) of the specimen. Specimens that were not assessable will be listed as NA in this column.
 #############################
 
-# dat <- dat.mat
+dat <- dat.mat
 
 for(i in 1:dim(dat)[1]){
 # print(i)
