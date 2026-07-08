@@ -7,3 +7,10 @@ Contacts:
 * REU participant: Miriam Hafkin
 * Primary mentor, Herbarium Coordinator: Lindsey Worcester
 * Co-mentor, Herbarium Director, Andrew Hipp <ahipp@mortonarb.org>
+
+## Overarching question
+
+## Specific hypotheses
+
+## Analysis overview for each hypothesis
+
