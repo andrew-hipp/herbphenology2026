@@ -10,10 +10,8 @@
 #Output file: The output file will be the same CSV as the input file plus an additional "Phenophase" column. This is the assigned numerical phenophase (1-9) of the specimen. Specimens that were not assessable will be listed as NA in this column.
 #############################
 
-dat <- dat.til_am
-# names (dat)
+dat <- dat.mat
 
-# this loop is constant across genera (as of 7/6/2026)
 for(i in 1:dim(dat)[1]){
 # print(i)
   if((dat$Percent.Buds[i]>=90) & (dat$Percent.Flowers[i]<10) & (dat$Percent.Fruit[i]<10)){ dat$Phenophase[i]=1 } else {
@@ -34,6 +32,4 @@ for(i in 1:dim(dat)[1]){
           }
         }
       }
-write.csv(dat, file.path(path.expand("~"), "Desktop", "Tilia_am_Phenology_Output.csv"))
-write.csv(dat, "Tilia_am_Phenology_Output.csv")
-phenoPh.til_am <- dat
+write.csv(dat, 'out/dat_mat_phenologyOut.csv')

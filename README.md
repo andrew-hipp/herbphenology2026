@@ -16,6 +16,7 @@ Climate warming advances flowering phenology, and climate sensitivity (e.g., slo
 * H2. Non-native spp experience earlier average flowering phases as temperature changes (they can take advantage of climate change)  
 * H3: Earlier flowering phases will exhibit greater climate sensitivity than later flowering phases
 * H4 [for later]: Phylogeny matters: more closely-related species will have more similar climatic sensitivity
+* H5: There are systematic differences in flowering time for field-collected branches from the four cardinal directions 
 
 ## Analysis questions
 * How do we quantify climate sensitivity?  

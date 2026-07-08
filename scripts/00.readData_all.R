@@ -2,6 +2,12 @@
 
 require(openxlsx)
 
+## TO DO
+### Read and format field data
+### make a decision about 4-sides of field data... probably this 
+###   will go into a separate data frame just for Tilia americana
+###   Plan: separate out til am data and add in field data for a subset of analyses
+
 ## summarize what taxa we have in the green specimens
 dat.gr <- read.xlsx('data/Herbarium_GREEN_Specimens.xlsx')
 dat.gr.summary <- 
