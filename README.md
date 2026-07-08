@@ -8,9 +8,14 @@ Contacts:
 * Primary mentor, Herbarium Coordinator: Lindsey Worcester
 * Co-mentor, Herbarium Director, Andrew Hipp <ahipp@mortonarb.org>
 
-## Overarching question
+## Overarching hypothesis
+Climate warming advances flowering phenology, and climate sensitivity (e.g., slope variance) varies among genera and continents (species provenance).
 
 ## Specific hypotheses
+* H1. Spring temperature and year are associated with earlier flowering dates  
+* H2. Non-native spp experience earlier average flowering phases as temperature changes (they can take advantage of climate change)  
+* H3: Earlier flowering phases will exhibit greater climate sensitivity than later flowering phases
+* H4 [for later]: Phylogeny matters: more closely-related species will have more similar climatic sensitivity
 
 ## Analysis overview for each hypothesis
 
