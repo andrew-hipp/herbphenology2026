@@ -7,7 +7,7 @@ for(i in names(keepsies)) {
     for(j in keepsies[[i]]) {
         dat.plot <- dat_ph[[i]][dat_ph[[i]]$spClean == j, ]
         p <- ggplot(dat.plot, aes(x = Year, y = doy))
-        p <- p + geom_point() + 
+        p <- p + geom_point() +  
                 geom_smooth(aes(group = 1), method = 'lm', color= "black", se= TRUE) 
         ggsave(paste('out/', i, '_', j, '.pdf', sep = ''))
         lm(doy ~ Year, data = dat.plot) |> summary() |> print()
