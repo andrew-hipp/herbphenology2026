@@ -30,6 +30,17 @@ colsToUse <- Reduce(intersect, temp)
 dat.list <- lapply(dat.list, function(x) x[,colsToUse])
 dat.mat <- Reduce(rbind, dat.list)
 
+dat.nameFixes <- read.xlsx('data/nameFixes.xlsx', rowNames = TRUE)
+nameFixes <- vector('character', 0)
+for(i in row.names(dat.nameFixes)) {
+    whichDo <- which(dat.mat$DeterminationCalcFullName == i)
+    nameFixes <- c(nameFixes, 
+        paste('** Replacing', length(whichDo), 'instances of', i)
+        ) # close c
+    dat.mat$DeterminationCalcFullName[whichDo] <- dat.nameFixes[i, 'new']
+}
+writeLines(nameFixes, 'out/nameFixes.log')
+
 ## now clean up the rbind'ed matrix
 ### cleanup 1
 dat.mat <- dat.mat[!is.na(as.numeric(dat.mat$SpecimenAccession)),]
