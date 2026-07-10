@@ -346,7 +346,7 @@
 "137333","137333","0050030MOR","Tilia americana 'Moltkei'",NA,NA,"Allen, K","8088V97",10,7,1997,"Central Europe, Z-31/40-90","Yes",7,71,1,NA,8.86075949367089,89.873417721519,1.26582278481013,191,"Tilia americana",TRUE,FALSE
 "187840","187840","0099164MOR","Tilia americana 'Moltkei'",NA,NA,"Worcester, L","LW333",23,8,2018,"Forest Road: M-87/62-82","Yes",0,0,2,NA,0,0,100,235,"Tilia americana",TRUE,FALSE
 "188216","188216","0099471MOR","Tilia americana 'Redmond'",NA,NA,"Worcester, L","LW348",30,8,2018,"Ground Cover Garden: J-45/22-92","Yes",0,0,0,NA,0,0,0,242,"Tilia americana",TRUE,FALSE
-"67","67",NA,"Tilia americana L. var. americana",NA,NA,"Hafkin, M","MH001",1,6,2026,"G-45/69-19","Yes",66,0,0,NA,100,0,0,152,"Tilia americana",FALSE,FALSE
+"67","67",NA,"Tilia americana var. americana",NA,NA,"Hafkin, M","MH001",1,6,2026,"G-45/69-19","Yes",66,0,0,NA,100,0,0,152,"Tilia americana",FALSE,FALSE
 "27952","27952","0049444MOR","Tilia americana var. americana",NA,NA,"Read, RW","439",2,7,1970,"Tilia Collection, AA-53/05-75.","Yes",8,36,0,NA,18.1818181818182,81.8181818181818,0,183,"Tilia americana",FALSE,FALSE
 "27953","27953","0049420MOR","Tilia americana var. americana",NA,NA,"Braham, R","s.n.",26,7,1971,"Tilia Collection, Z-53/10-90.","Yes",0,0,5,NA,0,0,100,207,"Tilia americana",FALSE,FALSE
 "27954","27954","0049439MOR","Tilia americana var. americana",NA,NA,"Ciolac, C","s.n.",10,7,1969,"Z-52/05-95","Yes",54,51,0,NA,51.4285714285714,48.5714285714286,0,191,"Tilia americana",FALSE,FALSE
@@ -397,7 +397,7 @@
 "171198","171198","0056140MOR","Tilia americana var. americana",NA,NA,"Beck, J","12332v10",24,6,2010,"Anacardiaceae: X-59/19-67","Yes",0,4,1,NA,0,80,20,175,"Tilia americana",FALSE,FALSE
 "177303","177303","0064262MOR","Tilia americana var. americana",NA,NA,"Means, E","13923v13",1,8,2013,"Tilia: Z-51/85-80","Yes",0,0,18,NA,0,0,100,213,"Tilia americana",FALSE,FALSE
 "177336","177336","0064274MOR","Tilia americana var. americana",NA,NA,"Casey, A","13882v13",15,7,2013,"Tilia: W-56/15-60","Yes",3,0,24,"No flowers. Maybe problem with handling",11.1111111111111,0,88.8888888888889,196,"Tilia americana",FALSE,FALSE
-"177677","177677","0065607MOR","Tilia americana var. americana",NA,NA,"Beck, J","13956v13",15,8,2013,"Tilia: Z-54/83-64","Yes",0,1,0,"Two areas on bract where seeds likely were",0,100,0,227,"Tilia americana",FALSE,FALSE
+"177677","177677","0065607MOR","Tilia americana var. americana",NA,NA,"Beck, J","13956v13",15,8,2013,"Tilia: Z-54/83-64","Yes",0,1,2,"Two areas on bract where seeds likely were",0,33.3333333333333,66.6666666666667,227,"Tilia americana",FALSE,FALSE
 "177678","177678","0065606MOR","Tilia americana var. americana",NA,NA,"Glaysher, L","13955v13",15,8,2013,"Tilia: Z-54/20-30","Yes",0,0,2,NA,0,0,100,227,"Tilia americana",FALSE,FALSE
 "188087","188087","0099966MOR","Tilia americana var. americana",NA,NA,"Potenberg,","16777v21",10,6,2021,"Thornhill PA: NN-24/37-94","Yes",37,0,0,NA,100,0,0,161,"Tilia americana",FALSE,FALSE
 "188218","188218","0099469MOR","Tilia americana var. americana",NA,NA,"Worcester, L","LW351",30,8,2018,"Tilia: Z-54/83-64","Yes",0,0,0,NA,0,0,0,242,"Tilia americana",FALSE,FALSE

@@ -14,9 +14,36 @@ dat <- dat.mat
 
 for(i in 1:dim(dat)[1]){
 # print(i)
+  if((dat.mat$Percent.Buds[i]>=95) & (dat.mat$Percent.Flowers[i]<5) & (dat.mat$Percent.Fruit[i]<5)){ dat.mat$Phenophase[i]=1 } else {
+    if((dat.mat$Percent.Buds[i]<=95) & (dat.mat$Percent.Buds[i]>=70) & (dat.mat$Percent.Flowers[i]<=30) & (dat.mat$Percent.Flowers[i]>=5) & (dat.mat$Percent.Fruit[i]<10)){dat.mat$Phenophase[i]=2} else{ 
+      if((dat.mat$Percent.Buds[i]<=70) & (dat.mat$Percent.Buds[i]>=40) & (dat.mat$Percent.Flowers[i]<=60) & (dat.mat$Percent.Flowers[i]>=25) & (dat.mat$Percent.Fruit[i]<15)){dat.mat$Phenophase[i]=3} else{ 
+         if((dat.mat$Percent.Buds[i]<=30) & (dat.mat$Percent.Flowers[i]>=50) & (dat.mat$Percent.Fruit[i]<=30)){dat.mat$Phenophase[i]=5} else {
+           if((dat.mat$Percent.Buds[i]<=45) & (dat.mat$Percent.Buds[i]>=10) & (dat.mat$Percent.Flowers[i]<=55) & (dat.mat$Percent.Flowers[i]>=40) & (dat.mat$Percent.Fruit[i]<=20) & (dat.mat$Percent.Fruit[i]>=0)){ dat.mat$Phenophase[i]=4} else {
+              if((dat.mat$Percent.Buds[i]<=20) & (dat.mat$Percent.Flowers[i]<=50) & (dat.mat$Percent.Flowers[i]>=20) & (dat.mat$Percent.Fruit[i]<=60) & (dat.mat$Percent.Fruit[i]>=5)){ dat.mat$Phenophase[i]=6} else {
+                if((dat.mat$Percent.Buds[i]<=15) & (dat.mat$Percent.Flowers[i]<=40) & (dat.mat$Percent.Flowers[i]>=10) & (dat.mat$Percent.Fruit[i]<=80) & (dat.mat$Percent.Fruit[i]>=30)){ dat.mat$Phenophase[i]=7} else {
+                  if((dat.mat$Percent.Buds[i]<=10) & (dat.mat$Percent.Flowers[i]<=20) & (dat.mat$Percent.Flowers[i]>=0) & (dat.mat$Percent.Fruit[i]<95) & (dat.mat$Percent.Fruit[i]>=60)){ dat.mat$Phenophase[i]=8} else {
+                    if((dat.mat$Percent.Buds[i]<5) & (dat.mat$Percent.Flowers[i]<5) & (dat.mat$Percent.Fruit[i]>=95)){ dat.mat$Phenophase[i]=9} else {dat.mat$Phenophase[i]=NA}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+
+write.csv(dat.mat, 'out/dat_mat_phenologyOut.csv')
+
+
+#old one
+dat <- dat.mat
+
+for(i in 1:dim(dat)[1]){
+# print(i)
   if((dat.mat$Percent.Buds[i]>=90) & (dat.mat$Percent.Flowers[i]<10) & (dat.mat$Percent.Fruit[i]<10)){ dat.mat$Phenophase[i]=1 } else {
-    if((dat.mat$Percent.Buds[i]<=90) & (dat.mat$Percent.Buds[i]>=60) & (dat.mat$Percent.Flowers[i]<=40) & (dat.mat$Percent.Flowers[i]>=10) & (dat.mat$Percent.Fruit[i]<10)){dat.mat$Phenophase[i]=2} else{
-      if((dat.mat$Percent.Buds[i]<=60) & (dat.mat$Percent.Buds[i]>=35) & (dat.mat$Percent.Flowers[i]<=65) & (dat.mat$Percent.Flowers[i]>=35) & (dat.mat$Percent.Fruit[i]<15)){dat.mat$Phenophase[i]=3} else{
+    if((dat.mat$Percent.Buds[i]<=90) & (dat.mat$Percent.Buds[i]>=60) & (dat.mat$Percent.Flowers[i]<=40) & (dat.mat$Percent.Flowers[i]>=10) & (dat.mat$Percent.Fruit[i]<10)){dat.mat$Phenophase[i]=2} else{ 
+      if((dat.mat$Percent.Buds[i]<=60) & (dat.mat$Percent.Buds[i]>=35) & (dat.mat$Percent.Flowers[i]<=65) & (dat.mat$Percent.Flowers[i]>=35) & (dat.mat$Percent.Fruit[i]<15)){dat.mat$Phenophase[i]=3} else{ 
          if((dat.mat$Percent.Buds[i]<20) & (dat.mat$Percent.Flowers[i]>=70) & (dat.mat$Percent.Fruit[i]<20)){dat.mat$Phenophase[i]=5} else {
            if((dat.mat$Percent.Buds[i]<=40) & (dat.mat$Percent.Buds[i]>=10) & (dat.mat$Percent.Flowers[i]<=70) & (dat.mat$Percent.Flowers[i]>=40) & (dat.mat$Percent.Fruit[i]<=30) & (dat.mat$Percent.Fruit[i]>=10)){ dat.mat$Phenophase[i]=4} else {
               if((dat.mat$Percent.Buds[i]<15) & (dat.mat$Percent.Flowers[i]<=80) & (dat.mat$Percent.Flowers[i]>=50) & (dat.mat$Percent.Fruit[i]<=50) & (dat.mat$Percent.Fruit[i]>=20)){ dat.mat$Phenophase[i]=6} else {

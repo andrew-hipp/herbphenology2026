@@ -85,6 +85,3 @@ dat.mat$hyb[grep("×", dat.mat$DeterminationCalcFullName)] <- T
 
 write.csv(dat.mat, 'out/dat.mat.cleaned.csv')
 rm(i, temp, temp.rowsExclude, colsToUse)
-
-
-

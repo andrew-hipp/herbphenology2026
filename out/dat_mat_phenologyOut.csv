@@ -1,9 +1,9 @@
 "","SpecimenAccession","SpecimenBarcode","DeterminationCalcFullName","Chicago.Native","Countinent.of.origin","Collectors","CollectorNumber","Day","Month","Year","LocalityNotes","Accounted.for","Buds","Flowers","Fruits","Notes","Percent.Buds","Percent.Flowers","Percent.Fruit","doy","spClean","cult","hyb","Phenophase"
 "74187","74187","0071424MOR","Tilia",NA,NA,"Podrasky, N","1323V87",8,7,1987,"[IL Tree Trail]","Yes",0,0,24,NA,0,0,100,189,"Tilia",FALSE,FALSE,9
-"89954","89954","0071423MOR","Tilia",NA,NA,"Klock, K","2769V89",13,7,1989,"[D-65/95-80]","Yes",0,1,16,NA,0,5.88235294117647,94.1176470588235,194,"Tilia",FALSE,FALSE,9
+"89954","89954","0071423MOR","Tilia",NA,NA,"Klock, K","2769V89",13,7,1989,"[D-65/95-80]","Yes",0,1,16,NA,0,5.88235294117647,94.1176470588235,194,"Tilia",FALSE,FALSE,8
 "137468","137468","0071422MOR","Tilia",NA,NA,"Packard, S","8205V97",4,8,1997,"Ozark Collection, w.side, [T-26/07-35]","Yes",0,0,3,NA,0,0,100,216,"Tilia",FALSE,FALSE,9
 "186495","186495","0098809MOR","Tilia 'Harvest Gold'",NA,NA,"Beck, J","16025v18",4,10,2018,"Parking 33: L-33/19-57","Yes",0,0,2,NA,0,0,100,277,"Tilia 'Harvest",TRUE,FALSE,9
-"187352","187352","0098531MOR","Tilia 'Harvest Gold'",NA,NA,"Courtney, C","16267v19",12,7,2019,"Parking 33: L-33/19-57","Yes",0,35,20,NA,0,63.6363636363636,36.3636363636364,193,"Tilia 'Harvest",TRUE,FALSE,6
+"187352","187352","0098531MOR","Tilia 'Harvest Gold'",NA,NA,"Courtney, C","16267v19",12,7,2019,"Parking 33: L-33/19-57","Yes",0,35,20,NA,0,63.6363636363636,36.3636363636364,193,"Tilia 'Harvest",TRUE,FALSE,NA
 "66481","66481","0055197MOR","Tilia 'Redmond'",NA,NA,"Podrasky, N","292V84",21,6,1984,"J-45/10-35.","Yes",7,52,7,NA,10.6060606060606,78.7878787878788,10.6060606060606,173,"Tilia 'Redmond'",TRUE,FALSE,5
 "73911","73911","0055206MOR","Tilia 'Redmond'",NA,NA,"Podrasky, N","1429V87",25,7,1987,"Ground cover collection: J-45/12-37","Yes",0,0,2,NA,0,0,100,206,"Tilia 'Redmond'",TRUE,FALSE,9
 "73924","73924","0055199MOR","Tilia 'Redmond'",NA,NA,"Podrasky, N","1436V87",25,7,1987,"Ground cover collection: J-46/29-36","Yes",0,0,12,NA,0,0,100,206,"Tilia 'Redmond'",TRUE,FALSE,9
@@ -21,7 +21,7 @@
 "152195","152195","0055196MOR","Tilia 'Redmond'",NA,NA,"Packard, S","9256V01",19,6,2001,"Fragrance Garden: JJ-25","Yes",6,12,10,NA,21.4285714285714,42.8571428571429,35.7142857142857,170,"Tilia 'Redmond'",TRUE,FALSE,NA
 "155777","155777","0045009MOR","Tilia 'Redmond'",NA,NA,"Stephens, M","12",25,6,2003,"Tree Evaluation Plot, D-102/32-79","Yes",12,24,0,NA,33.3333333333333,66.6666666666667,0,176,"Tilia 'Redmond'",TRUE,FALSE,NA
 "183462","183462","0092284MOR","Tilia 'Redmond'",NA,NA,"Madden, ME","14919v16",13,6,2016,"Ground Cover Garden: J-45/22-92","Yes",16,13,0,NA,55.1724137931034,44.8275862068966,0,165,"Tilia 'Redmond'",TRUE,FALSE,3
-"188464","188464","0100250MOR","Tilia 'Redmond'",NA,NA,"Worcester, L","LW 453",20,6,2020,"Fragrance Garden: JJ-25/82-38","Yes",73,38,0,NA,65.7657657657658,34.2342342342342,0,172,"Tilia 'Redmond'",TRUE,FALSE,2
+"188464","188464","0100250MOR","Tilia 'Redmond'",NA,NA,"Worcester, L","LW 453",20,6,2020,"Fragrance Garden: JJ-25/82-38","Yes",73,38,0,NA,65.7657657657658,34.2342342342342,0,172,"Tilia 'Redmond'",TRUE,FALSE,3
 "62459","62459","0049549MOR","Tilia × euchlora K.Koch",NA,NA,"Hess, WJ","6251",9,9,1986,"N-38/10-10","Yes",0,0,11,NA,0,0,100,252,"Tilia ×",FALSE,TRUE,9
 "106266","106266","0049551MOR","Tilia × euchlora K.Koch",NA,NA,"Packard, S","5467V92",1,9,1992,"Rosaceae Collection, D-64/64-93","Yes",0,0,24,NA,0,0,100,245,"Tilia ×",FALSE,TRUE,9
 "107201","107201","0049550MOR","Tilia × euchlora K.Koch",NA,NA,"Altvatter, K","5512V92",9,10,1992,"Display Collection, B-48/45-35","Yes",0,0,23,NA,0,0,100,283,"Tilia ×",FALSE,TRUE,9
@@ -72,16 +72,16 @@
 "112864","112864","0049483MOR","Tilia chinensis Maxim.",NA,NA,"Bradtke, HL","5891V93",23,6,1993,"Tilia Collection, U-55/40-55","Yes",91,19,0,NA,82.7272727272727,17.2727272727273,0,174,"Tilia chinensis",FALSE,FALSE,2
 "120577","120577","0049482MOR","Tilia chinensis Maxim.",NA,NA,"Packard, S","6718V94",16,8,1994,"Tilia Collection, AA-52/25-05","Yes",0,0,12,NA,0,0,100,228,"Tilia chinensis",FALSE,FALSE,9
 "122218","122218","0049481MOR","Tilia chinensis Maxim.",NA,NA,"Altvatter, K","6795V94",25,8,1994,"Tiliaceae Collection, U-55/35-25","Yes",0,0,21,NA,0,0,100,237,"Tilia chinensis",FALSE,FALSE,9
-"158514","158514","0050088MOR","Tilia chinensis Maxim.",NA,NA,"Vogel, S","9702V03",30,6,2003,"Tilia, north section: AA-52/25-05","Yes",117,68,0,NA,63.2432432432432,36.7567567567568,0,181,"Tilia chinensis",FALSE,FALSE,2
+"158514","158514","0050088MOR","Tilia chinensis Maxim.",NA,NA,"Vogel, S","9702V03",30,6,2003,"Tilia, north section: AA-52/25-05","Yes",117,68,0,NA,63.2432432432432,36.7567567567568,0,181,"Tilia chinensis",FALSE,FALSE,3
 "188449","188449","0099840MOR","Tilia chinensis Maxim.",NA,NA,"Worcester, L","LW235",2,7,2018,"Hatch Meadow: CC-41/54-11","Yes",0,0,28,NA,0,0,100,183,"Tilia chinensis",FALSE,FALSE,9
 "193013","193013","0109214MOR","Tilia cordata 'Corzam'",NA,NA,"Potenberg, K","18549v24",22,8,2024,"Firefly Pond: G-43/45-38","Yes",0,0,6,NA,0,0,100,235,"Tilia cordata",TRUE,FALSE,9
 "120627","120627","0050018MOR","Tilia cordata 'Greenspire'",NA,NA,"Carlino, J","6734V94",16,8,1994,"Row 11 in Tree Evaluation Plot, E-96/Area","Yes",0,0,4,NA,0,0,100,228,"Tilia cordata",TRUE,FALSE,9
-"158959","158959","0051420MOR","Tilia cordata 'Greenspire'",NA,NA,"Packard, S","9701V03",30,6,2003,"Tilia, north section: Z-51/35-35","Yes",41,101,2,NA,28.4722222222222,70.1388888888889,1.38888888888889,181,"Tilia cordata",TRUE,FALSE,NA
+"158959","158959","0051420MOR","Tilia cordata 'Greenspire'",NA,NA,"Packard, S","9701V03",30,6,2003,"Tilia, north section: Z-51/35-35","Yes",41,101,2,NA,28.4722222222222,70.1388888888889,1.38888888888889,181,"Tilia cordata",TRUE,FALSE,5
 "179435","179435","0076037MOR","Tilia cordata 'Greenspire'",NA,NA,"Means, E","14250v14",24,7,2014,"Meadow Lake: N-51/83-98","Yes",0,0,18,NA,0,0,100,205,"Tilia cordata",TRUE,FALSE,9
 "142755","142755","0050016MOR","Tilia cordata 'Handsworth'",NA,NA,"Kirt, S","8559V98",28,6,1998,"Tilia, s. section, X-55/15-25","Yes",0,7,59,NA,0,10.6060606060606,89.3939393939394,179,"Tilia cordata",TRUE,FALSE,8
-"28021","28021","0049492MOR","Tilia cordata Mill.",NA,NA,"Teuscher, H","s.n.",16,7,1924,NA,"Yes",35,60,0,NA,36.8421052631579,63.1578947368421,0,198,"Tilia cordata",FALSE,FALSE,3
+"28021","28021","0049492MOR","Tilia cordata Mill.",NA,NA,"Teuscher, H","s.n.",16,7,1924,NA,"Yes",35,60,0,NA,36.8421052631579,63.1578947368421,0,198,"Tilia cordata",FALSE,FALSE,NA
 "28025","28025","0049527MOR","Tilia cordata Mill.",NA,NA,"Read, RW","433",2,7,1970,"Tilia Collection, X-56/15-35","Yes",0,0,31,NA,0,0,100,183,"Tilia cordata",FALSE,FALSE,9
-"28026","28026","0049489MOR","Tilia cordata Mill.",NA,NA,"Read, RW","432",2,7,1970,"Tilia Collection; Y-56/00-00","Yes",0,7,20,NA,0,25.9259259259259,74.0740740740741,183,"Tilia cordata",FALSE,FALSE,8
+"28026","28026","0049489MOR","Tilia cordata Mill.",NA,NA,"Read, RW","432",2,7,1970,"Tilia Collection; Y-56/00-00","Yes",0,7,20,NA,0,25.9259259259259,74.0740740740741,183,"Tilia cordata",FALSE,FALSE,7
 "32416","32416","0049493MOR","Tilia cordata Mill.",NA,NA,"Hess, WJ","4397",8,7,1978,"Display group just east of greenhouses and SE from the Administration Building near C-44.","Yes",2,162,14,NA,1.12359550561798,91.0112359550562,7.86516853932584,189,"Tilia cordata",FALSE,FALSE,5
 "36814","36814","0049528MOR","Tilia cordata Mill.",NA,NA,"Anderson, B","7911",6,7,1979,"Tilia Collection, X-56/50-40, east side of road.","Yes",0,0,4,NA,0,0,100,187,"Tilia cordata",FALSE,FALSE,9
 "36815","36815","0049532MOR","Tilia cordata Mill.",NA,NA,"Anderson, B","7916",6,7,1979,"Tilia Collection, W-56/80-35, east side of road.","Yes",0,9,9,NA,0,50,50,187,"Tilia cordata",FALSE,FALSE,6
@@ -100,7 +100,7 @@
 "79967","79967","0049491MOR","Tilia cordata Mill.",NA,NA,"Podrasky, N","2094V88",22,6,1988,"Near Meadow Lake; S-47/60-50.","Yes",7,2,0,NA,77.7777777777778,22.2222222222222,0,174,"Tilia cordata",FALSE,FALSE,2
 "80695","80695","0049499MOR","Tilia cordata Mill.",NA,NA,"Hess, WJ","2174V88",26,7,1988,"Central and Western Asia Collection; DD-68/20-77","Yes",0,0,14,NA,0,0,100,208,"Tilia cordata",FALSE,FALSE,9
 "89771","89771","0049504MOR","Tilia cordata Mill.",NA,NA,"Packard, S","2794V89",25,7,1989,"Tiliaceae Collection; Y-55/65-90","Yes",0,0,53,NA,0,0,100,206,"Tilia cordata",FALSE,FALSE,9
-"92587","92587","0049495MOR","Tilia cordata Mill.",NA,NA,"Klock, K","3557V90",29,6,1990,"Near Administration Building; H-40/area.","Yes",2,146,55,NA,0.985221674876847,71.9211822660099,27.0935960591133,180,"Tilia cordata",FALSE,FALSE,6
+"92587","92587","0049495MOR","Tilia cordata Mill.",NA,NA,"Klock, K","3557V90",29,6,1990,"Near Administration Building; H-40/area.","Yes",2,146,55,NA,0.985221674876847,71.9211822660099,27.0935960591133,180,"Tilia cordata",FALSE,FALSE,5
 "93844","93844","0049535MOR","Tilia cordata Mill.",NA,NA,"Shimp, E","3791V90",1,8,1990,"Godshalk Meadow, L-35/22-10","Yes",0,0,24,NA,0,0,100,213,"Tilia cordata",FALSE,FALSE,9
 "94029","94029","0049533MOR","Tilia cordata Mill.",NA,NA,"Packard, S","3654V90",17,7,1990,"Tilia Collection, X-56/50-40","Yes",0,0,38,NA,0,0,100,198,"Tilia cordata",FALSE,FALSE,9
 "94431","94431","0049542MOR","Tilia cordata Mill.",NA,NA,"Shimp, E","3827V90",7,8,1990,"Southern European Collection, W-35/29-68","Yes",0,0,22,NA,0,0,100,219,"Tilia cordata",FALSE,FALSE,9
@@ -110,10 +110,10 @@
 "98625","98625","0049537MOR","Tilia cordata Mill.",NA,NA,"Packard, S","4855V91",6,8,1991,"Tiliaceae Collection, AA-54/80-55","Yes",0,0,6,NA,0,0,100,218,"Tilia cordata",FALSE,FALSE,9
 "105393","105393","0049538MOR","Tilia cordata Mill.",NA,NA,"Packard, S","5374V92",28,7,1992,"Central Europe Collection, Y-32/53-85","Yes",0,0,8,NA,0,0,100,210,"Tilia cordata",FALSE,FALSE,9
 "105394","105394","0049539MOR","Tilia cordata Mill.",NA,NA,"Packard, S","5372V92",28,7,1992,"Central Europe Collection, BB-31/27-54","Yes",0,0,29,NA,0,0,100,210,"Tilia cordata",FALSE,FALSE,9
-"112816","112816","0049509MOR","Tilia cordata Mill.",NA,NA,"Bradtke, HL","5898V93",23,6,1993,"Tilia Collection, W-56/45-25","Yes",16,39,4,NA,27.1186440677966,66.1016949152542,6.77966101694915,174,"Tilia cordata",FALSE,FALSE,NA
-"112843","112843","0049541MOR","Tilia cordata Mill.",NA,NA,"Bradtke, HL","5894V93",23,6,1993,"Tilia Collection, W-57/30-15","Yes",23,80,5,NA,21.2962962962963,74.0740740740741,4.62962962962963,174,"Tilia cordata",FALSE,FALSE,NA
+"112816","112816","0049509MOR","Tilia cordata Mill.",NA,NA,"Bradtke, HL","5898V93",23,6,1993,"Tilia Collection, W-56/45-25","Yes",16,39,4,NA,27.1186440677966,66.1016949152542,6.77966101694915,174,"Tilia cordata",FALSE,FALSE,5
+"112843","112843","0049541MOR","Tilia cordata Mill.",NA,NA,"Bradtke, HL","5894V93",23,6,1993,"Tilia Collection, W-57/30-15","Yes",23,80,5,NA,21.2962962962963,74.0740740740741,4.62962962962963,174,"Tilia cordata",FALSE,FALSE,5
 "112876","112876","0049540MOR","Tilia cordata Mill.",NA,NA,"Altvatter, K","5878V93",22,6,1993,"Tilia Collection, X-56/15-35","Yes",79,153,3,NA,33.6170212765957,65.1063829787234,1.27659574468085,173,"Tilia cordata",FALSE,FALSE,NA
-"112877","112877","0049516MOR","Tilia cordata Mill.",NA,NA,"Altvatter, K","5877V93",22,6,1993,"Tilia Collection, X-56/50-40","Yes",16,52,0,NA,23.5294117647059,76.4705882352941,0,173,"Tilia cordata",FALSE,FALSE,NA
+"112877","112877","0049516MOR","Tilia cordata Mill.",NA,NA,"Altvatter, K","5877V93",22,6,1993,"Tilia Collection, X-56/50-40","Yes",16,52,0,NA,23.5294117647059,76.4705882352941,0,173,"Tilia cordata",FALSE,FALSE,5
 "114282","114282","0049517MOR","Tilia cordata Mill.",NA,NA,"Packard, S","6085V93",3,8,1993,"Administration Building, H-40/Area","Yes",0,0,5,NA,0,0,100,215,"Tilia cordata",FALSE,FALSE,9
 "119775","119775","0049515MOR","Tilia cordata Mill.",NA,NA,"Altvatter, K","6567V94",16,6,1994,"Tilia Collection, Z-53/76-53","Yes",2,10,1,NA,15.3846153846154,76.9230769230769,7.69230769230769,167,"Tilia cordata",FALSE,FALSE,5
 "119781","119781","0049507MOR","Tilia cordata Mill.",NA,NA,"Packard, S","6559V94",14,6,1994,"Fragrance Garden, LL-25/area","Yes",16,6,0,NA,72.7272727272727,27.2727272727273,0,165,"Tilia cordata",FALSE,FALSE,2
@@ -128,9 +128,9 @@
 "142081","142081","0049488MOR","Tilia cordata Mill.",NA,NA,"DeMink, L","s.n.",31,7,1998,"Hamamelidales Collection; U-50/10-30","Yes",0,0,17,NA,0,0,100,212,"Tilia cordata",FALSE,FALSE,9
 "143725","143725","0049508MOR","Tilia cordata Mill.",NA,NA,"Bolger, K","8790V99",25,5,1999,"Central & West Asia, north section, DD-68/20-77.","Yes",15,0,0,NA,100,0,0,145,"Tilia cordata",FALSE,FALSE,1
 "144047","144047","0049506MOR","Tilia cordata Mill.",NA,NA,"Packard, S","8950V99",26,7,1999,"Fragrance Garden, JJ-25/Area","Yes",0,0,7,NA,0,0,100,207,"Tilia cordata",FALSE,FALSE,9
-"155779","155779","0040854MOR","Tilia cordata Mill.",NA,NA,"Stephens, M","3",30,6,2003,"Balkan collection, N section; JJ-73/42-58","Yes",67,34,0,NA,66.3366336633663,33.6633663366337,0,181,"Tilia cordata",FALSE,FALSE,2
+"155779","155779","0040854MOR","Tilia cordata Mill.",NA,NA,"Stephens, M","3",30,6,2003,"Balkan collection, N section; JJ-73/42-58","Yes",67,34,0,NA,66.3366336633663,33.6633663366337,0,181,"Tilia cordata",FALSE,FALSE,3
 "155986","155986","0042350MOR","Tilia cordata Mill.",NA,NA,"Packard, S","9626V02",20,8,2002,"Godshalk Meadow, N side; M-30/65-60","Yes",0,0,26,NA,0,0,100,232,"Tilia cordata",FALSE,FALSE,9
-"158960","158960","0051419MOR","Tilia cordata Mill.",NA,NA,"Packard, S","9703V03",30,6,2003,"Tilia, north section; AA-53/16-97","Yes",9,30,51,NA,10,33.3333333333333,56.6666666666667,181,"Tilia cordata",FALSE,FALSE,NA
+"158960","158960","0051419MOR","Tilia cordata Mill.",NA,NA,"Packard, S","9703V03",30,6,2003,"Tilia, north section; AA-53/16-97","Yes",9,30,51,NA,10,33.3333333333333,56.6666666666667,181,"Tilia cordata",FALSE,FALSE,6
 "163488","163488","0052868MOR","Tilia cordata Mill.",NA,NA,"Penny, W","10627V07",9,8,2007,"Central & Western Asia, north section: EE-69/09-29","Yes",0,0,28,NA,0,0,100,221,"Tilia cordata",FALSE,FALSE,9
 "171246","171246","0056320MOR","Tilia cordata Mill.",NA,NA,"Ball, K","12304v10",15,6,2010,"Tilia, north section: X-55/62-90","Yes",11,50,0,NA,18.0327868852459,81.9672131147541,0,166,"Tilia cordata",FALSE,FALSE,5
 "171355","171355","0056270MOR","Tilia cordata Mill.",NA,NA,"Keller, M","12305v10",15,6,2010,"Central Europe: Y-32/40-69","Yes",1,2,0,NA,33.3333333333333,66.6666666666667,0,166,"Tilia cordata",FALSE,FALSE,NA
@@ -147,11 +147,11 @@
 "183123","183123","0091047MOR","Tilia cordata Mill.",NA,NA,"Means, E","14932v16",16,6,2016,"Godshalk Meadow: M-30/65-60.","Yes",30,61,0,NA,32.967032967033,67.032967032967,0,168,"Tilia cordata",FALSE,FALSE,NA
 "188242","188242","0099473MOR","Tilia cordata Mill.",NA,NA,"Moran, E","16228v19",26,6,2019,"Central Europe: Y-32/40-69","Yes",39,33,0,NA,54.1666666666667,45.8333333333333,0,177,"Tilia cordata",FALSE,FALSE,3
 "27961","27961","0049484MOR","Tilia cordata Mill. subsp. cordata",NA,NA,"Ciolac, C","s.n.",9,7,1969,"Along DuPage River.","Yes",1,52,3,NA,1.78571428571429,92.8571428571429,5.35714285714286,190,"Tilia cordata",FALSE,FALSE,5
-"36817","36817","0049485MOR","Tilia cordata Mill. subsp. cordata",NA,NA,"Anderson, B","7918",6,7,1979,"Tilia Collection; W-54/00-80","Yes",0,31,12,NA,0,72.093023255814,27.906976744186,187,"Tilia cordata",FALSE,FALSE,6
-"63399","63399","0049548MOR","Tilia cordata Mill. subsp. cordata",NA,NA,"Podrasky, N","717V86",23,6,1986,"Near west cloverleaf, N-38/10-10.","Yes",1,13,5,NA,5.26315789473684,68.421052631579,26.3157894736842,174,"Tilia cordata",FALSE,FALSE,6
+"36817","36817","0049485MOR","Tilia cordata Mill. subsp. cordata",NA,NA,"Anderson, B","7918",6,7,1979,"Tilia Collection; W-54/00-80","Yes",0,31,12,NA,0,72.093023255814,27.906976744186,187,"Tilia cordata",FALSE,FALSE,5
+"63399","63399","0049548MOR","Tilia cordata Mill. subsp. cordata",NA,NA,"Podrasky, N","717V86",23,6,1986,"Near west cloverleaf, N-38/10-10.","Yes",1,13,5,NA,5.26315789473684,68.421052631579,26.3157894736842,174,"Tilia cordata",FALSE,FALSE,5
 "93112","93112","0049479MOR","Tilia cordata Mill. subsp. cordata",NA,NA,"Packard, S","3650V90",17,7,1990,"Tilia, U-55/40-55","Yes",0,0,46,NA,0,0,100,198,"Tilia cordata",FALSE,FALSE,9
 "93263","93263","0049480MOR","Tilia cordata Mill. subsp. cordata",NA,NA,"Packard, S","3651V90",17,7,1990,"Tilia, U-55/35-25","Yes",0,0,54,NA,0,0,100,198,"Tilia cordata",FALSE,FALSE,9
-"155786","155786","0040419MOR","Tilia cordata Mill. subsp. cordata",NA,NA,"Stephens, M","9",27,6,2003,"Southwest Cloverleaf, N-38/10-10","Yes",109,50,0,NA,68.5534591194968,31.4465408805031,0,178,"Tilia cordata",FALSE,FALSE,2
+"155786","155786","0040419MOR","Tilia cordata Mill. subsp. cordata",NA,NA,"Stephens, M","9",27,6,2003,"Southwest Cloverleaf, N-38/10-10","Yes",109,50,0,NA,68.5534591194968,31.4465408805031,0,178,"Tilia cordata",FALSE,FALSE,3
 "155787","155787","0040420MOR","Tilia cordata Mill. subsp. cordata",NA,NA,"Stephens, M","10",30,6,2003,"Southwest Cloverleaf, N-38/10-10","Yes",37,149,0,NA,19.8924731182796,80.1075268817204,0,181,"Tilia cordata",FALSE,FALSE,5
 "187834","187834","0099156MOR","Tilia cordata Mill. subsp. cordata",NA,NA,"Worcester, L","LW280",3,8,2018,"Central Europe: Y-32/40-69","Yes",0,0,23,NA,0,0,100,215,"Tilia cordata",FALSE,FALSE,9
 "195720","195720",NA,"Tilia cordata Mill. subsp. cordata",NA,NA,"Dorrell, J","19028v25",23,10,2025,"Europe: DD-34/30-06","Yes",0,0,4,NA,0,0,100,296,"Tilia cordata",FALSE,FALSE,9
@@ -165,12 +165,12 @@
 "195743","195743",NA,"Tilia dasystyla subsp. caucasica (V.Engl.) Pigott",NA,NA,"Dorrell, J","19020v25",23,10,2025,"Europe: Z-34/43-75","Yes",0,0,3,NA,0,0,100,296,"Tilia dasystyla",FALSE,FALSE,9
 "145616","145616","0049566MOR","Tilia henryana Szyszyl.",NA,NA,"Ayers, G","8925V99",11,7,1999,"Potted plant in Research Building.","Yes",179,30,0,NA,85.6459330143541,14.3540669856459,0,192,"Tilia henryana",FALSE,FALSE,2
 "34701","34701","0049564MOR","Tilia amurensis subsp. amurensis",NA,NA,"Hess, WJ","4442",6,10,1978,"East side of Arboretum near DuPage River, Y-55/area.","Yes",0,0,24,NA,0,0,100,279,"Tilia amurensis",FALSE,FALSE,9
-"74185","74185","0050026MOR","Tilia amurensis subsp. amurensis",NA,NA,"Podrasky, N","1311V87",7,7,1987,"Tiliaceae: Y-55/85-55","Yes",79,41,2,NA,64.7540983606557,33.6065573770492,1.63934426229508,188,"Tilia amurensis",FALSE,FALSE,2
+"74185","74185","0050026MOR","Tilia amurensis subsp. amurensis",NA,NA,"Podrasky, N","1311V87",7,7,1987,"Tiliaceae: Y-55/85-55","Yes",79,41,2,NA,64.7540983606557,33.6065573770492,1.63934426229508,188,"Tilia amurensis",FALSE,FALSE,3
 "120600","120600","0049565MOR","Tilia amurensis subsp. amurensis",NA,NA,"Packard, S","6726V94",16,8,1994,"Tilia Collection, Y-55/89-51","Yes",0,0,37,NA,0,0,100,228,"Tilia amurensis",FALSE,FALSE,9
 "122246","122246","0049563MOR","Tilia amurensis subsp. amurensis",NA,NA,"Hess, WJ","6808V94",30,8,1994,"Tiliaceae Collection, Y-55/89-51","Yes",0,0,32,NA,0,0,100,242,"Tilia amurensis",FALSE,FALSE,9
-"36811","36811","0050028MOR","Tilia japonica (Miq.) Simonk.",NA,NA,"Hess, WJ","4762",10,7,1979,"Tilia Collection, east of road, V-55/2-7.5","Yes",0,11,38,NA,0,22.4489795918367,77.5510204081633,191,"Tilia japonica",FALSE,FALSE,8
-"36825","36825","0049561MOR","Tilia japonica (Miq.) Simonk.",NA,NA,"Hess, WJ","4406",26,7,1978,"Linden collection by DuPage River at Z-55/90-90.","Yes",3,42,154,NA,1.50753768844221,21.105527638191,77.3869346733668,207,"Tilia japonica",FALSE,FALSE,8
-"36826","36826","0049562MOR","Tilia japonica (Miq.) Simonk.",NA,NA,"Hess, WJ","4405",25,7,1978,"Korean group near R-63.","Yes",25,70,79,NA,14.367816091954,40.2298850574713,45.4022988505747,206,"Tilia japonica",FALSE,FALSE,NA
+"36811","36811","0050028MOR","Tilia japonica (Miq.) Simonk.",NA,NA,"Hess, WJ","4762",10,7,1979,"Tilia Collection, east of road, V-55/2-7.5","Yes",0,11,38,NA,0,22.4489795918367,77.5510204081633,191,"Tilia japonica",FALSE,FALSE,7
+"36825","36825","0049561MOR","Tilia japonica (Miq.) Simonk.",NA,NA,"Hess, WJ","4406",26,7,1978,"Linden collection by DuPage River at Z-55/90-90.","Yes",3,42,154,NA,1.50753768844221,21.105527638191,77.3869346733668,207,"Tilia japonica",FALSE,FALSE,7
+"36826","36826","0049562MOR","Tilia japonica (Miq.) Simonk.",NA,NA,"Hess, WJ","4405",25,7,1978,"Korean group near R-63.","Yes",25,70,79,NA,14.367816091954,40.2298850574713,45.4022988505747,206,"Tilia japonica",FALSE,FALSE,6
 "36828","36828","0049477MOR","Tilia japonica (Miq.) Simonk.",NA,NA,"Hess, WJ","4763",10,7,1979,"Tilia Collection, U-55/00-10, east of road.","Yes",0,3,3,NA,0,50,50,191,"Tilia japonica",FALSE,FALSE,6
 "74186","74186","0050027MOR","Tilia japonica (Miq.) Simonk.",NA,NA,"Podrasky, N","1309V87",7,7,1987,"Tiliaceae collection Z-55/30-00","Yes",25,26,2,NA,47.1698113207547,49.0566037735849,3.77358490566038,188,"Tilia japonica",FALSE,FALSE,3
 "93283","93283","0050025MOR","Tilia japonica (Miq.) Simonk.",NA,NA,"Packard, S","3655V90",17,7,1990,"Z-55/30-00","Yes",113,148,18,NA,40.5017921146953,53.0465949820789,6.45161290322581,198,"Tilia japonica",FALSE,FALSE,3
@@ -187,23 +187,23 @@
 "89846","89846","0050029MOR","Tilia maximowicziana Shiras.",NA,NA,"Packard, S","2793V89",25,7,1989,"Tiliaceae collection Z-55/area","Yes",0,0,7,NA,0,0,100,206,"Tilia maximowicziana",FALSE,FALSE,9
 "28122","28122","0071270MOR","Tilia mongolica Maxim.",NA,NA,"Lesica, P","s.n.",10,7,1972,"[Street Tree Grp]","Yes",80,76,0,NA,51.2820512820513,48.7179487179487,0,192,"Tilia mongolica",FALSE,FALSE,3
 "28123","28123","0071271MOR","Tilia mongolica Maxim.",NA,NA,"Lesica, P","s.n.",7,7,1972,"[Street Tree Grp]","Yes",93,33,0,NA,73.8095238095238,26.1904761904762,0,189,"Tilia mongolica",FALSE,FALSE,2
-"28124","28124","0071272MOR","Tilia mongolica Maxim.",NA,NA,"Ciolac, C","s.n.",10,7,1969,"[Z-54/?]","Yes",10,49,16,NA,13.3333333333333,65.3333333333333,21.3333333333333,191,"Tilia mongolica",FALSE,FALSE,4
-"36823","36823","0071269MOR","Tilia mongolica Maxim.",NA,NA,"Hess, WJ","4761",9,7,1979,"Tree Evaluation Plot, [E-96/Area]","Yes",47,30,0,NA,61.038961038961,38.961038961039,0,190,"Tilia mongolica",FALSE,FALSE,2
-"36840","36840","0049457MOR","Tilia mongolica Maxim.",NA,NA,"Hess, WJ","4748",6,7,1979,"Tilia Collection, X-57/45-30, east side of road.","Yes",55,22,7,NA,65.4761904761905,26.1904761904762,8.33333333333333,187,"Tilia mongolica",FALSE,FALSE,2
+"28124","28124","0071272MOR","Tilia mongolica Maxim.",NA,NA,"Ciolac, C","s.n.",10,7,1969,"[Z-54/?]","Yes",10,49,16,NA,13.3333333333333,65.3333333333333,21.3333333333333,191,"Tilia mongolica",FALSE,FALSE,5
+"36823","36823","0071269MOR","Tilia mongolica Maxim.",NA,NA,"Hess, WJ","4761",9,7,1979,"Tree Evaluation Plot, [E-96/Area]","Yes",47,30,0,NA,61.038961038961,38.961038961039,0,190,"Tilia mongolica",FALSE,FALSE,3
+"36840","36840","0049457MOR","Tilia mongolica Maxim.",NA,NA,"Hess, WJ","4748",6,7,1979,"Tilia Collection, X-57/45-30, east side of road.","Yes",55,22,7,NA,65.4761904761905,26.1904761904762,8.33333333333333,187,"Tilia mongolica",FALSE,FALSE,3
 "54628","54628","0071268MOR","Tilia mongolica Maxim.",NA,NA,"Stoynoff, N","s.n.",10,7,1984,"[Evaluation Plot]","Yes",149,100,0,NA,59.8393574297189,40.1606425702811,0,192,"Tilia mongolica",FALSE,FALSE,3
 "95434","95434","0050052MOR","Tilia mongolica Maxim.",NA,NA,"Packard, S","3906V90",14,8,1990,"Tilia Collection, X-37/45-30","Yes",0,0,20,NA,0,0,100,226,"Tilia mongolica",FALSE,FALSE,9
 "127877","127877","0050051MOR","Tilia mongolica Maxim.",NA,NA,"Altvatter, K","7207V95",10,7,1995,"Tree Evaluation Area, E-96/Area","Yes",23,33,0,NA,41.0714285714286,58.9285714285714,0,191,"Tilia mongolica",FALSE,FALSE,3
 "143960","143960","0050050MOR","Tilia mongolica Maxim.",NA,NA,"Philip, M","s.n.",28,6,1999,"Tilia Collection,s.section, V-54/40-85","Yes",218,42,0,NA,83.8461538461539,16.1538461538462,0,179,"Tilia mongolica",FALSE,FALSE,2
 "145619","145619","0050049MOR","Tilia mongolica Maxim.",NA,NA,"Philip, M","s.n.",28,6,1999,"China Collection, EE-65/07-11","Yes",200,24,0,NA,89.2857142857143,10.7142857142857,0,179,"Tilia mongolica",FALSE,FALSE,2
 "146187","146187","0050048MOR","Tilia mongolica Maxim.",NA,NA,"Packard, S","9063V99",13,9,1999,"China Collection, EE-65/07-11","Yes",0,0,1,NA,0,0,100,256,"Tilia mongolica",FALSE,FALSE,9
-"152545","152545","0050047MOR","Tilia mongolica Maxim.",NA,NA,"Packard, S","9278V01",10,7,2001,"Tiliaceae Collection, V-54/40-85","Yes",0,21,26,NA,0,44.6808510638298,55.3191489361702,191,"Tilia mongolica",FALSE,FALSE,7
+"152545","152545","0050047MOR","Tilia mongolica Maxim.",NA,NA,"Packard, S","9278V01",10,7,2001,"Tiliaceae Collection, V-54/40-85","Yes",0,21,26,NA,0,44.6808510638298,55.3191489361702,191,"Tilia mongolica",FALSE,FALSE,6
 "155663","155663","0045000MOR","Tilia mongolica Maxim.",NA,NA,"Hess, WJ","9711",10,8,2001,"E side, Chinese Collection; EE-65/07-11. Cultivated grounds, l'st level above DuPage River; open areas.","Yes",0,0,8,NA,0,0,100,222,"Tilia mongolica",FALSE,FALSE,9
 "167439","167439","0054191MOR","Tilia mongolica Maxim.",NA,NA,"Means, E","11263v08",21,8,2008,"Korea: P-64/84-82","Yes",0,0,60,NA,0,0,100,234,"Tilia mongolica",FALSE,FALSE,9
 "168942","168942","0054773MOR","Tilia mongolica Maxim.",NA,NA,"Potenberg, K","11885v09",29,9,2009,"China, central section: BB-65/69-97","Yes",0,0,40,NA,0,0,100,272,"Tilia mongolica",FALSE,FALSE,9
-"170404","170404","0055536MOR","Tilia mongolica Maxim.",NA,NA,"Potenberg, K","11691v09",7,7,2009,"China, north section: CC-62/18-94","Yes",172,99,0,NA,63.4686346863469,36.5313653136531,0,188,"Tilia mongolica",FALSE,FALSE,2
+"170404","170404","0055536MOR","Tilia mongolica Maxim.",NA,NA,"Potenberg, K","11691v09",7,7,2009,"China, north section: CC-62/18-94","Yes",172,99,0,NA,63.4686346863469,36.5313653136531,0,188,"Tilia mongolica",FALSE,FALSE,3
 "172905","172905","0058002MOR","Tilia mongolica Maxim.",NA,NA,"Beck, J","13039v11",8,7,2011,"China BB-65/69-97","Yes",160,157,0,NA,50.4731861198738,49.5268138801262,0,189,"Tilia mongolica",FALSE,FALSE,3
 "176995","176995","0064037MOR","Tilia mongolica Maxim.",NA,NA,"Glaysher, L","13907v13",25,7,2013,"Korea: T-67/28-19","Yes",0,0,47,NA,0,0,100,206,"Tilia mongolica",FALSE,FALSE,9
-"176996","176996","0064038MOR","Tilia mongolica Maxim.",NA,NA,"Beck, J","13908v13",25,7,2013,"Korea: T-66/53-91","Yes",0,3,31,NA,0,8.82352941176471,91.1764705882353,206,"Tilia mongolica",FALSE,FALSE,9
+"176996","176996","0064038MOR","Tilia mongolica Maxim.",NA,NA,"Beck, J","13908v13",25,7,2013,"Korea: T-66/53-91","Yes",0,3,31,NA,0,8.82352941176471,91.1764705882353,206,"Tilia mongolica",FALSE,FALSE,8
 "181667","181667","0083884MOR","Tilia mongolica Maxim.",NA,NA,"Potenberg, K","14536v15",28,7,2015,"China: DD-64/09-00","Yes",0,0,2,NA,0,0,100,209,"Tilia mongolica",FALSE,FALSE,9
 "188231","188231","0099484MOR","Tilia mongolica Maxim.",NA,NA,"DeVries, C","16168v19",5,6,2019,"East Tilia: P-89/07-01","Yes",51,0,0,NA,100,0,0,156,"Tilia mongolica",FALSE,FALSE,1
 "34698","34698","0049453MOR","Tilia oliveri Szyszyl.",NA,NA,"Hess, WJ","4447",6,10,1978,"Tilia Collection, X-56/Area, on the east side near the DuPage River.","Yes",0,0,11,NA,0,0,100,279,"Tilia oliveri",FALSE,FALSE,9
@@ -211,16 +211,16 @@
 "36846","36846","0049456MOR","Tilia oliveri Szyszyl.",NA,NA,"Anderson, B","7913",6,7,1979,"Tilia Collection, X-55/15-55, east side of road.","Yes",0,0,10,NA,0,0,100,187,"Tilia oliveri",FALSE,FALSE,9
 "93265","93265","0049459MOR","Tilia oliveri Szyszyl.",NA,NA,"Packard, S","3652V90",17,7,1990,"Tilia, X-55/15-55","Yes",0,0,32,NA,0,0,100,198,"Tilia oliveri",FALSE,FALSE,9
 "94005","94005","0049450MOR","Tilia oliveri Szyszyl.",NA,NA,"Terrien, D","3653V90",17,7,1990,"Tilia, south section: X-56/00-00","Yes",0,0,24,NA,0,0,100,198,"Tilia oliveri",FALSE,FALSE,9
-"97888","97888","0071267MOR","Tilia oliveri Szyszyl.",NA,NA,"Altvatter, K","4705V91",20,6,1991,"Chinese Collection, [AA-65/59-44]","Yes",0,1,4,NA,0,20,80,171,"Tilia oliveri",FALSE,FALSE,8
-"112867","112867","0049461MOR","Tilia oliveri Szyszyl.",NA,NA,"Altvatter, K","5887V93",22,6,1993,"Tilia Collection, V-55/15-55","Yes",13,44,6,NA,20.6349206349206,69.8412698412698,9.52380952380952,173,"Tilia oliveri",FALSE,FALSE,NA
+"97888","97888","0071267MOR","Tilia oliveri Szyszyl.",NA,NA,"Altvatter, K","4705V91",20,6,1991,"Chinese Collection, [AA-65/59-44]","Yes",0,1,4,NA,0,20,80,171,"Tilia oliveri",FALSE,FALSE,7
+"112867","112867","0049461MOR","Tilia oliveri Szyszyl.",NA,NA,"Altvatter, K","5887V93",22,6,1993,"Tilia Collection, V-55/15-55","Yes",13,44,6,NA,20.6349206349206,69.8412698412698,9.52380952380952,173,"Tilia oliveri",FALSE,FALSE,5
 "112875","112875","0049460MOR","Tilia oliveri Szyszyl.",NA,NA,"Altvatter, K","5879V93",22,6,1993,"Tilia, south section: X-56/00-00","Yes",3,85,16,NA,2.88461538461538,81.7307692307692,15.3846153846154,173,"Tilia oliveri",FALSE,FALSE,5
 "120597","120597","0049449MOR","Tilia oliveri Szyszyl.",NA,NA,"Packard, S","6723V94",16,8,1994,"Tilia, north section: AA-54/26-29","Yes",0,0,10,NA,0,0,100,228,"Tilia oliveri",FALSE,FALSE,9
 "142716","142716","0049451MOR","Tilia oliveri Szyszyl.",NA,NA,"Kirt, S","8532V98",15,6,1998,"Northeast Asia: CC-41/54-11","Yes",10,17,2,NA,34.4827586206897,58.6206896551724,6.89655172413793,166,"Tilia oliveri",FALSE,FALSE,NA
 "154087","154087","0049455MOR","Tilia oliveri Szyszyl.",NA,NA,"Packard, S","9286V01",17,7,2001,"Northeast Asia: CC-41/54-11","Yes",0,0,15,NA,0,0,100,198,"Tilia oliveri",FALSE,FALSE,9
 "93113","93113","0071311MOR","Tilia platyphyllos 'Laciniata'",NA,NA,"Packard, S","3649V90",17,7,1990,"Tilia: V-55","Yes",0,0,6,NA,0,0,100,198,"Tilia platyphyllos",TRUE,FALSE,9
-"112846","112846","0071315MOR","Tilia platyphyllos 'Laciniata'",NA,NA,"Bradtke, HL","5897V93",23,6,1993,"Tilia Collection, [V-55/45-30]","Yes",15,57,0,NA,20.8333333333333,79.1666666666667,0,174,"Tilia platyphyllos",TRUE,FALSE,NA
+"112846","112846","0071315MOR","Tilia platyphyllos 'Laciniata'",NA,NA,"Bradtke, HL","5897V93",23,6,1993,"Tilia Collection, [V-55/45-30]","Yes",15,57,0,NA,20.8333333333333,79.1666666666667,0,174,"Tilia platyphyllos",TRUE,FALSE,5
 "112869","112869","0071316MOR","Tilia platyphyllos 'Laciniata'",NA,NA,"Altvatter, K","5885V93",22,6,1993,"Tilia Collection, [V-55/50-15]","Yes",27,123,5,NA,17.4193548387097,79.3548387096774,3.2258064516129,173,"Tilia platyphyllos",TRUE,FALSE,5
-"112870","112870","0071309MOR","Tilia platyphyllos 'Laciniata'",NA,NA,"Altvatter, K","5884V93",22,6,1993,"Tilia Collection, [V-55/90-30]","Yes",0,16,5,NA,0,76.1904761904762,23.8095238095238,173,"Tilia platyphyllos",TRUE,FALSE,6
+"112870","112870","0071309MOR","Tilia platyphyllos 'Laciniata'",NA,NA,"Altvatter, K","5884V93",22,6,1993,"Tilia Collection, [V-55/90-30]","Yes",0,16,5,NA,0,76.1904761904762,23.8095238095238,173,"Tilia platyphyllos",TRUE,FALSE,5
 "112871","112871","0071308MOR","Tilia platyphyllos 'Laciniata'",NA,NA,"Altvatter, K","5883V93",22,6,1993,"Tilia Collection, [V-55/45-55]","Yes",13,58,3,NA,17.5675675675676,78.3783783783784,4.05405405405405,173,"Tilia platyphyllos",TRUE,FALSE,5
 "177679","177679","0065605MOR","Tilia platyphyllos 'Laciniata'",NA,NA,"Means, E","13954v13",15,8,2013,"Tilia: V-56/45-30","Yes",0,0,2,NA,0,0,100,227,"Tilia platyphyllos",TRUE,FALSE,9
 "74767","74767","0071273MOR","Tilia platyphyllos 'Orebro'",NA,NA,"Podrasky, N","1221V87",23,6,1987,"Tiliaceae Col., Morton Arb., [Z-51/50-70]","Yes",0,0,28,NA,0,0,100,174,"Tilia platyphyllos",TRUE,FALSE,9
@@ -231,10 +231,10 @@
 "28155","28155","0071276MOR","Tilia platyphyllos 'Pyramidalis'",NA,NA,"Read, RW","s.n.",15,10,1971,"[H-66/80-00]","Yes",0,0,15,NA,0,0,100,288,"Tilia platyphyllos",TRUE,FALSE,9
 "28157","28157","0071282MOR","Tilia platyphyllos 'Pyramidalis'",NA,NA,"Swink, FA","s.n.",10,6,1964,"[Street Tree Grp]","Yes",15,33,0,NA,31.25,68.75,0,162,"Tilia platyphyllos",TRUE,FALSE,NA
 "65119","65119","0071277MOR","Tilia platyphyllos 'Pyramidalis'",NA,NA,"Podrasky, N","291V84",21,6,1984,"[J-45/25-10]","Yes",0,26,58,NA,0,30.952380952381,69.047619047619,173,"Tilia platyphyllos",TRUE,FALSE,7
-"72442","72442","0060934MOR","Tilia platyphyllos 'Pyramidalis'",NA,NA,"Podrasky, N","1188V87",16,6,1987,"Ozarks: S-24/Area","Yes",0,16,51,NA,0,23.8805970149254,76.1194029850746,167,"Tilia platyphyllos",TRUE,FALSE,8
-"112844","112844","0071279MOR","Tilia platyphyllos 'Pyramidalis'",NA,NA,"Bradtke, HL","5892V93",23,6,1993,"Tilia Collection, [VW-57/25-55]","Yes",0,11,32,NA,0,25.5813953488372,74.4186046511628,174,"Tilia platyphyllos",TRUE,FALSE,8
+"72442","72442","0060934MOR","Tilia platyphyllos 'Pyramidalis'",NA,NA,"Podrasky, N","1188V87",16,6,1987,"Ozarks: S-24/Area","Yes",0,16,51,NA,0,23.8805970149254,76.1194029850746,167,"Tilia platyphyllos",TRUE,FALSE,7
+"112844","112844","0071279MOR","Tilia platyphyllos 'Pyramidalis'",NA,NA,"Bradtke, HL","5892V93",23,6,1993,"Tilia Collection, [VW-57/25-55]","Yes",0,11,32,NA,0,25.5813953488372,74.4186046511628,174,"Tilia platyphyllos",TRUE,FALSE,7
 "127899","127899","0071280MOR","Tilia platyphyllos 'Pyramidalis'",NA,NA,"Altvatter, K","7265V95",21,8,1995,"Columnar Collection, [H-66/80-00]","Yes",0,0,7,NA,0,0,100,233,"Tilia platyphyllos",TRUE,FALSE,9
-"132121","132121","0071281MOR","Tilia platyphyllos 'Pyramidalis'",NA,NA,"Linden, M","7471V96",25,6,1996,"Ground Cover Garden, [J-45/25-10]","Yes",15,23,4,NA,35.7142857142857,54.7619047619048,9.52380952380952,177,"Tilia platyphyllos",TRUE,FALSE,3
+"132121","132121","0071281MOR","Tilia platyphyllos 'Pyramidalis'",NA,NA,"Linden, M","7471V96",25,6,1996,"Ground Cover Garden, [J-45/25-10]","Yes",15,23,4,NA,35.7142857142857,54.7619047619048,9.52380952380952,177,"Tilia platyphyllos",TRUE,FALSE,4
 "137651","137651","0060933MOR","Tilia platyphyllos 'Pyramidalis'",NA,NA,"Packard, S","8208V97",4,8,1997,"Ozarks Collection: S-25/35-77","Yes",0,0,6,NA,0,0,100,216,"Tilia platyphyllos",TRUE,FALSE,9
 "36847","36847","0060936MOR","Tilia platyphyllos 'Rubra'",NA,NA,"Hess, WJ","4757",9,7,1979,"Tiliaceae: V-55/80-80","Yes",0,0,65,NA,0,0,100,190,"Tilia platyphyllos",TRUE,FALSE,9
 "78986","78986","0060935MOR","Tilia platyphyllos 'Rubra'",NA,NA,"Podrasky, N","1569V87",19,8,1987,"Tiliaceae: W-55/25-95","Yes",0,0,17,NA,0,0,100,231,"Tilia platyphyllos",TRUE,FALSE,9
@@ -250,9 +250,9 @@
 "74094","74094","0071299MOR","Tilia platyphyllos Scop.",NA,NA,"Podrasky, N","1326V87",8,7,1987,"[T-47/60-00]","Yes",0,0,13,NA,0,0,100,189,"Tilia platyphyllos",FALSE,FALSE,9
 "74189","74189","0071294MOR","Tilia platyphyllos Scop.",NA,NA,"Podrasky, N","1325V87",8,7,1987,"[T-47/30-10]","Yes",0,0,7,NA,0,0,100,189,"Tilia platyphyllos",FALSE,FALSE,9
 "75702","75702","0071298MOR","Tilia platyphyllos Scop.",NA,NA,"Podrasky, N","1310V87",7,7,1987,"[Z-55/30-35]","Yes",0,0,18,NA,0,0,100,188,"Tilia platyphyllos",FALSE,FALSE,9
-"75705","75705","0071297MOR","Tilia platyphyllos Scop.",NA,NA,"Podrasky, N","1306V87",7,7,1987,"[Z-5260-00]","Yes",0,2,29,NA,0,6.45161290322581,93.5483870967742,188,"Tilia platyphyllos",FALSE,FALSE,9
+"75705","75705","0071297MOR","Tilia platyphyllos Scop.",NA,NA,"Podrasky, N","1306V87",7,7,1987,"[Z-5260-00]","Yes",0,2,29,NA,0,6.45161290322581,93.5483870967742,188,"Tilia platyphyllos",FALSE,FALSE,8
 "76916","76916","0071295MOR","Tilia platyphyllos Scop.",NA,NA,"Podrasky, N","1519V87",10,8,1987,"[M-35/30-00]","Yes",0,0,11,NA,0,0,100,222,"Tilia platyphyllos",FALSE,FALSE,9
-"78755","78755","0071296MOR","Tilia platyphyllos Scop.",NA,NA,"Podrasky, N","1222V87",23,6,1987,"[Z-52/60-00]","Yes",18,37,18,NA,24.6575342465753,50.6849315068493,24.6575342465753,174,"Tilia platyphyllos",FALSE,FALSE,4
+"78755","78755","0071296MOR","Tilia platyphyllos Scop.",NA,NA,"Podrasky, N","1222V87",23,6,1987,"[Z-52/60-00]","Yes",18,37,18,NA,24.6575342465753,50.6849315068493,24.6575342465753,174,"Tilia platyphyllos",FALSE,FALSE,5
 "78987","78987","0071293MOR","Tilia platyphyllos Scop.",NA,NA,"Podrasky, N","1570V87",19,8,1987,"[W-55/50-65]","Yes",0,0,10,NA,0,0,100,231,"Tilia platyphyllos",FALSE,FALSE,9
 "79001","79001","0071292MOR","Tilia platyphyllos Scop.",NA,NA,"Podrasky, N","1568V87",19,8,1987,"[V-55/80-80]","Yes",0,0,17,NA,0,0,100,231,"Tilia platyphyllos",FALSE,FALSE,9
 "79006","79006","0071307MOR","Tilia platyphyllos Scop.",NA,NA,"Podrasky, N","1565V87",19,8,1987,"[V-56/80-65]","Yes",0,0,15,NA,0,0,100,231,"Tilia platyphyllos",FALSE,FALSE,9
@@ -260,7 +260,7 @@
 "92438","92438","0071289MOR","Tilia platyphyllos Scop.",NA,NA,"Klock, K","3519V90",15,6,1990,"Z-52/60-00","Yes",43,18,0,NA,70.4918032786885,29.5081967213115,0,166,"Tilia platyphyllos",FALSE,FALSE,2
 "92621","92621","0071290MOR","Tilia platyphyllos Scop.",NA,NA,"Erickson, C","3541V90",19,6,1990,"[T-47/30-10]","Yes",2,46,4,NA,3.84615384615385,88.4615384615385,7.69230769230769,170,"Tilia platyphyllos",FALSE,FALSE,5
 "92623","92623","0071287MOR","Tilia platyphyllos Scop.",NA,NA,"Erickson, C","3543V90",19,6,1990,"[AA-55/00-50]","Yes",1,46,5,NA,1.92307692307692,88.4615384615385,9.61538461538462,170,"Tilia platyphyllos",FALSE,FALSE,5
-"92640","92640","0071288MOR","Tilia platyphyllos Scop.",NA,NA,"Erickson, C","3542V90",19,6,1990,"[T-47/60-00]","Yes",15,35,0,NA,30,70,0,170,"Tilia platyphyllos",FALSE,FALSE,NA
+"92640","92640","0071288MOR","Tilia platyphyllos Scop.",NA,NA,"Erickson, C","3542V90",19,6,1990,"[T-47/60-00]","Yes",15,35,0,NA,30,70,0,170,"Tilia platyphyllos",FALSE,FALSE,5
 "93931","93931","0071283MOR","Tilia platyphyllos Scop.",NA,NA,"Shimp, E","3794",1,8,1990,"in Godshalk Meadow, [M-35/30-00]","Yes",0,0,13,NA,0,0,100,213,"Tilia platyphyllos",FALSE,FALSE,9
 "98503","98503","0071291MOR","Tilia platyphyllos Scop.",NA,NA,"Packard, S","4840V91",30,7,1991,"near Meadow Lake, [T-47/30-10]","Yes",0,0,13,NA,0,0,100,211,"Tilia platyphyllos",FALSE,FALSE,9
 "98504","98504","0071284MOR","Tilia platyphyllos Scop.",NA,NA,"Packard, S","4856V91",6,8,1991,"Tiliaceae Collection, [AA-55/00-50]","Yes",0,0,3,NA,0,0,100,218,"Tilia platyphyllos",FALSE,FALSE,9
@@ -268,11 +268,11 @@
 "112593","112593","0071264MOR","Tilia platyphyllos Scop.",NA,NA,"Altvatter, K","5849V93",15,6,1993,"Godshalk Meadow, [N-30/50-90]","Yes",37,45,0,NA,45.1219512195122,54.8780487804878,0,166,"Tilia platyphyllos",FALSE,FALSE,3
 "112815","112815","0071260MOR","Tilia platyphyllos Scop.",NA,NA,"Bradtke, HL","5895V93",23,6,1993,"Tilia Collection, [W-57/85-20]","Yes",0,8,17,NA,0,32,68,174,"Tilia platyphyllos",FALSE,FALSE,7
 "112845","112845","0071259MOR","Tilia platyphyllos Scop.",NA,NA,"Bradtke, HL","5896V93",23,6,1993,"Tilia Collection, [V-56/80-65]","Yes",0,13,27,NA,0,32.5,67.5,174,"Tilia platyphyllos",FALSE,FALSE,7
-"112848","112848","0071263MOR","Tilia platyphyllos Scop.",NA,NA,"Bradtke, HL","5900V93",26,6,1993,"Tilia Collection, [X-56/05-85]","Yes",0,6,19,NA,0,24,76,177,"Tilia platyphyllos",FALSE,FALSE,8
-"112868","112868","0071261MOR","Tilia platyphyllos Scop.",NA,NA,"Altvatter, K","5886V93",22,6,1993,"Tilia Collection, [V-55/50-65]","Yes",0,24,19,NA,0,55.8139534883721,44.1860465116279,173,"Tilia platyphyllos",FALSE,FALSE,6
-"112872","112872","0071258MOR","Tilia platyphyllos Scop.",NA,NA,"Altvatter, K","5882V93",22,6,1993,"Tilia Collection, [V-55/80-80]","Yes",1,47,68,NA,0.862068965517241,40.5172413793103,58.6206896551724,173,"Tilia platyphyllos",FALSE,FALSE,7
-"112878","112878","0071262MOR","Tilia platyphyllos Scop.",NA,NA,"Altvatter, K","5876V93",22,6,1993,"Tilia Collection, [Z-55/30-35]","Yes",0,16,38,NA,0,29.6296296296296,70.3703703703704,173,"Tilia platyphyllos",FALSE,FALSE,8
-"119805","119805","0071256MOR","Tilia platyphyllos Scop.",NA,NA,"Altvatter, K","6568V94",16,6,1994,"Tilia Collection, [Z-52/60-00]","Yes",5,20,7,NA,15.625,62.5,21.875,167,"Tilia platyphyllos",FALSE,FALSE,4
+"112848","112848","0071263MOR","Tilia platyphyllos Scop.",NA,NA,"Bradtke, HL","5900V93",26,6,1993,"Tilia Collection, [X-56/05-85]","Yes",0,6,19,NA,0,24,76,177,"Tilia platyphyllos",FALSE,FALSE,7
+"112868","112868","0071261MOR","Tilia platyphyllos Scop.",NA,NA,"Altvatter, K","5886V93",22,6,1993,"Tilia Collection, [V-55/50-65]","Yes",0,24,19,NA,0,55.8139534883721,44.1860465116279,173,"Tilia platyphyllos",FALSE,FALSE,NA
+"112872","112872","0071258MOR","Tilia platyphyllos Scop.",NA,NA,"Altvatter, K","5882V93",22,6,1993,"Tilia Collection, [V-55/80-80]","Yes",1,47,68,NA,0.862068965517241,40.5172413793103,58.6206896551724,173,"Tilia platyphyllos",FALSE,FALSE,6
+"112878","112878","0071262MOR","Tilia platyphyllos Scop.",NA,NA,"Altvatter, K","5876V93",22,6,1993,"Tilia Collection, [Z-55/30-35]","Yes",0,16,38,NA,0,29.6296296296296,70.3703703703704,173,"Tilia platyphyllos",FALSE,FALSE,7
+"119805","119805","0071256MOR","Tilia platyphyllos Scop.",NA,NA,"Altvatter, K","6568V94",16,6,1994,"Tilia Collection, [Z-52/60-00]","Yes",5,20,7,NA,15.625,62.5,21.875,167,"Tilia platyphyllos",FALSE,FALSE,5
 "120174","120174","0071254MOR","Tilia platyphyllos Scop.",NA,NA,"Carlino, J","6618V94",14,7,1994,"Tilia Collection, [W-55/50-65]","Yes",0,0,11,NA,0,0,100,195,"Tilia platyphyllos",FALSE,FALSE,9
 "120624","120624","0071257MOR","Tilia platyphyllos Scop.",NA,NA,"Carlino, J","6733V94",16,8,1994,"Tree Evaluation Plot Row 13, [E-96/Area]","Yes",0,0,20,NA,0,0,100,228,"Tilia platyphyllos",FALSE,FALSE,9
 "120840","120840","0071253MOR","Tilia platyphyllos Scop.",NA,NA,"Packard, S","6728V94",16,8,1994,"Tilia Collection, [AA-55/00-50]","Yes",0,0,3,NA,0,0,100,228,"Tilia platyphyllos",FALSE,FALSE,9
@@ -281,19 +281,19 @@
 "155785","155785","0040401MOR","Tilia platyphyllos Scop.",NA,NA,"Stephens, M","6",25,6,2003,"N-32/92-28 Godshalk Meadow","Yes",32,7,0,NA,82.051282051282,17.948717948718,0,176,"Tilia platyphyllos",FALSE,FALSE,2
 "158027","158027","0050165MOR","Tilia platyphyllos Scop.",NA,NA,"Shroll, E","10189V05",5,7,2005,"Godshalk Meadow, north side: N-30/59-95","Yes",0,0,24,NA,0,0,100,186,"Tilia platyphyllos",FALSE,FALSE,9
 "188240","188240","0099475MOR","Tilia platyphyllos Scop.",NA,NA,"Potenberg, K","16229v19",27,6,2019,"Central Europe: DD-34/05-82","Yes",0,0,13,NA,0,0,100,178,"Tilia platyphyllos",FALSE,FALSE,9
-"65114","65114","0049521MOR","Tilia platyphyllos subsp. cordifolia (Besser) C.K.Schneid. [1]",NA,NA,"Stoynoff, N","s.n.",28,6,1984,"Alnus Loop, O-30/70-30","Yes",3,12,32,NA,6.38297872340426,25.531914893617,68.0851063829787,180,"Tilia platyphyllos",FALSE,FALSE,8
-"112730","112730","0049519MOR","Tilia platyphyllos subsp. cordifolia (Besser) C.K.Schneid. [1]",NA,NA,"Bradtke, HL","5862V93",16,6,1993,"Alnus Collection, 0-30/90-85","Yes",16,39,2,NA,28.0701754385965,68.421052631579,3.50877192982456,167,"Tilia platyphyllos",FALSE,FALSE,NA
+"65114","65114","0049521MOR","Tilia platyphyllos subsp. cordifolia (Besser) C.K.Schneid. [1]",NA,NA,"Stoynoff, N","s.n.",28,6,1984,"Alnus Loop, O-30/70-30","Yes",3,12,32,NA,6.38297872340426,25.531914893617,68.0851063829787,180,"Tilia platyphyllos",FALSE,FALSE,7
+"112730","112730","0049519MOR","Tilia platyphyllos subsp. cordifolia (Besser) C.K.Schneid. [1]",NA,NA,"Bradtke, HL","5862V93",16,6,1993,"Alnus Collection, 0-30/90-85","Yes",16,39,2,NA,28.0701754385965,68.421052631579,3.50877192982456,167,"Tilia platyphyllos",FALSE,FALSE,5
 "112754","112754","0049520MOR","Tilia platyphyllos subsp. cordifolia (Besser) C.K.Schneid. [1]",NA,NA,"Bradtke, HL","5861V93",16,6,1993,"Alnus Collection, O-29/20-25","Yes",6,24,4,NA,17.6470588235294,70.5882352941177,11.7647058823529,167,"Tilia platyphyllos",FALSE,FALSE,5
 "138173","138173","0049518MOR","Tilia platyphyllos subsp. cordifolia (Besser) C.K.Schneid. [1]",NA,NA,"Wise, R","8230V97",6,8,1997,"West DuPage River Collection, O-30/9-85","Yes",0,0,13,NA,0,0,100,218,"Tilia platyphyllos",FALSE,FALSE,9
 "188465","188465","0100249MOR","Tilia platyphyllos subsp. corinthiaca (Bosc ex K.Koch) Pigott",NA,NA,"Worcester, L","LW403",25,9,2018,"Tilia: Z-51/50-70","Yes",0,0,1,NA,0,0,100,268,"Tilia platyphyllos",FALSE,FALSE,9
 "187835","187835","0099157MOR","Tilia platyphyllos subsp. platyphyllos",NA,NA,"Worcester, L","LW281",3,8,2018,"Central Europe: Z-33/43-60","Yes",0,0,3,NA,0,0,100,215,"Tilia platyphyllos",FALSE,FALSE,9
 "188239","188239","0099476MOR","Tilia platyphyllos subsp. platyphyllos",NA,NA,"Potenberg, K","16230v19",27,6,2019,"Ozark: S-25/35-77","Yes",0,1,7,NA,0,12.5,87.5,178,"Tilia platyphyllos",FALSE,FALSE,8
 "194766","194766","0112567MOR","Tilia platyphyllos subsp. platyphyllos",NA,NA,"Chen, S","18865v25",19,6,2025,"Europe: Z-33/43-60","Yes",51,54,0,NA,48.5714285714286,51.4285714285714,0,170,"Tilia platyphyllos",FALSE,FALSE,3
-"36843","36843","0071408MOR","Tilia tomentosa 'Erecta'",NA,NA,"Hess, WJ","4749",6,7,1979,"Tiliaceae Collection, [X-57/45-30]","Yes",7,20,4,NA,22.5806451612903,64.5161290322581,12.9032258064516,187,"Tilia tomentosa",TRUE,FALSE,4
+"36843","36843","0071408MOR","Tilia tomentosa 'Erecta'",NA,NA,"Hess, WJ","4749",6,7,1979,"Tiliaceae Collection, [X-57/45-30]","Yes",7,20,4,NA,22.5806451612903,64.5161290322581,12.9032258064516,187,"Tilia tomentosa",TRUE,FALSE,5
 "64084","64084","0071406MOR","Tilia tomentosa 'Erecta'",NA,NA,"Podrasky, N","667V85",18,7,1985,"[X-57/30-75]","Yes",0,1,49,NA,0,2,98,199,"Tilia tomentosa",TRUE,FALSE,9
 "120673","120673","0071409MOR","Tilia tomentosa 'Erecta'",NA,NA,"Carlino, J","6626V94",14,7,1994,"Tilia Collection, [X-57/65-80]","Yes",0,0,70,NA,0,0,100,195,"Tilia tomentosa",TRUE,FALSE,9
 "132909","132909","0071410MOR","Tilia tomentosa 'Erecta'",NA,NA,"Packard, S","7593V96",10,9,1996,"n. side parking lot 1, [R-45/55-88]","Yes",0,0,18,NA,0,0,100,254,"Tilia tomentosa",TRUE,FALSE,9
-"143984","143984","0071411MOR","Tilia tomentosa 'Erecta'",NA,NA,"Philip, M","s.n.",28,6,1999,"Tilia Collection,n.section, [X-57/65-80]","Yes",14,22,0,NA,38.8888888888889,61.1111111111111,0,179,"Tilia tomentosa",TRUE,FALSE,3
+"143984","143984","0071411MOR","Tilia tomentosa 'Erecta'",NA,NA,"Philip, M","s.n.",28,6,1999,"Tilia Collection,n.section, [X-57/65-80]","Yes",14,22,0,NA,38.8888888888889,61.1111111111111,0,179,"Tilia tomentosa",TRUE,FALSE,NA
 "77032","77032","0071412MOR","Tilia tomentosa 'Pendula'",NA,NA,"Podrasky, N","1518V87",10,8,1987,"[M-35/80-60]","Yes",0,0,10,NA,0,0,100,222,"Tilia tomentosa",TRUE,FALSE,9
 "177301","177301","0064261MOR","Tilia tomentosa 'Pendula'",NA,NA,"Means, E","13921v13",1,8,2013,"Tilia: AA-53/57-27","Yes",0,0,7,NA,0,0,100,213,"Tilia tomentosa",TRUE,FALSE,9
 "172684","172684","0057709MOR","Tilia tomentosa 'Sterling'",NA,NA,"Potenberg, K","13106v11",16,8,2011,"Childrens Garden: J-50/15-98","Yes",0,0,6,NA,0,0,100,228,"Tilia tomentosa",TRUE,FALSE,9
@@ -303,7 +303,7 @@
 "34696","34696","0071402MOR","Tilia tomentosa Moench",NA,NA,"Hess, WJ","4449",6,10,1978,"[U-54]","Yes",0,0,10,NA,0,0,100,279,"Tilia tomentosa",FALSE,FALSE,9
 "36844","36844","0071400MOR","Tilia tomentosa Moench",NA,NA,"Hess, WJ","4759",9,7,1979,"Tilia Collection, [U-54/50-15]","Yes",12,15,1,NA,42.8571428571429,53.5714285714286,3.57142857142857,190,"Tilia tomentosa",FALSE,FALSE,3
 "74120","74120","0071397MOR","Tilia tomentosa Moench",NA,NA,"Podrasky, N","1328V87",8,7,1987,"[S-47/60-70]","Yes",0,0,3,NA,0,0,100,189,"Tilia tomentosa",FALSE,FALSE,9
-"74188","74188","0071398MOR","Tilia tomentosa Moench",NA,NA,"Podrasky, N","1327V87",8,7,1987,"[T-47/25-75]","Yes",0,3,8,NA,0,27.2727272727273,72.7272727272727,189,"Tilia tomentosa",FALSE,FALSE,8
+"74188","74188","0071398MOR","Tilia tomentosa Moench",NA,NA,"Podrasky, N","1327V87",8,7,1987,"[T-47/25-75]","Yes",0,3,8,NA,0,27.2727272727273,72.7272727272727,189,"Tilia tomentosa",FALSE,FALSE,7
 "76714","76714","0071399MOR","Tilia tomentosa Moench",NA,NA,"Podrasky, N","1498V87",5,8,1987,"[M41/35-75]","Yes",0,0,12,NA,0,0,100,217,"Tilia tomentosa",FALSE,FALSE,9
 "92580","92580","0071394MOR","Tilia tomentosa Moench",NA,NA,"Klock, K","3578V90",6,7,1990,"[M-41/35-75]","Yes",12,49,0,NA,19.672131147541,80.327868852459,0,187,"Tilia tomentosa",FALSE,FALSE,5
 "95899","95899","0071396MOR","Tilia tomentosa Moench",NA,NA,"Gavlak, N","4027",29,8,1990,"Tilia Collection, [U-54/45-50]","Yes",0,0,10,NA,0,0,100,241,"Tilia tomentosa",FALSE,FALSE,9
@@ -313,7 +313,7 @@
 "143959","143959","0071318MOR","Tilia tomentosa Moench",NA,NA,"Philip, M","s.n.",28,6,1999,"Tilia Collection,s.section, [U-54/45-50]","Yes",69,13,0,NA,84.1463414634146,15.8536585365854,0,179,"Tilia tomentosa",FALSE,FALSE,2
 "155783","155783","0040385MOR","Tilia tomentosa Moench",NA,NA,"Stephens, M","8",11,7,2003,"II-72/46-50 Balkan, N section","Yes",7,37,0,NA,15.9090909090909,84.0909090909091,0,192,"Tilia tomentosa",FALSE,FALSE,5
 "177469","177469","0065631MOR","Tilia tomentosa Moench",NA,NA,"Potenberg, K","13889v13",16,7,2013,"Tilia: AA-55/82-66","Yes",0,0,15,NA,0,0,100,197,"Tilia tomentosa",FALSE,FALSE,9
-"188237","188237","0099478MOR","Tilia tomentosa Moench",NA,NA,"Moran, E","16241v19",10,7,2019,"Tilia: U-54/45-50","Yes",21,81,2,NA,20.1923076923077,77.8846153846154,1.92307692307692,191,"Tilia tomentosa",FALSE,FALSE,NA
+"188237","188237","0099478MOR","Tilia tomentosa Moench",NA,NA,"Moran, E","16241v19",10,7,2019,"Tilia: U-54/45-50","Yes",21,81,2,NA,20.1923076923077,77.8846153846154,1.92307692307692,191,"Tilia tomentosa",FALSE,FALSE,5
 "98505","98505","0071414MOR","Tilia tuan Szyszyl.",NA,NA,"Packard, S","4854V91",6,8,1991,"Tiliaceae Collection, [AA-54/59-37]","Yes",0,0,16,NA,0,0,100,218,"Tilia tuan",FALSE,FALSE,9
 "120844","120844","0071413MOR","Tilia tuan Szyszyl.",NA,NA,"Packard, S","6722V94",16,8,1994,"Tilia Collection, [AA-54/59-37]","Yes",0,0,21,NA,0,0,100,228,"Tilia tuan",FALSE,FALSE,9
 "122247","122247","0071415MOR","Tilia tuan Szyszyl.",NA,NA,"Hess, WJ","6807V94",30,8,1994,"Tiliaceae Collection, [AA-54/59-37]","Yes",0,0,3,NA,0,0,100,242,"Tilia tuan",FALSE,FALSE,9
@@ -331,7 +331,7 @@
 "36841","36841","0050045MOR","Tilia americana 'Moltkei'",NA,NA,"Hess, WJ","4743",5,7,1979,"Tilia Collection, Z-54/8.5-9.5","Yes",0,4,7,NA,0,36.3636363636364,63.6363636363636,186,"Tilia americana",TRUE,FALSE,7
 "36842","36842","0050044MOR","Tilia americana 'Moltkei'",NA,NA,"Hess, WJ","4758",9,7,1979,"Tilia Collection, V-54/5-5.1","Yes",0,17,114,NA,0,12.9770992366412,87.0229007633588,190,"Tilia americana",TRUE,FALSE,8
 "74851","74851","0050041MOR","Tilia americana 'Moltkei'",NA,NA,"Hess, WJ","1241V87",24,6,1987,"Q-38/10-65","Yes",6,45,2,NA,11.3207547169811,84.9056603773585,3.77358490566038,175,"Tilia americana",TRUE,FALSE,5
-"74854","74854","0050043MOR","Tilia americana 'Moltkei'",NA,NA,"Hess, WJ","1243V87",24,6,1987,"R-38/30-00","Yes",0,60,19,NA,0,75.9493670886076,24.0506329113924,175,"Tilia americana",TRUE,FALSE,6
+"74854","74854","0050043MOR","Tilia americana 'Moltkei'",NA,NA,"Hess, WJ","1243V87",24,6,1987,"R-38/30-00","Yes",0,60,19,NA,0,75.9493670886076,24.0506329113924,175,"Tilia americana",TRUE,FALSE,5
 "76841","76841","0050042MOR","Tilia americana 'Moltkei'",NA,NA,"Podrasky, N","1514V87",5,8,1987,"Oleaceae collection R-38/30-00","Yes",0,0,28,NA,0,0,100,217,"Tilia americana",TRUE,FALSE,9
 "89848","89848","0050040MOR","Tilia americana 'Moltkei'",NA,NA,"Packard, S","2791V89",25,7,1989,"Tiliaceae collection Z-54/85-95","Yes",12,0,44,NA,21.4285714285714,0,78.5714285714286,206,"Tilia americana",TRUE,FALSE,NA
 "89849","89849","0050039MOR","Tilia americana 'Moltkei'",NA,NA,"Packard, S","2790V89",25,7,1989,"Tiliaceae collection Z-54/50-50","Yes",0,0,20,NA,0,0,100,206,"Tilia americana",TRUE,FALSE,9
@@ -346,14 +346,14 @@
 "137333","137333","0050030MOR","Tilia americana 'Moltkei'",NA,NA,"Allen, K","8088V97",10,7,1997,"Central Europe, Z-31/40-90","Yes",7,71,1,NA,8.86075949367089,89.873417721519,1.26582278481013,191,"Tilia americana",TRUE,FALSE,5
 "187840","187840","0099164MOR","Tilia americana 'Moltkei'",NA,NA,"Worcester, L","LW333",23,8,2018,"Forest Road: M-87/62-82","Yes",0,0,2,NA,0,0,100,235,"Tilia americana",TRUE,FALSE,9
 "188216","188216","0099471MOR","Tilia americana 'Redmond'",NA,NA,"Worcester, L","LW348",30,8,2018,"Ground Cover Garden: J-45/22-92","Yes",0,0,0,NA,0,0,0,242,"Tilia americana",TRUE,FALSE,NA
-"67","67",NA,"Tilia americana L. var. americana",NA,NA,"Hafkin, M","MH001",1,6,2026,"G-45/69-19","Yes",66,0,0,NA,100,0,0,152,"Tilia americana",FALSE,FALSE,1
+"67","67",NA,"Tilia americana var. americana",NA,NA,"Hafkin, M","MH001",1,6,2026,"G-45/69-19","Yes",66,0,0,NA,100,0,0,152,"Tilia americana",FALSE,FALSE,1
 "27952","27952","0049444MOR","Tilia americana var. americana",NA,NA,"Read, RW","439",2,7,1970,"Tilia Collection, AA-53/05-75.","Yes",8,36,0,NA,18.1818181818182,81.8181818181818,0,183,"Tilia americana",FALSE,FALSE,5
 "27953","27953","0049420MOR","Tilia americana var. americana",NA,NA,"Braham, R","s.n.",26,7,1971,"Tilia Collection, Z-53/10-90.","Yes",0,0,5,NA,0,0,100,207,"Tilia americana",FALSE,FALSE,9
 "27954","27954","0049439MOR","Tilia americana var. americana",NA,NA,"Ciolac, C","s.n.",10,7,1969,"Z-52/05-95","Yes",54,51,0,NA,51.4285714285714,48.5714285714286,0,191,"Tilia americana",FALSE,FALSE,3
 "27956","27956","0049437MOR","Tilia americana var. americana",NA,NA,"Kammerer, E","s.n.",4,7,1936,NA,"Yes",0,0,0,"Only leaves",0,0,0,186,"Tilia americana",FALSE,FALSE,NA
-"27957","27957","0049435MOR","Tilia americana var. americana",NA,NA,"Kammerer, E","s.n.",2,7,1936,NA,"Yes",31,17,0,NA,64.5833333333333,35.4166666666667,0,184,"Tilia americana",FALSE,FALSE,2
+"27957","27957","0049435MOR","Tilia americana var. americana",NA,NA,"Kammerer, E","s.n.",2,7,1936,NA,"Yes",31,17,0,NA,64.5833333333333,35.4166666666667,0,184,"Tilia americana",FALSE,FALSE,3
 "27958","27958","0049438MOR","Tilia americana var. americana",NA,NA,"Hawkinson, L","s.n.",31,8,1940,NA,"Yes",0,0,3,"Only leaves, but area where three seeds were glued at the end of a bract",0,0,100,244,"Tilia americana",FALSE,FALSE,9
-"36829","36829","0049433MOR","Tilia americana var. americana",NA,NA,"Hess, WJ","4744",5,7,1979,"Tiliaceae Collection, Y-55/85-05, on the west side of road between it & DuPage R.","Yes",10,32,7,NA,20.4081632653061,65.3061224489796,14.2857142857143,186,"Tilia americana",FALSE,FALSE,4
+"36829","36829","0049433MOR","Tilia americana var. americana",NA,NA,"Hess, WJ","4744",5,7,1979,"Tiliaceae Collection, Y-55/85-05, on the west side of road between it & DuPage R.","Yes",10,32,7,NA,20.4081632653061,65.3061224489796,14.2857142857143,186,"Tilia americana",FALSE,FALSE,5
 "36830","36830","0049425MOR","Tilia americana var. americana",NA,NA,"Hess, WJ","4756",9,7,1979,"Tilia Collection, Z-56/55-00, east of road.","Yes",4,4,0,NA,50,50,0,190,"Tilia americana",FALSE,FALSE,3
 "36832","36832","0049427MOR","Tilia americana var. americana",NA,NA,"Hess, WJ","4741",5,7,1979,"Tiliaceae Collection, Z-53/45-20. Between west side of road and DuPage River.","Yes",5,24,0,NA,17.2413793103448,82.7586206896552,0,186,"Tilia americana",FALSE,FALSE,5
 "36833","36833","0049434MOR","Tilia americana var. americana",NA,NA,"Hess, WJ","4443",6,10,1978,"Tiliaceae Collection, Z-56/55-00, on east side near the DuPage R.","Yes",0,0,1,NA,0,0,100,279,"Tilia americana",FALSE,FALSE,9
@@ -361,12 +361,12 @@
 "36835","36835","0049462MOR","Tilia americana var. americana",NA,NA,"Hess, WJ","4740",5,7,1979,"Tilia Collection, AA-52/35-454","Yes",9,39,0,NA,18.75,81.25,0,186,"Tilia americana",FALSE,FALSE,5
 "36836","36836","0049424MOR","Tilia americana var. americana",NA,NA,"Hess, WJ","4755",6,7,1979,"Tilia Collection, W-56/15-60, east of road.","Yes",29,8,0,NA,78.3783783783784,21.6216216216216,0,187,"Tilia americana",FALSE,FALSE,2
 "36837","36837","0049567MOR","Tilia americana var. americana",NA,NA,"Anderson, B","7920",6,7,1979,"East side of road, W-56/15-60","Yes",61,19,0,NA,76.25,23.75,0,187,"Tilia americana",FALSE,FALSE,2
-"74768","74768","0049441MOR","Tilia americana var. americana",NA,NA,"Podrasky, N","1223V87",23,6,1987,"Tiliaceae Collection, Z-51/85-80","Yes",19,102,27,NA,12.8378378378378,68.9189189189189,18.2432432432432,174,"Tilia americana",FALSE,FALSE,4
+"74768","74768","0049441MOR","Tilia americana var. americana",NA,NA,"Podrasky, N","1223V87",23,6,1987,"Tiliaceae Collection, Z-51/85-80","Yes",19,102,27,NA,12.8378378378378,68.9189189189189,18.2432432432432,174,"Tilia americana",FALSE,FALSE,5
 "74769","74769","0049473MOR","Tilia americana var. americana",NA,NA,"Podrasky, N","1225V87",23,6,1987,"Tiliaceae Col., AA-52/35-45","Yes",0,10,0,NA,0,100,0,174,"Tilia americana",FALSE,FALSE,5
 "74772","74772","0049474MOR","Tilia americana var. americana",NA,NA,"Podrasky, N","1228V87",23,6,1987,"Tiliaceae Col., Morton Arb., Z-52/50-95","Yes",42,46,4,NA,45.6521739130435,50,4.34782608695652,174,"Tilia americana",FALSE,FALSE,3
 "74773","74773","0049436MOR","Tilia americana var. americana",NA,NA,"Podrasky, N","1229V87",23,6,1987,"Tiliaceae Collection, Z-53/45-29","Yes",6,12,0,NA,33.3333333333333,66.6666666666667,0,174,"Tilia americana",FALSE,FALSE,NA
 "75701","75701","0049472MOR","Tilia americana var. americana",NA,NA,"Podrasky, N","1312V87",7,7,1987,"Y-55/85-05 in TILIACEAE","Yes",0,0,1,NA,0,0,100,188,"Tilia americana",FALSE,FALSE,9
-"76330","76330","0049440MOR","Tilia americana var. americana",NA,NA,"Podrasky, N","1224V87",23,6,1987,"Tiliaceae Collection, Z-51/80-50.","Yes",20,41,9,NA,28.5714285714286,58.5714285714286,12.8571428571429,174,"Tilia americana",FALSE,FALSE,4
+"76330","76330","0049440MOR","Tilia americana var. americana",NA,NA,"Podrasky, N","1224V87",23,6,1987,"Tiliaceae Collection, Z-51/80-50.","Yes",20,41,9,NA,28.5714285714286,58.5714285714286,12.8571428571429,174,"Tilia americana",FALSE,FALSE,5
 "77154","77154","0049471MOR","Tilia americana var. americana",NA,NA,"Hess, WJ","4746",5,7,1979,"Tiliaceae, V-56/90-10","Yes",0,0,10,NA,0,0,100,186,"Tilia americana",FALSE,FALSE,9
 "85524","85524","0049470MOR","Tilia americana var. americana",NA,NA,"Klock, K","2873V89",9,8,1989,"Tiliaceae, V-50/65-55","Yes",0,0,5,NA,0,0,100,221,"Tilia americana",FALSE,FALSE,9
 "89773","89773","0049475MOR","Tilia americana var. americana",NA,NA,"Packard, S","2796V89",25,7,1989,"Tiliaceae, X-56/95-30","Yes",0,0,2,NA,0,0,100,206,"Tilia americana",FALSE,FALSE,9
@@ -374,10 +374,10 @@
 "89847","89847","0049421MOR","Tilia americana var. americana",NA,NA,"Packard, S","2792V89",25,7,1989,"Tiliaceae, Z-56/55-00.","Yes",0,2,39,NA,0,4.8780487804878,95.1219512195122,206,"Tilia americana",FALSE,FALSE,9
 "89853","89853","0049468MOR","Tilia americana var. americana",NA,NA,"Packard, S","2786V89",25,7,1989,"Tilia, north section: Z-53/45-20","Yes",0,0,16,NA,0,0,100,206,"Tilia americana",FALSE,FALSE,9
 "89854","89854","0049469MOR","Tilia americana var. americana",NA,NA,"Packard, S","2785V89",25,7,1989,"Tilia, north section: Z-52/50-95","Yes",0,0,3,NA,0,0,100,206,"Tilia americana",FALSE,FALSE,9
-"92563","92563","0049442MOR","Tilia americana var. americana",NA,NA,"Klock, K","3571V90",5,7,1990,"Northern Illinois Collection, M-59/37-19","Yes",0,39,11,NA,0,78,22,186,"Tilia americana",FALSE,FALSE,6
-"92583","92583","0049443MOR","Tilia americana var. americana",NA,NA,"Klock, K","3568V90",5,7,1990,"Northern Illinois Collection, K-58/48-74","Yes",1,48,62,NA,0.900900900900901,43.2432432432432,55.8558558558559,186,"Tilia americana",FALSE,FALSE,7
+"92563","92563","0049442MOR","Tilia americana var. americana",NA,NA,"Klock, K","3571V90",5,7,1990,"Northern Illinois Collection, M-59/37-19","Yes",0,39,11,NA,0,78,22,186,"Tilia americana",FALSE,FALSE,5
+"92583","92583","0049443MOR","Tilia americana var. americana",NA,NA,"Klock, K","3568V90",5,7,1990,"Northern Illinois Collection, K-58/48-74","Yes",1,48,62,NA,0.900900900900901,43.2432432432432,55.8558558558559,186,"Tilia americana",FALSE,FALSE,6
 "95431","95431","0049429MOR","Tilia americana var. americana",NA,NA,"Packard, S","3909V90",14,8,1990,"Tilia Collection, W-56/15-60.","Yes",0,0,4,NA,0,0,100,226,"Tilia americana",FALSE,FALSE,9
-"98399","98399","0049430MOR","Tilia americana var. americana",NA,NA,"Packard, S","4812v91",23,7,1991,"Anacardiaceae, [W-59/89-90]","Yes",0,1,4,NA,0,20,80,204,"Tilia americana",FALSE,FALSE,8
+"98399","98399","0049430MOR","Tilia americana var. americana",NA,NA,"Packard, S","4812v91",23,7,1991,"Anacardiaceae, [W-59/89-90]","Yes",0,1,4,NA,0,20,80,204,"Tilia americana",FALSE,FALSE,7
 "105018","105018","0049464MOR","Tilia americana var. americana",NA,NA,"Hess, WJ","5294V92",9,7,1992,"East side of Valley Road","Yes",15,5,0,NA,75,25,0,191,"Tilia americana",FALSE,FALSE,2
 "113792","113792","0049458MOR","Tilia americana var. americana",NA,NA,"Altvatter, K","6015V93",16,7,1993,"Northern Illinois, K-58/48-74","Yes",0,0,44,NA,0,0,100,197,"Tilia americana",FALSE,FALSE,9
 "119777","119777","0049423MOR","Tilia americana var. americana",NA,NA,"Altvatter, K","6564V94",16,6,1994,"Tilia Collection, Y-56/90-10","Yes",38,31,0,NA,55.0724637681159,44.9275362318841,0,167,"Tilia americana",FALSE,FALSE,3
@@ -390,14 +390,14 @@
 "142820","142820","0049465MOR","Tilia americana var. americana",NA,NA,"Kirt, S","8558V98",28,6,1998,"Tilia, north section: AA-52/35-45","Yes",0,2,14,NA,0,12.5,87.5,179,"Tilia americana",FALSE,FALSE,8
 "142830","142830","0049466MOR","Tilia americana var. americana",NA,NA,"Kirt, S","8572V98",30,6,1998,"Hedge Garden, south section: G-45/69-19","Yes",24,27,2,NA,45.2830188679245,50.9433962264151,3.77358490566038,181,"Tilia americana",FALSE,FALSE,3
 "155778","155778","0040856MOR","Tilia americana var. americana",NA,NA,"Stephens, M","1",30,6,2003,"Tilia Collection, Z-54/20-30.","Yes",70,10,0,NA,87.5,12.5,0,181,"Tilia americana",FALSE,FALSE,2
-"160656","160656","0052754MOR","Tilia americana var. americana",NA,NA,"Rytych, K","10565V07",18,6,2007,"Northern Illinois; J-59/95-66","Yes",40,3,0,NA,93.0232558139535,6.97674418604651,0,169,"Tilia americana",FALSE,FALSE,1
+"160656","160656","0052754MOR","Tilia americana var. americana",NA,NA,"Rytych, K","10565V07",18,6,2007,"Northern Illinois; J-59/95-66","Yes",40,3,0,NA,93.0232558139535,6.97674418604651,0,169,"Tilia americana",FALSE,FALSE,2
 "169785","169785","0055424MOR","Tilia americana var. americana",NA,NA,"Potenberg, K","11747v09",4,8,2009,"Northern Illinois: K-59/11-15","Yes",0,0,2,NA,0,0,100,216,"Tilia americana",FALSE,FALSE,9
 "170264","170264","0055616MOR","Tilia americana var. americana",NA,NA,"Potenberg, K","11342v08",30,9,2008,"Northern Illinois: K-59/30-36","Yes",0,0,6,NA,0,0,100,274,"Tilia americana",FALSE,FALSE,9
 "170398","170398","0055553MOR","Tilia americana var. americana",NA,NA,"Guillou, R","11746v09",4,8,2009,"Northern Illinois: J-59/95-66","Yes",0,0,20,NA,0,0,100,216,"Tilia americana",FALSE,FALSE,9
-"171198","171198","0056140MOR","Tilia americana var. americana",NA,NA,"Beck, J","12332v10",24,6,2010,"Anacardiaceae: X-59/19-67","Yes",0,4,1,NA,0,80,20,175,"Tilia americana",FALSE,FALSE,6
+"171198","171198","0056140MOR","Tilia americana var. americana",NA,NA,"Beck, J","12332v10",24,6,2010,"Anacardiaceae: X-59/19-67","Yes",0,4,1,NA,0,80,20,175,"Tilia americana",FALSE,FALSE,5
 "177303","177303","0064262MOR","Tilia americana var. americana",NA,NA,"Means, E","13923v13",1,8,2013,"Tilia: Z-51/85-80","Yes",0,0,18,NA,0,0,100,213,"Tilia americana",FALSE,FALSE,9
 "177336","177336","0064274MOR","Tilia americana var. americana",NA,NA,"Casey, A","13882v13",15,7,2013,"Tilia: W-56/15-60","Yes",3,0,24,"No flowers. Maybe problem with handling",11.1111111111111,0,88.8888888888889,196,"Tilia americana",FALSE,FALSE,NA
-"177677","177677","0065607MOR","Tilia americana var. americana",NA,NA,"Beck, J","13956v13",15,8,2013,"Tilia: Z-54/83-64","Yes",0,1,0,"Two areas on bract where seeds likely were",0,100,0,227,"Tilia americana",FALSE,FALSE,5
+"177677","177677","0065607MOR","Tilia americana var. americana",NA,NA,"Beck, J","13956v13",15,8,2013,"Tilia: Z-54/83-64","Yes",0,1,2,"Two areas on bract where seeds likely were",0,33.3333333333333,66.6666666666667,227,"Tilia americana",FALSE,FALSE,7
 "177678","177678","0065606MOR","Tilia americana var. americana",NA,NA,"Glaysher, L","13955v13",15,8,2013,"Tilia: Z-54/20-30","Yes",0,0,2,NA,0,0,100,227,"Tilia americana",FALSE,FALSE,9
 "188087","188087","0099966MOR","Tilia americana var. americana",NA,NA,"Potenberg,","16777v21",10,6,2021,"Thornhill PA: NN-24/37-94","Yes",37,0,0,NA,100,0,0,161,"Tilia americana",FALSE,FALSE,1
 "188218","188218","0099469MOR","Tilia americana var. americana",NA,NA,"Worcester, L","LW351",30,8,2018,"Tilia: Z-54/83-64","Yes",0,0,0,NA,0,0,0,242,"Tilia americana",FALSE,FALSE,NA
@@ -408,12 +408,12 @@
 "90587","90587","0049476MOR","Tilia americana var. caroliniana (Mill.) Castigl.",NA,NA,"Packard, S","2861V89",8,8,1989,"Tiliaceae, AA-55/95-19","Yes",0,0,17,NA,0,0,100,220,"Tilia americana",FALSE,FALSE,9
 "95337","95337","0049560MOR","Tilia americana var. caroliniana (Mill.) Castigl.",NA,NA,"Packard, S","3907V90",14,8,1990,"Tilia Collection, X-56/75-70","Yes",0,0,3,NA,0,0,100,226,"Tilia americana",FALSE,FALSE,9
 "153301","153301","0049559MOR","Tilia americana var. caroliniana (Mill.) Castigl.",NA,NA,"Anderson, B","7927",2,8,1979,"East side of the road at X-56/35-05.","Yes",0,0,0,NA,0,0,0,214,"Tilia americana",FALSE,FALSE,NA
-"177337","177337","0064275MOR","Tilia americana var. caroliniana (Mill.) Castigl.",NA,NA,"Casey, A","13883v13",15,7,2013,"Tilia: X-56/75-70","Yes",2,1,52,NA,3.63636363636364,1.81818181818182,94.5454545454545,196,"Tilia americana",FALSE,FALSE,9
+"177337","177337","0064275MOR","Tilia americana var. caroliniana (Mill.) Castigl.",NA,NA,"Casey, A","13883v13",15,7,2013,"Tilia: X-56/75-70","Yes",2,1,52,NA,3.63636363636364,1.81818181818182,94.5454545454545,196,"Tilia americana",FALSE,FALSE,8
 "187830","187830","0099174MOR","Tilia americana var. caroliniana (Mill.) Castigl.",NA,NA,"Worcester, L","LW406",25,9,2018,"Tilia: X-56/75-70","Yes",0,0,0,NA,0,0,0,268,"Tilia americana",FALSE,FALSE,NA
 "177304","177304","0064265MOR","Tilia americana var. heterophylla 'Continental Appeal'",NA,NA,"Potenberg, K","13930v13",6,8,2013,"Hedge Garden: I-43/32-07","Yes",0,0,2,NA,0,0,100,218,"Tilia americana",TRUE,FALSE,9
 "177826","177826","0065924MOR","Tilia americana var. heterophylla 'Continental Appeal'",NA,NA,"Potenberg, K","13929v13",6,8,2013,"Hedge Garden: H-45/85-25","Yes",0,0,6,NA,0,0,100,218,"Tilia americana",TRUE,FALSE,9
-"182839","182839","0090205MOR","Tilia americana var. heterophylla 'Continental Appeal'",NA,NA,"Potenberg, K","14960v16",28,6,2016,"Hedge Garden: H-45/85-25","Yes",8,20,0,NA,28.5714285714286,71.4285714285714,0,180,"Tilia americana",TRUE,FALSE,NA
-"182841","182841","0090203MOR","Tilia americana var. heterophylla 'Continental Appeal'",NA,NA,"Potenberg, K","14957v16",28,6,2016,"Hedge Garden: I-43/32-07","Yes",9,30,0,NA,23.0769230769231,76.9230769230769,0,180,"Tilia americana",TRUE,FALSE,NA
+"182839","182839","0090205MOR","Tilia americana var. heterophylla 'Continental Appeal'",NA,NA,"Potenberg, K","14960v16",28,6,2016,"Hedge Garden: H-45/85-25","Yes",8,20,0,NA,28.5714285714286,71.4285714285714,0,180,"Tilia americana",TRUE,FALSE,5
+"182841","182841","0090203MOR","Tilia americana var. heterophylla 'Continental Appeal'",NA,NA,"Potenberg, K","14957v16",28,6,2016,"Hedge Garden: I-43/32-07","Yes",9,30,0,NA,23.0769230769231,76.9230769230769,0,180,"Tilia americana",TRUE,FALSE,5
 "187841","187841","0099165MOR","Tilia americana var. heterophylla 'Continental Appeal'",NA,NA,"Worcester, L","LW334",23,8,2018,"East Tilia: P-87/27-56","Yes",0,0,2,NA,0,0,100,235,"Tilia americana",TRUE,FALSE,9
 "120849","120849","0049569MOR","Tilia americana var. heterophylla (Vent.) Loudon",NA,NA,"Packard, S","6721V94",16,8,1994,"Tilia Collection, AA-53/61-59","Yes",0,0,11,NA,0,0,100,228,"Tilia americana",FALSE,FALSE,9
 "122183","122183","0049568MOR","Tilia americana var. heterophylla (Vent.) Loudon",NA,NA,"Hess, WJ","6806V94",30,8,1994,"Tiliaceae Collection, AA-53/61-59","Yes",0,0,0,NA,0,0,0,242,"Tilia americana",FALSE,FALSE,NA
@@ -427,7 +427,7 @@
 "72","72",NA,"Cercis canadensis 'Hearts of Gold'",NA,NA,"Potenberg, K","18904v25",31,7,2025,"Ornamental Flowering Trees: U-32/21-34","Yes",0,0,7,NA,0,0,100,212,"Cercis canadensis",TRUE,FALSE,9
 "73","73",NA,"Cercis canadensis 'JN2'",NA,NA,"Potenberg, K","18905v25",31,7,2025,"Ornamental Flowering Trees: U-32/24-49","Yes",0,0,8,NA,0,0,100,212,"Cercis canadensis",TRUE,FALSE,9
 "186563","186563","0098844MOR","Cercis canadensis 'MN Strain'",NA,NA,"Nowicki, B","15964v18",10,9,2018,"Entrance Drive: O-41/18-34","Yes",0,0,6,NA,0,0,100,253,"Cercis canadensis",TRUE,FALSE,9
-"190656","190656","0101682MOR","Cercis canadensis 'MN Strain'",NA,NA,"Potenberg, K","17821v23",20,4,2023,"Service Drive: M-41/12-57","Yes",96,45,0,NA,68.0851063829787,31.9148936170213,0,110,"Cercis canadensis",TRUE,FALSE,2
+"190656","190656","0101682MOR","Cercis canadensis 'MN Strain'",NA,NA,"Potenberg, K","17821v23",20,4,2023,"Service Drive: M-41/12-57","Yes",96,45,0,NA,68.0851063829787,31.9148936170213,0,110,"Cercis canadensis",TRUE,FALSE,3
 "172622","172622","0057666MOR","Cercis canadensis 'Morton'",NA,NA,"Moran, E","12831v11",4,5,2011,"Arbor Court: L-47/06-02","Yes",92,14,0,NA,86.7924528301887,13.2075471698113,0,124,"Cercis canadensis",TRUE,FALSE,2
 "184882","184882","0095836MOR","Cercis canadensis 'Pauline Lily'",NA,NA,"Nowicki, B","15658v17",18,9,2017,"Godshalk Meadow: M-30/97-88","Yes",0,0,3,NA,0,0,100,261,"Cercis canadensis",TRUE,FALSE,9
 "191209","191209","0102499MOR","Cercis canadensis 'Pink Pom Poms'",NA,NA,"Nowicki, B","17868v23",11,5,2023,"Research Building: H-41/24-76","Yes",0,34,0,NA,0,100,0,131,"Cercis canadensis",TRUE,FALSE,5
@@ -435,14 +435,14 @@
 "74542","74542","0043149MOR","Cercis canadensis 'Pinkbud'",NA,NA,"Podrasky, N","1899V88",12,5,1988,"Chinese Collection, Y-62/64-41","Yes",1,209,1,NA,0.4739336492891,99.0521327014218,0.4739336492891,133,"Cercis canadensis",TRUE,FALSE,5
 "86350","86350","0043146MOR","Cercis canadensis 'Pinkbud'",NA,NA,"Shimp, E","2424V89",10,5,1989,"Leguminosae Collection, L-64/90-00","Yes",60,54,0,NA,52.6315789473684,47.3684210526316,0,130,"Cercis canadensis",TRUE,FALSE,3
 "86355","86355","0043148MOR","Cercis canadensis 'Pinkbud'",NA,NA,"Shimp, E","2419V89",10,5,1989,"Leguminosae Collection, N-63/85-40","Yes",23,112,0,NA,17.037037037037,82.962962962963,0,130,"Cercis canadensis",TRUE,FALSE,5
-"86366","86366","0043147MOR","Cercis canadensis 'Pinkbud'",NA,NA,"Shimp, E","2425V89",10,5,1989,"Leguminosae Collection, L-63/80-85","Yes",48,74,0,NA,39.344262295082,60.655737704918,0,130,"Cercis canadensis",TRUE,FALSE,3
+"86366","86366","0043147MOR","Cercis canadensis 'Pinkbud'",NA,NA,"Shimp, E","2425V89",10,5,1989,"Leguminosae Collection, L-63/80-85","Yes",48,74,0,NA,39.344262295082,60.655737704918,0,130,"Cercis canadensis",TRUE,FALSE,NA
 "196266","196266",NA,"Cercis canadensis 'UMN7101'",NA,NA,"Potenberg, K","18906v25",31,7,2025,"Ornamental Flowering Trees: U-32/67-03","Yes",0,0,2,NA,0,0,100,212,"Cercis canadensis",TRUE,FALSE,9
 "74","74",NA,"Cercis canadensis 'Vanilla Twist'",NA,NA,"Potenberg, K","18903v25",31,7,2025,"Ornamental Flowering Trees: U-32/07-45","Yes",0,0,12,NA,0,0,100,212,"Cercis canadensis",TRUE,FALSE,9
 "75","75",NA,"Cercis canadensis 'Vanilla Twist'",NA,NA,"Potenberg, K","19120v26",16,4,2026,"Dwarf Woody Plants: E-47/45-78","Yes",41,85,0,NA,32.5396825396825,67.4603174603175,0,106,"Cercis canadensis",TRUE,FALSE,NA
 "13950","13950","0043161MOR","Cercis canadensis 'Wither's Pink Charm'",NA,NA,"Braham, R","s.n.",28,7,1971,"M-62/45-95","Yes",0,0,5,NA,0,0,100,209,"Cercis canadensis",TRUE,FALSE,9
 "13951","13951","0043162MOR","Cercis canadensis 'Wither's Pink Charm'",NA,NA,"Braham, R","s.n.",18,5,1971,"M-62/45-95","Yes",0,155,0,NA,0,100,0,138,"Cercis canadensis",TRUE,FALSE,5
-"65250","65250","0043151MOR","Cercis canadensis 'Wither's Pink Charm'",NA,NA,"Deal, G","840V87",28,4,1987,"M-62/10-75","Yes",108,8,0,NA,93.1034482758621,6.89655172413793,0,118,"Cercis canadensis",TRUE,FALSE,1
-"13942","13942","0043142MOR","Cercis canadensis f. alba Rehder",NA,NA,"Kammerer, E","s.n.",9,5,1939,NA,"Yes",39,100,0,NA,28.0575539568345,71.9424460431655,0,129,"Cercis canadensis",FALSE,FALSE,NA
+"65250","65250","0043151MOR","Cercis canadensis 'Wither's Pink Charm'",NA,NA,"Deal, G","840V87",28,4,1987,"M-62/10-75","Yes",108,8,0,NA,93.1034482758621,6.89655172413793,0,118,"Cercis canadensis",TRUE,FALSE,2
+"13942","13942","0043142MOR","Cercis canadensis f. alba Rehder",NA,NA,"Kammerer, E","s.n.",9,5,1939,NA,"Yes",39,100,0,NA,28.0575539568345,71.9424460431655,0,129,"Cercis canadensis",FALSE,FALSE,5
 "13944","13944","0043140MOR","Cercis canadensis f. alba Rehder",NA,NA,"Read, RW","808",12,8,1970,"S side of Meadow Lake along Illinois Tree Trail, N-50/20-45","Yes",0,0,2,NA,0,0,100,224,"Cercis canadensis",FALSE,FALSE,9
 "13945","13945","0043139MOR","Cercis canadensis f. alba Rehder",NA,NA,"Ciolac, C","s.n.",6,5,1970,"N-47/0-35","Yes",275,0,0,NA,100,0,0,126,"Cercis canadensis",FALSE,FALSE,1
 "13946","13946","0043141MOR","Cercis canadensis f. alba Rehder",NA,NA,"Kammerer, E","s.n.",21,5,1937,NA,"Yes",2,56,0,NA,3.44827586206897,96.551724137931,0,141,"Cercis canadensis",FALSE,FALSE,5
@@ -455,7 +455,7 @@
 "80381","80381","0043081MOR","Cercis canadensis L.",NA,NA,"Craft, A","2132V88",5,7,1988,"Chinese Collection, Y-62/64-41","Yes",0,0,7,NA,0,0,100,187,"Cercis canadensis",FALSE,FALSE,9
 "85641","85641","0043088MOR","Cercis canadensis L.",NA,NA,"Shimp, E","2410V89",10,5,1989,"Northern Illinois Collection, K-60/95-52","Yes",10,158,0,NA,5.95238095238095,94.047619047619,0,130,"Cercis canadensis",FALSE,FALSE,5
 "85786","85786","0043073MOR","Cercis canadensis L.",NA,NA,"Shimp, E","2409V89",10,5,1989,"Northern Illinois, L-60/02-46","Yes",85,72,0,NA,54.140127388535,45.859872611465,0,130,"Cercis canadensis",FALSE,FALSE,3
-"85800","85800","0043074MOR","Cercis canadensis L.",NA,NA,"Shimp, E","2408V89",10,5,1989,"Northern Illinois, K-60/96-34","Yes",121,7,0,NA,94.53125,5.46875,0,130,"Cercis canadensis",FALSE,FALSE,1
+"85800","85800","0043074MOR","Cercis canadensis L.",NA,NA,"Shimp, E","2408V89",10,5,1989,"Northern Illinois, K-60/96-34","Yes",121,7,0,NA,94.53125,5.46875,0,130,"Cercis canadensis",FALSE,FALSE,2
 "86735","86735","0043084MOR","Cercis canadensis L.",NA,NA,"Klock, K","2454V89",17,5,1989,"F-60/area on Frost Hill","Yes",1,103,0,NA,0.961538461538462,99.0384615384615,0,137,"Cercis canadensis",FALSE,FALSE,5
 "91528","91528","0043075MOR","Cercis canadensis L.",NA,NA,"Gavlak, N","3309V90",9,5,1990,"K-41/area near Administration Bldg.","Yes",0,68,0,NA,0,100,0,129,"Cercis canadensis",FALSE,FALSE,5
 "95904","95904","0043087MOR","Cercis canadensis L.",NA,NA,"Gavlak, N","4040V90",31,8,1990,"Near Visitor Center, N-47/Area","Yes",0,0,3,NA,0,0,100,243,"Cercis canadensis",FALSE,FALSE,9
@@ -550,7 +550,7 @@
 "194022","194022","0109184MOR","Cercis canadensis L.",NA,NA,"Dorrell, J","18672v24",7,11,2024,"Visitor Center Parking: southeast: O-46/96-34","Yes",0,0,11,NA,0,0,100,312,"Cercis canadensis",FALSE,FALSE,9
 "194982","194982","0112581MOR","Cercis canadensis L.",NA,NA,"Chen, S","18881v25",10,7,2025,"Sterling Pond: R-5/40-02","Yes",0,0,9,NA,0,0,100,191,"Cercis canadensis",FALSE,FALSE,9
 "99518","99518","0043153MOR","Cercis canadensis var. texensis (S.Watson) M.Hopkins","F",NA,"Packard, S","4967V91",8,10,1991,"Southwest US, T-19/Area","Yes",0,0,4,NA,0,0,100,281,"Cercis canadensis",FALSE,FALSE,9
-"135771","135771","0043145MOR","Cercis canadensis var. texensis (S.Watson) M.Hopkins","F",NA,"Maggerise, J","7802V97",21,5,1997,"Pinaceae Collection, Larix section; K-54/18-32","Yes",5,19,0,NA,20.8333333333333,79.1666666666667,0,141,"Cercis canadensis",FALSE,FALSE,NA
+"135771","135771","0043145MOR","Cercis canadensis var. texensis (S.Watson) M.Hopkins","F",NA,"Maggerise, J","7802V97",21,5,1997,"Pinaceae Collection, Larix section; K-54/18-32","Yes",5,19,0,NA,20.8333333333333,79.1666666666667,0,141,"Cercis canadensis",FALSE,FALSE,5
 "136087","136087","0043155MOR","Cercis canadensis var. texensis (S.Watson) M.Hopkins","F",NA,"Maggerise, J","7801V97",21,5,1997,"Pinaceae Collection, Larix Section; K-54/31-28","Yes",17,23,0,NA,42.5,57.5,0,141,"Cercis canadensis",FALSE,FALSE,3
 "154147","154147","0043152MOR","Cercis canadensis var. texensis (S.Watson) M.Hopkins","F",NA,"Packard, S","9285V01",17,7,2001,"Hatchmeadow, CC-43/73-05","Yes",0,0,4,NA,0,0,100,198,"Cercis canadensis",FALSE,FALSE,9
 "13952","13952","0043165MOR","Cercis chinensis Bunge",NA,NA,"Braham, R","s.n.",18,5,1971,"Drainage, D-45/25-65","Yes",3,98,0,NA,2.97029702970297,97.029702970297,0,138,"Cercis chinensis",FALSE,FALSE,5
@@ -562,11 +562,11 @@
 "113047","113047","0043159MOR","Cercis chinensis Bunge",NA,NA,"Altvatter, K","5953V93",7,7,1993,"Diversity Collection, P-58/30-45","Yes",0,0,20,NA,0,0,100,188,"Cercis chinensis",FALSE,FALSE,9
 "113773","113773","0043168MOR","Cercis chinensis Bunge",NA,NA,"Packard, S","6039V93",20,7,1993,"Leguminosae Collection, P-59/17-53","Yes",0,0,15,NA,0,0,100,201,"Cercis chinensis",FALSE,FALSE,9
 "13959","13959","0043163MOR","Cercis siliquastrum L.",NA,NA,"Schulenberg, RF","s.n.",14,5,1975,"Between greenhouses","Yes",1,10,0,NA,9.09090909090909,90.9090909090909,0,134,"Cercis siliquastrum",FALSE,FALSE,5
-"77493","77493","0039988MOR","Acer",NA,NA,"Podrasky, N","1756V88",28,4,1988,"Acer Collection, O-101/65-00.","Yes",25,96,0,NA,20.6611570247934,79.3388429752066,0,119,"Acer",FALSE,FALSE,NA
+"77493","77493","0039988MOR","Acer",NA,NA,"Podrasky, N","1756V88",28,4,1988,"Acer Collection, O-101/65-00.","Yes",25,96,0,NA,20.6611570247934,79.3388429752066,0,119,"Acer",FALSE,FALSE,5
 "84896","84896","0039989MOR","Acer",NA,NA,"Shimp, E","2280V89",19,4,1989,"Acer Collection, U-99/20-30.","Yes",5,137,0,NA,3.52112676056338,96.4788732394366,0,109,"Acer",FALSE,FALSE,5
 "137614","137614","0039990MOR","Acer",NA,NA,"Wise, R","8178V97",28,7,1997,"Aceraceae Collection, W-60/63-69.","Yes",0,0,8,NA,0,0,100,209,"Acer",FALSE,FALSE,9
 "143005","143005","0039991MOR","Acer",NA,NA,"Kirt, S","8589V98",2,7,1998,"Acer Collection, O-101/65-00.","Yes",0,0,6,NA,0,0,100,183,"Acer",FALSE,FALSE,9
-"143641","143641","0039995MOR","Acer",NA,NA,"Allen, K","8701V99",26,4,1999,"Display, B-48/55-55.","Yes",23,67,0,NA,25.5555555555556,74.4444444444444,0,116,"Acer",FALSE,FALSE,NA
+"143641","143641","0039995MOR","Acer",NA,NA,"Allen, K","8701V99",26,4,1999,"Display, B-48/55-55.","Yes",23,67,0,NA,25.5555555555556,74.4444444444444,0,116,"Acer",FALSE,FALSE,5
 "143642","143642","0039994MOR","Acer",NA,NA,"Allen, K","8702V99",26,4,1999,"Display, B-48/75-60.","Yes",22,179,0,NA,10.9452736318408,89.0547263681592,0,116,"Acer",FALSE,FALSE,5
 "143643","143643","0039992MOR","Acer",NA,NA,"Allen, K","8703V99",26,4,1999,"Display, B-48/95-50.","Yes",13,93,0,NA,12.2641509433962,87.7358490566038,0,116,"Acer",FALSE,FALSE,5
 "143644","143644","0039993MOR","Acer",NA,NA,"Allen, K","8704V99",26,4,1999,"Display, B-48/75-35.","Yes",17,87,0,NA,16.3461538461538,83.6538461538462,0,116,"Acer",FALSE,FALSE,5
@@ -577,34 +577,34 @@
 "188372","188372","0099743MOR","Acer 'Morton UW'",NA,NA,"Potenberg, K","16902v21",19,8,2021,"Acer: O-97/26-21","Yes",0,0,2,NA,0,0,100,231,"Acer 'Morton",TRUE,FALSE,9
 "188734","188734","0100107MOR","Acer 'Morton UW'",NA,NA,"Potenberg, K","17137v22",5,5,2022,"Frost Hill: North Side: G-59/52-34","Yes",35,30,0,NA,53.8461538461538,46.1538461538462,0,125,"Acer 'Morton",TRUE,FALSE,3
 "189729","189729","0102268MOR","Acer 'Morton UW'",NA,NA,"Potenberg, K","17423v22",29,9,2022,"China: south section: X-60/90-63","Yes",0,0,6,NA,0,0,100,272,"Acer 'Morton",TRUE,FALSE,9
-"167256","167256","0054326MOR","Acer 'White Tigress'",NA,NA,"Wagner, P","10963v08",20,5,2008,"Thornhill Building, founder's room, south side: JJ-27/15-63","Yes",0,34,22,NA,0,60.7142857142857,39.2857142857143,141,"Acer 'White",TRUE,FALSE,6
+"167256","167256","0054326MOR","Acer 'White Tigress'",NA,NA,"Wagner, P","10963v08",20,5,2008,"Thornhill Building, founder's room, south side: JJ-27/15-63","Yes",0,34,22,NA,0,60.7142857142857,39.2857142857143,141,"Acer 'White",TRUE,FALSE,NA
 "3281","3281","0039765MOR","Acer × freemanii 'Armstrong'",NA,NA,"Schulenberg, RF","s.n.",12,4,1977,"Acer Collection, V-98/75-70.","Yes",0,0,8,NA,0,0,100,102,"Acer ×",TRUE,TRUE,9
 "118557","118557","0039767MOR","Acer × freemanii 'Armstrong'",NA,NA,"Altvatter, K","6308V94",7,4,1994,"Tree Evaluation Plot, J-98/40-25.","Yes",10,23,0,NA,30.3030303030303,69.6969696969697,0,97,"Acer ×",TRUE,TRUE,NA
 "118659","118659","0039766MOR","Acer × freemanii 'Armstrong'",NA,NA,"Altvatter, K","6309V94",7,4,1994,"Tree Evaluation Plot, I-99/80-95.","Yes",5,21,0,NA,19.2307692307692,80.7692307692308,0,97,"Acer ×",TRUE,TRUE,5
-"118660","118660","0039764MOR","Acer × freemanii 'Armstrong'",NA,NA,"Altvatter, K","6310V94",7,4,1994,"Tree Evaluation Plot, J-98/60-85.","Yes",19,65,0,NA,22.6190476190476,77.3809523809524,0,97,"Acer ×",TRUE,TRUE,NA
+"118660","118660","0039764MOR","Acer × freemanii 'Armstrong'",NA,NA,"Altvatter, K","6310V94",7,4,1994,"Tree Evaluation Plot, J-98/60-85.","Yes",19,65,0,NA,22.6190476190476,77.3809523809524,0,97,"Acer ×",TRUE,TRUE,5
 "135683","135683","0039426MOR","Acer × freemanii 'Armstrong'",NA,NA,"Packard, S","7782V97",19,5,1997,"Tree Evaluation Area, J-98/60-85.","Yes",0,0,18,NA,0,0,100,139,"Acer ×",TRUE,TRUE,9
 "159841","159841","0050075MOR","Acer × freemanii 'Armstrong'",NA,NA,"Carle, M","10135V05",27,4,2005,"Tree Evaluation Plot: J-98/40-25","Yes",0,0,46,NA,0,0,100,117,"Acer ×",TRUE,TRUE,9
 "178827","178827","0068162MOR","Acer × freemanii 'Armstrong'",NA,NA,"Potenberg, K","14140v14",20,5,2014,"Frost Hill: G-66/46-34","Yes",0,0,19,NA,0,0,100,140,"Acer ×",TRUE,TRUE,9
-"176820","176820","0063962MOR","Acer × freemanii 'DTR 102'",NA,NA,"Hahn, M","13682v13",16,4,2013,"Administration Building: K-40/61-61","Yes",7,21,0,NA,25,75,0,106,"Acer ×",TRUE,TRUE,NA
+"176820","176820","0063962MOR","Acer × freemanii 'DTR 102'",NA,NA,"Hahn, M","13682v13",16,4,2013,"Administration Building: K-40/61-61","Yes",7,21,0,NA,25,75,0,106,"Acer ×",TRUE,TRUE,5
 "192468","192468","0103539MOR","Acer × freemanii 'DTR 102'",NA,NA,"Dorrell, J","18382v24",9,5,2024,"Admin Bldg - Library - west: K-40/61-61","Yes",0,0,15,NA,0,0,100,130,"Acer ×",TRUE,TRUE,9
 "173566","173566","0058854MOR","Acer × freemanii 'Jeffersred'",NA,NA,"Potenberg, K","13293v12",28,3,2012,"Visitor Center Parking, southwest median: S-48/99-37","Yes",0,0,28,NA,0,0,100,88,"Acer ×",TRUE,TRUE,9
 "173567","173567","0058853MOR","Acer × freemanii 'Jeffersred'",NA,NA,"Potenberg, K","13295v12",28,3,2012,"Visitor Center Parking, southwest median: S-49/79-36","Yes",0,0,23,NA,0,0,100,88,"Acer ×",TRUE,TRUE,9
 "173568","173568","0058852MOR","Acer × freemanii 'Jeffersred'",NA,NA,"Potenberg, K","13294v12",28,3,2012,"Visitor Center Parking, southwest median: S-49/64-07","Yes",0,0,31,NA,0,0,100,88,"Acer ×",TRUE,TRUE,9
-"180453","180453","0074731MOR","Acer × freemanii 'Jeffersred'",NA,NA,"Potenberg, K","14390v15",14,4,2015,"Childrens Garden: K-49/23-36","Yes",0,1,18,NA,0,5.26315789473684,94.7368421052632,104,"Acer ×",TRUE,TRUE,9
+"180453","180453","0074731MOR","Acer × freemanii 'Jeffersred'",NA,NA,"Potenberg, K","14390v15",14,4,2015,"Childrens Garden: K-49/23-36","Yes",0,1,18,NA,0,5.26315789473684,94.7368421052632,104,"Acer ×",TRUE,TRUE,8
 "188940","188940","0100408MOR","Acer × freemanii 'Jeffersred'",NA,NA,"Dorrell, J","16729v21",1,4,2021,"Thornhill: Thornhill parking: OO-27/10-28","Yes",12,57,7,NA,15.7894736842105,75,9.21052631578947,91,"Acer ×",TRUE,TRUE,5
-"192086","192086","0103443MOR","Acer × freemanii 'Jeffersred'",NA,NA,"Dorrell, J","18305v24",21,3,2004,"Visitor Center Parking - northeast: R-49/90-18","Yes",0,4,42,NA,0,8.69565217391304,91.304347826087,81,"Acer ×",TRUE,TRUE,9
+"192086","192086","0103443MOR","Acer × freemanii 'Jeffersred'",NA,NA,"Dorrell, J","18305v24",21,3,2004,"Visitor Center Parking - northeast: R-49/90-18","Yes",0,4,42,NA,0,8.69565217391304,91.304347826087,81,"Acer ×",TRUE,TRUE,8
 "195826","195826",NA,"Acer × freemanii 'Jenner'",NA,NA,"Hartley, C.","19088v26",19,3,2026,"Acer: T-101/83-94","Yes",9,123,0,NA,6.81818181818182,93.1818181818182,0,78,"Acer ×",TRUE,TRUE,5
 "56386","56386","0039425MOR","Acer × freemanii 'Marmo'",NA,NA,"Bachtell, KR","s.n.",29,3,1985,"S-10, W side of Lake Marmo near road & bridge.","Yes",11,45,0,NA,19.6428571428571,80.3571428571429,0,88,"Acer ×",TRUE,TRUE,5
 "195767","195767",NA,"Acer × freemanii 'Marmo'",NA,NA,"Potenberg, K","19083v26",12,3,2026,"Children's Garden: south fence line: J-48/89-74","Yes",5,24,0,NA,17.2413793103448,82.7586206896552,0,71,"Acer ×",TRUE,TRUE,5
 "83709","83709","0039420MOR","Acer × freemanii A.E.Murray",NA,NA,"Shimp, E","2253V89",13,4,1989,"Acer Collection, S-99/30-55.","Yes",16,105,0,NA,13.2231404958678,86.7768595041322,0,103,"Acer ×",FALSE,TRUE,5
-"84897","84897","0039421MOR","Acer × freemanii A.E.Murray",NA,NA,"Shimp, E","2279V89",19,4,1989,"R-103/40-10 in Acer Collection.","Yes",35,20,0,NA,63.6363636363636,36.3636363636364,0,109,"Acer ×",FALSE,TRUE,2
+"84897","84897","0039421MOR","Acer × freemanii A.E.Murray",NA,NA,"Shimp, E","2279V89",19,4,1989,"R-103/40-10 in Acer Collection.","Yes",35,20,0,NA,63.6363636363636,36.3636363636364,0,109,"Acer ×",FALSE,TRUE,3
 "84898","84898","0039422MOR","Acer × freemanii A.E.Murray",NA,NA,"Shimp, E","2278V89",19,4,1989,"R-103/75-15 in Acer Collection.","Yes",26,29,0,NA,47.2727272727273,52.7272727272727,0,109,"Acer ×",FALSE,TRUE,3
 "143553","143553","0039423MOR","Acer × freemanii A.E.Murray",NA,NA,"Allen, K","8705V99",26,4,1999,"AY-55/Area Tollway Berm.","Yes",0,0,32,NA,0,0,100,116,"Acer ×",FALSE,TRUE,9
 "178831","178831","0068166MOR","Acer × freemanii A.E.Murray",NA,NA,"DeVries, C","14144v14",21,5,2014,"Acer: N-97/90-55","Yes",0,0,20,NA,0,0,100,141,"Acer ×",FALSE,TRUE,9
 "178832","178832","0068167MOR","Acer × freemanii A.E.Murray",NA,NA,"Carle, M","14145v14",21,5,2014,"Acer: O-97/70-50","Yes",0,0,15,NA,0,0,100,141,"Acer ×",FALSE,TRUE,9
 "178848","178848","0068170MOR","Acer × freemanii A.E.Murray",NA,NA,"Carle, M","14148v14",21,5,2014,"Acer: R-99/81-20","Yes",0,0,11,NA,0,0,100,141,"Acer ×",FALSE,TRUE,9
-"162070","162070","0053215MOR","Acer argutum × campestre var. austriacum",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1/F05","Yes",0,28,8,NA,0,77.7777777777778,22.2222222222222,127,"Acer argutum",FALSE,TRUE,6
-"163582","163582","0053214MOR","Acer argutum × campestre var. austriacum",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1/G19","Yes",0,21,11,NA,0,65.625,34.375,127,"Acer argutum",FALSE,TRUE,6
+"162070","162070","0053215MOR","Acer argutum × campestre var. austriacum",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1/F05","Yes",0,28,8,NA,0,77.7777777777778,22.2222222222222,127,"Acer argutum",FALSE,TRUE,5
+"163582","163582","0053214MOR","Acer argutum × campestre var. austriacum",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1/G19","Yes",0,21,11,NA,0,65.625,34.375,127,"Acer argutum",FALSE,TRUE,NA
 "174353","174353","0059273MOR","Acer saccharum subsp. Floridanum (Chapm.)",NA,NA,"Glaysher, L","13472v12",24,5,2012,"Ridge Road: V-60/22-66","Yes",0,0,3,NA,0,0,100,145,"Acer saccharum",FALSE,FALSE,9
 "176812","176812","0063973MOR","Acer saccharum subsp. Floridanum (Chapm.)",NA,NA,"Bannon, L","13732v13",7,5,2013,"Ridge Road: W-63/80-09","Yes",0,214,38,NA,0,84.9206349206349,15.0793650793651,127,"Acer saccharum",FALSE,FALSE,5
 "177305","177305","0064252MOR","Acer saccharum subsp. Floridanum (Chapm.)",NA,NA,"Beck, J","13881v13",11,7,2013,"Ridge Road: X-61/44-34","Yes",0,0,7,NA,0,0,100,192,"Acer saccharum",FALSE,FALSE,9
@@ -614,17 +614,17 @@
 "176903","176903","0063806MOR","Acer barbinerve Maxim. ex Miq.",NA,NA,"Hahn, M","13729v13",7,5,2013,"China: X-61/64-79","Yes",3,192,0,NA,1.53846153846154,98.4615384615385,0,127,"Acer barbinerve",FALSE,FALSE,5
 "176904","176904","0063804MOR","Acer barbinerve Maxim. ex Miq.",NA,NA,"Hahn, M","13725v13",7,5,2013,"China: W-61/40-87","Yes",0,104,0,NA,0,100,0,127,"Acer barbinerve",FALSE,FALSE,5
 "23","23","0039296MOR","Acer buergerianum Miq.",NA,NA,"Swink, FA","s.n.",22,8,1963,NA,"Yes",0,0,5,NA,0,0,100,234,"Acer buergerianum",FALSE,FALSE,9
-"161906","161906","0053227MOR","Acer buergerianum Miq.",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1A/J11","Yes",79,35,0,NA,69.2982456140351,30.7017543859649,0,127,"Acer buergerianum",FALSE,FALSE,2
-"163578","163578","0053228MOR","Acer buergerianum Miq.",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1A/J10","Yes",45,30,0,NA,60,40,0,127,"Acer buergerianum",FALSE,FALSE,2
-"161909","161909","0053236MOR","Acer campestre 'Baillee'",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1/H18","Yes",0,64,20,NA,0,76.1904761904762,23.8095238095238,127,"Acer campestre",TRUE,FALSE,6
+"161906","161906","0053227MOR","Acer buergerianum Miq.",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1A/J11","Yes",79,35,0,NA,69.2982456140351,30.7017543859649,0,127,"Acer buergerianum",FALSE,FALSE,3
+"163578","163578","0053228MOR","Acer buergerianum Miq.",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1A/J10","Yes",45,30,0,NA,60,40,0,127,"Acer buergerianum",FALSE,FALSE,3
+"161909","161909","0053236MOR","Acer campestre 'Baillee'",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1/H18","Yes",0,64,20,NA,0,76.1904761904762,23.8095238095238,127,"Acer campestre",TRUE,FALSE,5
 "161914","161914","0053223MOR","Acer campestre 'Baillee'",NA,NA,"Bonnewell, V",NA,14,5,2007,"Tree Breeding Nursery, EN1/I04","Yes",0,0,9,NA,0,0,100,134,"Acer campestre",TRUE,FALSE,9
 "162073","162073","0053224MOR","Acer campestre 'Baillee'",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1/H05","Yes",0,9,0,NA,0,100,0,127,"Acer campestre",TRUE,FALSE,5
 "162077","162077","0053219MOR","Acer campestre 'Baillee'",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1/F20","Yes",0,13,0,NA,0,100,0,127,"Acer campestre",TRUE,FALSE,5
 "162079","162079","0053235MOR","Acer campestre 'Baillee'",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1/H12","Yes",0,109,0,NA,0,100,0,127,"Acer campestre",TRUE,FALSE,5
-"163584","163584","0053225MOR","Acer campestre 'Baillee'",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1/H23","Yes",1,3,0,NA,25,75,0,127,"Acer campestre",TRUE,FALSE,NA
+"163584","163584","0053225MOR","Acer campestre 'Baillee'",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1/H23","Yes",1,3,0,NA,25,75,0,127,"Acer campestre",TRUE,FALSE,5
 "163587","163587","0053221MOR","Acer campestre 'Baillee'",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1/I14","Yes",0,36,0,NA,0,100,0,127,"Acer campestre",TRUE,FALSE,5
 "163607","163607","0053222MOR","Acer campestre 'Baillee'",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1/G08","Yes",0,33,0,NA,0,100,0,127,"Acer campestre",TRUE,FALSE,5
-"163718","163718","0053220MOR","Acer campestre 'Baillee'",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1/I19","Yes",0,14,4,NA,0,77.7777777777778,22.2222222222222,127,"Acer campestre",TRUE,FALSE,6
+"163718","163718","0053220MOR","Acer campestre 'Baillee'",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1/I19","Yes",0,14,4,NA,0,77.7777777777778,22.2222222222222,127,"Acer campestre",TRUE,FALSE,5
 "186948","186948","0097774MOR","Acer campestre 'JFS Schichtel2'",NA,NA,"Beck, J","16439v19",22,8,2019,"Arbordale: F-33/44-05","Yes",0,0,3,NA,0,0,100,234,"Acer campestre",TRUE,FALSE,9
 "188990","188990","0100218MOR","Acer campestre 'Postelense'",NA,NA,"Potenberg, K","17185v22",26,5,2022,"Acer: U-100/89-34","Yes",0,0,16,NA,0,0,100,146,"Acer campestre",TRUE,FALSE,9
 "157440","157440","0049359MOR","Acer campestre 'Schwerinii'",NA,NA,"Allen, K","9680V03",13,6,2003,"Along Forest Road, south side: L-94/05-29.","Yes",0,0,7,NA,0,0,100,164,"Acer campestre",TRUE,FALSE,9
@@ -645,7 +645,7 @@
 "160647","160647","0052541MOR","Acer campestre L.",NA,NA,"Olker, B","10332V06",8,5,2006,"Aceraceae, north section; X-62/26-59","Yes",9,181,14,NA,4.41176470588235,88.7254901960784,6.86274509803922,128,"Acer campestre",FALSE,FALSE,5
 "174350","174350","0059271MOR","Acer campestre L.",NA,NA,"Beck, J","13469v12",24,5,2012,"China: X-62/26-59","Yes",0,0,49,NA,0,0,100,145,"Acer campestre",FALSE,FALSE,9
 "175206","175206","0060728MOR","Acer campestre L.",NA,NA,"Casey, A","13581v12",11,9,2012,"Visitor Center Parking: Q-45/47-65","Yes",0,0,20,NA,0,0,100,255,"Acer campestre",FALSE,FALSE,9
-"176911","176911","0063813MOR","Acer campestre L.",NA,NA,"DeVries, C","13740v13",8,5,2013,"Tollway Berm: AY-76/25-97","Yes",28,97,0,NA,22.4,77.6,0,128,"Acer campestre",FALSE,FALSE,NA
+"176911","176911","0063813MOR","Acer campestre L.",NA,NA,"DeVries, C","13740v13",8,5,2013,"Tollway Berm: AY-76/25-97","Yes",28,97,0,NA,22.4,77.6,0,128,"Acer campestre",FALSE,FALSE,5
 "177525","177525","0065961MOR","Acer campestre L.",NA,NA,"Potenberg, K","13871v13",9,7,2013,"Tollway Berm: AY-76/25-97","Yes",0,0,25,NA,0,0,100,190,"Acer campestre",FALSE,FALSE,9
 "187439","187439","0098324MOR","Acer campestre L.",NA,NA,"Worcester, L","LW263",31,7,2018,"China: X-62/26-59","Yes",0,0,19,NA,0,0,100,212,"Acer campestre",FALSE,FALSE,9
 "188942","188942","0100407MOR","Acer campestre L.",NA,NA,"Potenberg, K","16805v21",17,6,2021,"European Central Europe: Z-32/47-65","Yes",0,0,18,NA,0,0,100,168,"Acer campestre",FALSE,FALSE,9
@@ -657,7 +657,7 @@
 "112993","112993","0039389MOR","Acer campestre subsp. leiocarpum (Wallr.) Pax",NA,NA,"Altvatter, K","5946V93",6,7,1993,"Aceraceae Collection, T-99/30-65","Yes",0,0,21,NA,0,0,100,187,"Acer campestre",FALSE,FALSE,9
 "135334","135334","0039388MOR","Acer campestre subsp. leiocarpum (Wallr.) Pax",NA,NA,"Wiegrefe, S","261",5,5,1993,"Acer Collection, T-99/30-65","Yes",10,129,24,NA,6.13496932515337,79.1411042944785,14.7239263803681,125,"Acer campestre",FALSE,FALSE,5
 "42","42","0039365MOR","Acer campestre var. austriacum (Tratt.) DC.",NA,NA,"Ciolac, C","s.n.",31,5,1973,"F-64/55-60, Frost Hill.","Yes",0,0,19,NA,0,0,100,151,"Acer campestre",FALSE,FALSE,9
-"43","43","0039371MOR","Acer campestre var. austriacum (Tratt.) DC.",NA,NA,"Ciolac, C","s.n.",25,4,1973,"G-63/00-90 Frost Hill.","Yes",36,116,0,NA,23.6842105263158,76.3157894736842,0,115,"Acer campestre",FALSE,FALSE,NA
+"43","43","0039371MOR","Acer campestre var. austriacum (Tratt.) DC.",NA,NA,"Ciolac, C","s.n.",25,4,1973,"G-63/00-90 Frost Hill.","Yes",36,116,0,NA,23.6842105263158,76.3157894736842,0,115,"Acer campestre",FALSE,FALSE,5
 "45","45","0039375MOR","Acer campestre var. austriacum (Tratt.) DC.",NA,NA,"Lesica, P","s.n.",24,7,1972,"F-64/75-20 on Frost Hill.","Yes",0,0,6,NA,0,0,100,206,"Acer campestre",FALSE,FALSE,9
 "71599","71599","0039364MOR","Acer campestre var. austriacum (Tratt.) DC.",NA,NA,"Podrasky, N","1063V87",27,5,1987,"F-63/05-65 on Frost Hill.","Yes",0,0,7,NA,0,0,100,147,"Acer campestre",FALSE,FALSE,9
 "78318","78318","0039372MOR","Acer campestre var. austriacum (Tratt.) DC.",NA,NA,"Hess, WJ","1821V88",5,5,1988,"P-38/Area along W route 53.","Yes",5,23,0,NA,17.8571428571429,82.1428571428571,0,126,"Acer campestre",FALSE,FALSE,5
@@ -707,11 +707,11 @@
 "91521","91521","0039461MOR","Acer davidii subsp. grosseri (Pax) P.C.de Jong",NA,NA,"Klock, K","3322V90",15,5,1990,"China Collection, AA-65/04-96","Yes",4,20,0,NA,16.6666666666667,83.3333333333333,0,135,"Acer davidii",FALSE,FALSE,5
 "91522","91522","0039463MOR","Acer davidii subsp. grosseri (Pax) P.C.de Jong",NA,NA,"Klock, K","3321V90",15,5,1990,"China Collection, AA-66/02-08","Yes",24,156,0,NA,13.3333333333333,86.6666666666667,0,135,"Acer davidii",FALSE,FALSE,5
 "91579","91579","0039460MOR","Acer davidii subsp. grosseri (Pax) P.C.de Jong",NA,NA,"Klock, K","3320V90",15,5,1990,"China Collection, AA-66/08-25","Yes",0,64,0,NA,0,100,0,135,"Acer davidii",FALSE,FALSE,5
-"119619","119619","0039415MOR","Acer davidii subsp. grosseri (Pax) P.C.de Jong",NA,NA,"Packard, S","6511V94",24,5,1994,"Z-66/97-19 in China Collection.","Yes",0,12,15,NA,0,44.4444444444444,55.5555555555556,144,"Acer davidii",FALSE,FALSE,7
-"119641","119641","0039414MOR","Acer davidii subsp. grosseri (Pax) P.C.de Jong",NA,NA,"Packard, S","6512V94",24,5,1994,"AA-65/04-96 in China Collection.","Yes",0,15,12,NA,0,55.5555555555556,44.4444444444444,144,"Acer davidii",FALSE,FALSE,6
+"119619","119619","0039415MOR","Acer davidii subsp. grosseri (Pax) P.C.de Jong",NA,NA,"Packard, S","6511V94",24,5,1994,"Z-66/97-19 in China Collection.","Yes",0,12,15,NA,0,44.4444444444444,55.5555555555556,144,"Acer davidii",FALSE,FALSE,6
+"119641","119641","0039414MOR","Acer davidii subsp. grosseri (Pax) P.C.de Jong",NA,NA,"Packard, S","6512V94",24,5,1994,"AA-65/04-96 in China Collection.","Yes",0,15,12,NA,0,55.5555555555556,44.4444444444444,144,"Acer davidii",FALSE,FALSE,NA
 "149266","149266","0039413MOR","Acer davidii subsp. grosseri (Pax) P.C.de Jong",NA,NA,"Allen, K","9143V00",27,4,2000,"X-60/63-69 Aceraceae.","Yes",0,18,0,NA,0,100,0,118,"Acer davidii",FALSE,FALSE,5
 "187859","187859","0099251MOR","Acer davidii subsp. grosseri (Pax) P.C.de Jong",NA,NA,"Worcester, L","LW269",31,7,2018,"China: X-65/83-47","Yes",0,0,5,NA,0,0,100,212,"Acer davidii",FALSE,FALSE,9
-"67999","67999","0039419MOR","Acer forrestii Diels",NA,NA,"Schulenberg, RF","158V84",23,5,1984,"China Collection, BB-66/22-06.","Yes",0,8,28,NA,0,22.2222222222222,77.7777777777778,144,"Acer forrestii",FALSE,FALSE,8
+"67999","67999","0039419MOR","Acer forrestii Diels",NA,NA,"Schulenberg, RF","158V84",23,5,1984,"China Collection, BB-66/22-06.","Yes",0,8,28,NA,0,22.2222222222222,77.7777777777778,144,"Acer forrestii",FALSE,FALSE,7
 "135208","135208","0039418MOR","Acer forrestii Diels",NA,NA,"Wiegrefe, S","271",7,5,1993,"Acer Collection, BB-66/02-06.","Yes",68,73,2,NA,47.5524475524476,51.0489510489511,1.3986013986014,127,"Acer forrestii",FALSE,FALSE,3
 "137629","137629","0039417MOR","Acer forrestii Diels",NA,NA,"Bradtke, HL","8175V97",28,7,1997,"V-63/29-02 Aceraceae Collection.","Yes",0,0,7,NA,0,0,100,209,"Acer forrestii",FALSE,FALSE,9
 "157210","157210","0050512MOR","Acer forrestii Diels",NA,NA,"Stephens, M","9831V03",18,7,2003,"China, central section: BB-66/22-06","Yes",0,0,18,NA,0,0,100,199,"Acer forrestii",FALSE,FALSE,9
@@ -719,9 +719,9 @@
 "138","138","0039459MOR","Acer ginnala f. aidzuense Schwer.",NA,NA,"Eickhorst, W","s.n.",13,9,1935,"46-15","Yes",0,0,21,NA,0,0,100,256,"Acer ginnala",FALSE,FALSE,9
 "161899","161899","0053243MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Bonnewell, V",NA,14,5,2007,"Tree Breeding Nursery, EN1A/K1","Yes",13,67,0,NA,16.25,83.75,0,134,"Acer tataricum",FALSE,FALSE,5
 "161900","161900","0053244MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Bonnewell, V",NA,14,5,2007,"Tree Breeding Nursery, EN1A/K2","Yes",19,40,0,NA,32.2033898305085,67.7966101694915,0,134,"Acer tataricum",FALSE,FALSE,NA
-"162082","162082","0053209MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1A/I1","Yes",59,29,0,NA,67.0454545454545,32.9545454545455,0,127,"Acer tataricum",FALSE,FALSE,2
-"162083","162083","0053208MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1A/D1","Yes",13,43,0,NA,23.2142857142857,76.7857142857143,0,127,"Acer tataricum",FALSE,FALSE,NA
-"162084","162084","0053207MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1A/D2","Yes",13,20,0,NA,39.3939393939394,60.6060606060606,0,127,"Acer tataricum",FALSE,FALSE,3
+"162082","162082","0053209MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1A/I1","Yes",59,29,0,NA,67.0454545454545,32.9545454545455,0,127,"Acer tataricum",FALSE,FALSE,3
+"162083","162083","0053208MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1A/D1","Yes",13,43,0,NA,23.2142857142857,76.7857142857143,0,127,"Acer tataricum",FALSE,FALSE,5
+"162084","162084","0053207MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1A/D2","Yes",13,20,0,NA,39.3939393939394,60.6060606060606,0,127,"Acer tataricum",FALSE,FALSE,NA
 "162087","162087","0053204MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Bonnewell, V",NA,14,5,2007,"Tree Breeding Nursery, EN1A/13","Yes",0,43,0,NA,0,100,0,134,"Acer tataricum",FALSE,FALSE,5
 "162088","162088","0053245MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1A/G3","Yes",95,35,0,NA,73.0769230769231,26.9230769230769,0,127,"Acer tataricum",FALSE,FALSE,2
 "163417","163417","0053242MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1A/G2","Yes",202,55,0,NA,78.5992217898833,21.4007782101167,0,127,"Acer tataricum",FALSE,FALSE,2
@@ -748,19 +748,19 @@
 "89109","89109","0039464MOR","Acer heldreichii Orph. ex Boiss.",NA,NA,"Linden, PJ van der","2592V89",30,5,1989,"Frost Hill, D-63/95-45","Yes",0,8,16,NA,0,33.3333333333333,66.6666666666667,150,"Acer heldreichii",FALSE,FALSE,7
 "177462","177462","0065627MOR","Acer heldreichii Orph. ex Boiss.",NA,NA,"Potenberg, K","13873v13",9,7,2013,"Frost Hill: D-63/95-45","Yes",0,0,16,NA,0,0,100,190,"Acer heldreichii",FALSE,FALSE,9
 "86312","86312","0039466MOR","Acer heldreichii var. macropterum (Vis.) Pax",NA,NA,"Linden, PJ van der","2903V89",16,8,1989,"Diversity Collection, Q-58/11-83","Yes",0,0,8,NA,0,0,100,228,"Acer heldreichii",FALSE,FALSE,9
-"89047","89047","0039474MOR","Acer heldreichii var. macropterum (Vis.) Pax",NA,NA,"Linden, PJ van der","2591V89",1,6,1989,"Colored Foliage, K-94/10-45","Yes",0,30,26,NA,0,53.5714285714286,46.4285714285714,152,"Acer heldreichii",FALSE,FALSE,6
+"89047","89047","0039474MOR","Acer heldreichii var. macropterum (Vis.) Pax",NA,NA,"Linden, PJ van der","2591V89",1,6,1989,"Colored Foliage, K-94/10-45","Yes",0,30,26,NA,0,53.5714285714286,46.4285714285714,152,"Acer heldreichii",FALSE,FALSE,NA
 "89142","89142","0039473MOR","Acer heldreichii var. macropterum (Vis.) Pax",NA,NA,"Linden, PJ van der","2590V89",30,5,1989,"Diversity Collection, Q-58/11-83","Yes",0,0,2,NA,0,0,100,150,"Acer heldreichii",FALSE,FALSE,9
 "135307","135307","0043804MOR","Acer japonicum 'Aconitifolium'",NA,NA,"Wiegrefe, S","256",5,5,1993,"Frost Hill G-61/35-20","Yes",1,21,0,NA,4.54545454545455,95.4545454545455,0,125,"Acer japonicum",TRUE,FALSE,5
 "149340","149340","0039478MOR","Acer japonicum 'Aconitifolium'",NA,NA,"Allen, K","9183V00",27,6,2000,"Near Administration Building, J-41/Area","Yes",0,0,5,NA,0,0,100,179,"Acer japonicum",TRUE,FALSE,9
 "173520","173520","0058862MOR","Acer japonicum 'Aconitifolium'",NA,NA,"Hahn, M","13279v12",23,3,2012,"Administration Building, library, south side: J-42/64-01","Yes",32,23,0,NA,58.1818181818182,41.8181818181818,0,83,"Acer japonicum",TRUE,FALSE,3
-"9418","9418","0043805MOR","Acer japonicum Thunb.",NA,NA,"Schulenberg, RF","s.n.",20,4,1977,"Southwest quarter of Frost Hill E-60/90-20","Yes",16,26,0,NA,38.0952380952381,61.9047619047619,0,110,"Acer japonicum",FALSE,FALSE,3
+"9418","9418","0043805MOR","Acer japonicum Thunb.",NA,NA,"Schulenberg, RF","s.n.",20,4,1977,"Southwest quarter of Frost Hill E-60/90-20","Yes",16,26,0,NA,38.0952380952381,61.9047619047619,0,110,"Acer japonicum",FALSE,FALSE,NA
 "71588","71588","0070904MOR","Acer japonicum Thunb.",NA,NA,"Podrasky, N","1053V87",27,5,1987,"Frost Hill, [E-60/90-20]","Yes",0,0,1,NA,0,0,100,147,"Acer japonicum",FALSE,FALSE,9
 "84850","84850","0043808MOR","Acer japonicum Thunb.",NA,NA,"Shimp, E","2313V89",25,4,1989,"Thornhill South Lawn FF-27/Area","Yes",34,33,0,NA,50.7462686567164,49.2537313432836,0,115,"Acer japonicum",FALSE,FALSE,3
 "112866","112866","0039470MOR","Acer japonicum Thunb.",NA,NA,"Bradtke, HL","5888V93",22,6,1993,"Frost Hill, G-61/20-35","Yes",0,0,6,NA,0,0,100,173,"Acer japonicum",FALSE,FALSE,9
 "135342","135342","0043807MOR","Acer japonicum Thunb.",NA,NA,"Wiegrefe, S","258",5,5,1993,"Frost Hill E-60/90-20","Yes",4,99,0,NA,3.88349514563107,96.1165048543689,0,125,"Acer japonicum",FALSE,FALSE,5
 "147125","147125","0039477MOR","Acer japonicum Thunb.",NA,NA,"Wiegrefe, S","346",10,7,1997,"Frost Hill, inside loop; E-60/91-24","Yes",0,0,2,NA,0,0,100,191,"Acer japonicum",FALSE,FALSE,9
 "149267","149267","0039475MOR","Acer japonicum Thunb.",NA,NA,"Allen, K","9142V00",27,4,2000,"Aceraceae Collection, X-60/50-57","Yes",0,4,0,NA,0,100,0,118,"Acer japonicum",FALSE,FALSE,5
-"173583","173583","0058915MOR","Acer japonicum Thunb.",NA,NA,"Potenberg, K","13328v12",10,4,2012,"China: X-60/94-84","Yes",0,17,10,NA,0,62.962962962963,37.037037037037,101,"Acer japonicum",FALSE,FALSE,6
+"173583","173583","0058915MOR","Acer japonicum Thunb.",NA,NA,"Potenberg, K","13328v12",10,4,2012,"China: X-60/94-84","Yes",0,17,10,NA,0,62.962962962963,37.037037037037,101,"Acer japonicum",FALSE,FALSE,NA
 "182477","182477","0088435MOR","Acer japonicum Thunb.",NA,NA,"Dorrell, J","15165v16",25,10,2016,"China: X-60/94-84","Yes",0,0,6,NA,0,0,100,299,"Acer japonicum",FALSE,FALSE,9
 "149265","149265","0039985MOR","Acer komarovii Pojark.",NA,NA,"Allen, K","9144V00",27,4,2000,"Aceraceae Collection, X-61/32-57.","Yes",15,20,1,NA,41.6666666666667,55.5555555555556,2.77777777777778,118,"Acer komarovii",FALSE,FALSE,3
 "149270","149270","0039986MOR","Acer komarovii Pojark.",NA,NA,"Allen, K","9137V00",27,4,2000,"Aceraceae Collection, X-61/67-63.","Yes",0,3,0,NA,0,100,0,118,"Acer komarovii",FALSE,FALSE,5
@@ -770,7 +770,7 @@
 "204","204","0039480MOR","Acer mandshuricum Maxim.",NA,NA,"Braham, R","s.n.",23,6,1971,"Acer Collection, U-101/60-55","Yes",0,0,6,NA,0,0,100,174,"Acer mandshuricum",FALSE,FALSE,9
 "207","207","0039485MOR","Acer mandshuricum Maxim.",NA,NA,"Braham, R","s.n.",24,5,1971,"Acer Collection, U-101/60-55","Yes",0,1,7,NA,0,12.5,87.5,144,"Acer mandshuricum",FALSE,FALSE,8
 "208","208","0039486MOR","Acer mandshuricum Maxim.",NA,NA,"Swink, FA","s.n.",10,8,1964,"Forest Road, O-97/80-95","Yes",0,0,2,NA,0,0,100,223,"Acer mandshuricum",FALSE,FALSE,9
-"173599","173599","0058911MOR","Acer mandshuricum Maxim.",NA,NA,"Potenberg, K","13331v12",10,4,2012,"China: Y-65/10-58","Yes",0,16,14,NA,0,53.3333333333333,46.6666666666667,101,"Acer mandshuricum",FALSE,FALSE,6
+"173599","173599","0058911MOR","Acer mandshuricum Maxim.",NA,NA,"Potenberg, K","13331v12",10,4,2012,"China: Y-65/10-58","Yes",0,16,14,NA,0,53.3333333333333,46.6666666666667,101,"Acer mandshuricum",FALSE,FALSE,NA
 "178825","178825","0068172MOR","Acer mandshuricum Maxim.",NA,NA,"Beck, J","14152v14",20,5,2014,"Acer: R-99/30-80","Yes",0,3,16,NA,0,15.7894736842105,84.2105263157895,140,"Acer mandshuricum",FALSE,FALSE,8
 "188356","188356","0099887MOR","Acer mandshuricum Maxim.",NA,NA,"Potenberg, K","16907v21",19,8,2021,"Acer: R-101/09-45","Yes",0,0,7,NA,0,0,100,231,"Acer mandshuricum",FALSE,FALSE,9
 "188662","188662","0099695MOR","Acer mandshuricum Maxim.",NA,NA,"Dorrell,","16761v21",27,5,2021,"China: south section: X-65/33-24","Yes",0,0,2,NA,0,0,100,147,"Acer mandshuricum",FALSE,FALSE,9
@@ -787,13 +787,13 @@
 "177325","177325","0064238MOR","Acer miyabei 'Morton'",NA,NA,"DeVries, C","13878v13",10,7,2013,"Acer: P-99/49-75","Yes",0,0,6,NA,0,0,100,191,"Acer miyabei",TRUE,FALSE,9
 "186548","186548","0098025MOR","Acer miyabei 'Morton'",NA,NA,"Potenberg, K","15486v17",25,7,2017,"Entrance Drive: U-48/53-78","Yes",0,0,3,NA,0,0,100,206,"Acer miyabei",TRUE,FALSE,9
 "188832","188832","0099893MOR","Acer miyabei 'Morton'",NA,NA,"Potenberg, K","16952v21",21,10,2021,"Visitor center parking west side north: T-47/47-76","Yes",0,0,7,NA,0,0,100,294,"Acer miyabei",TRUE,FALSE,9
-"190668","190668","0101526MOR","Acer miyabei 'Morton'",NA,NA,"Potenberg, K","17861v23",4,5,2023,"Entrance Drive: U-48/53-78","Yes",13,37,0,NA,26,74,0,124,"Acer miyabei",TRUE,FALSE,NA
-"190669","190669","0101525MOR","Acer miyabei 'Morton'",NA,NA,"Potenberg, K","17862v23",4,5,2023,"Visitor Center Parking Northwest side: U-48/02-69","Yes",13,51,0,NA,20.3125,79.6875,0,124,"Acer miyabei",TRUE,FALSE,NA
-"190670","190670","0101524MOR","Acer miyabei 'Morton'",NA,NA,"Potenberg, K","17863v23",4,5,2023,"Visitor Center Parking Northwest: T-48/83-31","Yes",7,22,0,NA,24.1379310344828,75.8620689655172,0,124,"Acer miyabei",TRUE,FALSE,NA
+"190668","190668","0101526MOR","Acer miyabei 'Morton'",NA,NA,"Potenberg, K","17861v23",4,5,2023,"Entrance Drive: U-48/53-78","Yes",13,37,0,NA,26,74,0,124,"Acer miyabei",TRUE,FALSE,5
+"190669","190669","0101525MOR","Acer miyabei 'Morton'",NA,NA,"Potenberg, K","17862v23",4,5,2023,"Visitor Center Parking Northwest side: U-48/02-69","Yes",13,51,0,NA,20.3125,79.6875,0,124,"Acer miyabei",TRUE,FALSE,5
+"190670","190670","0101524MOR","Acer miyabei 'Morton'",NA,NA,"Potenberg, K","17863v23",4,5,2023,"Visitor Center Parking Northwest: T-48/83-31","Yes",7,22,0,NA,24.1379310344828,75.8620689655172,0,124,"Acer miyabei",TRUE,FALSE,5
 "195233","195233","0112632MOR","Acer miyabei 'Morton'",NA,NA,"Potenberg, K","18935v25",14,8,2025,"Research Parking Median: G-39/74-63","Yes",0,0,8,NA,0,0,100,226,"Acer miyabei",TRUE,FALSE,9
-"217","217","0039493MOR","Acer miyabei Maxim.",NA,NA,"Lesica, P","s.n.",15,5,1972,"Acer Collection, Q-99/40-10","Yes",35,63,0,NA,35.7142857142857,64.2857142857143,0,136,"Acer miyabei",FALSE,FALSE,3
+"217","217","0039493MOR","Acer miyabei Maxim.",NA,NA,"Lesica, P","s.n.",15,5,1972,"Acer Collection, Q-99/40-10","Yes",35,63,0,NA,35.7142857142857,64.2857142857143,0,136,"Acer miyabei",FALSE,FALSE,NA
 "218","218","0039504MOR","Acer miyabei Maxim.",NA,NA,"Swink, FA","s.n.",15,7,1964,"Godshalk Meadow, L-30/50-40","Yes",0,0,14,NA,0,0,100,197,"Acer miyabei",FALSE,FALSE,9
-"40649","40649","0039509MOR","Acer miyabei Maxim.",NA,NA,"Hess, WJ","4867",14,5,1980,"On west side on the west side of Joy Path, V-24/20-50","Yes",22,37,0,NA,37.2881355932203,62.7118644067797,0,135,"Acer miyabei",FALSE,FALSE,3
+"40649","40649","0039509MOR","Acer miyabei Maxim.",NA,NA,"Hess, WJ","4867",14,5,1980,"On west side on the west side of Joy Path, V-24/20-50","Yes",22,37,0,NA,37.2881355932203,62.7118644067797,0,135,"Acer miyabei",FALSE,FALSE,NA
 "74009","74009","0039497MOR","Acer miyabei Maxim.",NA,NA,"Podrasky, N","1829V88",5,5,1988,"Godshalk Meadow, M-29/Area","Yes",18,23,0,NA,43.9024390243902,56.0975609756098,0,126,"Acer miyabei",FALSE,FALSE,3
 "76592","76592","0039488MOR","Acer miyabei Maxim.",NA,NA,"Podrasky, N","1286V87",2,7,1987,"Acer Collection, Q-99/15-40","Yes",0,0,9,NA,0,0,100,183,"Acer miyabei",FALSE,FALSE,9
 "76593","76593","0039492MOR","Acer miyabei Maxim.",NA,NA,"Podrasky, N","1285V87",2,7,1987,"Acer Collection, Q-99/40-10","Yes",0,0,5,NA,0,0,100,183,"Acer miyabei",FALSE,FALSE,9
@@ -805,7 +805,7 @@
 "98276","98276","0039489MOR","Acer miyabei Maxim.",NA,NA,"Packard, S","4834V91",30,7,1991,"Japanese Collection, AA-59/30-15","Yes",0,0,1,NA,0,0,100,211,"Acer miyabei",FALSE,FALSE,9
 "104805","104805","0039498MOR","Acer miyabei Maxim.",NA,NA,"Packard, S","5254V92",30,6,1992,"Near Parking 26, D-23/75-83","Yes",0,0,29,NA,0,0,100,182,"Acer miyabei",FALSE,FALSE,9
 "111562","111562","0039494MOR","Acer miyabei Maxim.",NA,NA,"Wiegrefe, S","260",5,5,1993,"Aceraceae, Q-99/40-10","Yes",21,4,0,NA,84,16,0,125,"Acer miyabei",FALSE,FALSE,2
-"118951","118951","0039507MOR","Acer miyabei Maxim.",NA,NA,"Altvatter, K","6408V94",3,5,1994,"Arbordale (Henry), G-34/Area","Yes",161,14,0,NA,92,8,0,123,"Acer miyabei",FALSE,FALSE,1
+"118951","118951","0039507MOR","Acer miyabei Maxim.",NA,NA,"Altvatter, K","6408V94",3,5,1994,"Arbordale (Henry), G-34/Area","Yes",161,14,0,NA,92,8,0,123,"Acer miyabei",FALSE,FALSE,2
 "127279","127279","0039500MOR","Acer miyabei Maxim.",NA,NA,"Hess, WJ","7052V95",1,6,1995,"Joy Path, V-24/22-08","Yes",0,0,3,NA,0,0,100,152,"Acer miyabei",FALSE,FALSE,9
 "135425","135425","0039503MOR","Acer miyabei Maxim.",NA,NA,"Wiegrefe, S","321",22,5,1997,"Acer Collection, Q-99/40-10","Yes",0,49,0,NA,0,100,0,142,"Acer miyabei",FALSE,FALSE,5
 "138175","138175","0039502MOR","Acer miyabei Maxim.",NA,NA,"Wise, R","8229V97",6,8,1997,"West DuPage River, K-28/55-00","Yes",0,0,12,NA,0,0,100,218,"Acer miyabei",FALSE,FALSE,9
@@ -817,10 +817,10 @@
 "168946","168946","0054777MOR","Acer miyabei Maxim.",NA,NA,"Potenberg, K","11430v08",28,10,2008,"Godshalk Meadow, south side: L-30/00-20","Yes",0,0,2,NA,0,0,100,302,"Acer miyabei",FALSE,FALSE,9
 "170288","170288","0055649MOR","Acer miyabei Maxim.",NA,NA,"Carle, M","11434v08",29,10,2008,"Along the West DuPage River: K-28/55-00","Yes",0,0,5,NA,0,0,100,303,"Acer miyabei",FALSE,FALSE,9
 "170323","170323","0055947MOR","Acer miyabei Maxim.",NA,NA,"Carle, M","11433v08",29,10,2008,"Along the West DuPage River: D-23/75-83","Yes",0,0,16,NA,0,0,100,303,"Acer miyabei",FALSE,FALSE,9
-"171245","171245","0056319MOR","Acer miyabei Maxim.",NA,NA,"Sherman, L","12125v10",20,4,2010,"West DuPage River: D-23/75-83","Yes",31,104,0,NA,22.962962962963,77.037037037037,0,110,"Acer miyabei",FALSE,FALSE,NA
+"171245","171245","0056319MOR","Acer miyabei Maxim.",NA,NA,"Sherman, L","12125v10",20,4,2010,"West DuPage River: D-23/75-83","Yes",31,104,0,NA,22.962962962963,77.037037037037,0,110,"Acer miyabei",FALSE,FALSE,5
 "187440","187440","0098325MOR","Acer miyabei subsp. miaotaiense (P.C.Tsoong) A.E.Murray",NA,NA,"Worcester, L","LW264",31,7,2018,"China: X-62/02-84","Yes",0,0,7,NA,0,0,100,212,"Acer miyabei",FALSE,FALSE,9
 "77491","77491","0039506MOR","Acer pictum subsp. mono H.Ohashi",NA,NA,"Podrasky, N","1754V88",28,4,1988,"Acer Collection, P-100/55-95","Yes",20,176,0,NA,10.2040816326531,89.7959183673469,0,119,"Acer pictum",FALSE,FALSE,5
-"77492","77492","0039505MOR","Acer pictum subsp. mono H.Ohashi",NA,NA,"Podrasky, N","1755V88",28,4,1988,"Acer Collection, P-101/75-10","Yes",32,14,0,NA,69.5652173913043,30.4347826086957,0,119,"Acer pictum",FALSE,FALSE,2
+"77492","77492","0039505MOR","Acer pictum subsp. mono H.Ohashi",NA,NA,"Podrasky, N","1755V88",28,4,1988,"Acer Collection, P-101/75-10","Yes",32,14,0,NA,69.5652173913043,30.4347826086957,0,119,"Acer pictum",FALSE,FALSE,3
 "115922","115922","0048536MOR","Acer pictum subsp. mono H.Ohashi",NA,NA,"Sturner, J","9668V03",22,5,2003,"Korea, R-63/72-48","Yes",0,0,28,NA,0,0,100,142,"Acer pictum",FALSE,FALSE,9
 "142185","142185","0039516MOR","Acer pictum subsp. mono H.Ohashi",NA,NA,"DeMink, L","s.n.",11,8,1998,"Acer Collection, P-101/60-30","Yes",0,0,2,NA,0,0,100,223,"Acer pictum",FALSE,FALSE,9
 "155987","155987","0042344MOR","Acer pictum subsp. mono H.Ohashi",NA,NA,"Packard, S","9805V03",14,7,2003,"R-63/72-48 Korea","Yes",0,0,2,NA,0,0,100,195,"Acer pictum",FALSE,FALSE,9
@@ -844,7 +844,7 @@
 "52497","52497","0039518MOR","Acer negundo 'Pseudocalifornicum'",NA,NA,"Schulenberg, RF","67V84",8,5,1984,"Acer Collection, R-98/95-90","Yes",0,58,0,NA,0,100,0,129,"Acer negundo",TRUE,FALSE,5
 "51795","51795","0039523MOR","Acer negundo 'Rubescens'",NA,NA,"Schulenberg, RF","68V84",5,5,1984,"Acer Collection, R-99/00-15","Yes",0,54,0,NA,0,100,0,126,"Acer negundo",TRUE,FALSE,5
 "52503","52503","0039517MOR","Acer negundo 'Rubescens'",NA,NA,"Schulenberg, RF","69V84",8,5,1984,"Acer Collection, Q-98/75-75","Yes",0,48,0,NA,0,100,0,129,"Acer negundo",TRUE,FALSE,5
-"169948","169948","0055497MOR","Acer negundo L.",NA,NA,"Moran, E","11515v09",29,4,2009,"Eastern U.S. Wetlands: HH-69/12-67","Yes",0,11,5,NA,0,68.75,31.25,119,"Acer negundo",FALSE,FALSE,6
+"169948","169948","0055497MOR","Acer negundo L.",NA,NA,"Moran, E","11515v09",29,4,2009,"Eastern U.S. Wetlands: HH-69/12-67","Yes",0,11,5,NA,0,68.75,31.25,119,"Acer negundo",FALSE,FALSE,NA
 "170394","170394","0055550MOR","Acer negundo L.",NA,NA,"Carle, M","11511v09",22,4,2009,"Eastern U.S. Wetlands: GG-69/89-58","Yes",56,20,0,"Hard to determine",73.6842105263158,26.3157894736842,0,112,"Acer negundo",FALSE,FALSE,2
 "194716","194716","0109344MOR","Acer negundo L.",NA,NA,"Chen, S","18822v25",8,5,2025,"Acer: S-102/49-89","Yes",0,56,0,"Hard to determine",0,100,0,128,"Acer negundo",FALSE,FALSE,5
 "143534","143534","0039519MOR","Acer negundo var. interius (Britton) Sarg.",NA,NA,"Danielson, D","8676V99",12,4,1999,"Aceraceae, W-63/53-74","Yes",9,3,0,NA,75,25,0,102,"Acer negundo",FALSE,FALSE,2
@@ -859,13 +859,13 @@
 "113287","113287","0039530MOR","Acer negundo var. violaceum Booth ex G.Kirchn.",NA,NA,"Packard, S","5993V93",12,7,1993,"Eastern US Wetlands, GG-69/19-12","Yes",0,0,15,NA,0,0,100,193,"Acer negundo",FALSE,FALSE,9
 "126263","126263","0039532MOR","Acer negundo var. violaceum Booth ex G.Kirchn.",NA,NA,"Packard, S","6935V95",25,4,1995,"Eastern U.S. Wetlands, GG-69/16-27","Yes",50,99,0,NA,33.5570469798658,66.4429530201342,0,115,"Acer negundo",FALSE,FALSE,NA
 "126264","126264","0039531MOR","Acer negundo var. violaceum Booth ex G.Kirchn.",NA,NA,"Packard, S","6936V95",25,4,1995,"Eastern U.S. Wetlands, GG-69/19-12","Yes",0,198,0,NA,0,100,0,115,"Acer negundo",FALSE,FALSE,5
-"131648","131648","0039534MOR","Acer negundo var. violaceum Booth ex G.Kirchn.",NA,NA,"Packard, S","7328V96",7,5,1996,"Near Meadow Lake, N-52/03-81","Yes",0,12,3,"miss id",0,80,20,128,"Acer negundo",FALSE,FALSE,6
+"131648","131648","0039534MOR","Acer negundo var. violaceum Booth ex G.Kirchn.",NA,NA,"Packard, S","7328V96",7,5,1996,"Near Meadow Lake, N-52/03-81","Yes",0,12,3,"miss id",0,80,20,128,"Acer negundo",FALSE,FALSE,5
 "149202","149202","0039539MOR","Acer negundo var. violaceum Booth ex G.Kirchn.",NA,NA,"Allen, K","9134V00",27,4,2000,"Near Meadow Lake, N-52/03-81","Yes",0,75,0,NA,0,100,0,118,"Acer negundo",FALSE,FALSE,5
 "149253","149253","0039538MOR","Acer negundo var. violaceum Booth ex G.Kirchn.",NA,NA,"Allen, K","9147V00",27,4,2000,"Aceraceae Collection, W-62/14-33","Yes",0,87,0,NA,0,100,0,118,"Acer negundo",FALSE,FALSE,5
 "149263","149263","0039540MOR","Acer negundo var. violaceum Booth ex G.Kirchn.",NA,NA,"Allen, K","9146V00",27,4,2000,"Aceraceae Collection, W-62/58-41","Yes",0,55,0,NA,0,100,0,118,"Acer negundo",FALSE,FALSE,5
 "169068","169068","0054972MOR","Acer negundo var. violaceum Booth ex G.Kirchn.",NA,NA,"Connolly, G","11292v08",2,9,2008,"Northern Illinois: J-61/91-95","Yes",0,0,18,NA,0,0,100,246,"Acer negundo",FALSE,FALSE,9
 "169930","169930","0055381MOR","Acer negundo var. violaceum Booth ex G.Kirchn.",NA,NA,"Sachdev, S","11512v09",22,4,2009,"Eastern U.S. Wetlands: GG-69/34-26","Yes",109,16,0,NA,87.2,12.8,0,112,"Acer negundo",FALSE,FALSE,2
-"170318","170318","0056025MOR","Acer negundo var. violaceum Booth ex G.Kirchn.",NA,NA,"Potenberg, K","11530v09",5,5,2009,"Northern Illinois: J-61/91-95","Yes",0,1,19,NA,0,5,95,125,"Acer negundo",FALSE,FALSE,9
+"170318","170318","0056025MOR","Acer negundo var. violaceum Booth ex G.Kirchn.",NA,NA,"Potenberg, K","11530v09",5,5,2009,"Northern Illinois: J-61/91-95","Yes",0,1,19,NA,0,5,95,125,"Acer negundo",FALSE,FALSE,NA
 "192035","192035","0103373MOR","Acer negundo var. violaceum Booth ex G.Kirchn.",NA,NA,"Potenberg, K","18326v24",4,4,2024,"Acer: P-98/90-00","Yes",116,235,0,NA,33.048433048433,66.951566951567,0,95,"Acer negundo",FALSE,FALSE,NA
 "192062","192062","0103402MOR","Acer negundo var. violaceum Booth ex G.Kirchn.",NA,NA,"Potenberg, K","18322v24",4,4,2024,"Acer: S-102/49-89","Yes",147,62,0,NA,70.3349282296651,29.6650717703349,0,95,"Acer negundo",FALSE,FALSE,2
 "0","0","EDU","Acer saccharum subsp. nigrum (F.Michx.) Desmarais",NA,NA,"Kim, B","BK31",26,8,2025,"O-54/06-85","Yes",0,0,10,NA,0,0,100,238,"Acer saccharum",FALSE,FALSE,9
@@ -886,11 +886,11 @@
 "177473","177473","0065629MOR","Acer palmatum Thunb.",NA,NA,"Sachdev, S","13877v13",10,7,2013,"Acer: T-99/27-05","Yes",0,0,8,NA,0,0,100,191,"Acer palmatum",FALSE,FALSE,9
 "44","44",NA,"Acer palmatum var. heptalobum Rehder",NA,NA,"Dorrell, J","16924v21",26,8,2021,"Acer: Q-101/42-38","Yes",0,0,9,NA,0,0,100,238,"Acer palmatum",FALSE,FALSE,9
 "62","62",NA,"Acer palmatum var. heptalobum Rehder",NA,NA,"Dorrell, J","16921v21",26,8,2021,"Acer: S-99/98-17","Yes",0,0,19,NA,0,0,100,238,"Acer palmatum",FALSE,FALSE,9
-"9419","9419","0043812MOR","Acer palmatum var. heptalobum Rehder",NA,NA,"Schulenberg, RF","s.n.",20,4,1977,"Acer Collection S-99/95-15","Yes",16,59,0,NA,21.3333333333333,78.6666666666667,0,110,"Acer palmatum",FALSE,FALSE,NA
-"104052","104052","0070910MOR","Acer palmatum var. heptalobum Rehder",NA,NA,"Hess, WJ","5053V92",13,5,1992,"Acer Collection, [Q-101/20-25]","Yes",0,33,10,NA,0,76.7441860465116,23.2558139534884,134,"Acer palmatum",FALSE,FALSE,6
-"104066","104066","0043809MOR","Acer palmatum var. heptalobum Rehder",NA,NA,"Hess, WJ","5055V92",13,5,1992,"Acer Collection P-100/90-80","Yes",5,12,0,NA,29.4117647058824,70.5882352941177,0,134,"Acer palmatum",FALSE,FALSE,NA
+"9419","9419","0043812MOR","Acer palmatum var. heptalobum Rehder",NA,NA,"Schulenberg, RF","s.n.",20,4,1977,"Acer Collection S-99/95-15","Yes",16,59,0,NA,21.3333333333333,78.6666666666667,0,110,"Acer palmatum",FALSE,FALSE,5
+"104052","104052","0070910MOR","Acer palmatum var. heptalobum Rehder",NA,NA,"Hess, WJ","5053V92",13,5,1992,"Acer Collection, [Q-101/20-25]","Yes",0,33,10,NA,0,76.7441860465116,23.2558139534884,134,"Acer palmatum",FALSE,FALSE,5
+"104066","104066","0043809MOR","Acer palmatum var. heptalobum Rehder",NA,NA,"Hess, WJ","5055V92",13,5,1992,"Acer Collection P-100/90-80","Yes",5,12,0,NA,29.4117647058824,70.5882352941177,0,134,"Acer palmatum",FALSE,FALSE,5
 "104074","104074","0043813MOR","Acer palmatum var. heptalobum Rehder",NA,NA,"Hess, WJ","5054V92",13,5,1992,"Acer Collection Q-101/05-40","Yes",0,17,0,NA,0,100,0,134,"Acer palmatum",FALSE,FALSE,5
-"194666","194666","0109301MOR","Acer palmatum var. heptalobum Rehder",NA,NA,"Chen, S","18816v25",8,5,2025,"Acer: P-100/95-84","Yes",0,42,23,NA,0,64.6153846153846,35.3846153846154,128,"Acer palmatum",FALSE,FALSE,6
+"194666","194666","0109301MOR","Acer palmatum var. heptalobum Rehder",NA,NA,"Chen, S","18816v25",8,5,2025,"Acer: P-100/95-84","Yes",0,42,23,NA,0,64.6153846153846,35.3846153846154,128,"Acer palmatum",FALSE,FALSE,NA
 "195749","195749",NA,"Acer pauciflorum W.P.Fang",NA,NA,"Dorrell, J","19003v25",16,10,2025,"China: south section: X-65/17-00","Yes",0,0,5,NA,0,0,100,289,"Acer pauciflorum",FALSE,FALSE,9
 "384","384","0039560MOR","Acer pensylvanicum L.",NA,NA,"Lesica, P","s.n.",24,7,1972,"Acer Collection, X-98/15-30","Yes",0,0,17,NA,0,0,100,206,"Acer pensylvanicum",FALSE,FALSE,9
 "385","385","0039556MOR","Acer pensylvanicum L.",NA,NA,"Kammerer, E","s.n.",15,5,1963,"Along north side Road west of Ericaceae group.","Yes",0,25,0,NA,0,100,0,135,"Acer pensylvanicum",FALSE,FALSE,5
@@ -913,13 +913,13 @@
 "188785","188785","0099959MOR","Acer pictum subsp. mono H.Ohashi",NA,NA,"Potenberg, K","17146v22",5,5,2022,"Korea: R-63/72-48","Yes",8,120,0,NA,6.25,93.75,0,125,"Acer pictum",FALSE,FALSE,5
 "188786","188786","0099958MOR","Acer pictum subsp. mono H.Ohashi",NA,NA,"Potenberg, K","17147v22",5,5,2022,"Korea: R-63/52-55","Yes",8,65,0,NA,10.958904109589,89.041095890411,0,125,"Acer pictum",FALSE,FALSE,5
 "189701","189701","0100981MOR","Acer pictum subsp. mono H.Ohashi",NA,NA,"Potenberg, K","17420v22",29,9,2022,"Japan: Z-58/86-65","Yes",0,0,11,NA,0,0,100,272,"Acer pictum",FALSE,FALSE,9
-"194750","194750","0112551MOR","Acer pictum subsp. mono H.Ohashi",NA,NA,"Chen, S","18791v25",17,4,2025,"Acer: P-101/61-30","Yes",8,22,0,NA,26.6666666666667,73.3333333333333,0,107,"Acer pictum",FALSE,FALSE,NA
+"194750","194750","0112551MOR","Acer pictum subsp. mono H.Ohashi",NA,NA,"Chen, S","18791v25",17,4,2025,"Acer: P-101/61-30","Yes",8,22,0,NA,26.6666666666667,73.3333333333333,0,107,"Acer pictum",FALSE,FALSE,5
 "430","430","0039589MOR","Acer platanoides 'Almira'",NA,NA,"Lesica, P","s.n.",6,6,1972,"Forest Road, D-79/75-35","Yes",0,0,13,NA,0,0,100,158,"Acer platanoides",TRUE,FALSE,9
 "431","431","0039594MOR","Acer platanoides 'Almira'",NA,NA,"Lesica, P","s.n.",5,5,1972,"Forest Road, D-79/75-35","Yes",7,48,0,NA,12.7272727272727,87.2727272727273,0,126,"Acer platanoides",TRUE,FALSE,5
 "113790","113790","0039592MOR","Acer platanoides 'Almira'",NA,NA,"Packard, S","6057V93",27,7,1993,"Aceraceae, V-62/36-78","Yes",0,0,1,NA,0,0,100,208,"Acer platanoides",TRUE,FALSE,9
 "137636","137636","0039591MOR","Acer platanoides 'Almira'",NA,NA,"Bradtke, HL","8217V97",28,7,1997,"Aceraceae Collection, U-62/68-78","Yes",0,0,2,NA,0,0,100,209,"Acer platanoides",TRUE,FALSE,9
 "149211","149211","0039590MOR","Acer platanoides 'Almira'",NA,NA,"Allen, K","9131V00",14,4,2000,"Aceraceae, S. Section; V-62/68-78","Yes",7,57,0,NA,10.9375,89.0625,0,105,"Acer platanoides",TRUE,FALSE,5
-"18042","18042","0039586MOR","Acer platanoides 'Chas. F. Irish'",NA,NA,"Schulenberg, RF","s.n.",18,4,1977,"Acer Collection, O-102/15-50","Yes",0,20,7,NA,0,74.0740740740741,25.9259259259259,108,"Acer platanoides",TRUE,FALSE,6
+"18042","18042","0039586MOR","Acer platanoides 'Chas. F. Irish'",NA,NA,"Schulenberg, RF","s.n.",18,4,1977,"Acer Collection, O-102/15-50","Yes",0,20,7,NA,0,74.0740740740741,25.9259259259259,108,"Acer platanoides",TRUE,FALSE,5
 "77494","77494","0039585MOR","Acer platanoides 'Chas. F. Irish'",NA,NA,"Podrasky, N","1757V88",28,4,1988,"Acer Collection, O-102/15-50","Yes",0,40,0,NA,0,100,0,119,"Acer platanoides",TRUE,FALSE,5
 "104503","104503","0039584MOR","Acer platanoides 'Chas. F. Irish'",NA,NA,"Packard, S","5138V92",28,5,1992,"Tree Evaluation Plot, Row 8; E-96/Area","Yes",0,0,10,NA,0,0,100,149,"Acer platanoides",TRUE,FALSE,9
 "114170","114170","0039583MOR","Acer platanoides 'Chas. F. Irish'",NA,NA,"Altvatter, K","6079V93",2,8,1993,"Acer Collection, 0-102/15-50","Yes",0,0,8,NA,0,0,100,214,"Acer platanoides",TRUE,FALSE,9
@@ -936,12 +936,12 @@
 "104588","104588","0039609MOR","Acer platanoides 'Emerald Queen'",NA,NA,"Packard, S","5191V92",16,6,1992,"Tree Evaluation Plot, Row 3, E-96/Area","Yes",0,0,14,NA,0,0,100,168,"Acer platanoides",TRUE,FALSE,9
 "111549","111549","0039610MOR","Acer platanoides 'Emerald Queen'",NA,NA,"Altvatter, K","5629V93",4,5,1993,"Hedge Collection, G-44/49-49","Yes",0,98,0,NA,0,100,0,124,"Acer platanoides",TRUE,FALSE,5
 "142826","142826","0039612MOR","Acer platanoides 'Emerald Queen'",NA,NA,"Kirt, S","8570V98",30,6,1998,"Hedge Collection, S. section, G-44/49-49","Yes",0,0,9,NA,0,0,100,181,"Acer platanoides",TRUE,FALSE,9
-"149292","149292","0039606MOR","Acer platanoides 'Emerald Queen'",NA,NA,"Allen, K","9148V00",4,5,2000,"Hedge Garden, G-44/49-49","Yes",0,19,9,NA,0,67.8571428571429,32.1428571428571,125,"Acer platanoides",TRUE,FALSE,6
+"149292","149292","0039606MOR","Acer platanoides 'Emerald Queen'",NA,NA,"Allen, K","9148V00",4,5,2000,"Hedge Garden, G-44/49-49","Yes",0,19,9,NA,0,67.8571428571429,32.1428571428571,125,"Acer platanoides",TRUE,FALSE,NA
 "77597","77597","0039607MOR","Acer platanoides 'Erectum'",NA,NA,"Podrasky, N","1736V88",21,4,1988,"Acer Collection, O-101/10-40","Yes",5,104,0,NA,4.58715596330275,95.4128440366973,0,112,"Acer platanoides",TRUE,FALSE,5
 "143004","143004","0039614MOR","Acer platanoides 'Faassen's Black'",NA,NA,"DeMink, L","8587V98",2,7,1998,"Acer Collection, M-99/50-75","Yes",0,0,5,NA,0,0,100,183,"Acer platanoides",TRUE,FALSE,9
 "68105","68105","0039620MOR","Acer platanoides 'Goldsworth Purple'",NA,NA,"Podrasky, N","806V87",24,4,1987,"Acer Collection, M-101/50-50","Yes",21,121,0,NA,14.7887323943662,85.2112676056338,0,114,"Acer platanoides",TRUE,FALSE,5
 "74547","74547","0039619MOR","Acer platanoides 'Goldsworth Purple'",NA,NA,"Bunyan, T","1629V87",13,10,1987,"Acer Collection, M-101/50-50","Yes",0,0,7,NA,0,0,100,286,"Acer platanoides",TRUE,FALSE,9
-"77466","77466","0039618MOR","Acer platanoides 'Goldsworth Purple'",NA,NA,"Podrasky, N","1760V88",28,4,1988,"Acer Collection, L-101/50-10","Yes",18,56,0,NA,24.3243243243243,75.6756756756757,0,119,"Acer platanoides",TRUE,FALSE,NA
+"77466","77466","0039618MOR","Acer platanoides 'Goldsworth Purple'",NA,NA,"Podrasky, N","1760V88",28,4,1988,"Acer Collection, L-101/50-10","Yes",18,56,0,NA,24.3243243243243,75.6756756756757,0,119,"Acer platanoides",TRUE,FALSE,5
 "112997","112997","0039625MOR","Acer platanoides 'Goldsworth Purple'",NA,NA,"Packard, S","5942V93",6,7,1993,"Colored foliage, K-93/80-25","Yes",0,0,8,NA,0,0,100,187,"Acer platanoides",TRUE,FALSE,9
 "112998","112998","0039626MOR","Acer platanoides 'Goldsworth Purple'",NA,NA,"Packard, S","5941V93",6,7,1993,"Colored foliage, K-93/60-00","Yes",0,0,6,NA,0,0,100,187,"Acer platanoides",TRUE,FALSE,9
 "142999","142999","0039623MOR","Acer platanoides 'Goldsworth Purple'",NA,NA,"DeMink, L","8584V98",2,7,1998,"Acer Collection, M-101/90-15","Yes",0,0,5,NA,0,0,100,183,"Acer platanoides",TRUE,FALSE,9
@@ -953,7 +953,7 @@
 "98422","98422","0039636MOR","Acer platanoides 'Palmatifidum'",NA,NA,"Altvatter, K","4841V91",2,8,1991,"Acer Collection, L-100/85-70","Yes",0,0,15,NA,0,0,100,214,"Acer platanoides",TRUE,FALSE,9
 "113788","113788","0039635MOR","Acer platanoides 'Pond'",NA,NA,"Packard, S","6055V93",27,7,1993,"Aceraceae, V-62/89-58","Yes",0,0,47,NA,0,0,100,208,"Acer platanoides",TRUE,FALSE,9
 "113789","113789","0039634MOR","Acer platanoides 'Pond'",NA,NA,"Packard, S","6056V93",27,7,1993,"Aceraceae, V-62/07-66","Yes",0,0,2,NA,0,0,100,208,"Acer platanoides",TRUE,FALSE,9
-"9382","9382","0039632MOR","Acer platanoides 'Royal Red'",NA,NA,"Schulenberg, RF","s.n.",18,4,1977,"Acer Collection, DD-104/30-80","Yes",2,44,16,NA,3.2258064516129,70.9677419354839,25.8064516129032,108,"Acer platanoides",TRUE,FALSE,6
+"9382","9382","0039632MOR","Acer platanoides 'Royal Red'",NA,NA,"Schulenberg, RF","s.n.",18,4,1977,"Acer Collection, DD-104/30-80","Yes",2,44,16,NA,3.2258064516129,70.9677419354839,25.8064516129032,108,"Acer platanoides",TRUE,FALSE,5
 "54749","54749","0039641MOR","Acer platanoides 'Rubrum'",NA,NA,"Podrasky, N","423V85",19,4,1985,"Acer Collection, M-100/15-55","Yes",11,71,0,NA,13.4146341463415,86.5853658536585,0,109,"Acer platanoides",TRUE,FALSE,5
 "77496","77496","0039631MOR","Acer platanoides 'Rubrum'",NA,NA,"Podrasky, N","1759V88",28,4,1988,"Acer Collection, M-100/15-55","Yes",5,131,0,NA,3.67647058823529,96.3235294117647,0,119,"Acer platanoides",TRUE,FALSE,5
 "114169","114169","0039642MOR","Acer platanoides 'Rubrum'",NA,NA,"Tonsiengsom, A","6103V93",9,8,1993,"Aceraceae Collection, M-100/15-55","Yes",0,0,14,NA,0,0,100,221,"Acer platanoides",TRUE,FALSE,9
@@ -983,7 +983,7 @@
 "149205","149205","0039645MOR","Acer platanoides 'Superform'",NA,NA,"Allen, K","9129V00",14,4,2000,"Aceraceae, S. Section, V-62/07-17","Yes",5,41,0,NA,10.8695652173913,89.1304347826087,0,105,"Acer platanoides",TRUE,FALSE,5
 "149206","149206","0039651MOR","Acer platanoides 'Superform'",NA,NA,"Allen, K","9130V00",14,4,2000,"Aceraceae, S. Section, V-62/25-32","Yes",9,66,0,NA,12,88,0,105,"Acer platanoides",TRUE,FALSE,5
 "154773","154773","0039644MOR","Acer platanoides 'Superform'",NA,NA,"Bolger, K","9511V02",7,5,2002,"Near Parking 2, north side; N-56/35-12","Yes",0,1,43,NA,0,2.27272727272727,97.7272727272727,127,"Acer platanoides",TRUE,FALSE,9
-"466","466","0039660MOR","Acer platanoides 'Undulatum'",NA,NA,"Lesica, P","s.n.",5,5,1972,"Acer Collection, N-100/65-05","Yes",6,18,0,NA,25,75,0,126,"Acer platanoides",TRUE,FALSE,NA
+"466","466","0039660MOR","Acer platanoides 'Undulatum'",NA,NA,"Lesica, P","s.n.",5,5,1972,"Acer Collection, N-100/65-05","Yes",6,18,0,NA,25,75,0,126,"Acer platanoides",TRUE,FALSE,5
 "467","467","0039659MOR","Acer platanoides 'Undulatum'",NA,NA,"Swink, FA","s.n.",10,8,1964,"Acer Collection, N-101/30-10","Yes",0,0,2,NA,0,0,100,223,"Acer platanoides",TRUE,FALSE,9
 "78622","78622","0039658MOR","Acer platanoides 'Undulatum'",NA,NA,"Podrasky, N","804V87",24,4,1987,"Acer Collection, N-101/30-10","Yes",6,76,0,NA,7.31707317073171,92.6829268292683,0,114,"Acer platanoides",TRUE,FALSE,5
 "161910","161910","0053233MOR","Acer platanoides 'Undulatum' × platanoides",NA,NA,"Bonnewell, V",NA,11,6,2007,"Tree Breeding Nursery, EN1/E17","Yes",0,0,9,NA,0,0,100,162,"Acer platanoides",TRUE,TRUE,9
@@ -998,7 +998,7 @@
 "104996","104996","0039580MOR","Acer platanoides L.",NA,NA,"Hess, WJ","5284V92",2,7,1992,"Near Sunfish Pond, X-44/95-10","Yes",0,0,10,NA,0,0,100,184,"Acer platanoides",FALSE,FALSE,9
 "105000","105000","0039662MOR","Acer platanoides L.",NA,NA,"Hess, WJ","5279V92",2,7,1992,"Near Sunfish Pond, U-43/95-55","Yes",0,0,9,NA,0,0,100,184,"Acer platanoides",FALSE,FALSE,9
 "106856","106856","0039982MOR","Acer platanoides L.",NA,NA,"Altvatter, K","5513V92",9,10,1992,"Display Area, B-48/75-35.","Yes",0,0,8,NA,0,0,100,283,"Acer platanoides",FALSE,FALSE,9
-"111667","111667","0039578MOR","Acer platanoides L.",NA,NA,"Altvatter, K","5666V93",6,5,1993,"Along east side of Rt. 53, D-37/Area","Yes",0,15,10,NA,0,60,40,126,"Acer platanoides",FALSE,FALSE,6
+"111667","111667","0039578MOR","Acer platanoides L.",NA,NA,"Altvatter, K","5666V93",6,5,1993,"Along east side of Rt. 53, D-37/Area","Yes",0,15,10,NA,0,60,40,126,"Acer platanoides",FALSE,FALSE,NA
 "112884","112884","0039577MOR","Acer platanoides L.",NA,NA,"Bradtke, HL","5870V93",21,6,1993,"Frost Hill Section, F-64/30-50","Yes",0,0,10,NA,0,0,100,172,"Acer platanoides",FALSE,FALSE,9
 "114171","114171","0039574MOR","Acer platanoides L.",NA,NA,"Altvatter, K","6078V93",2,8,1993,"Acer Collection, N-101/75-75","Yes",0,0,4,NA,0,0,100,214,"Acer platanoides",FALSE,FALSE,9
 "114173","114173","0039573MOR","Acer platanoides L.",NA,NA,"Altvatter, K","6076V93",2,8,1993,"Quercus Collection, N-99/55-40","Yes",0,0,11,NA,0,0,100,214,"Acer platanoides",FALSE,FALSE,9
@@ -1014,7 +1014,7 @@
 "132934","132934","0039978MOR","Acer platanoides L.",NA,NA,"Allen, K","7559V96",22,8,1996,"Display Collection, B-48/95-50.","Yes",0,0,1,NA,0,0,100,235,"Acer platanoides",FALSE,FALSE,9
 "132936","132936","0039979MOR","Acer platanoides L.",NA,NA,"Allen, K","7558V96",22,8,1996,"Display Collection, B-48/75-35.","Yes",0,0,5,NA,0,0,100,235,"Acer platanoides",FALSE,FALSE,9
 "141799","141799","0039579MOR","Acer platanoides L.",NA,NA,"Packard, S","8480V98",1,6,1998,"Along fence by Hwy 53, D-37/Area","Yes",0,0,17,NA,0,0,100,152,"Acer platanoides",FALSE,FALSE,9
-"162072","162072","0053194MOR","Acer platanoides L.",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1/C21","Yes",0,14,16,NA,0,46.6666666666667,53.3333333333333,127,"Acer platanoides",FALSE,FALSE,7
+"162072","162072","0053194MOR","Acer platanoides L.",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1/C21","Yes",0,14,16,NA,0,46.6666666666667,53.3333333333333,127,"Acer platanoides",FALSE,FALSE,6
 "181660","181660","0083876MOR","Acer platanoides L.",NA,NA,"Nowicki, B","14654v15",19,10,2015,"Display: B-48/96-53","Yes",0,0,8,NA,0,0,100,292,"Acer platanoides",FALSE,FALSE,9
 "187241","187241","0098339MOR","Acer platanoides L.",NA,NA,"Worcester, L","LW352",5,9,2018,"Display: D-43/94-12","Yes",0,0,16,NA,0,0,100,248,"Acer platanoides",FALSE,FALSE,9
 "487","487","0039655MOR","Acer pseudoplatanus 'Purpureum'",NA,NA,"Ciolac, C","s.n.",31,5,1973,"Acer Collection, N-98/20-10","Yes",0,0,20,NA,0,0,100,151,"Acer pseudoplatanus",TRUE,FALSE,9
@@ -1030,7 +1030,7 @@
 "135423","135423","0039677MOR","Acer pseudosieboldianum (Pax) Kom.",NA,NA,"Wiegrefe, S","323",21,5,1997,"Acer Collection, X-60/94-84","Yes",0,12,2,NA,0,85.7142857142857,14.2857142857143,141,"Acer pseudosieboldianum",FALSE,FALSE,5
 "147129","147129","0039676MOR","Acer pseudosieboldianum (Pax) Kom.",NA,NA,"Wiegrefe, S","347",10,7,1997,"Acer Collection, V-99/55-15","Yes",0,0,3,NA,0,0,100,191,"Acer pseudosieboldianum",FALSE,FALSE,9
 "149262","149262","0039674MOR","Acer pseudosieboldianum (Pax) Kom.",NA,NA,"Allen, K","9140V00",27,4,2000,"Aceraceae Collection, X-60/94-84","Yes",9,11,0,NA,45,55,0,118,"Acer pseudosieboldianum",FALSE,FALSE,3
-"149269","149269","0039675MOR","Acer pseudosieboldianum (Pax) Kom.",NA,NA,"Allen, K","9139V00",27,4,2000,"Aceraceae Collection, X-60/99-94","Yes",6,15,0,NA,28.5714285714286,71.4285714285714,0,118,"Acer pseudosieboldianum",FALSE,FALSE,NA
+"149269","149269","0039675MOR","Acer pseudosieboldianum (Pax) Kom.",NA,NA,"Allen, K","9139V00",27,4,2000,"Aceraceae Collection, X-60/99-94","Yes",6,15,0,NA,28.5714285714286,71.4285714285714,0,118,"Acer pseudosieboldianum",FALSE,FALSE,5
 "167390","167390","0054647MOR","Acer pseudosieboldianum (Pax) Kom.",NA,NA,"Means, E","11264v08",21,8,2008,"Korea: Q-66/04-12","Yes",0,0,14,NA,0,0,100,234,"Acer pseudosieboldianum",FALSE,FALSE,9
 "168395","168395","0054488MOR","Acer pseudosieboldianum (Pax) Kom.",NA,NA,"Ball, K","11846v09",8,9,2009,"China, central section: Z-63/23-03","Yes",0,0,7,NA,0,0,100,251,"Acer pseudosieboldianum",FALSE,FALSE,9
 "177321","177321","0064234MOR","Acer pseudosieboldianum (Pax) Kom.",NA,NA,"Sachdev, S","13866v13",3,7,2013,"Acer: T-99/50-48","Yes",0,0,7,NA,0,0,100,184,"Acer pseudosieboldianum",FALSE,FALSE,9
@@ -1051,7 +1051,7 @@
 "83700","83700","0039771MOR","Acer rubrum 'Bowhall'",NA,NA,"Shimp, E","2275V89",19,4,1989,"Acer Collection, S-103/65-45.","Yes",0,99,0,NA,0,100,0,109,"Acer rubrum",TRUE,FALSE,5
 "90826","90826","0039774MOR","Acer rubrum 'Bowhall'",NA,NA,"Shimp, E","3185V90",20,3,1990,"Acer Collection, T-103/65-95.","Yes",19,144,6,NA,11.2426035502959,85.207100591716,3.55029585798817,79,"Acer rubrum",TRUE,FALSE,5
 "118561","118561","0039772MOR","Acer rubrum 'Bowhall'",NA,NA,"Packard, S","6335V94",19,4,1994,"Tree Evaluation Plot, row 10, E-96/Area.","Yes",0,6,142,NA,0,4.05405405405405,95.9459459459459,109,"Acer rubrum",TRUE,FALSE,9
-"118668","118668","0039773MOR","Acer rubrum 'Bowhall'",NA,NA,"Packard, S","6336V94",19,4,1994,"Tree Evaluation Plot, Row 13, E-96/Area.","Yes",0,20,240,NA,0,7.69230769230769,92.3076923076923,109,"Acer rubrum",TRUE,FALSE,9
+"118668","118668","0039773MOR","Acer rubrum 'Bowhall'",NA,NA,"Packard, S","6336V94",19,4,1994,"Tree Evaluation Plot, Row 13, E-96/Area.","Yes",0,20,240,NA,0,7.69230769230769,92.3076923076923,109,"Acer rubrum",TRUE,FALSE,8
 "170336","170336","0056013MOR","Acer rubrum 'Bowhall'",NA,NA,"DeVries, C","12091v10",7,4,2010,"Childrens Garden, Every Which Way: J-51/49-63","Yes",0,0,107,NA,0,0,100,97,"Acer rubrum",TRUE,FALSE,9
 "171204","171204","0056303MOR","Acer rubrum 'Bowhall'",NA,NA,"DeVries, C","12095v10",7,4,2010,"Childrens Garden,Switchback: J-52/66-19","Yes",0,3,285,NA,0,1.04166666666667,98.9583333333333,97,"Acer rubrum",TRUE,FALSE,9
 "171205","171205","0056304MOR","Acer rubrum 'Bowhall'",NA,NA,"Moran, E","12094v10",10,4,2010,"Childrens Garden, Central Plaza: J-51/80-67","Yes",0,1,118,NA,0,0.840336134453782,99.1596638655462,100,"Acer rubrum",TRUE,FALSE,9
@@ -1063,14 +1063,14 @@
 "67691","67691","0039827MOR","Acer rubrum 'Columnare'",NA,NA,"Hess, WJ","738V87",8,4,1987,"Near Meadow Lake, O-46/20-75","Yes",18,0,0,NA,100,0,0,98,"Acer rubrum",TRUE,FALSE,1
 "83677","83677","0039821MOR","Acer rubrum 'Columnare'",NA,NA,"Shimp, E","2226V89",7,4,1989,"Arbordale, J-29/area","Yes",6,30,0,NA,16.6666666666667,83.3333333333333,0,97,"Acer rubrum",TRUE,FALSE,5
 "83706","83706","0039822MOR","Acer rubrum 'Columnare'",NA,NA,"Shimp, E","2251V89",13,4,1989,"Tree Evaluation Plot, Row 11; E-96/area","Yes",8,6,0,NA,57.1428571428571,42.8571428571429,0,103,"Acer rubrum",TRUE,FALSE,3
-"90831","90831","0039825MOR","Acer rubrum 'Columnare'",NA,NA,"Shimp, E","3181V90",20,3,1990,"Acer Collection, R-99/70-70","Yes",46,25,0,NA,64.7887323943662,35.2112676056338,0,79,"Acer rubrum",TRUE,FALSE,2
+"90831","90831","0039825MOR","Acer rubrum 'Columnare'",NA,NA,"Shimp, E","3181V90",20,3,1990,"Acer Collection, R-99/70-70","Yes",46,25,0,NA,64.7887323943662,35.2112676056338,0,79,"Acer rubrum",TRUE,FALSE,3
 "111359","111359","0039826MOR","Acer rubrum 'Columnare'",NA,NA,"Packard, S","5561V93",13,4,1993,"Acer Collection, Q-100/85-40","Yes",22,150,0,NA,12.7906976744186,87.2093023255814,0,103,"Acer rubrum",TRUE,FALSE,5
-"111361","111361","0039819MOR","Acer rubrum 'Columnare'",NA,NA,"Packard, S","5562V93",13,4,1993,"Acer Collection, Q-100/75-65","Yes",13,33,0,NA,28.2608695652174,71.7391304347826,0,103,"Acer rubrum",TRUE,FALSE,NA
-"191213","191213","0102909MOR","Acer rubrum 'Frank Jr.'",NA,NA,"Potenberg, K","17832v23",20,4,2023,"Visitor Center Parking: West Side North: S-47/16-41","Yes",0,78,29,NA,0,72.8971962616822,27.1028037383178,110,"Acer rubrum",TRUE,FALSE,6
+"111361","111361","0039819MOR","Acer rubrum 'Columnare'",NA,NA,"Packard, S","5562V93",13,4,1993,"Acer Collection, Q-100/75-65","Yes",13,33,0,NA,28.2608695652174,71.7391304347826,0,103,"Acer rubrum",TRUE,FALSE,5
+"191213","191213","0102909MOR","Acer rubrum 'Frank Jr.'",NA,NA,"Potenberg, K","17832v23",20,4,2023,"Visitor Center Parking: West Side North: S-47/16-41","Yes",0,78,29,NA,0,72.8971962616822,27.1028037383178,110,"Acer rubrum",TRUE,FALSE,5
 "192084","192084","0103441MOR","Acer rubrum 'Frank Jr.'",NA,NA,"Dorrell, J","18307v24",21,3,2024,"Visitors Center Parking: southwest: R-46/32-32","Yes",0,315,8,NA,0,97.5232198142415,2.47678018575851,81,"Acer rubrum",TRUE,FALSE,5
 "192096","192096","0103417MOR","Acer rubrum 'Frank Jr.'",NA,NA,"Dorrell, J","18378v24",9,5,2024,"Firefly Pond: F-42-04-14","Yes",0,0,15,NA,0,0,100,130,"Acer rubrum",TRUE,FALSE,9
-"194676","194676","0109319MOR","Acer rubrum 'Frank Jr.'",NA,NA,"Potenberg, K","18767v25",3,4,2025,"Firefly Pond: F-42/04-14","Yes",0,86,35,NA,0,71.0743801652893,28.9256198347107,93,"Acer rubrum",TRUE,FALSE,6
-"195835","195835",NA,"Acer rubrum 'Frank Jr.'",NA,NA,"Potenberg, K","19102v26",9,4,2026,"Service Area: C-38/96-50","Yes",0,26,323,NA,0,7.44985673352436,92.5501432664756,99,"Acer rubrum",TRUE,FALSE,9
+"194676","194676","0109319MOR","Acer rubrum 'Frank Jr.'",NA,NA,"Potenberg, K","18767v25",3,4,2025,"Firefly Pond: F-42/04-14","Yes",0,86,35,NA,0,71.0743801652893,28.9256198347107,93,"Acer rubrum",TRUE,FALSE,5
+"195835","195835",NA,"Acer rubrum 'Frank Jr.'",NA,NA,"Potenberg, K","19102v26",9,4,2026,"Service Area: C-38/96-50","Yes",0,26,323,NA,0,7.44985673352436,92.5501432664756,99,"Acer rubrum",TRUE,FALSE,8
 "160632","160632","0051587MOR","Acer rubrum 'Franksred'",NA,NA,"Carle, M","10132V05",20,4,2005,"Hedge Garden, south section; G-44/79-09","Yes",0,0,87,NA,0,0,100,110,"Acer rubrum",TRUE,FALSE,9
 "167016","167016","0054405MOR","Acer rubrum 'Franksred'",NA,NA,"Smith, AM","10962v08",19,5,2008,"Lake Marmo, east side: T-18/42-01","Yes",0,0,68,NA,0,0,100,140,"Acer rubrum",TRUE,FALSE,9
 "96761","96761","0039833MOR","Acer rubrum 'October Glory'",NA,NA,"Gavlak, N","4315V91",2,4,1991,"Syringa Collection, K-51/area","Yes",34,31,0,NA,52.3076923076923,47.6923076923077,0,92,"Acer rubrum",TRUE,FALSE,3
@@ -1079,17 +1079,17 @@
 "77628","77628","0039839MOR","Acer rubrum 'Silhouette'",NA,NA,"Podrasky, N","1659V88",5,4,1988,"Administration Building, N-45/area","Yes",3,97,0,NA,3,97,0,96,"Acer rubrum",TRUE,FALSE,5
 "83678","83678","0039840MOR","Acer rubrum 'Silhouette'",NA,NA,"Shimp, E","2227V89",7,4,1989,"Arbordale, 6-27/area","Yes",22,92,0,NA,19.2982456140351,80.7017543859649,0,97,"Acer rubrum",TRUE,FALSE,5
 "516","516","0039682MOR","Acer rubrum L.",NA,NA,"Kammerer, E","s.n.",2,5,1946,"Eastern US Wetlands, Taxodium Swamp; L 75-8","Yes",0,0,46,NA,0,0,100,122,"Acer rubrum",FALSE,FALSE,9
-"522","522","0039701MOR","Acer rubrum L.",NA,NA,"Kammerer, E","s.n.",28,4,1937,"Oleaceae Collection","Yes",4,11,0,NA,26.6666666666667,73.3333333333333,0,118,"Acer rubrum",FALSE,FALSE,NA
+"522","522","0039701MOR","Acer rubrum L.",NA,NA,"Kammerer, E","s.n.",28,4,1937,"Oleaceae Collection","Yes",4,11,0,NA,26.6666666666667,73.3333333333333,0,118,"Acer rubrum",FALSE,FALSE,5
 "523","523","0039730MOR","Acer rubrum L.",NA,NA,"Kammerer, E","s.n.",16,4,1936,"Eastern US Wetlands, FF-68/Area.","Yes",6,80,0,NA,6.97674418604651,93.0232558139535,0,107,"Acer rubrum",FALSE,FALSE,5
 "524","524","0039723MOR","Acer rubrum L.",NA,NA,"Ciolac, C","s.n.",16,4,1970,"Oleaceae Collection, Q-38/75-60, near entrance gate to west side of Arboretum.","Yes",101,72,0,NA,58.3815028901734,41.6184971098266,0,106,"Acer rubrum",FALSE,FALSE,3
 "525","525","0039740MOR","Acer rubrum L.",NA,NA,"Braham, R","s.n.",4,5,1971,"#135-40 along Illinois tree trail, Meadow Lake, R-52/25-55.","Yes",0,11,60,NA,0,15.4929577464789,84.5070422535211,124,"Acer rubrum",FALSE,FALSE,8
 "526","526","0039710MOR","Acer rubrum L.",NA,NA,"Lesica, P","s.n.",25,5,1972,"Acer Collection, R-99/70-40.","Yes",0,0,48,NA,0,0,100,146,"Acer rubrum",FALSE,FALSE,9
-"19117","19117","0039732MOR","Acer rubrum L.",NA,NA,"Podrasky, N","31V84",7,5,1984,"Diversity, N-57/Area.","Yes",0,191,532,NA,0,26.417704011065,73.582295988935,128,"Acer rubrum",FALSE,FALSE,8
+"19117","19117","0039732MOR","Acer rubrum L.",NA,NA,"Podrasky, N","31V84",7,5,1984,"Diversity, N-57/Area.","Yes",0,191,532,NA,0,26.417704011065,73.582295988935,128,"Acer rubrum",FALSE,FALSE,7
 "32264","32264","0039742MOR","Acer rubrum L.",NA,NA,"Hess, WJ","4091",25,4,1978,"Acer Collection, south side entrance to Administration & greenhouses.","Yes",7,139,0,NA,4.7945205479452,95.2054794520548,0,115,"Acer rubrum",FALSE,FALSE,5
 "43859","43859","0039746MOR","Acer rubrum L.",NA,NA,"Levins, P","s.n.",1,4,1981,"Pinaceae Coll., J-54/00-10 in the Administration Building Meadow, S of Meadow Lake.","Yes",10,60,0,NA,14.2857142857143,85.7142857142857,0,91,"Acer rubrum",FALSE,FALSE,5
 "43860","43860","0039747MOR","Acer rubrum L.",NA,NA,"Levins, P","s.n.",1,4,1981,"Acer Collection, R-99/40-40, NE of parking area 8.","Yes",93,12,0,NA,88.5714285714286,11.4285714285714,0,91,"Acer rubrum",FALSE,FALSE,2
 "67689","67689","0039734MOR","Acer rubrum L.",NA,NA,"Hess, WJ","739V87",8,4,1987,"Meadow Lake, P-46/90-55.","Yes",40,305,0,NA,11.5942028985507,88.4057971014493,0,98,"Acer rubrum",FALSE,FALSE,5
-"70326","70326","0039718MOR","Acer rubrum L.",NA,NA,"Podrasky, N","792V87",23,4,1987,"Meadow Lake, N-52/Area, Illinois Tree Trail.","Yes",0,17,25,NA,0,40.4761904761905,59.5238095238095,113,"Acer rubrum",FALSE,FALSE,7
+"70326","70326","0039718MOR","Acer rubrum L.",NA,NA,"Podrasky, N","792V87",23,4,1987,"Meadow Lake, N-52/Area, Illinois Tree Trail.","Yes",0,17,25,NA,0,40.4761904761905,59.5238095238095,113,"Acer rubrum",FALSE,FALSE,6
 "72893","72893","0039714MOR","Acer rubrum L.",NA,NA,"Podrasky, N","12V84",26,4,1984,"Diversity, N-57/13-15.","Yes",4,250,0,NA,1.5748031496063,98.4251968503937,0,117,"Acer rubrum",FALSE,FALSE,5
 "72894","72894","0039736MOR","Acer rubrum L.",NA,NA,"Podrasky, N","11V84",25,4,1984,"Oleaceae Coll., Q-38/75-60.","Yes",0,166,0,NA,0,100,0,116,"Acer rubrum",FALSE,FALSE,5
 "77684","77684","0039719MOR","Acer rubrum L.",NA,NA,"Podrasky, N","1654V88",5,4,1988,"Display, B-48/Area.","Yes",4,126,0,NA,3.07692307692308,96.9230769230769,0,96,"Acer rubrum",FALSE,FALSE,5
@@ -1101,7 +1101,7 @@
 "83669","83669","0039717MOR","Acer rubrum L.",NA,NA,"Shimp, E","2269V89",17,4,1989,"Diversity, N-57/14-28.","Yes",3,124,0,NA,2.36220472440945,97.6377952755905,0,107,"Acer rubrum",FALSE,FALSE,5
 "83671","83671","0039738MOR","Acer rubrum L.",NA,NA,"Shimp, E","2268V89",17,4,1989,"Diversity, N-57/13-15.","Yes",7,104,0,NA,6.30630630630631,93.6936936936937,0,107,"Acer rubrum",FALSE,FALSE,5
 "83680","83680","0039715MOR","Acer rubrum L.",NA,NA,"Shimp, E","2229V89",7,4,1989,"Arbordale, E-29/area.","Yes",5,21,0,NA,19.2307692307692,80.7692307692308,0,97,"Acer rubrum",FALSE,FALSE,5
-"83701","83701","0039684MOR","Acer rubrum L.",NA,NA,"Shimp, E","2276V89",19,4,1989,"Acer Collection, S-103/80-80","Yes",52,4,0,NA,92.8571428571429,7.14285714285714,0,109,"Acer rubrum",FALSE,FALSE,1
+"83701","83701","0039684MOR","Acer rubrum L.",NA,NA,"Shimp, E","2276V89",19,4,1989,"Acer Collection, S-103/80-80","Yes",52,4,0,NA,92.8571428571429,7.14285714285714,0,109,"Acer rubrum",FALSE,FALSE,2
 "83707","83707","0039716MOR","Acer rubrum L.",NA,NA,"Shimp, E","2252V89",13,4,1989,"Acer Collection, R-99/70-40.","Yes",5,85,0,NA,5.55555555555556,94.4444444444444,0,103,"Acer rubrum",FALSE,FALSE,5
 "84616","84616","0039727MOR","Acer rubrum L.",NA,NA,"Shimp, E","2326V89",26,4,1989,"Northern Great Lakes, PP-32/Area.","Yes",1,52,1,NA,1.85185185185185,96.2962962962963,1.85185185185185,116,"Acer rubrum",FALSE,FALSE,5
 "84899","84899","0039720MOR","Acer rubrum L.",NA,NA,"Shimp, E","2277V89",19,4,1989,"Acer Collection, S-104/50-00.","Yes",53,10,0,NA,84.1269841269841,15.8730158730159,0,109,"Acer rubrum",FALSE,FALSE,2
@@ -1110,12 +1110,12 @@
 "90776","90776","0039686MOR","Acer rubrum L.",NA,NA,"Shimp, E","3183V90",20,3,1990,"Acer Collection, T-104/1-0","Yes",3,155,0,NA,1.89873417721519,98.1012658227848,0,79,"Acer rubrum",FALSE,FALSE,5
 "90777","90777","0039685MOR","Acer rubrum L.",NA,NA,"Shimp, E","3182V90",20,3,1990,"Acer Collection, R-100/50-30","Yes",18,291,0,NA,5.8252427184466,94.1747572815534,0,79,"Acer rubrum",FALSE,FALSE,5
 "96763","96763","0039733MOR","Acer rubrum L.",NA,NA,"Gavlak, N","4317V90",2,4,1991,"Near Staff Parking Lot, L-43/Area.","Yes",8,61,0,NA,11.5942028985507,88.4057971014493,0,92,"Acer rubrum",FALSE,FALSE,5
-"97068","97068","0039680MOR","Acer rubrum L.",NA,NA,"Shimp, E","4290V91",26,3,1991,"Diversity Collection, N-57/28-11","Yes",42,132,0,NA,24.1379310344828,75.8620689655172,0,85,"Acer rubrum",FALSE,FALSE,NA
+"97068","97068","0039680MOR","Acer rubrum L.",NA,NA,"Shimp, E","4290V91",26,3,1991,"Diversity Collection, N-57/28-11","Yes",42,132,0,NA,24.1379310344828,75.8620689655172,0,85,"Acer rubrum",FALSE,FALSE,5
 "97198","97198","0039694MOR","Acer rubrum L.",NA,NA,"Gavlak, N","4306V91",1,4,1991,"Near Meadow Lake, R-52/25-55","Yes",12,73,0,NA,14.1176470588235,85.8823529411765,0,91,"Acer rubrum",FALSE,FALSE,5
-"97245","97245","0039695MOR","Acer rubrum L.",NA,NA,"Gavlak, N","4304V91",1,4,1991,"Along East Illinois 53, G-38/Area","Yes",35,102,0,NA,25.5474452554745,74.4525547445255,0,91,"Acer rubrum",FALSE,FALSE,NA
+"97245","97245","0039695MOR","Acer rubrum L.",NA,NA,"Gavlak, N","4304V91",1,4,1991,"Along East Illinois 53, G-38/Area","Yes",35,102,0,NA,25.5474452554745,74.4525547445255,0,91,"Acer rubrum",FALSE,FALSE,5
 "103689","103689","0039744MOR","Acer rubrum L.",NA,NA,"Packard, S","5007V92",5,5,1992,"Pinaceae Coll., J-54/Area.","Yes",0,0,68,NA,0,0,100,126,"Acer rubrum",FALSE,FALSE,9
 "104053","104053","0039725MOR","Acer rubrum L.",NA,NA,"Hess, WJ","5031V92",13,5,1992,"Acer Collection, R-99/70-40.","Yes",0,0,49,NA,0,0,100,134,"Acer rubrum",FALSE,FALSE,9
-"111350","111350","0039696MOR","Acer rubrum L.",NA,NA,"Altvatter, K","5570V93",16,4,1993,"Near DuPage River, V-45/50-45","Yes",26,14,0,NA,65,35,0,106,"Acer rubrum",FALSE,FALSE,2
+"111350","111350","0039696MOR","Acer rubrum L.",NA,NA,"Altvatter, K","5570V93",16,4,1993,"Near DuPage River, V-45/50-45","Yes",26,14,0,NA,65,35,0,106,"Acer rubrum",FALSE,FALSE,3
 "118363","118363","0039689MOR","Acer rubrum L.",NA,NA,"Altvatter, K","6332V94",18,4,1994,"U.S. Wetlands, FF-67/75-39","Yes",0,100,0,NA,0,100,0,108,"Acer rubrum",FALSE,FALSE,5
 "118425","118425","0039681MOR","Acer rubrum L.",NA,NA,"Altvatter, K","6331V94",18,4,1994,"U.S. Wetlands, FF-67/69-22","Yes",0,130,0,NA,0,100,0,108,"Acer rubrum",FALSE,FALSE,5
 "119048","119048","0039702MOR","Acer rubrum L.",NA,NA,"Tudor, M","6450V94",14,5,1994,"Pinaceae Collection, J-54/00-10","Yes",0,0,88,NA,0,0,100,134,"Acer rubrum",FALSE,FALSE,9
@@ -1130,19 +1130,19 @@
 "170305","170305","0055666MOR","Acer rubrum L.",NA,NA,"Glaysher, L","11505v09",16,4,2009,"Tree Evaluation Plot, 3: B-96/81-65","Yes",16,200,0,NA,7.40740740740741,92.5925925925926,0,106,"Acer rubrum",FALSE,FALSE,5
 "170377","170377","0055803MOR","Acer rubrum L.",NA,NA,"Glaysher, L","11509v09",16,4,2009,"Tree Evaluation Plot, 3: B-96/88-16","Yes",12,158,0,NA,7.05882352941176,92.9411764705882,0,106,"Acer rubrum",FALSE,FALSE,5
 "170393","170393","0055549MOR","Acer rubrum L.",NA,NA,"Means, E","11508v09",16,4,2009,"Tree Evaluation Plot, 3: B-98/69-16","Yes",4,25,1,NA,13.3333333333333,83.3333333333333,3.33333333333333,106,"Acer rubrum",FALSE,FALSE,5
-"171890","171890","0056937MOR","Acer rubrum L.",NA,NA,"Potenberg, K","12811v11",3,5,2011,"Along Ridge Road: X-62/08-05","Yes",0,24,67,NA,0,26.3736263736264,73.6263736263736,123,"Acer rubrum",FALSE,FALSE,8
+"171890","171890","0056937MOR","Acer rubrum L.",NA,NA,"Potenberg, K","12811v11",3,5,2011,"Along Ridge Road: X-62/08-05","Yes",0,24,67,NA,0,26.3736263736264,73.6263736263736,123,"Acer rubrum",FALSE,FALSE,7
 "178824","178824","0068164MOR","Acer rubrum L.",NA,NA,"Potenberg, K","14142v14",20,5,2014,"Midwest: K-63/65-66","Yes",0,0,15,NA,0,0,100,140,"Acer rubrum",FALSE,FALSE,9
 "180456","180456","0074734MOR","Acer rubrum L.",NA,NA,"DeVries, C","14394v15",15,4,2015,"Acer: R-99/44-45","Yes",90,38,0,NA,70.3125,29.6875,0,105,"Acer rubrum",FALSE,FALSE,2
-"180457","180457","0074735MOR","Acer rubrum L.",NA,NA,"Carle, M","14395v15",15,4,2015,"Acer: S-103/65-45","Yes",0,58,86,NA,0,40.2777777777778,59.7222222222222,105,"Acer rubrum",FALSE,FALSE,7
+"180457","180457","0074735MOR","Acer rubrum L.",NA,NA,"Carle, M","14395v15",15,4,2015,"Acer: S-103/65-45","Yes",0,58,86,NA,0,40.2777777777778,59.7222222222222,105,"Acer rubrum",FALSE,FALSE,6
 "194713","194713","0109341MOR","Acer rubrum L.",NA,NA,"Chen, S","18824v25",8,5,2025,"Acer: S-103/65-45","Yes",0,0,24,NA,0,0,100,128,"Acer rubrum",FALSE,FALSE,9
 "118397","118397","0039823MOR","Acer rubrum var. drummondii (Hook. & Arn. ex Nutt.) Sarg.",NA,NA,"Altvatter, K","6334V94",18,4,1994,"Aceraceae Collection, W-60/35-70","Yes",38,40,0,NA,48.7179487179487,51.2820512820513,0,108,"Acer rubrum",FALSE,FALSE,3
 "194675","194675","0109320MOR","Acer rubrum var. drummondii (Hook. & Arn. ex Nutt.) Sarg.",NA,NA,"Potenberg, K","18768v25",3,4,2025,"Entrance Drive: Q-42/88-33","Yes",0,131,2,NA,0,98.4962406015038,1.50375939849624,93,"Acer rubrum",FALSE,FALSE,5
 "177393","177393","0064285MOR","Acer rufinerve Siebold & Zucc.",NA,NA,"Potenberg, K","13974v13",3,9,2013,"Acer: U-99/30-92","Yes",0,0,38,NA,0,0,100,246,"Acer rufinerve",FALSE,FALSE,9
 "187601","187601","0098428MOR","Acer rufinerve Siebold & Zucc.",NA,NA,"Worcester, L","LW292",4,8,2018,"Acer: U-99/30-92","Yes",0,0,12,NA,0,0,100,216,"Acer rufinerve",FALSE,FALSE,9
 "195831","195831",NA,"Acer rufinerve Siebold & Zucc.",NA,NA,"Hartley, C.","19090v26",19,3,2026,"Acer: T-99/57-30","Yes",0,0,3,NA,0,0,100,78,"Acer rufinerve",FALSE,FALSE,9
-"97067","97067","0039786MOR","Acer saccharinum 'Aureum'",NA,NA,"Shimp, E","4284V91",26,3,1991,"Colored Foliage, K-97/65-05.","Yes",28,66,0,NA,29.7872340425532,70.2127659574468,0,85,"Acer saccharinum",TRUE,FALSE,NA
+"97067","97067","0039786MOR","Acer saccharinum 'Aureum'",NA,NA,"Shimp, E","4284V91",26,3,1991,"Colored Foliage, K-97/65-05.","Yes",28,66,0,NA,29.7872340425532,70.2127659574468,0,85,"Acer saccharinum",TRUE,FALSE,5
 "78241","78241","0039787MOR","Acer saccharinum 'Beebe Cutleaf Weeping'",NA,NA,"Podrasky, N","1771V88",28,4,1988,"Acer Collection, O-97/80-10.","Yes",0,3,27,NA,0,10,90,119,"Acer saccharinum",TRUE,FALSE,8
-"97004","97004","0039788MOR","Acer saccharinum 'Beebe Cutleaf Weeping'",NA,NA,"Shimp, E","4285V91",26,3,1991,"Acer Collection, P-99/15-70.","Yes",32,51,0,NA,38.5542168674699,61.4457831325301,0,85,"Acer saccharinum",TRUE,FALSE,3
+"97004","97004","0039788MOR","Acer saccharinum 'Beebe Cutleaf Weeping'",NA,NA,"Shimp, E","4285V91",26,3,1991,"Acer Collection, P-99/15-70.","Yes",32,51,0,NA,38.5542168674699,61.4457831325301,0,85,"Acer saccharinum",TRUE,FALSE,NA
 "178833","178833","0068168MOR","Acer saccharinum 'Beebe Cutleaf Weeping'",NA,NA,"Sachdev, S","14146v14",21,5,2014,"Acer: P-99/18-71","Yes",0,0,6,NA,0,0,100,141,"Acer saccharinum",TRUE,FALSE,9
 "97021","97021","0039789MOR","Acer saccharinum 'Blair'",NA,NA,"Shimp, E","4289V91",26,3,1991,"Acer Collection, P-98/95-80.","Yes",28,119,0,NA,19.047619047619,80.952380952381,0,85,"Acer saccharinum",TRUE,FALSE,5
 "78240","78240","0039790MOR","Acer saccharinum 'Laciniatum'",NA,NA,"Podrasky, N","1770V88",28,4,1988,"Acer Collection, O-96/45-90.","Yes",0,0,19,NA,0,0,100,119,"Acer saccharinum",TRUE,FALSE,9
@@ -1154,8 +1154,8 @@
 "111364","111364","0039796MOR","Acer saccharinum 'Pendulum'",NA,NA,"Packard, S","5568V93",13,4,1993,"Acer Collection, N-94/55-95.","Yes",12,83,0,NA,12.6315789473684,87.3684210526316,0,103,"Acer saccharinum",TRUE,FALSE,5
 "118393","118393","0039797MOR","Acer saccharinum 'Pendulum'",NA,NA,"Altvatter, K","6307V94",7,4,1994,"Spike-Rush Marsh, O-94/95-30.","Yes",16,101,0,NA,13.6752136752137,86.3247863247863,0,97,"Acer saccharinum",TRUE,FALSE,5
 "118361","118361","0039837MOR","Acer saccharinum 'Pyramidale'",NA,NA,"Altvatter, K","6305V94",7,4,1994,"Spike-Rush Marsh area, O-94/65-50","Yes",26,51,0,NA,33.7662337662338,66.2337662337662,0,97,"Acer saccharinum",TRUE,FALSE,NA
-"118405","118405","0039836MOR","Acer saccharinum 'Pyramidale'",NA,NA,"Altvatter, K","6304V94",7,4,1994,"Spike-Rush Marsh area, O-94/65-75","Yes",12,30,0,NA,28.5714285714286,71.4285714285714,0,97,"Acer saccharinum",TRUE,FALSE,NA
-"118597","118597","0039835MOR","Acer saccharinum 'Pyramidale'",NA,NA,"Altvatter, K","6306V94",7,4,1994,"Spike-Rush Marsh area, O-94/95-65","Yes",12,22,0,NA,35.2941176470588,64.7058823529412,0,97,"Acer saccharinum",TRUE,FALSE,3
+"118405","118405","0039836MOR","Acer saccharinum 'Pyramidale'",NA,NA,"Altvatter, K","6304V94",7,4,1994,"Spike-Rush Marsh area, O-94/65-75","Yes",12,30,0,NA,28.5714285714286,71.4285714285714,0,97,"Acer saccharinum",TRUE,FALSE,5
+"118597","118597","0039835MOR","Acer saccharinum 'Pyramidale'",NA,NA,"Altvatter, K","6306V94",7,4,1994,"Spike-Rush Marsh area, O-94/95-65","Yes",12,22,0,NA,35.2941176470588,64.7058823529412,0,97,"Acer saccharinum",TRUE,FALSE,NA
 "178828","178828","0068163MOR","Acer saccharinum 'Pyramidale'",NA,NA,"Potenberg, K","14141v14",20,5,2014,"Frost Hill: G-65/11-06","Yes",0,0,4,NA,0,0,100,140,"Acer saccharinum",TRUE,FALSE,9
 "159828","159828","0050060MOR","Acer saccharinum 'Skinneri'",NA,NA,"Jurczynski, J","10298V06",24,4,2006,"Along the Entrance Drive: M-41/27-69","Yes",0,0,10,NA,0,0,100,114,"Acer saccharinum",TRUE,FALSE,9
 "176829","176829","0063930MOR","Acer saccharinum 'Skinneri'",NA,NA,"Moran, E","13677v13",3,4,2013,"Childrens Garden: J-50/40-90","Yes",20,101,0,NA,16.5289256198347,83.4710743801653,0,93,"Acer saccharinum",TRUE,FALSE,5
@@ -1164,10 +1164,10 @@
 "78264","78264","0039778MOR","Acer saccharinum L.",NA,NA,"Podrasky, N","1772V88",28,4,1988,"Acer Collection, 0-97/70-50.","Yes",0,3,22,NA,0,12,88,119,"Acer saccharinum",FALSE,FALSE,8
 "78321","78321","0039777MOR","Acer saccharinum L.",NA,NA,"Podrasky, N","1773V88",28,4,1988,"Acer Collection, O-97/55-60.","Yes",0,0,25,NA,0,0,100,119,"Acer saccharinum",FALSE,FALSE,9
 "82800","82800","0039852MOR","Acer saccharinum L.",NA,NA,"Shimp, E","2246V89",13,4,1989,"Forest Road, K-93/60-60","Yes",8,120,0,NA,6.25,93.75,0,103,"Acer saccharinum",FALSE,FALSE,5
-"96782","96782","0039782MOR","Acer saccharinum L.",NA,NA,"Shimp, E","4280V91",25,3,1991,"Acer Collection, P-100/00-20.","Yes",14,24,0,NA,36.8421052631579,63.1578947368421,0,84,"Acer saccharinum",FALSE,FALSE,3
-"96783","96783","0039784MOR","Acer saccharinum L.",NA,NA,"Shimp, E","4281V91",25,3,1991,"Acer Collection, P-99/45-50.","Yes",18,31,0,NA,36.734693877551,63.265306122449,0,84,"Acer saccharinum",FALSE,FALSE,3
-"96784","96784","0039783MOR","Acer saccharinum L.",NA,NA,"Shimp, E","4279V91",25,3,1991,"Acer Collection, S-100/55-20.","Yes",20,9,0,NA,68.9655172413793,31.0344827586207,0,84,"Acer saccharinum",FALSE,FALSE,2
-"97020","97020","0039781MOR","Acer saccharinum L.",NA,NA,"Shimp, E","4288V91",26,3,1991,"Acer Collection, P-98/30-75.","Yes",50,118,0,NA,29.7619047619048,70.2380952380952,0,85,"Acer saccharinum",FALSE,FALSE,NA
+"96782","96782","0039782MOR","Acer saccharinum L.",NA,NA,"Shimp, E","4280V91",25,3,1991,"Acer Collection, P-100/00-20.","Yes",14,24,0,NA,36.8421052631579,63.1578947368421,0,84,"Acer saccharinum",FALSE,FALSE,NA
+"96783","96783","0039784MOR","Acer saccharinum L.",NA,NA,"Shimp, E","4281V91",25,3,1991,"Acer Collection, P-99/45-50.","Yes",18,31,0,NA,36.734693877551,63.265306122449,0,84,"Acer saccharinum",FALSE,FALSE,NA
+"96784","96784","0039783MOR","Acer saccharinum L.",NA,NA,"Shimp, E","4279V91",25,3,1991,"Acer Collection, S-100/55-20.","Yes",20,9,0,NA,68.9655172413793,31.0344827586207,0,84,"Acer saccharinum",FALSE,FALSE,3
+"97020","97020","0039781MOR","Acer saccharinum L.",NA,NA,"Shimp, E","4288V91",26,3,1991,"Acer Collection, P-98/30-75.","Yes",50,118,0,NA,29.7619047619048,70.2380952380952,0,85,"Acer saccharinum",FALSE,FALSE,5
 "97065","97065","0039849MOR","Acer saccharinum L.",NA,NA,"Shimp, E","4287V91",26,3,1991,"Acer Collection, P-99/35-95","Yes",62,55,0,NA,52.991452991453,47.008547008547,0,85,"Acer saccharinum",FALSE,FALSE,3
 "97066","97066","0039856MOR","Acer saccharinum L.",NA,NA,"Shimp, E","4286V91",26,3,1991,"Acer Collection, 0-99/95-95","Yes",8,52,0,NA,13.3333333333333,86.6666666666667,0,85,"Acer saccharinum",FALSE,FALSE,5
 "111349","111349","0039854MOR","Acer saccharinum L.",NA,NA,"Packard, S","5564V93",13,4,1993,"Acer Collection, O-97/55-60","Yes",8,82,0,NA,8.88888888888889,91.1111111111111,0,103,"Acer saccharinum",FALSE,FALSE,5
@@ -1178,7 +1178,7 @@
 "119618","119618","0039850MOR","Acer saccharinum L.",NA,NA,"Packard, S","6509V94",24,5,1994,"Near Spikereed Marsh, O-95/20-60","Yes",0,0,4,NA,0,0,100,144,"Acer saccharinum",FALSE,FALSE,9
 "119674","119674","0039841MOR","Acer saccharinum L.",NA,NA,"Packard, S","6506V94",24,5,1994,"Aceraceae Collection, N-98/15-80","Yes",0,0,8,NA,0,0,100,144,"Acer saccharinum",FALSE,FALSE,9
 "119706","119706","0039775MOR","Acer saccharinum L.",NA,NA,"Packard, S","6507V94",24,5,1994,"Aceraceae, N-97/90-55.","Yes",0,0,7,NA,0,0,100,144,"Acer saccharinum",FALSE,FALSE,9
-"135085","135085","0039851MOR","Acer saccharinum L.",NA,NA,"Packard, S","7645V97",1,4,1997,"South side of Meadow Lake, N-52/35-71","Yes",31,51,0,NA,37.8048780487805,62.1951219512195,0,91,"Acer saccharinum",FALSE,FALSE,3
+"135085","135085","0039851MOR","Acer saccharinum L.",NA,NA,"Packard, S","7645V97",1,4,1997,"South side of Meadow Lake, N-52/35-71","Yes",31,51,0,NA,37.8048780487805,62.1951219512195,0,91,"Acer saccharinum",FALSE,FALSE,NA
 "135553","135553","0039847MOR","Acer saccharinum L.",NA,NA,"Wiegrefe, S","334",21,5,1997,"Northern IL Collection, M-59/99-93","Yes",0,0,3,NA,0,0,100,141,"Acer saccharinum",FALSE,FALSE,9
 "159911","159911","0052458MOR","Acer saccharinum L.",NA,NA,"Packard, S","10288V06",17,4,2006,"Display, 1; D-44/72-39","Yes",0,0,45,NA,0,0,100,107,"Acer saccharinum",FALSE,FALSE,9
 "168527","168527","0054449MOR","Acer saccharinum L.",NA,NA,"Sturner, J","11555v09",8,5,2009,"Ozark, north side: S-29/54-62","Yes",0,0,8,NA,0,0,100,128,"Acer saccharinum",FALSE,FALSE,9
@@ -1240,7 +1240,7 @@
 "194754","194754","0112555MOR","Acer saccharum Marshall",NA,NA,"Sila, H","18795v25",17,4,2025,"Acer: S-101/13-12","Yes",13,275,0,NA,4.51388888888889,95.4861111111111,0,107,"Acer saccharum",FALSE,FALSE,5
 "195774","195774",NA,"Acer saccharum Marshall",NA,NA,"Dorrell, J","18991v25",2,10,2025,"Midwest: west section: L-62/66-18","Yes",0,0,18,NA,0,0,100,275,"Acer saccharum",FALSE,FALSE,9
 "195803","195803",NA,"Acer saccharum Marshall",NA,NA,"Chen, S","18899v25",17,7,2025,"Acer: Y-104/77-22","Yes",0,0,9,NA,0,0,100,198,"Acer saccharum",FALSE,FALSE,9
-"40","40",NA,"Acer saccharum Marshall.",NA,NA,"Potenberg, K","CRTI",17,4,2025,"NN-26/64-90","Yes",77,213,0,"Not in permanent collection",26.551724137931,73.448275862069,0,107,"Acer saccharum",FALSE,FALSE,NA
+"40","40",NA,"Acer saccharum Marshall.",NA,NA,"Potenberg, K","CRTI",17,4,2025,"NN-26/64-90","Yes",77,213,0,"Not in permanent collection",26.551724137931,73.448275862069,0,107,"Acer saccharum",FALSE,FALSE,5
 "51500","51500","0039889MOR","Acer saccharum subsp. grandidentatum (Nutt. ex Torr. & A.Gray) Desmarais",NA,NA,"Hedborn Jr, EA","s.n.",18,9,1984,"Ground Cover, L-45/00-00. Growing on the east side of the path from the Tea House.","Yes",0,0,36,NA,0,0,100,262,"Acer saccharum",FALSE,FALSE,9
 "67846","67846","0039891MOR","Acer saccharum subsp. grandidentatum (Nutt. ex Torr. & A.Gray) Desmarais",NA,NA,"Stoynoff, N","296V84",25,6,1984,"Meadow Lake, O-50/05-55.","Yes",0,0,21,NA,0,0,100,177,"Acer saccharum",FALSE,FALSE,9
 "75199","75199","0039898MOR","Acer saccharum subsp. grandidentatum (Nutt. ex Torr. & A.Gray) Desmarais",NA,NA,"Podrasky, N","1890V88",12,5,1988,"Meadow Lake, O-50/05-55.","Yes",0,0,23,NA,0,0,100,133,"Acer saccharum",FALSE,FALSE,9
@@ -1250,9 +1250,9 @@
 "319","319","0040013MOR","Acer saccharum subsp. nigrum (F.Michx.) Desmarais",NA,NA,"Lesica, P","s.n.",8,5,1972,"Northern Illinois Coll., Forest Rd., L-62/00-40.","Yes",10,152,0,NA,6.17283950617284,93.8271604938272,0,129,"Acer saccharum",FALSE,FALSE,5
 "320","320","0040017MOR","Acer saccharum subsp. nigrum (F.Michx.) Desmarais",NA,NA,"Lesica, P","s.n.",5,6,1972,"Northern Illinois Collection, Forest Road, L-62/00-40.","Yes",0,0,7,NA,0,0,100,157,"Acer saccharum",FALSE,FALSE,9
 "88895","88895","0040011MOR","Acer saccharum subsp. nigrum (F.Michx.) Desmarais",NA,NA,"Hess, WJ","2374V89",8,5,1989,"Eleagnaceae Collection, O-54/05-85.","Yes",0,436,0,NA,0,100,0,128,"Acer saccharum",FALSE,FALSE,5
-"104030","104030","0040009MOR","Acer saccharum subsp. nigrum (F.Michx.) Desmarais",NA,NA,"Hess, WJ","5043V92",13,5,1992,"Acer Collection, T-102/25-05.","Yes",0,66,18,NA,0,78.5714285714286,21.4285714285714,134,"Acer saccharum",FALSE,FALSE,6
+"104030","104030","0040009MOR","Acer saccharum subsp. nigrum (F.Michx.) Desmarais",NA,NA,"Hess, WJ","5043V92",13,5,1992,"Acer Collection, T-102/25-05.","Yes",0,66,18,NA,0,78.5714285714286,21.4285714285714,134,"Acer saccharum",FALSE,FALSE,5
 "104034","104034","0040007MOR","Acer saccharum subsp. nigrum (F.Michx.) Desmarais",NA,NA,"Hess, WJ","5045V92",13,5,1992,"Acer Collection, S-102/85-15.","Yes",0,0,4,NA,0,0,100,134,"Acer saccharum",FALSE,FALSE,9
-"104035","104035","0040016MOR","Acer saccharum subsp. nigrum (F.Michx.) Desmarais",NA,NA,"Hess, WJ","5044V92",13,5,1992,"Acer Collection, T-102/05-55.","Yes",0,4,10,NA,0,28.5714285714286,71.4285714285714,134,"Acer saccharum",FALSE,FALSE,8
+"104035","104035","0040016MOR","Acer saccharum subsp. nigrum (F.Michx.) Desmarais",NA,NA,"Hess, WJ","5044V92",13,5,1992,"Acer Collection, T-102/05-55.","Yes",0,4,10,NA,0,28.5714285714286,71.4285714285714,134,"Acer saccharum",FALSE,FALSE,7
 "104068","104068","0040018MOR","Acer saccharum subsp. nigrum (F.Michx.) Desmarais",NA,NA,"Hess, WJ","5048V92",13,5,1992,"Acer Collection, S-101/05-85.","Yes",0,10,0,NA,0,100,0,134,"Acer saccharum",FALSE,FALSE,5
 "155941","155941","0040478MOR","Acer saccharum subsp. nigrum (F.Michx.) Desmarais",NA,NA,"Packard, S","9576V02",25,6,2002,"Q-67/09-60, Forestry Plot Area","Yes",0,0,14,NA,0,0,100,176,"Acer saccharum",FALSE,FALSE,9
 "156011","156011","0042339MOR","Acer saccharum subsp. nigrum (F.Michx.) Desmarais",NA,NA,"Packard, S","9632V02",27,8,2002,"N-43/07-64, East Cloverleaf","Yes",0,0,6,NA,0,0,100,239,"Acer saccharum",FALSE,FALSE,9
@@ -1263,7 +1263,7 @@
 "659","659","0040021MOR","Acer saccharum subsp. schneckii (Rehder) Desmarais",NA,NA,"Lesica, P","s.n.",5,6,1972,"Northern Illinois Coll., Forest Road, L-62/05-5.","Yes",0,0,8,NA,0,0,100,157,"Acer saccharum",FALSE,FALSE,9
 "660","660","0040028MOR","Acer saccharum subsp. schneckii (Rehder) Desmarais",NA,NA,"Lesica, P","s.n.",8,5,1972,"Northern Illinois Coll., L-62/05-5.","Yes",0,104,0,NA,0,100,0,129,"Acer saccharum",FALSE,FALSE,5
 "663","663","0040026MOR","Acer saccharum subsp. schneckii (Rehder) Desmarais",NA,NA,"Kammerer, E","s.n.",22,5,1964,"Along Forest Road, East Side, Northern Illinois Coll., L-62/05-5.","Yes",0,0,19,NA,0,0,100,143,"Acer saccharum",FALSE,FALSE,9
-"104050","104050","0040025MOR","Acer saccharum subsp. schneckii (Rehder) Desmarais",NA,NA,"Hess, WJ","5049V92",13,5,1992,"Acer Collection, R-101/70-70.","Yes",0,10,15,NA,0,40,60,134,"Acer saccharum",FALSE,FALSE,7
+"104050","104050","0040025MOR","Acer saccharum subsp. schneckii (Rehder) Desmarais",NA,NA,"Hess, WJ","5049V92",13,5,1992,"Acer Collection, R-101/70-70.","Yes",0,10,15,NA,0,40,60,134,"Acer saccharum",FALSE,FALSE,6
 "104560","104560","0040020MOR","Acer saccharum subsp. schneckii (Rehder) Desmarais",NA,NA,"Matuszewski, E","5188V92",15,6,1992,"Acer Collection, T-103/40-25.","Yes",0,0,11,NA,0,0,100,167,"Acer saccharum",FALSE,FALSE,9
 "104585","104585","0040019MOR","Acer saccharum subsp. schneckii (Rehder) Desmarais",NA,NA,"Matuszewski, E","5187V92",15,6,1992,"Acer Collection, T-103/85-20.","Yes",0,0,14,NA,0,0,100,167,"Acer saccharum",FALSE,FALSE,9
 "704","704","0040032MOR","Acer spicatum Lam.",NA,NA,"Kammerer, E","s.n.",12,6,1953,"Nursery Beds","Yes",0,314,20,NA,0,94.0119760479042,5.98802395209581,163,"Acer spicatum",FALSE,FALSE,5
@@ -1302,11 +1302,11 @@
 "163004","163004","0053043MOR","Acer tataricum L.",NA,NA,"Moran, E","10530V07",7,6,2007,"Central & Western Asia, south section: DD-70/04-82","Yes",0,0,10,NA,0,0,100,158,"Acer tataricum",FALSE,FALSE,9
 "187888","187888","0099222MOR","Acer tataricum L.",NA,NA,"Worcester, L","LW331",17,8,2018,"Central & Western Asia: DD-70/04-82","Yes",0,0,2,NA,0,0,100,229,"Acer tataricum",FALSE,FALSE,9
 "171784","171784","0056695MOR","Acer tataricum subsp. ginnala 'Compactum'",NA,NA,"Packard, S","12146v10",27,4,2010,"Hedge Garden, lower terrace: I-45/71-17","Yes",64,11,0,NA,85.3333333333333,14.6666666666667,0,117,"Acer tataricum",TRUE,FALSE,2
-"178826","178826","0068160MOR","Acer tataricum subsp. ginnala 'Compactum'",NA,NA,"Madden, ME","14138v14",19,5,2014,"Hedge Garden: I-45/71-17","Yes",21,11,0,NA,65.625,34.375,0,139,"Acer tataricum",TRUE,FALSE,2
+"178826","178826","0068160MOR","Acer tataricum subsp. ginnala 'Compactum'",NA,NA,"Madden, ME","14138v14",19,5,2014,"Hedge Garden: I-45/71-17","Yes",21,11,0,NA,65.625,34.375,0,139,"Acer tataricum",TRUE,FALSE,3
 "121","121","0039911MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Swink, FA","s.n.",11,8,1964,"Acer Collection, T-99/20-80","Yes",0,0,23,NA,0,0,100,224,"Acer tataricum",FALSE,FALSE,9
 "122","122","0039901MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Kammerer, E","s.n.",6,8,1936,"Godshalk Meadow","Yes",0,0,12,NA,0,0,100,219,"Acer tataricum",FALSE,FALSE,9
-"123","123","0039902MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Ciolac, C","s.n.",31,5,1973,"Acer Collection, just N of Oakwood Dr.; O-101/20-10","Yes",1,45,20,NA,1.51515151515152,68.1818181818182,30.3030303030303,151,"Acer tataricum",FALSE,FALSE,6
-"124","124","0039912MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Kammerer, E","s.n.",9,5,1946,"Administration Building, J-40/area","Yes",219,109,0,NA,66.7682926829268,33.2317073170732,0,129,"Acer tataricum",FALSE,FALSE,2
+"123","123","0039902MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Ciolac, C","s.n.",31,5,1973,"Acer Collection, just N of Oakwood Dr.; O-101/20-10","Yes",1,45,20,NA,1.51515151515152,68.1818181818182,30.3030303030303,151,"Acer tataricum",FALSE,FALSE,NA
+"124","124","0039912MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Kammerer, E","s.n.",9,5,1946,"Administration Building, J-40/area","Yes",219,109,0,NA,66.7682926829268,33.2317073170732,0,129,"Acer tataricum",FALSE,FALSE,3
 "126","126","0039760MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Kammerer, E","s.n.",4,6,1936,"China Collection, central, BB-66/27-41.","Yes",0,0,48,NA,0,0,100,156,"Acer tataricum",FALSE,FALSE,9
 "128","128","0039748MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Kammerer, E","s.n.",12,9,1935,"China Collection, central, BB-66/27-41.","Yes",0,0,35,NA,0,0,100,255,"Acer tataricum",FALSE,FALSE,9
 "34690","34690","0039914MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Hess, WJ","4456",6,10,1978,"E side near witch hazel collection; M-87","Yes",0,0,76,NA,0,0,100,279,"Acer tataricum",FALSE,FALSE,9
@@ -1320,7 +1320,7 @@
 "80450","80450","0039756MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Quist, J","2135V88",12,7,1988,"China Collection, central, BB-66/27-41.","Yes",0,0,34,NA,0,0,100,194,"Acer tataricum",FALSE,FALSE,9
 "80725","80725","0039758MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Hess, WJ","2172V88",26,7,1988,"China Collection, AA-63/62-56.","Yes",0,0,79,NA,0,0,100,208,"Acer tataricum",FALSE,FALSE,9
 "80728","80728","0039761MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Hess, WJ","2171V88",26,7,1988,"China Collection, AA-63/68-34.","Yes",0,0,108,NA,0,0,100,208,"Acer tataricum",FALSE,FALSE,9
-"98065","98065","0039915MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Gavlak, N","4497V91",15,5,1991,"Near Administration Building, K-40/area","Yes",117,183,0,NA,39,61,0,135,"Acer tataricum",FALSE,FALSE,3
+"98065","98065","0039915MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Gavlak, N","4497V91",15,5,1991,"Near Administration Building, K-40/area","Yes",117,183,0,NA,39,61,0,135,"Acer tataricum",FALSE,FALSE,NA
 "98274","98274","0039924MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Packard, S","4832V91",30,7,1991,"Japanese Collection, AA-58/35-85","Yes",0,0,78,NA,0,0,100,211,"Acer tataricum",FALSE,FALSE,9
 "98275","98275","0039803MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Packard, S","4833V91",30,7,1991,"Japanese Collection, AA-58/40-70.","Yes",0,0,27,NA,0,0,100,211,"Acer tataricum",FALSE,FALSE,9
 "98351","98351","0039913MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Packard, S","4837V91",30,7,1991,"Japanese Collection, AA-60/35-75","Yes",0,0,49,NA,0,0,100,211,"Acer tataricum",FALSE,FALSE,9
@@ -1332,7 +1332,7 @@
 "104546","104546","0039809MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Matuszewski, E","5186V92",15,6,1992,"Acer Collection, U-99/35-80.","Yes",0,0,29,NA,0,0,100,167,"Acer tataricum",FALSE,FALSE,9
 "106053","106053","0039801MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Packard, S","5463V92",25,8,1992,"Acer Collection, V-101/70-60.","Yes",0,0,30,NA,0,0,100,238,"Acer tataricum",FALSE,FALSE,9
 "111555","111555","0039920MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Wiegrefe, S","280",13,5,1993,"Aceraceae, W-101/25-75","Yes",128,20,0,NA,86.4864864864865,13.5135135135135,0,133,"Acer tataricum",FALSE,FALSE,2
-"111556","111556","0039909MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Wiegrefe, S","279",13,5,1993,"Aceraceae, U-99/35-80","Yes",151,74,0,NA,67.1111111111111,32.8888888888889,0,133,"Acer tataricum",FALSE,FALSE,2
+"111556","111556","0039909MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Wiegrefe, S","279",13,5,1993,"Aceraceae, U-99/35-80","Yes",151,74,0,NA,67.1111111111111,32.8888888888889,0,133,"Acer tataricum",FALSE,FALSE,3
 "111597","111597","0039908MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Wiegrefe, S","282",14,5,1993,"Acer Collection, X-62/26-93","Yes",49,16,0,NA,75.3846153846154,24.6153846153846,0,134,"Acer tataricum",FALSE,FALSE,2
 "112987","112987","0039918MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Bradtke, HL","5928V93",1,7,1993,"Aceraceae Collection, X-62/26-93","Yes",0,0,22,NA,0,0,100,182,"Acer tataricum",FALSE,FALSE,9
 "112988","112988","0039910MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Bradtke, HL","5927V93",1,7,1993,"Aceraceae Collection, X-62/67-93","Yes",0,0,21,NA,0,0,100,182,"Acer tataricum",FALSE,FALSE,9
@@ -1341,15 +1341,15 @@
 "113791","113791","0039807MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Packard, S","6058V93",27,7,1993,"Aceraceae, X-62/26-93.","Yes",0,0,27,NA,0,0,100,208,"Acer tataricum",FALSE,FALSE,9
 "113819","113819","0039907MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Altvatter, K","6024V93",19,7,1993,"China, DD-65/52-16","Yes",0,0,40,NA,0,0,100,200,"Acer tataricum",FALSE,FALSE,9
 "113831","113831","0039921MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Packard, S","6052V93",27,7,1993,"Aceraceae, W-62/26-59","Yes",0,0,11,NA,0,0,100,208,"Acer tataricum",FALSE,FALSE,9
-"119616","119616","0039752MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Packard, S","6459V94",17,5,1994,"Near Meadow lake, S-47/00-50.","Yes",116,53,0,NA,68.6390532544379,31.3609467455621,0,137,"Acer tataricum",FALSE,FALSE,2
+"119616","119616","0039752MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Packard, S","6459V94",17,5,1994,"Near Meadow lake, S-47/00-50.","Yes",116,53,0,NA,68.6390532544379,31.3609467455621,0,137,"Acer tataricum",FALSE,FALSE,3
 "120663","120663","0039749MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Carlino, J","6783V94",23,8,1994,"Northeast Asia Collection, EE-38/37-31.","Yes",0,0,18,NA,0,0,100,235,"Acer tataricum",FALSE,FALSE,9
-"132169","132169","0039751MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Packard, S","7382V96",4,6,1996,"Near Research Building, west side, J-40/Area.","Yes",120,68,11,NA,60.3015075376884,34.1708542713568,5.52763819095477,156,"Acer tataricum",FALSE,FALSE,2
+"132169","132169","0039751MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Packard, S","7382V96",4,6,1996,"Near Research Building, west side, J-40/Area.","Yes",120,68,11,NA,60.3015075376884,34.1708542713568,5.52763819095477,156,"Acer tataricum",FALSE,FALSE,3
 "138964","138964","0039810MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Rossi, E","268",15,6,1990,"On the east side of the Morton Arboretum in N-90/Area. On west side of Forest Road beside the road.","Yes",0,0,23,NA,0,0,100,166,"Acer tataricum",FALSE,FALSE,9
 "142037","142037","0039762MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"DeMink, L","8564",2,7,1998,"Acer Collection, AA-63/62-56.","Yes",0,0,4,NA,0,0,100,183,"Acer tataricum",FALSE,FALSE,9
 "143002","143002","0039763MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Kirt, S","8588V98",2,7,1998,"Acer Collection, O-101/20-10.","Yes",0,0,34,NA,0,0,100,183,"Acer tataricum",FALSE,FALSE,9
 "155464","155464","0040592MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Bolger, K","9526V02",14,5,2002,"AA-63/16-71 China, central section","Yes",10,10,0,NA,50,50,0,134,"Acer tataricum",FALSE,FALSE,3
 "161904","161904","0053192MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1A/J16","Yes",34,25,0,NA,57.6271186440678,42.3728813559322,0,127,"Acer tataricum",FALSE,FALSE,3
-"161905","161905","0053193MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1A/J18","Yes",93,45,0,NA,67.3913043478261,32.6086956521739,0,127,"Acer tataricum",FALSE,FALSE,2
+"161905","161905","0053193MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1A/J18","Yes",93,45,0,NA,67.3913043478261,32.6086956521739,0,127,"Acer tataricum",FALSE,FALSE,3
 "170628","170628","0055767MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Potenberg, K","11682v09",30,6,2009,"China, central section: AA-63/16-71","Yes",0,0,19,NA,0,0,100,181,"Acer tataricum",FALSE,FALSE,9
 "177519","177519","0065959MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Potenberg, K","13869v13",9,7,2013,"Tollway Berm: AY-73/07-93","Yes",0,0,35,NA,0,0,100,190,"Acer tataricum",FALSE,FALSE,9
 "161901","161901","0053241MOR","Acer tataricum subsp. ginnala × tschonoskii var. rubripes",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1A/I2","Yes",146,31,0,NA,82.4858757062147,17.5141242937853,0,127,"Acer tataricum",FALSE,TRUE,2
@@ -1361,7 +1361,7 @@
 "192040","192040","0103378MOR","Acer tegmentosum 'Joe Witt'",NA,NA,"Hartley, C.","18331v24",11,4,2024,"Arbor Court: J-46/79-61","Yes",0,61,0,NA,0,100,0,102,"Acer tegmentosum",TRUE,FALSE,5
 "194714","194714","0109342MOR","Acer tegmentosum 'Joe Witt'",NA,NA,"Chen, S","18826v25",15,5,2025,"Meadow Lake - South side: M-51/92-84","Yes",0,0,9,NA,0,0,100,135,"Acer tegmentosum",TRUE,FALSE,9
 "723","723","0039707MOR","Acer tegmentosum Maxim.",NA,NA,"Allen, L","s.n.",24,7,1973,"Rosaceae Collection, E-63/95-05.","Yes",0,0,9,NA,0,0,100,205,"Acer tegmentosum",FALSE,FALSE,9
-"9420","9420","0039706MOR","Acer tegmentosum Maxim.",NA,NA,"Schulenberg, RF","s.n.",20,4,1977,"Rosaceae Collection, E-63/95-05.","Yes",55,159,0,NA,25.7009345794392,74.2990654205608,0,110,"Acer tegmentosum",FALSE,FALSE,NA
+"9420","9420","0039706MOR","Acer tegmentosum Maxim.",NA,NA,"Schulenberg, RF","s.n.",20,4,1977,"Rosaceae Collection, E-63/95-05.","Yes",55,159,0,NA,25.7009345794392,74.2990654205608,0,110,"Acer tegmentosum",FALSE,FALSE,5
 "112981","112981","0039704MOR","Acer tegmentosum Maxim.",NA,NA,"Bradtke, HL","5926V93",1,7,1993,"Aceraceae Collection, X-62/57-58.","Yes",0,0,19,NA,0,0,100,182,"Acer tegmentosum",FALSE,FALSE,9
 "135310","135310","0039703MOR","Acer tegmentosum Maxim.",NA,NA,"Wiegrefe, S","264",6,5,1993,"Acer Collection, X-62/57-58.","Yes",0,17,114,NA,0,12.9770992366412,87.0229007633588,126,"Acer tegmentosum",FALSE,FALSE,8
 "135346","135346","0039697MOR","Acer tegmentosum Maxim.",NA,NA,"Wiegrefe, S","265",1,5,1993,"Aceraceae Collection, X-62/72-70.","Yes",2,14,0,NA,12.5,87.5,0,121,"Acer tegmentosum",FALSE,FALSE,5
@@ -1382,9 +1382,9 @@
 "194663","194663","0109304MOR","Acer triflorum Kom.",NA,NA,"Chen, S","18819v25",8,5,2025,"Acer: R-101/29-18","Yes",0,0,9,NA,0,0,100,128,"Acer triflorum",FALSE,FALSE,9
 "194751","194751","0112552MOR","Acer triflorum Kom.",NA,NA,"Chen, S","18794v25",17,4,2025,"Acer: R-100/4747-98","Yes",0,58,0,NA,0,100,0,107,"Acer triflorum",FALSE,FALSE,5
 "195008","195008","0112607MOR","Acer triflorum Kom.",NA,NA,"Potenberg, K","18851v25",12,6,2025,"Firefly Pond: H-42/35-75","Yes",0,0,4,NA,0,0,100,163,"Acer triflorum",FALSE,FALSE,9
-"195836","195836",NA,"Acer triflorum Kom.",NA,NA,"Potenberg, K","19103v26",9,4,2026,"Service Area: D-41/30-04","Yes",0,1,16,NA,0,5.88235294117647,94.1176470588235,99,"Acer triflorum",FALSE,FALSE,9
-"51925","51925","0039976MOR","Acer truncatum Bunge",NA,NA,"Schulenberg, RF","63V84",8,5,1984,"Acer Collection, O-98/45-05.","Yes",37,62,0,NA,37.3737373737374,62.6262626262626,0,129,"Acer truncatum",FALSE,FALSE,3
-"77308","77308","0039970MOR","Acer truncatum Bunge",NA,NA,"Podrasky, N","1734V88",21,4,1988,"Acer Collection, N-96/10-30.","Yes",23,83,0,NA,21.6981132075472,78.3018867924528,0,112,"Acer truncatum",FALSE,FALSE,NA
+"195836","195836",NA,"Acer triflorum Kom.",NA,NA,"Potenberg, K","19103v26",9,4,2026,"Service Area: D-41/30-04","Yes",0,1,16,NA,0,5.88235294117647,94.1176470588235,99,"Acer triflorum",FALSE,FALSE,8
+"51925","51925","0039976MOR","Acer truncatum Bunge",NA,NA,"Schulenberg, RF","63V84",8,5,1984,"Acer Collection, O-98/45-05.","Yes",37,62,0,NA,37.3737373737374,62.6262626262626,0,129,"Acer truncatum",FALSE,FALSE,NA
+"77308","77308","0039970MOR","Acer truncatum Bunge",NA,NA,"Podrasky, N","1734V88",21,4,1988,"Acer Collection, N-96/10-30.","Yes",23,83,0,NA,21.6981132075472,78.3018867924528,0,112,"Acer truncatum",FALSE,FALSE,5
 "77598","77598","0039971MOR","Acer truncatum Bunge",NA,NA,"Podrasky, N","1735V88",21,4,1988,"Acer Collection, N-97/60-30.","Yes",52,97,0,NA,34.8993288590604,65.1006711409396,0,112,"Acer truncatum",FALSE,FALSE,NA
 "98353","98353","0039977MOR","Acer truncatum Bunge",NA,NA,"Altvatter, K","4844V91",2,8,1991,"Hamamelidaceae Collection, N-96/10-30.","Yes",0,0,9,NA,0,0,100,214,"Acer truncatum",FALSE,FALSE,9
 "111566","111566","0039972MOR","Acer truncatum Bunge",NA,NA,"Wiegrefe, S","266",6,5,1993,"Acer Collection, W-63/01-32.","Yes",17,24,0,NA,41.4634146341463,58.5365853658537,0,126,"Acer truncatum",FALSE,FALSE,3
@@ -1393,7 +1393,7 @@
 "114175","114175","0039967MOR","Acer truncatum Bunge",NA,NA,"Altvatter, K","6068V93",29,7,1993,"China, BB-68/75-59.","Yes",0,0,11,NA,0,0,100,210,"Acer truncatum",FALSE,FALSE,9
 "114176","114176","0039974MOR","Acer truncatum Bunge",NA,NA,"Altvatter, K","6067V93",29,7,1993,"China, BB-68/80-43.","Yes",0,0,2,NA,0,0,100,210,"Acer truncatum",FALSE,FALSE,9
 "135432","135432","0039966MOR","Acer truncatum Bunge",NA,NA,"Wiegrefe, S","285",14,5,1993,"China Collection, BB-68/80-43.","Yes",0,42,0,NA,0,100,0,134,"Acer truncatum",FALSE,FALSE,5
-"149204","149204","0039965MOR","Acer truncatum Bunge",NA,NA,"Allen, K","9132V00",14,4,2000,"Aceraceae, S section, V-63/61-30.","Yes",51,23,0,NA,68.9189189189189,31.0810810810811,0,105,"Acer truncatum",FALSE,FALSE,2
+"149204","149204","0039965MOR","Acer truncatum Bunge",NA,NA,"Allen, K","9132V00",14,4,2000,"Aceraceae, S section, V-63/61-30.","Yes",51,23,0,NA,68.9189189189189,31.0810810810811,0,105,"Acer truncatum",FALSE,FALSE,3
 "149210","149210","0039964MOR","Acer truncatum Bunge",NA,NA,"Allen, K","9133V00",14,4,2000,"Aceraceae, S section, V-63/76-22.","Yes",23,19,0,NA,54.7619047619048,45.2380952380952,0,105,"Acer truncatum",FALSE,FALSE,3
 "158513","158513","0050087MOR","Acer truncatum Bunge",NA,NA,"Vogel, S","9936V03",15,9,2003,"China, central section: BB-68/62-30","Yes",0,0,6,NA,0,0,100,258,"Acer truncatum",FALSE,FALSE,9
 "187248","187248","0098329MOR","Acer truncatum Bunge",NA,NA,"Worcester, L","LW276",1,8,2018,"China: BB-68/62-30","Yes",0,0,11,NA,0,0,100,213,"Acer truncatum",FALSE,FALSE,9
