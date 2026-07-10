@@ -5,7 +5,7 @@
 if(!exists('dat.mat')) stop('** Run scripts 00 and 10 before this one **')
 
 ## variables that matter
-threshold = 10 # min number of inds / phenophase
+threshold = 5 # min number of inds / phenophase
 
 ## doing stuff
 dat_ph <- list(
