@@ -29,3 +29,4 @@ whosin <- function(x, thresh = threshold) {
 }
 
 keepsies <- sapply(dat.sum, whosin)
+

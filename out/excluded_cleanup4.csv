@@ -1,632 +1,691 @@
-"","SpecimenAccession","SpecimenBarcode","DeterminationCalcFullName","Chicago.Native","Countinent.of.origin","Collectors","CollectorNumber","Day","Month","Year","LocalityNotes","Accounted.for","Buds","Flowers","Fruits","Notes","Percent.Buds","Percent.Flowers","Percent.Fruit"
-"177676","177676","0065608MOR","Tilia",NA,NA,"Beck, J","13957v13",15,8,2013,"Tilia: Z-56/77-19","Yes",0,0,0,NA,NA,NA,NA
-"190618","190618","0101807MOR","Tilia 'Moltkei'",NA,NA,"Worcester, L","LW 590",25,9,2020,"Sargent's Glade: GG-22/49-27","Yes",0,0,0,NA,NA,NA,NA
-"190222","190222","0099413MOR","Tilia 'Zamoyskiana'",NA,NA,"Worcester, L","LW 607",28,9,2020,"Lower Joy Path: Q-24/73-71","Yes",0,0,0,NA,NA,NA,NA
-"188220","188220","0099467MOR","Tilia × europaea 'Pallida'",NA,NA,"Worcester, L","LW356",5,9,2018,"Tilia: W-57/55-50","Yes",0,0,0,NA,NA,NA,NA
-"188217","188217","0099470MOR","Tilia × europaea L.",NA,NA,"Worcester, L","LW350",30,8,2018,"Tilia: AA-54/33-65","Yes",0,0,0,NA,NA,NA,NA
-"188445","188445","0099844MOR","Tilia × europaea L.",NA,NA,"Worcester, L","LW 454",20,6,2020,"Tilia: O-87/20-96","Yes",0,0,0,NA,NA,NA,NA
-"188446","188446","0099843MOR","Tilia × europaea L.",NA,NA,"Worcester, L","LW 455",20,6,2020,"Tilia: P-92/97-20","Yes",0,0,0,NA,NA,NA,NA
-"187828","187828","0099172MOR","Tilia × flaccida Host ex Bayer",NA,NA,"Worcester, L","LW404",25,9,2018,"Tilia: AA-54/18-92","Yes",0,0,0,NA,NA,NA,NA
-"188222","188222","0099465MOR","Tilia × flavescens 'Glenleven'",NA,NA,"Worcester, L","LW402",25,9,2018,"East Tilia: Q-91/44-18","Yes",0,0,0,NA,NA,NA,NA
-"153303","153303","0071421MOR","Tilia × zamoyskiana Wróbl.",NA,NA,"Anderson, B","7922",2,8,1979,"Tiliaceae Collection, [Z-52/80-65]","Yes",0,0,0,NA,NA,NA,NA
-"188448","188448","0099841MOR","Tilia amurensis subsp. taquetii (C.K.Schneid.) Pigott",NA,NA,"Worcester, L","LW 457",13,8,2020,"Korea: P-63/97-58","Yes",0,0,0,NA,NA,NA,NA
-"187832","187832","0099170MOR","Tilia begoniifolia Steven",NA,NA,"Worcester, L","LW370",13,9,2018,"Propagation: H-30/area (Hoop House 5)","Yes",0,0,0,NA,NA,NA,NA
-"190040","190040","0099376MOR","Tilia chinensis Maxim.",NA,NA,"Worcester, L","LW 618",30,9,2020,"China: CC-67/37-93","Yes",0,0,0,NA,NA,NA,NA
-"187831","187831","0099169MOR","Tilia chingiana Hu & W.C.Cheng",NA,NA,"Worcester, L","LW369",13,9,2018,"Propagation: H-30/area (Hoop House 5)","Yes",0,0,0,NA,NA,NA,NA
-"190042","190042","0099374MOR","Tilia cordata 'Corzam'",NA,NA,"Worcester, L","LW 620",30,9,2020,"Firefly Pond: G-43/45-38","Yes",0,0,0,NA,NA,NA,NA
-"190637","190637","0101701MOR","Tilia cordata 'Greenspire'",NA,NA,"Worcester, L","LW 569",23,9,2020,"Gateway to Tree Science: F-101/35-48","Yes",0,0,0,NA,NA,NA,NA
-"189742","189742","0101219MOR","Tilia cordata 'Halka'",NA,NA,"Worcester, L","LW 499",26,8,2020,"West DuPage River: L-28/21-34","Yes",0,0,0,NA,NA,NA,NA
-"187827","187827","0099171MOR","Tilia cordata Mill.",NA,NA,"Worcester, L","LW371",13,9,2018,"Propagation: H-30/area (Hoop House 5)","Yes",0,0,0,NA,NA,NA,NA
-"188447","188447","0099842MOR","Tilia cordata Mill.",NA,NA,"Worcester, L","LW 456",9,7,2020,"Tilia: AA-53/16-97","Yes",0,0,0,NA,NA,NA,NA
-"190639","190639","0101699MOR","Tilia cordata Mill.",NA,NA,"Worcester, L","LW 571",23,9,2020,"Gateway to Tree Science: D-100/49-80  Row 7","Yes",0,0,0,NA,NA,NA,NA
-"195738","195738",NA,"Tilia cordata Mill.",NA,NA,"Dorrell, J","19019v25",23,10,2025,"Europe: Y-32/49-41","Yes",0,0,0,NA,NA,NA,NA
-"187826","187826","0099168MOR","Tilia cordata Mill. subsp. cordata",NA,NA,"Worcester, L","LW364",13,9,2018,"Propagation: H-30/area (pot in Pot Nursery)","Yes",0,0,0,NA,NA,NA,NA
-"187833","187833","0099155MOR","Tilia cordata Mill. subsp. cordata",NA,NA,"Worcester, L","LW233",2,7,2018,"Central Europe: DD-34/30-06","Yes",0,0,0,NA,NA,NA,NA
-"187842","187842","0099167MOR","Tilia cordata Mill. subsp. cordata",NA,NA,"Worcester, L","LW346",28,8,2018,"Appalachia: AA-73/14-53","Yes",0,0,0,NA,NA,NA,NA
-"188236","188236","0099479MOR","Tilia dasystyla subsp. caucasica (V.Engl.) Pigott",NA,NA,"DeVries, C","16240v19",3,7,2019,"East Tilia: P-88/17-22","Yes",0,0,0,NA,NA,NA,NA
-"188450","188450","0099839MOR","Tilia japonica (Miq.) Simonk.",NA,NA,"DeVries, C","16170v19",5,6,2019,"East Tilia: O-89/80-15","Yes",0,0,0,NA,NA,NA,NA
-"188221","188221","0099466MOR","Tilia ledebourii Borbás",NA,NA,"Worcester, L","LW368",13,9,2018,"Propagation: H-30/area (Hoop House 5)","Yes",0,0,0,NA,NA,NA,NA
-"188452","188452","0099837MOR","Tilia mandshurica Rupr. & Maxim.",NA,NA,"Worcester, L","LW322",16,8,2018,"China: CC-69/18-33","Yes",0,0,0,NA,NA,NA,NA
-"188235","188235","0099480MOR","Tilia mongolica Maxim.",NA,NA,"Potenberg, K","16231v19",27,6,2019,"Tilia: V-54/40-85","Yes",0,0,0,NA,NA,NA,NA
-"188451","188451","0099838MOR","Tilia mongolica Maxim.",NA,NA,"Worcester, L","LW324",16,8,2018,"China: BB-65/69-97","Yes",0,0,0,NA,NA,NA,NA
-"190645","190645","0101693MOR","Tilia mongolica Maxim.",NA,NA,"Worcester, L","LW 577",23,9,2020,"China: X-62/54-81","Yes",0,0,0,NA,NA,NA,NA
-"196263","196263",NA,"Tilia mongolica Maxim.",NA,NA,"Carle, M","16169v19",5,6,2019,"East Tilia: Q-92/25-30","Yes",0,0,0,NA,NA,NA,NA
-"105005","105005","0049452MOR","Tilia oliveri Szyszyl.",NA,NA,"Hess, WJ","5315V92",9,7,1992,"Northeast Asia: CC-41/54-11","Yes",0,0,0,NA,NA,NA,NA
-"153302","153302","0071266MOR","Tilia oliveri Szyszyl.",NA,NA,"Anderson, B","336-69",2,8,1979,"Tiliaceae Collection, [V-57/90-35]","Yes",0,0,0,NA,NA,NA,NA
-"187825","187825","0099162MOR","Tilia oliveri Szyszyl.",NA,NA,"Worcester, L","LW325",16,8,2018,"China: AA-65/59-44","Yes",0,0,0,NA,NA,NA,NA
-"187843","187843","0099166MOR","Tilia paucicostata Maxim.",NA,NA,"Worcester, L","LW337",28,8,2018,"East Tilia: O-87/02-72","Yes",0,0,0,NA,NA,NA,NA
-"187839","187839","0099163MOR","Tilia paucicostata var. dictyoneura (V.Engl. ex C.K.Schneid.) H.T.Chang & R.H.Miao",NA,NA,"Worcester, L","LW327",16,8,2018,"China: CC-66/81-41","Yes",0,0,0,NA,NA,NA,NA
-"28150","28150","0071312MOR","Tilia platyphyllos 'Laciniata'",NA,NA,"Swink, FA","s.n.",28,7,1964,"[V-55/45-55]","Yes",0,0,0,NA,NA,NA,NA
-"28151","28151","0071313MOR","Tilia platyphyllos 'Laciniata'",NA,NA,"Eickhorst, W","s.n.",17,7,1951,"[K-26-41]","Yes",0,0,0,NA,NA,NA,NA
-"28152","28152","0071314MOR","Tilia platyphyllos 'Laciniata'",NA,NA,"Eickhorst, W","s.n.",10,6,1948,"[Near Salix Grp]","Yes",0,0,0,NA,NA,NA,NA
-"190644","190644","0101694MOR","Tilia tomentosa 'Sterling'",NA,NA,"Worcester, L","LW 576",23,9,2020,"Gateway to Tree Science: F-101/34-25","Yes",0,0,0,NA,NA,NA,NA
-"142087","142087","0071319MOR","Tilia tomentosa Moench",NA,NA,"DeMink, L","s.n.",6,7,1998,"Display Area, [B-45/Area]","Yes",0,0,0,NA,NA,NA,NA
-"152462","152462","0071320MOR","Tilia tomentosa Moench",NA,NA,"Packard, S","9260V01",26,6,2001,"Godshalk Meadow, [O-34/85-00]","Yes",0,0,0,NA,NA,NA,NA
-"172539","172539","0057570MOR","Tilia tomentosa Moench",NA,NA,"Ball, K","13243v11",1,11,2011,"Display: D-44/75-19","Yes",0,0,0,NA,NA,NA,NA
-"187838","187838","0099161MOR","Tilia tomentosa Moench",NA,NA,"Worcester, L","LW323",16,8,2018,"Central & Western Asia: CC-68/61-96","Yes",0,0,0,NA,NA,NA,NA
-"186947","186947","0097773MOR","Cercis canadensis 'Greswan'",NA,NA,"Dorrell, J","16201v19",13,6,2019,"Godshalk Meadow: N-32/72-32","Yes",0,0,0,NA,NA,NA,NA
-"196267","196267",NA,"Cercis canadensis 'Greswan'",NA,NA,"Potenberg, K","18907v25",31,7,2025,"Ornamental Flowering Trees: U-32/69-16","Yes",0,0,0,NA,NA,NA,NA
-"186972","186972","0098115MOR","Cercis canadensis 'Hearts of Gold'",NA,NA,"Dorrell, J","16200v19",13,6,2019,"Godshalk Meadow: N-32/65-11","Yes",0,0,0,NA,NA,NA,NA
-"189559","189559","0100972MOR","Cercis canadensis 'UMN7101'",NA,NA,"Dorrell, J","17352v22",18,8,2022,"Godshalk Meadow: N-32/81-15","Yes",0,0,0,NA,NA,NA,NA
-"35454","35454","0043150MOR","Cercis canadensis f. alba Rehder",NA,NA,"Grintz, M","s.n.",28,11,1977,"S side of Meadow Lake, N-50/20-45","Yes",0,0,0,NA,NA,NA,NA
-"13914","13914","0043095MOR","Cercis canadensis L.",NA,"NorAm","Braham, R","s.n.",3,7,1971,"M-62/45-70","Yes",0,0,0,NA,NA,NA,NA
-"13916","13916","0043093MOR","Cercis canadensis L.",NA,NA,"Kammerer, E","s.n.",8,10,1937,"Sargents' Glade","Yes",0,0,0,NA,NA,NA,NA
-"98146","98146","0043080MOR","Cercis canadensis L.",NA,NA,"Swink, FA","s.n.",30,8,1991,"Arbordale","Yes",0,0,0,NA,NA,NA,NA
-"185097","185097","0098916MOR","Cercis canadensis L.",NA,NA,"Beck, J","15694v17",28,9,2017,"Thornhill Building: JJ-27/58-73","Yes",0,0,0,NA,NA,NA,NA
-"142720","142720","0043154MOR","Cercis canadensis var. texensis (S.Watson) M.Hopkins","F",NA,"Kirt, S","8537V98",15,6,1998,"Hatch Meadow, East side; CC-43/73-05","Yes",0,0,0,NA,NA,NA,NA
-"13954","13954","0043166MOR","Cercis chinensis Bunge",NA,NA,"Teuscher, H","s.n.",16,4,1923,NA,"Yes",0,0,0,"seedlings",NA,NA,NA
-"13960","13960","0043174MOR","Cercis siliquastrum L.",NA,NA,"Braham, R","s.n.",8,7,1971,"Between greenhouses","Yes",0,0,0,NA,NA,NA,NA
-"2","2",NA,"Acer",NA,NA,"Morrison, K","54",5,7,2019,"Acer: U-98/58-91","Yes",0,0,0,NA,NA,NA,NA
-"146660","146660","0055067MOR","Acer",NA,NA,"Wiegrefe, S","500",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146661","146661","0055066MOR","Acer",NA,NA,"Wiegrefe, S","501",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146662","146662","0055065MOR","Acer",NA,NA,"Wiegrefe, S","502",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146663","146663","0055057MOR","Acer",NA,NA,"Wiegrefe, S","503",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146664","146664","0055058MOR","Acer",NA,NA,"Wiegrefe, S","504",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146665","146665","0055059MOR","Acer",NA,NA,"Wiegrefe, S","s.n.",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146666","146666","0055060MOR","Acer",NA,NA,"Wiegrefe, S","506",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146667","146667","0055061MOR","Acer",NA,NA,"Wiegrefe, S","507",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146668","146668","0055062MOR","Acer",NA,NA,"Wiegrefe, S","508",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146669","146669","0055063MOR","Acer",NA,NA,"Wiegrefe, S","509",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146670","146670","0055064MOR","Acer",NA,NA,"Wiegrefe, S","510",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146671","146671","0055854MOR","Acer",NA,NA,"Wiegrefe, S","511",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146672","146672","0055056MOR","Acer",NA,NA,"Wiegrefe, S","512",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146673","146673","0055353MOR","Acer",NA,NA,"Wiegrefe, S","513",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146674","146674","0055112MOR","Acer",NA,NA,"Wiegrefe, S","514",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146675","146675","0055113MOR","Acer",NA,NA,"Wiegrefe, S","515",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146676","146676","0055114MOR","Acer",NA,NA,"Wiegrefe, S","516",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146677","146677","0055115MOR","Acer",NA,NA,"Wiegrefe, S","517",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146678","146678","0055116MOR","Acer",NA,NA,"Wiegrefe, S","146678",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146679","146679","0055117MOR","Acer",NA,NA,"Wiegrefe, S","519",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146680","146680","0055118MOR","Acer",NA,NA,"Wiegrefe, S","520",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146681","146681","0055119MOR","Acer",NA,NA,"Wiegrefe, S","521",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146682","146682","0055120MOR","Acer",NA,NA,"Wiegrefe, S","522",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146683","146683","0055055MOR","Acer",NA,NA,"Wiegrefe, S","523",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146684","146684","0055111MOR","Acer",NA,NA,"Wiegrefe, S","524",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146685","146685","0055053MOR","Acer",NA,NA,"Wiegrefe, S","525",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146686","146686","0055054MOR","Acer",NA,NA,"Wiegrefe, S","526",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146687","146687","0055110MOR","Acer",NA,NA,"Wiegrefe, S","527",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146688","146688","0055080MOR","Acer",NA,NA,"Wiegrefe, S","528",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146689","146689","0055081MOR","Acer",NA,NA,"Wiegrefe, S","529",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146690","146690","0055106MOR","Acer",NA,NA,"Wiegrefe, S","530",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146691","146691","0055107MOR","Acer",NA,NA,"Wiegrefe, S","531",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146692","146692","0055108MOR","Acer",NA,NA,"Wiegrefe, S","532",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146693","146693","0055109MOR","Acer",NA,NA,"Wiegrefe, S","533",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146694","146694","0055302MOR","Acer",NA,NA,"Wiegrefe, S","534",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146695","146695","0055350MOR","Acer",NA,NA,"Wiegrefe, S","535",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146696","146696","0055351MOR","Acer",NA,NA,"Wiegrefe, S","536",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146697","146697","0055352MOR","Acer",NA,NA,"Wiegrefe, S","537",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146698","146698","0055079MOR","Acer",NA,NA,"Wiegrefe, S","538",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146699","146699","0055068MOR","Acer",NA,NA,"Wiegrefe, S","539",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146700","146700","0055069MOR","Acer",NA,NA,"Wiegrefe, S","540",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146701","146701","0055070MOR","Acer",NA,NA,"Wiegrefe, S","541",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146702","146702","0055071MOR","Acer",NA,NA,"Wiegrefe, S","542",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146704","146704","0055073MOR","Acer",NA,NA,"Wiegrefe, S","544",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146705","146705","0055074MOR","Acer",NA,NA,"Wiegrefe, S","545",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146706","146706","0055075MOR","Acer",NA,NA,"Wiegrefe, S","546",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146707","146707","0055076MOR","Acer",NA,NA,"Wiegrefe, S","547",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146708","146708","0055077MOR","Acer",NA,NA,"Wiegrefe, S","548",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146709","146709","0055078MOR","Acer",NA,NA,"Wiegrefe, S","549",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146724","146724","0055355MOR","Acer",NA,NA,"Wiegrefe, S","SJW 95X27-6",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146725","146725","0055356MOR","Acer",NA,NA,"Wiegrefe, S","565",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146726","146726","0055357MOR","Acer",NA,NA,"Wiegrefe, S","566",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146727","146727","0055358MOR","Acer",NA,NA,"Wiegrefe, S","567",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146728","146728","0055359MOR","Acer",NA,NA,"Wiegrefe, S","568",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146729","146729","0055360MOR","Acer",NA,NA,"Wiegrefe, S","569",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146730","146730","0055361MOR","Acer",NA,NA,"Wiegrefe, S","570",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146731","146731","0055362MOR","Acer",NA,NA,"Wiegrefe, S","571",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146732","146732","0055363MOR","Acer",NA,NA,"Wiegrefe, S","572",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146733","146733","0055364MOR","Acer",NA,NA,"Wiegrefe, S","573",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146734","146734","0055365MOR","Acer",NA,NA,"Wiegrefe, S","574",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146735","146735","0055367MOR","Acer",NA,NA,"Wiegrefe, S","576",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146736","146736","0055366MOR","Acer",NA,NA,"Wiegrefe, S","575",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146737","146737","0055368MOR","Acer",NA,NA,"Wiegrefe, S","577",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146738","146738","0055369MOR","Acer",NA,NA,"Wiegrefe, S","578",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146739","146739","0055370MOR","Acer",NA,NA,"Wiegrefe, S","579",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146740","146740","0055371MOR","Acer",NA,NA,"Wiegrefe, S","580",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146741","146741","0055372MOR","Acer",NA,NA,"Wiegrefe, S","581",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146742","146742","0055444MOR","Acer",NA,NA,"Wiegrefe, S","582",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146744","146744","0055446MOR","Acer",NA,NA,"Wiegrefe, S","584",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146745","146745","0055447MOR","Acer",NA,NA,"Wiegrefe, S","585",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146746","146746","0055448MOR","Acer",NA,NA,"Wiegrefe, S","586",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146747","146747","0055449MOR","Acer",NA,NA,"Wiegrefe, S","587",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146748","146748","0055450MOR","Acer",NA,NA,"Wiegrefe, S","588",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146749","146749","0055451MOR","Acer",NA,NA,"Wiegrefe, S","589",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146750","146750","0055452MOR","Acer",NA,NA,"Wiegrefe, S","590",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146751","146751","0055453MOR","Acer",NA,NA,"Wiegrefe, S","591",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146752","146752","0055454MOR","Acer",NA,NA,"Wiegrefe, S","592",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146753","146753","0055455MOR","Acer",NA,NA,"Wiegrefe, S","593",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146754","146754","0055456MOR","Acer",NA,NA,"Wiegrefe, S","594",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146755","146755","0055457MOR","Acer",NA,NA,"Wiegrefe, S","595",19,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146756","146756","0055458MOR","Acer",NA,NA,"Wiegrefe, S","596",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146757","146757","0055459MOR","Acer",NA,NA,"Wiegrefe, S","597",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146758","146758","0055460MOR","Acer",NA,NA,"Wiegrefe, S","598",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146759","146759","0055461MOR","Acer",NA,NA,"Wiegrefe, S","599",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146760","146760","0052294MOR","Acer",NA,NA,"Wiegrefe, S","600",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146765","146765","0054721MOR","Acer",NA,NA,"Wiegrefe, S","605",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146766","146766","0054495MOR","Acer",NA,NA,"Wiegrefe, S","606",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146767","146767","0054504MOR","Acer",NA,NA,"Wiegrefe, S","607",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146768","146768","0054505MOR","Acer",NA,NA,NA,"608",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146769","146769","0054506MOR","Acer",NA,NA,NA,"609",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146770","146770","0054507MOR","Acer",NA,NA,NA,"610",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146771","146771","0054508MOR","Acer",NA,NA,"Wiegrefe, S","611",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146772","146772","0054509MOR","Acer",NA,NA,NA,"612",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146773","146773","0054510MOR","Acer",NA,NA,"Wiegrefe, S","613",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146774","146774","0054624MOR","Acer",NA,NA,"Wiegrefe, S","614",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146776","146776","0054626MOR","Acer",NA,NA,"Wiegrefe, S","617",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146777","146777","0054627MOR","Acer",NA,NA,"Wiegrefe, S","618",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146778","146778","0054628MOR","Acer",NA,NA,"Wiegrefe, S","620",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146779","146779","0054629MOR","Acer",NA,NA,"Wiegrefe, S","621",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146780","146780","0054630MOR","Acer",NA,NA,"Wiegrefe, S","622",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146781","146781","0054631MOR","Acer",NA,NA,"Wiegrefe, S","623",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146782","146782","0054632MOR","Acer",NA,NA,"Wiegrefe, S","624",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146783","146783","0054633MOR","Acer",NA,NA,"Wiegrefe, S","625",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146784","146784","0054634MOR","Acer",NA,NA,"Wiegrefe, S","626",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146785","146785","0054635MOR","Acer",NA,NA,"Wiegrefe, S","627",29,6,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146789","146789","0054639MOR","Acer",NA,NA,"Wiegrefe, S","632",23,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146790","146790","0054640MOR","Acer",NA,NA,"Wiegrefe, S","633",23,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146791","146791","0054727MOR","Acer",NA,NA,"Wiegrefe, S","634",23,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146792","146792","0054728MOR","Acer",NA,NA,"Wiegrefe, S","635",23,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146793","146793","0054729MOR","Acer",NA,NA,"Wiegrefe, S","636",23,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146794","146794","0054730MOR","Acer",NA,NA,"Wiegrefe, S","637",23,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146795","146795","0054731MOR","Acer",NA,NA,"Wiegrefe, S","638",23,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146796","146796","0054732MOR","Acer",NA,NA,"Wiegrefe, S","639",23,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146797","146797","0054733MOR","Acer",NA,NA,"Wiegrefe, S","640",23,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146798","146798","0054734MOR","Acer",NA,NA,"Wiegrefe, S","641",23,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146803","146803","0054739MOR","Acer",NA,NA,"Wiegrefe, S","646",23,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146804","146804","0054740MOR","Acer",NA,NA,"Wiegrefe, S","647",23,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146805","146805","0054741MOR","Acer",NA,NA,"Wiegrefe, S","648",23,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146806","146806","0054742MOR","Acer",NA,NA,"Wiegrefe, S","649",23,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146920","146920","0053538MOR","Acer",NA,NA,"Wiegrefe, S","703",12,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146921","146921","0053539MOR","Acer",NA,NA,"Wiegrefe, S","704",12,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146922","146922","0053540MOR","Acer",NA,NA,"Wiegrefe, S","705",12,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146923","146923","0053541MOR","Acer",NA,NA,"Wiegrefe, S","707",12,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146924","146924","0053542MOR","Acer",NA,NA,"Wiegrefe, S","709",12,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146925","146925","0053543MOR","Acer",NA,NA,"Wiegrefe, S","710",12,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146926","146926","0053544MOR","Acer",NA,NA,"Wiegrefe, S","711",12,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146929","146929","0053547MOR","Acer",NA,NA,"Wiegrefe, S","714",12,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146930","146930","0053548MOR","Acer",NA,NA,"Wiegrefe, S","715",12,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146931","146931","0053549MOR","Acer",NA,NA,"Wiegrefe, S","716",12,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146932","146932","0053550MOR","Acer",NA,NA,"Wiegrefe, S","717",12,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146933","146933","0053551MOR","Acer",NA,NA,"Wiegrefe, S","718",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146934","146934","0053552MOR","Acer",NA,NA,"Wiegrefe, S","719",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146935","146935","0053553MOR","Acer",NA,NA,"Wiegrefe, S","720",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146936","146936","0053554MOR","Acer",NA,NA,"Wiegrefe, S","721",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146937","146937","0053555MOR","Acer",NA,NA,"Wiegrefe, S","722",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146938","146938","0053556MOR","Acer",NA,NA,"Wiegrefe, S","723",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146939","146939","0053557MOR","Acer",NA,NA,"Wiegrefe, S","724",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146940","146940","0053558MOR","Acer",NA,NA,"Wiegrefe, S","725",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146941","146941","0053559MOR","Acer",NA,NA,"Wiegrefe, S","726",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146942","146942","0053560MOR","Acer",NA,NA,"Wiegrefe, S","727",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146943","146943","0053561MOR","Acer",NA,NA,"Wiegrefe, S","728",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146944","146944","0053562MOR","Acer",NA,NA,"Wiegrefe, S","729",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146945","146945","0053563MOR","Acer",NA,NA,"Wiegrefe, S","731",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146946","146946","0053564MOR","Acer",NA,NA,"Wiegrefe, S","732",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146947","146947","0054874MOR","Acer",NA,NA,"Wiegrefe, S","735",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146948","146948","0054875MOR","Acer",NA,NA,"Wiegrefe, S","736",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146949","146949","0054876MOR","Acer",NA,NA,"Wiegrefe, S","737",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146950","146950","0054877MOR","Acer",NA,NA,"Wiegrefe, S","738",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146951","146951","0054878MOR","Acer",NA,NA,"Wiegrefe, S","739",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146952","146952","0054879MOR","Acer",NA,NA,"Wiegrefe, S","740",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146953","146953","0054880MOR","Acer",NA,NA,"Wiegrefe, S","741",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146954","146954","0054881MOR","Acer",NA,NA,"Wiegrefe, S","742",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146955","146955","0054882MOR","Acer",NA,NA,"Wiegrefe, S","743",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146956","146956","0054883MOR","Acer",NA,NA,"Wiegrefe, S","744",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146957","146957","0054884MOR","Acer",NA,NA,"Wiegrefe, S","745",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146958","146958","0054885MOR","Acer",NA,NA,"Wiegrefe, S","746",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146959","146959","0054886MOR","Acer",NA,NA,"Wiegrefe, S","747",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146960","146960","0054887MOR","Acer",NA,NA,"Wiegrefe, S","748",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146961","146961","0054888MOR","Acer",NA,NA,"Wiegrefe, S","749",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146962","146962","0054889MOR","Acer",NA,NA,"Wiegrefe, S","750",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146963","146963","0054890MOR","Acer",NA,NA,"Wiegrefe, S","751",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146965","146965","0054892MOR","Acer",NA,NA,"Wiegrefe, S","753",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146966","146966","0054893MOR","Acer",NA,NA,"Wiegrefe, S","754",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146971","146971","0054747MOR","Acer",NA,NA,"Wiegrefe, S","654",30,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146972","146972","0054748MOR","Acer",NA,NA,"Wiegrefe, S","655",30,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146973","146973","0054749MOR","Acer",NA,NA,"Wiegrefe, S","656",30,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146974","146974","0054815MOR","Acer",NA,NA,"Wiegrefe, S","657",30,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146975","146975","0054816MOR","Acer",NA,NA,"Wiegrefe, S","658",30,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146976","146976","0054817MOR","Acer",NA,NA,"Wiegrefe, S","659",30,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146978","146978","0054819MOR","Acer",NA,NA,"Wiegrefe, S","661",30,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146979","146979","0054820MOR","Acer",NA,NA,"Wiegrefe, S","662",30,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146980","146980","0054821MOR","Acer",NA,NA,"Wiegrefe, S","663",30,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146981","146981","0054822MOR","Acer",NA,NA,"Wiegrefe, S","664",30,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146982","146982","0054823MOR","Acer",NA,NA,"Wiegrefe, S","665",30,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146984","146984","0054825MOR","Acer",NA,NA,"Wiegrefe, S","667",30,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146985","146985","0054826MOR","Acer",NA,NA,"Wiegrefe, S","668",30,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146986","146986","0054827MOR","Acer",NA,NA,"Wiegrefe, S","669",30,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146987","146987","0054828MOR","Acer",NA,NA,"Wiegrefe, S","670",30,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146988","146988","0054829MOR","Acer",NA,NA,"Wiegrefe, S","675",30,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146989","146989","0054830MOR","Acer",NA,NA,"Wiegrefe, S","676",30,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146990","146990","0054831MOR","Acer",NA,NA,"Wiegrefe, S","677",30,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146991","146991","0054832MOR","Acer",NA,NA,"Wiegrefe, S","678",30,7,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146992","146992","0054833MOR","Acer",NA,NA,"Wiegrefe, S","683",10,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146993","146993","0054834MOR","Acer",NA,NA,"Wiegrefe, S","684",10,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146994","146994","0054835MOR","Acer",NA,NA,"Wiegrefe, S","685",10,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146995","146995","0054836MOR","Acer",NA,NA,"Wiegrefe, S","686",10,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146996","146996","0054837MOR","Acer",NA,NA,"Wiegrefe, S","687",10,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146997","146997","0054864MOR","Acer",NA,NA,"Wiegrefe, S","688",10,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146998","146998","0054865MOR","Acer",NA,NA,"Wiegrefe, S","689",10,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"146999","146999","0054866MOR","Acer",NA,NA,"Wiegrefe, S","690",10,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147000","147000","0054867MOR","Acer",NA,NA,"Wiegrefe, S","691",10,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147132","147132","0055019MOR","Acer",NA,NA,"Wiegrefe, S","864 (1 of 3)",26,6,1997,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147133","147133","0055020MOR","Acer",NA,NA,"Wiegrefe, S","865 (2 of 3)",26,6,1997,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147134","147134","0055021MOR","Acer",NA,NA,"Wiegrefe, S","866 (3 of 3)",26,6,1997,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147135","147135","0055022MOR","Acer",NA,NA,"Wiegrefe, S","867 (2 of 3)",26,6,1997,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147146","147146","0055018MOR","Acer",NA,NA,"Wiegrefe, S","863 (2 of 3)",26,6,1997,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147263","147263","0054895MOR","Acer",NA,NA,"Wiegrefe, S","756",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147265","147265","0054909MOR","Acer",NA,NA,"Wiegrefe, S","770",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147266","147266","0054904MOR","Acer",NA,NA,"Wiegrefe, S","759",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147267","147267","0054897MOR","Acer",NA,NA,"Wiegrefe, S","758",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147268","147268","0054896MOR","Acer",NA,NA,"Wiegrefe, S","757",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147269","147269","0054903MOR","Acer",NA,NA,"Wiegrefe, S","769",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147272","147272","0054872MOR","Acer",NA,NA,"Wiegrefe, S","696",12,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147273","147273","0054873MOR","Acer",NA,NA,"Wiegrefe, S","697",12,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147274","147274","0054871MOR","Acer",NA,NA,"Wiegrefe, S","695",12,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147275","147275","0054870MOR","Acer",NA,NA,"Wiegrefe, S","694",12,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147276","147276","0054869MOR","Acer",NA,NA,"Wiegrefe, S","693",12,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147277","147277","0054868MOR","Acer",NA,NA,"Wiegrefe, S","692",12,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147281","147281","0054925MOR","Acer",NA,NA,"Wiegrefe, S","790",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147282","147282","0054926MOR","Acer",NA,NA,"Wiegrefe, S","791",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147283","147283","0054927MOR","Acer",NA,NA,"Wiegrefe, S","792",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147286","147286","0054911MOR","Acer",NA,NA,"Wiegrefe, S","772",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147287","147287","0054910MOR","Acer",NA,NA,"Wiegrefe, S","771",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147489","147489","0054899MOR","Acer",NA,NA,"Wiegrefe, S","765",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147490","147490","0054900MOR","Acer",NA,NA,"Wiegrefe, S","766",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147491","147491","0054901MOR","Acer",NA,NA,"Wiegrefe, S","767",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147492","147492","0054902MOR","Acer",NA,NA,"Wiegrefe, S","768",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147493","147493","0054905MOR","Acer",NA,NA,"Wiegrefe, S","760",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147494","147494","0054906MOR","Acer",NA,NA,"Wiegrefe, S","761",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147495","147495","0054907MOR","Acer",NA,NA,"Wiegrefe, S","762",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147496","147496","0054908MOR","Acer",NA,NA,"Wiegrefe, S","763",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"3","3",NA,"Acer 'Morton UW'",NA,NA,"Morrison, K","32",2,7,2019,"Acer: X-99/51-41","Yes",0,0,0,NA,NA,NA,NA
-"4","4",NA,"Acer 'Morton UW'",NA,NA,"Morrison, K","25",2,7,2019,"Acer: O-97/26-21","Yes",0,0,0,NA,NA,NA,NA
-"127906","127906","0039427MOR","Acer × freemanii 'Armstrong'",NA,NA,"Altvatter, K","7205V95",10,7,1995,"Pinaceae, J-98/40-25, Parking Lot 6 (Tree Evaluation Plot).","Yes",0,0,0,NA,NA,NA,NA
-"188113","188113","0099564MOR","Acer × freemanii 'Bailston'",NA,NA,"Beck, J","16262v19",11,7,2019,"Arbordale: F-34/63-69","Yes",0,0,0,NA,NA,NA,NA
-"188413","188413","0099931MOR","Acer × freemanii 'Bailston'",NA,NA,"Potenberg, K","16780v21",10,6,2021,"Thornhill PA: PP-25/32-79","Yes",0,0,0,NA,NA,NA,NA
-"188144","188144","0100201MOR","Acer × freemanii 'Jeffersred'",NA,NA,"Potenberg, K","16889v21",12,8,2021,"Children's Garden: Kids Tree Walk: K-49/23-36","Yes",0,0,0,NA,NA,NA,NA
-"188960","188960","0100404MOR","Acer × freemanii 'Jenner'",NA,NA,"Potenberg, K","17182v22",26,5,2022,"Acer: T-100/95-34","Yes",0,0,0,NA,NA,NA,NA
-"188983","188983","0099989MOR","Acer × freemanii 'Jenner'",NA,NA,"Potenberg, K","17181v22",26,5,2022,"Acer: T-100/97-75","Yes",0,0,0,NA,NA,NA,NA
-"56387","56387","0039430MOR","Acer × freemanii 'Marmo'",NA,NA,"Bachtell, KR","s.n.",7,7,1985,"W side of Lake Marmo near road and bridge, S-10.","Yes",0,0,0,NA,NA,NA,NA
-"100000","100000","0039431MOR","Acer × freemanii 'Marmo'",NA,NA,"Bachtell, KR","s.n.",26,9,1985,"S-10, W side of Lake Marmo near road & bridge.","Yes",0,0,0,NA,NA,NA,NA
-"116399","116399","0048550MOR","Acer × freemanii 'Marmo'",NA,NA,"Sherman, L","9990V04",4,8,2004,"Near Lake Marmo, west side; S-9/area","Yes",0,0,0,NA,NA,NA,NA
-"143673","143673","0039429MOR","Acer × freemanii 'Marmo'",NA,NA,"Bolger, K","8844V99",3,6,1999,"AZ-38/Area, Service Area, parking lot, west side.","Yes",0,0,0,NA,NA,NA,NA
-"186630","186630","0098775MOR","Acer × freemanii 'Marmo'",NA,NA,"Beck, J","15845v18",28,6,2018,"Childrens Garden: J-48/89-74","Yes",0,0,0,NA,NA,NA,NA
-"188980","188980","0099992MOR","Acer × freemanii 'Marmo'",NA,NA,"Potenberg, K","16948v21",21,10,2021,"Visitor Center Parking: South Center: R-46/00-99","Yes",0,0,0,NA,NA,NA,NA
-"192442","192442","0103636MOR","Acer × freemanii 'Marmo'",NA,NA,"Kubic, C","18412v24",5,6,2024,"Children's Garden: south fence line: J-48/89-74","Yes",0,0,0,NA,NA,NA,NA
-"193046","193046","0105923MOR","Acer × freemanii 'Marmo'",NA,NA,"Potenberg, K","18554v24",22,8,2024,"Firefly Pond: D-43/88-56","Yes",0,0,0,NA,NA,NA,NA
-"127219","127219","0039424MOR","Acer × freemanii A.E.Murray",NA,NA,"Hess, WJ","7049V95",31,5,1995,"S-99/30-55 Maple Collection.","Yes",0,0,0,NA,NA,NA,NA
-"187894","187894","0099241MOR","Acer × zoeschense 'Annae'",NA,NA,"Worcester, L","LW430",28,9,2018,"Acer: V-104/46-21","Yes",0,0,0,NA,NA,NA,NA
-"187434","187434","0098319MOR","Acer saccharum subsp. Floridanum (Chapm.)",NA,NA,"Worcester, L","LW258",31,7,2018,"Ridge Road: X-61/44-34","Yes",0,0,0,NA,NA,NA,NA
-"5","5",NA,"Acer barbinerve Maxim. ex Miq.",NA,NA,"Morrison, K","46",5,7,2019,"Acer: W-99/43-98","Yes",0,0,0,NA,NA,NA,NA
-"6","6",NA,"Acer barbinerve Maxim. ex Miq.",NA,NA,"Morrison, K","47",5,7,2019,"Acer: W-99/66-79","Yes",0,0,0,NA,NA,NA,NA
-"7","7",NA,"Acer barbinerve Maxim. ex Miq.",NA,NA,"Morrison, K","45",5,7,2019,"Acer: W-100/55-20","Yes",0,0,0,NA,NA,NA,NA
-"135416","135416","0039292MOR","Acer barbinerve Maxim. ex Miq.",NA,NA,"Wiegrefe, S","328",21,5,1997,"X-61/64-79 Acer Collection.","Yes",0,0,0,NA,NA,NA,NA
-"187875","187875","0099259MOR","Acer barbinerve Maxim. ex Miq.",NA,NA,"Worcester, L","LW315",14,8,2018,"China: X-65/79-92","Yes",0,0,0,NA,NA,NA,NA
-"20","20","0039297MOR","Acer buergerianum Miq.",NA,NA,"Swink, FA","s.n.",4,8,1964,"AA-59/05-l0 Japan Collection.","Yes",0,0,0,NA,NA,NA,NA
-"187898","187898","0099232MOR","Acer caesium subsp. giraldii (Pax) A.E.Murray",NA,NA,"Worcester, L","LW344",28,8,2018,"Acer: V-100/31-46","Yes",0,0,0,NA,NA,NA,NA
-"162071","162071","0053201MOR","Acer campestre 'Baillee'",NA,NA,"Bonnewell, V",NA,14,5,2007,"Tree Breeding Nursery, EN1/G02","Yes",0,0,0,NA,NA,NA,NA
-"163585","163585","0053202MOR","Acer campestre 'Baillee'",NA,NA,"Bonnewell, V","s.n.",14,5,2007,"Tree Breeding Nursery, EN1/G01","Yes",0,0,0,NA,NA,NA,NA
-"48.1","48","0039377MOR","Acer campestre 'Compactum'",NA,NA,"Read, RW","s.n.",12,10,1971,"E-47/75-05 Dwarf Shrub Collection.","Yes",0,0,0,NA,NA,NA,NA
-"8","8",NA,"Acer campestre 'Postelense'",NA,NA,"Morrison, K","61",5,7,2019,"Acer: U-100/89-34","Yes",0,0,0,NA,NA,NA,NA
-"25","25","0039311MOR","Acer campestre L.",NA,NA,"Hawkinson, L","s.n.",9,10,1940,NA,"Yes",0,0,0,NA,NA,NA,NA
-"27","27","0039406MOR","Acer campestre L.",NA,NA,"Kammerer, E","183-27",6,8,1936,"Sargent's Glade.","Yes",0,0,0,NA,NA,NA,NA
-"104060","104060","0039305MOR","Acer campestre L.",NA,NA,"Hess, WJ","5041V92",13,5,1992,"T-100/55-95","Yes",0,0,0,NA,NA,NA,NA
-"104061","104061","0039304MOR","Acer campestre L.",NA,NA,"Hess, WJ","5042V92",13,5,1992,"T-100/60-20 Maple Collection.","Yes",0,0,0,NA,NA,NA,NA
-"127781","127781","0039302MOR","Acer campestre L.",NA,NA,"Altvatter, K","7188V95",23,6,1995,"Z-33/29-31 in the Central Europe Collection.","Yes",0,0,0,NA,NA,NA,NA
-"51","51","0039386MOR","Acer campestre subsp. leiocarpum (Wallr.) Pax",NA,NA,"Lesica, P","s.n.",24,7,1972,"Acer Collection, T-100/30-00","Yes",0,0,0,NA,NA,NA,NA
-"47","47","0039366MOR","Acer campestre var. austriacum (Tratt.) DC.",NA,NA,"Hawkinson, L","s.n.",19,10,1940,"Acer Collection, T-101/Area.","Yes",0,0,0,NA,NA,NA,NA
-"146919","146919","0053537MOR","Acer campestre var. austriacum (Tratt.) DC.",NA,NA,"Wiegrefe, S","702",10,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"147262","147262","0053565MOR","Acer campestre var. austriacum (Tratt.) DC.",NA,NA,"Wiegrefe, S","734",14,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"162009","162009","0053110MOR","Acer campestre var. austriacum (Tratt.) DC.",NA,NA,"Bonnewell, V",NA,14,5,2007,"Tree Breeding Nursery, EN1/H01","Yes",0,0,0,NA,NA,NA,NA
-"163715","163715","0053203MOR","Acer campestre var. austriacum (Tratt.) DC.",NA,NA,"Bonnewell, V",NA,14,5,2007,"Tree Breeding Nursery, EN1/H14","Yes",0,0,0,NA,NA,NA,NA
-"161913","161913","0053200MOR","Acer campestre var. austriacum × platanoides 'Almira'",NA,NA,"Bonnewell, V",NA,14,5,2007,"Tree Breeding Nursery, EN1/A08","Yes",0,0,0,NA,NA,NA,NA
-"163609","163609","0053199MOR","Acer campestre var. austriacum × platanoides 'Almira'",NA,NA,"Bonnewell, V",NA,14,5,2007,"Tree Breeding Nursery, EN1/A07.0","Yes",0,0,0,NA,NA,NA,NA
-"161912","161912","0053232MOR","Acer campestre var. austriacum × platanoides 'Undulatum'",NA,NA,"Bonnewell, V",NA,14,5,2007,"Tree Breeding Nursery, EN1/B19","Yes",0,0,0,NA,NA,NA,NA
-"162078","162078","0053231MOR","Acer campestre var. austriacum × platanoides 'Undulatum'",NA,NA,"Bonnewell, V",NA,14,5,2007,"Tree Breeding Nursery, EN1/A09","Yes",0,0,0,NA,NA,NA,NA
-"187879","187879","0099240MOR","Acer campestre x miyabei",NA,NA,"Worcester, L","LW427",27,9,2018,"Meadow Lake: L-54/10-32","Yes",0,0,0,NA,NA,NA,NA
-"55","55","0039396MOR","Acer capillipes Maxim.",NA,NA,"Teuscher, H","s.n.",21,3,1923,NA,"Yes",0,0,0,"Saplings",NA,NA,NA
-"80689","80689","0039385MOR","Acer cappadocicum 'Aureum'",NA,NA,"Hess, WJ","2196V88",24,8,1988,"Acer Collection, V-99/85-40","Yes",0,0,0,NA,NA,NA,NA
-"9","9",NA,"Acer cappadocicum Gled.",NA,NA,"Morrison, K","60",5,7,2019,"Acer: U-100/44-14","Yes",0,0,0,NA,NA,NA,NA
-"11","11",NA,"Acer cappadocicum Gled.",NA,NA,"Morrison, K","53",5,7,2019,"Acer: U-98/52-73","Yes",0,0,0,NA,NA,NA,NA
-"52","52",NA,"Acer cappadocicum Gled.",NA,NA,"Morrison, K","52",5,7,2019,"Acer: V-98/53-20","Yes",0,0,0,NA,NA,NA,NA
-"187866","187866","0099246MOR","Acer cappadocicum Gled.",NA,NA,"Worcester, L","LW255",19,7,2018,"Acer: P-101/54-73","Yes",0,0,0,NA,NA,NA,NA
-"63","63","0039394MOR","Acer carpinifolium Siebold & Zucc.",NA,NA,"Read, RW","731",4,8,1970,"In bed between greenhouses.","Yes",0,0,0,NA,NA,NA,NA
-"189602","189602","0100858MOR","Acer carpinifolium Siebold & Zucc.",NA,NA,"Potenberg, K","17178v22",26,5,2022,"Acer: T-100/54-83","Yes",0,0,0,NA,NA,NA,NA
-"187890","187890","0099220MOR","Acer caudatum subsp. multiserratum A.E.Murray",NA,NA,"Worcester, L","LW329",17,8,2018,"China: Z-70/90-61","Yes",0,0,0,NA,NA,NA,NA
-"187891","187891","0099219MOR","Acer caudatum subsp. multiserratum A.E.Murray",NA,NA,"Worcester, L","LW328",17,8,2018,"China: Z-70/75-51","Yes",0,0,0,NA,NA,NA,NA
-"187245","187245","0098343MOR","Acer ceriferum Rehder",NA,NA,"Worcester, L","LW365",13,9,2018,"Propagation: H-30/Field Nursery, Block B, Row 25, East Side","Yes",0,0,0,NA,NA,NA,NA
-"189205","189205","0100550MOR","Acer ceriferum Rehder",NA,NA,"Potenberg, K","16941v21",30,9,2021,"Acer: R-99/02-84","Yes",0,0,0,NA,NA,NA,NA
-"69","69","0039398MOR","Acer circinatum Pursh",NA,NA,"Schulenberg, RF","s.n.",15,10,1976,"F-59/1-9","Yes",0,0,0,NA,NA,NA,NA
-"80","80","0039410MOR","Acer cissifolium (Siebold & Zucc.) K.Koch",NA,NA,"Ciolac, C","s.n.",10,5,1973,"G-59/50-30, Frost Hill.","Yes",0,0,0,NA,NA,NA,NA
-"81","81","0039412MOR","Acer cissifolium (Siebold & Zucc.) K.Koch",NA,NA,"Swink, FA","s.n.",10,8,1964,"Acer Collection, R-98/3-7.","Yes",0,0,0,NA,NA,NA,NA
-"135207","135207","0039409MOR","Acer cissifolium (Siebold & Zucc.) K.Koch",NA,NA,"Wiegrefe, S","284",14,5,1993,"Acer Collection, W-62/08-97","Yes",0,0,0,NA,NA,NA,NA
-"187158","187158","0098302MOR","Acer cissifolium (Siebold & Zucc.) K.Koch",NA,NA,"Worcester, L","LW271",1,8,2018,"Japan: AA-58/12-74","Yes",0,0,0,NA,NA,NA,NA
-"187345","187345","0098463MOR","Acer cissifolium (Siebold & Zucc.) K.Koch",NA,NA,"Carle, M","16446v19",28,8,2019,"Japan: AA-58/12-74","Yes",0,0,0,NA,NA,NA,NA
-"187722","187722","0099235MOR","Acer davidii × davidii subsp. grosseri",NA,NA,"Worcester, L","LW413",26,9,2018,"Propagation: H-30 area, Hoop House 4","Yes",0,0,0,NA,NA,NA,NA
-"12","12",NA,"Acer davidii Franch.",NA,NA,"Morrison, K","42",3,7,2019,"Acer: R-98/38-69","Yes",0,0,0,NA,NA,NA,NA
-"13","13",NA,"Acer davidii Franch.",NA,NA,"Morrison, K","43",3,7,2019,"Acer: R-98/60-78","Yes",0,0,0,NA,NA,NA,NA
-"14","14",NA,"Acer davidii Franch.",NA,NA,"Morrison, K","63",5,7,2019,"Acer: S-98/75-72","Yes",0,0,0,NA,NA,NA,NA
-"15","15",NA,"Acer davidii Franch.",NA,NA,"Morrison, K","62",5,7,2019,"Acer: T-98/00-89","Yes",0,0,0,NA,NA,NA,NA
-"187159","187159","0098303MOR","Acer davidii Franch.",NA,NA,"Worcester, L","LW272",1,8,2018,"China: X-65/16-21","Yes",0,0,0,NA,NA,NA,NA
-"188370","188370","0099745MOR","Acer davidii Franch.",NA,NA,"Potenberg, K","16904v21",19,8,2021,"Acer: R-98/38-69","Yes",0,0,0,NA,NA,NA,NA
-"190160","190160","0101835MOR","Acer davidii Franch.",NA,NA,"Potenberg, K","17460v22",20,10,2022,"China: central section: AA-65/08-97","Yes",0,0,0,NA,NA,NA,NA
-"16","16",NA,"Acer davidii subsp. grosseri (Pax) P.C.de Jong",NA,NA,"Morrison, K","36",3,7,2019,"Acer: R-99/85-63","Yes",0,0,0,NA,NA,NA,NA
-"91518","91518","0039462MOR","Acer davidii subsp. grosseri (Pax) P.C.de Jong",NA,NA,"Klock, K","3323V90",15,5,1990,"China Collection, Z-66/97-19","Yes",0,0,0,NA,NA,NA,NA
-"189643","189643","0100745MOR","Acer davidii subsp. grosseri (Pax) P.C.de Jong",NA,NA,"Potenberg, K","17389v22",8,9,2022,"Acer: O-101/78-62","Yes",0,0,0,NA,NA,NA,NA
-"99","99","0039416MOR","Acer diabolicum Blume ex K.Koch",NA,NA,"Allen, L","s.n.",24,7,1973,"Frost Hill, F-63/25-90.","Yes",0,0,0,NA,NA,NA,NA
-"187873","187873","0099261MOR","Acer diabolicum Blume ex K.Koch",NA,NA,"Worcester, L","LW317",14,8,2018,"Japan: Z-60/78-27","Yes",0,0,0,NA,NA,NA,NA
-"187240","187240","0098338MOR","Acer erianthum Schwer.",NA,NA,"Worcester, L","LW366",13,9,2018,"Propagation: H-30/area (Hoop House 5)","Yes",0,0,0,NA,NA,NA,NA
-"187874","187874","0099260MOR","Acer forrestii Diels",NA,NA,"Worcester, L","LW316",14,8,2018,"China: V-62/37-75","Yes",0,0,0,NA,NA,NA,NA
-"162081","162081","0053211MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Bonnewell, V",NA,7,5,2007,"Tree Breeding Nursery, EN1A/J5","Yes",0,0,0,NA,NA,NA,NA
-"187596","187596","0098490MOR","Acer ginnala var. semenowii (Regel & Herd) Pax",NA,NA,"Worcester, L","LW285",4,8,2018,"Acer: V-100/69-50","Yes",0,0,0,NA,NA,NA,NA
-"141","141","0039458MOR","Acer glabrum Torr.",NA,NA,"Lesica, P","s.n.",24,7,1972,"Acer Collection, AA-106/Area","Yes",0,0,0,NA,NA,NA,NA
-"189611","189611","0100849MOR","Acer grandidentatum 'JFS-NuMex 3'",NA,NA,"Potenberg, K","17179v22",26,5,2022,"Acer: T-101/76-13","Yes",0,0,0,NA,NA,NA,NA
-"187725","187725","0099254MOR","Acer grandidentatum Nutt.",NA,NA,"Worcester, L","LW291",4,8,2018,"Acer: U-102/61-10","Yes",0,0,0,NA,NA,NA,NA
-"175","175","0039445MOR","Acer griseum (Franch.) Pax",NA,NA,"Swink, FA","s.n.",11,8,1964,"Acer Collection, U-101/90-40.","Yes",0,0,0,NA,NA,NA,NA
-"177520","177520","0061775MOR","Acer griseum (Franch.) Pax",NA,NA,"Lueders, K","KL2",30,10,2013,"Meadow Lake: N-51/50-40","Yes",0,0,0,NA,NA,NA,NA
-"177523","177523","0061778MOR","Acer griseum (Franch.) Pax",NA,NA,"Lueders, K","KL6",5,11,2013,"Acer: U-98/94-91","Yes",0,0,0,NA,NA,NA,NA
-"177723","177723","0061780MOR","Acer griseum (Franch.) Pax",NA,NA,"Lueders, K","KL1",30,10,2013,"Meadow Lake: M-51/90-60","Yes",0,0,0,NA,NA,NA,NA
-"187895","187895","0099238MOR","Acer griseum × nikoense",NA,NA,"Worcester, L","LW425",27,9,2018,"Hedge Garden: H-43/69-53","Yes",0,0,0,NA,NA,NA,NA
-"187878","187878","0099242MOR","Acer griseum × pseudoplatanus",NA,NA,"Worcester, L","LW431",28,9,2018,"Acer: X-99/22-67","Yes",0,0,0,NA,NA,NA,NA
-"187880","187880","0099239MOR","Acer griseum × triflorum",NA,NA,"Worcester, L","LW426",27,9,2018,"Hedge Garden: H-43/92-36","Yes",0,0,0,NA,NA,NA,NA
-"181","181","0039468MOR","Acer heldreichii Orph. ex Boiss.",NA,NA,"Kammerer, E","s.n.",6,8,1936,"S side of Oakwood Drive","Yes",0,0,0,NA,NA,NA,NA
-"127852","127852","0039467MOR","Acer heldreichii Orph. ex Boiss.",NA,NA,"Altvatter, K","7170V95",21,6,1995,"Balkans Collection, II-75/65-08","Yes",0,0,0,NA,NA,NA,NA
-"135427","135427","0039465MOR","Acer heldreichii Orph. ex Boiss.",NA,NA,"Wiegrefe, S","336",3,6,1997,"Balkan Collection, II-75/65-08","Yes",0,0,0,NA,NA,NA,NA
-"187600","187600","0098429MOR","Acer heldreichii Orph. ex Boiss.",NA,NA,"Worcester, L","LW290",4,8,2018,"Acer: Q-102/62-27","Yes",0,0,0,NA,NA,NA,NA
-"188378","188378","0099737MOR","Acer heldreichii Orph. ex Boiss.",NA,NA,"Dorrell, J","16927v21",26,8,2021,"Acer: Q-102/04-18","Yes",0,0,0,NA,NA,NA,NA
-"728","728","0039472MOR","Acer heldreichii subsp. trautvetteri (Medw.) A.E.Murray",NA,NA,"Read, RW","s.n.",14,10,1971,"Acer Collection, U-102/75-90","Yes",0,0,0,NA,NA,NA,NA
-"17","17",NA,"Acer henryi Pax",NA,NA,"Morrison, K","35",3,7,2019,"Acer: P-99/25-44","Yes",0,0,0,NA,NA,NA,NA
-"187885","187885","0099225MOR","Acer henryi Pax",NA,NA,"Worcester, L","LW336",23,8,2018,"Acer: P-99/19-25","Yes",0,0,0,NA,NA,NA,NA
-"188371","188371","0099744MOR","Acer henryi Pax",NA,NA,"Potenberg, K","16903v21",19,8,2021,"Acer: P-99/19-25","Yes",0,0,0,NA,NA,NA,NA
-"190159","190159","0101834MOR","Acer henryi Pax",NA,NA,"Potenberg, K","17459v22",20,10,2022,"China: central section: AA-66/24-46","Yes",0,0,0,NA,NA,NA,NA
-"191014","191014","0102916MOR","Acer henryi Pax",NA,NA,"Potenberg, K","18001v23",29,6,2023,"Acer: X-102/14-15","Yes",0,0,0,NA,NA,NA,NA
-"187724","187724","0099255MOR","Acer hyrcanum Fisch. & C.A.Mey.",NA,NA,"Worcester, L","LW294",4,8,2018,"Acer: W-102/44-46","Yes",0,0,0,NA,NA,NA,NA
-"190976","190976","0102638MOR","Acer hyrcanum Fisch. & C.A.Mey.",NA,NA,"Potenberg, K","18003v23",29,6,2023,"Acer: W-102/44-46","Yes",0,0,0,NA,NA,NA,NA
-"146650","146650","0053111MOR","Acer japonicum 'Aconitifolium' × japonicum 'Aconitifolium'",NA,NA,"Wiegrefe, S","490",18,6,1998,"Quonset hut","Yes",0,0,0,NA,NA,NA,NA
-"188","188","0043806MOR","Acer japonicum Thunb.",NA,NA,"Lesica, P","s.n.",24,7,1972,"Frost Hill E-60/90-15","Yes",0,0,0,NA,NA,NA,NA
-"112950","112950","0039469MOR","Acer japonicum Thunb.",NA,NA,"Bradtke, HL","5889V93",22,6,1993,"Frost Hill, G-61/35-20","Yes",0,0,0,NA,NA,NA,NA
-"140435","140435","0039476MOR","Acer japonicum Thunb.",NA,NA,"Allen, K","7161V95",21,6,1995,"Aceraceae Collection, X-60/50-57","Yes",0,0,0,NA,NA,NA,NA
-"147126","147126","0039471MOR","Acer japonicum Thunb.",NA,NA,"Wiegrefe, S","348",10,7,1997,"Acer Collection, X-60/94-84","Yes",0,0,0,NA,NA,NA,NA
-"187864","187864","0099248MOR","Acer japonicum Thunb.",NA,NA,"Worcester, L","LW257",31,7,2018,"China: X-60/94-84","Yes",0,0,0,NA,NA,NA,NA
-"189526","189526","0102309MOR","Acer japonicum Thunb.",NA,NA,"Dorrell, J","17265v22",21,7,2022,"Japan: S-58/35-42","Yes",0,0,0,NA,NA,NA,NA
-"187436","187436","0098321MOR","Acer komarovii Pojark.",NA,NA,"Worcester, L","LW260",31,7,2018,"China: X-61/67-63","Yes",0,0,0,NA,NA,NA,NA
-"189670","189670","0101015MOR","Acer longipes Franch. ex Rehder",NA,NA,"Potenberg, K","17303v22",4,8,2022,"China: X-63/63-99","Yes",0,0,0,NA,NA,NA,NA
-"127845","127845","0039479MOR","Acer macrophyllum Pursh",NA,NA,"Altvatter, K","7163V95",21,6,1995,"Aceraceae Collection, X-60/85-84","Yes",0,0,0,NA,NA,NA,NA
-"187597","187597","0098489MOR","Acer macrophyllum Pursh",NA,NA,"Worcester, L","LW284",4,8,2018,"Acer: U-101/08-36","Yes",0,0,0,NA,NA,NA,NA
-"189610","189610","0100850MOR","Acer macrophyllum Pursh",NA,NA,"Potenberg, K","17180v22",26,5,2022,"Acer: T-101/80-40","Yes",0,0,0,NA,NA,NA,NA
-"18","18",NA,"Acer mandshuricum Maxim.",NA,NA,"Morrison, K","29",2,7,2019,"Acer: R-99/36-99","Yes",0,0,0,NA,NA,NA,NA
-"19","19",NA,"Acer mandshuricum Maxim.",NA,NA,"Morrison, K","30",2,7,2019,"Acer: R-99/30-80","Yes",0,0,0,NA,NA,NA,NA
-"53","53",NA,"Acer mandshuricum Maxim.",NA,NA,"Morrison, K","31",2,7,2019,"Acer: R-99/52-91","Yes",0,0,0,NA,NA,NA,NA
-"187160","187160","0098304MOR","Acer mandshuricum Maxim.",NA,NA,"Worcester, L","LW273",1,8,2018,"China: X-67/55-08","Yes",0,0,0,NA,NA,NA,NA
-"21","21",NA,"Acer maximowiczii Pax",NA,NA,"Morrison, K","64",5,7,2019,"Acer: S-98/15-59","Yes",0,0,0,NA,NA,NA,NA
-"22","22",NA,"Acer maximowiczii Pax",NA,NA,"Morrison, K","41",3,7,2019,"Acer: R-99/21-09","Yes",0,0,0,NA,NA,NA,NA
-"187726","187726","0099253MOR","Acer maximowiczii Pax",NA,NA,"Worcester, L","LW286",4,8,2018,"Acer: T-99/12-81","Yes",0,0,0,NA,NA,NA,NA
-"189515","189515","0102298MOR","Acer maximowiczii Pax",NA,NA,"Potenberg, K","16908v21",19,8,2021,"Acer: Q-100/38-90","Yes",0,0,0,NA,NA,NA,NA
-"189603","189603","0100857MOR","Acer micranthum Siebold & Zucc.",NA,NA,"Potenberg, K","17176v22",26,5,2022,"Acer: R-102/64-13","Yes",0,0,0,NA,NA,NA,NA
-"187055","187055","0098094MOR","Acer miyabei 'JFS-KW3AMI'",NA,NA,"Beck, J","16437v19",22,8,2019,"Arbordale: F-33/41-66","Yes",0,0,0,NA,NA,NA,NA
-"167799","167799","0052216MOR","Acer miyabei 'Morton'",NA,NA,"Potenberg, K","11424v08",21,10,2008,"Acer: P-99/45-75","Yes",0,0,0,NA,NA,NA,NA
-"167800","167800","0052197MOR","Acer miyabei 'Morton'",NA,NA,"Potenberg, K","11423v08",21,10,2008,"Japan: Y-61/54-09","Yes",0,0,0,NA,NA,NA,NA
-"168232","168232","0054161MOR","Acer miyabei 'Morton'",NA,NA,"Potenberg, K","11444v08",4,11,2008,"Visitor Center Parking, south center median: P-45/06-58","Yes",0,0,0,NA,NA,NA,NA
-"168334","168334","0054350MOR","Acer miyabei 'Morton'",NA,NA,"Potenberg, K","11446v08",4,11,2008,"Entrance Drive: U-48/52-36","Yes",0,0,0,NA,NA,NA,NA
-"168335","168335","0054351MOR","Acer miyabei 'Morton'",NA,NA,"Potenberg, K","11443v08",4,11,2008,"Research Parking, median: G-39/75-63","Yes",0,0,0,NA,NA,NA,NA
-"168909","168909","0054692MOR","Acer miyabei 'Morton'",NA,NA,"Potenberg, K","11417v08",14,10,2008,"Japan: Y-61/54-09","Yes",0,0,0,NA,NA,NA,NA
-"168923","168923","0054706MOR","Acer miyabei 'Morton'",NA,NA,"Potenberg, K","11418v08",14,10,2008,"Japan: Y-61/47-32","Yes",0,0,0,NA,NA,NA,NA
-"169898","169898","0055276MOR","Acer miyabei 'Morton'",NA,NA,"Potenberg, K","11429v08",28,10,2008,"Japan: Y-61/47-32","Yes",0,0,0,NA,NA,NA,NA
-"169899","169899","0055275MOR","Acer miyabei 'Morton'",NA,NA,"Potenberg, K","11428v08",28,10,2008,"Japan: Y-61/54-09","Yes",0,0,0,NA,NA,NA,NA
-"146927","146927","0053545MOR","Acer miyabei × miyabei",NA,NA,"Wiegrefe, S","712",12,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"163583","163583","0053226MOR","Acer miyabei × miyabei",NA,NA,"Bonnewell, V",NA,14,5,2007,"Tree Breeding Nursery, EN1/G04","Yes",0,0,0,NA,NA,NA,NA
-"219","219","0039499MOR","Acer miyabei Maxim.",NA,NA,"Hawkinson, L","s.n.",17,9,1940,"Lower Joy Path, V-24/22-08","Yes",0,0,0,NA,NA,NA,NA
-"220","220","0039508MOR","Acer miyabei Maxim.",NA,NA,"Kammerer, E","s.n.",8,8,1935,"Lower Joy Path, V-24/22-08","Yes",0,0,0,NA,NA,NA,NA
-"142044","142044","0039510MOR","Acer miyabei Maxim.",NA,NA,"DeMink, L","s.n.",15,7,1998,"V-24/22-08","Yes",0,0,0,NA,NA,NA,NA
-"146928","146928","0053546MOR","Acer miyabei Maxim.",NA,NA,"Wiegrefe, S","713",12,8,1998,NA,"Yes",0,0,0,NA,NA,NA,NA
-"169900","169900","0055274MOR","Acer miyabei Maxim.",NA,NA,"Potenberg, K","11431v08",28,10,2008,"Godshalk Meadow, south side: L-30/50-40","Yes",0,0,0,NA,NA,NA,NA
-"190216","190216","0101241MOR","Acer miyabei Maxim.",NA,NA,"Worcester, L","LW253",19,7,2018,"Acer: Q-99/15-40","Yes",0,0,0,NA,NA,NA,NA
-"168231","168231","0054162MOR","Acer miyabei Maxim. 'Morton'",NA,NA,"Ken Potenberg","11445v08",4,11,2008,"Visitor Center Parking, south center median: T-48/99-69","Yes",0,0,0,NA,NA,NA,NA
-"184513","184513","0095918MOR","Acer miyabei subsp. miaotaiense (P.C.Tsoong) A.E.Murray",NA,NA,"Means, E","15557v17",10,8,2017,"China: X-62/02-84","Yes",0,0,0,NA,NA,NA,NA
-"64","64",NA,"Acer miyabei subsp. miaotaiense (P.CTsoong) A.E.Murray",NA,NA,"Hartmann, K","19156v26",19,5,2026,"V-62/13-53","Yes",0,0,0,NA,NA,NA,NA
-"54","54",NA,"Acer mono f. subtrifidum (Makino) Rehder",NA,NA,"Morrison, K","51",5,7,2019,"Acer: V-98/01-53","Yes",0,0,0,NA,NA,NA,NA
-"188790","188790","0099876MOR","Acer mono f. subtrifidum (Makino) Rehder",NA,NA,"Dorrell, J","16920v21",26,8,2021,"Acer: T-99/78-23","Yes",0,0,0,NA,NA,NA,NA
-"189206","189206","0100551MOR","Acer mono f. subtrifidum (Makino) Rehder",NA,NA,"Potenberg, K","16940v21",30,9,2021,"Acer: T-98/40-80","Yes",0,0,0,NA,NA,NA,NA
-"158509","158509","0050097MOR","Acer pictum subsp. mono H.Ohashi",NA,NA,"Packard, S","9924V03",8,9,2003,"China, central section: BB-68/07-51","Yes",0,0,0,NA,NA,NA,NA
-"158510","158510","0050086MOR","Acer pictum subsp. mono H.Ohashi",NA,NA,"Vogel, S","9923V03",8,9,2003,"China, central section: AA-68/96-74","Yes",0,0,0,NA,NA,NA,NA
-"159854","159854","0051357MOR","Acer pictum subsp. mono H.Ohashi",NA,NA,"Packard, S","9925V03",8,9,2003,"China, central section; AA-68/86-43","Yes",0,0,0,NA,NA,NA,NA
-"187435","187435","0098320MOR","Acer pictum subsp. mono H.Ohashi",NA,NA,"Worcester, L","LW259",31,7,2018,"China: X-61/60-44","Yes",0,0,0,NA,NA,NA,NA
-"238","238","0039512MOR","Acer monspessulanum L.",NA,NA,"Swink, FA","s.n.",11,8,1964,"Acer Collection, U-99/60-75","Yes",0,0,0,NA,NA,NA,NA
-"127853","127853","0039514MOR","Acer monspessulanum L.",NA,NA,"Altvatter, K","7171V95",21,6,1995,"Balkans Collection, II-75/38-15","Yes",0,0,0,NA,NA,NA,NA
-"135503","135503","0039515MOR","Acer monspessulanum L.",NA,NA,"Wiegrefe, S","338",3,6,1997,"Balkans Collection, II-75/47-22","Yes",0,0,0,NA,NA,NA,NA
-"187896","187896","0099236MOR","Acer monspessulanum subsp. ibericum (M.Bieb. ex Willd.) Yalt.",NA,NA,"Worcester, L","LW414",26,9,2018,"Propagation: H-30 area, Hoop House 5","Yes",0,0,0,NA,NA,NA,NA
-"255","255","0039520MOR","Acer negundo 'Crispum Variegatum'",NA,NA,"Lesica, P","s.n.",18,5,1972,"Acer Collection, Q-98/50-20","Yes",0,0,0,NA,NA,NA,NA
-"80867","80867","0039521MOR","Acer negundo 'Crispum Variegatum'",NA,NA,"Hess, WJ","2200V88",24,8,1988,"West Acer Collection, V-63/69-00","Yes",0,0,0,NA,NA,NA,NA
-"247","247","0039511MOR","Acer negundo L.",NA,NA,"Schulenberg, RF","s.n.",15,5,1975,"Acer Collection, Q-99/85-30","Yes",0,0,0,NA,NA,NA,NA
-"103932","103932","0039522MOR","Acer negundo L.",NA,NA,"Hess, WJ","5029V92",13,5,1992,"Acer Collection, R-99/40-10","Yes",0,0,0,NA,NA,NA,NA
-"187887","187887","0099223MOR","Acer negundo var. texanum Pax",NA,NA,"Worcester, L","LW332",17,8,2018,"Eastern U.S. Wetlands: EE-67/27-21","Yes",0,0,0,NA,NA,NA,NA
-"285","285","0039527MOR","Acer negundo var. violaceum Booth ex G.Kirchn.",NA,NA,"Ciolac, C","s.n.",16,1,1973,"Acer Collection, P-98/90-00","Yes",0,0,0,NA,NA,NA,NA
-"287","287","0039537MOR","Acer negundo var. violaceum Booth ex G.Kirchn.",NA,NA,"Swink, FA","s.n.",10,8,1964,"Acer Collection, P-98/70-30","Yes",0,0,0,NA,NA,NA,NA
-"127619","127619","0039533MOR","Acer negundo var. violaceum Booth ex G.Kirchn.",NA,NA,"Altvatter, K","7154V95",21,6,1995,"Aceraceae Collection, W-62/14-33","Yes",0,0,0,NA,NA,NA,NA
-"135415","135415","0039525MOR","Acer negundo var. violaceum Booth ex G.Kirchn.",NA,NA,"Wiegrefe, S","329",21,5,1997,"Acer Collection, W-62/14-33","Yes",0,0,0,NA,NA,NA,NA
-"187598","187598","0098488MOR","Acer negundo var. violaceum Booth ex G.Kirchn.",NA,NA,"Worcester, L","LW288",4,8,2018,"Acer: T-103/14-25","Yes",0,0,0,NA,NA,NA,NA
-"187599","187599","0098486MOR","Acer nigrum F.Michx.",NA,NA,"Worcester, L","LW289",4,8,2018,"Acer: R-102/86-71","Yes",0,0,0,NA,NA,NA,NA
-"187603","187603","0098426MOR","Acer maximowiczianum Miq.",NA,NA,"Worcester, L","LW293",4,8,2018,"Acer: V-98/36-83","Yes",0,0,0,NA,NA,NA,NA
-"188424","188424","0099518MOR","Acer maximowiczianum Miq.",NA,NA,"Dorrell, J","16918v21",26,8,2021,"Acer: V-98/36-83","Yes",0,0,0,NA,NA,NA,NA
-"187246","187246","0098344MOR","Acer oblongum Wall. ex DC.",NA,NA,"Worcester, L","LW372",13,9,2018,"Propagation: H-30/area (Hoop House 4)","Yes",0,0,0,NA,NA,NA,NA
-"127841","127841","0039536MOR","Acer oliverianum Pax",NA,NA,"Altvatter, K","7159V95",21,6,1995,"Aceraceae Collection, X-61/26-21","Yes",0,0,0,NA,NA,NA,NA
-"187161","187161","0098305MOR","Acer oliverianum Pax",NA,NA,"Worcester, L","LW275",1,8,2018,"China: Z-68/43-44","Yes",0,0,0,NA,NA,NA,NA
-"195184","195184","0112658MOR","Acer oliverianum Pax",NA,NA,"Potenberg, K","17335v22",11,8,2022,"China: South Section: X-68/37-90","Yes",0,0,0,NA,NA,NA,NA
-"347","347","0039535MOR","Acer opalus Mill.",NA,NA,"Braham, R","s.n.",23,6,1971,"Frost Hill, F-62/75-60","Yes",0,0,0,NA,NA,NA,NA
-"362","362","0039545MOR","Acer opalus var. obtusatum (Willd.) Henry",NA,NA,"Allen, L","s.n.",24,7,1973,"Frost Hill, F-62/70-35","Yes",0,0,0,NA,NA,NA,NA
-"127851","127851","0039544MOR","Acer opalus var. obtusatum (Willd.) Henry",NA,NA,"Altvatter, K","7169V95",21,6,1995,"Balkans Collection, II-75/53-11","Yes",0,0,0,NA,NA,NA,NA
-"135547","135547","0039546MOR","Acer opalus var. obtusatum (Willd.) Henry",NA,NA,"Wiegrefe, S","337",3,6,1997,"Balkans Collection, II-75/53-11","Yes",0,0,0,NA,NA,NA,NA
-"370","370","0043814MOR","Acer palmatum 'Atropurpureum'",NA,NA,"Lesica, P","s.n.",26,7,1972,"K-41/65-45 near Lily Pool","Yes",0,0,0,NA,NA,NA,NA
-"372","372","0044094MOR","Acer palmatum 'Atropurpureum'",NA,NA,"Kammerer, E","s.n.",25,5,1937,"Upper Joy Path, FF-24/Area","Yes",0,0,0,NA,NA,NA,NA
-"186512","186512","0098821MOR","Acer palmatum 'Twomblys Red Sentinel'",NA,NA,"Potenberg, K","15837v18",19,6,2018,"Dwarf Woody Plants: D-48/75-05","Yes",0,0,0,NA,NA,NA,NA
-"146637","146637","0053132MOR","Acer palmatum × palmatum 'Sangu Kaku' [1]",NA,NA,"Wiegrefe, S","477",18,6,1998,"Quonset hut","Yes",0,0,0,NA,NA,NA,NA
-"187592","187592","0098494MOR","Acer palmatum subsp. amoenum (Carrière) H.Hara",NA,NA,"Worcester, L","LW410",26,9,2018,"Propagation: H-30 area, Hoop House 4","Yes",0,0,0,NA,NA,NA,NA
-"189675","189675","0101010MOR","Acer palmatum subsp. amoenum (Carrière) H.Hara",NA,NA,"Potenberg, K","17308v22",4,8,2022,"China: W-65/24-21","Yes",0,0,0,NA,NA,NA,NA
-"187881","187881","0099237MOR","Acer palmatum subsp. matsumurae Koidz.",NA,NA,"Worcester, L","LW424",27,9,2018,"Japan: X-59/47-77","Yes",0,0,0,NA,NA,NA,NA
-"189505","189505","0102288MOR","Acer palmatum subsp. matsumurae Koidz.",NA,NA,"Dorrell, J","17264v22",21,7,2022,"Japan: S-58/61-44","Yes",0,0,0,NA,NA,NA,NA
-"127846","127846","0039542MOR","Acer palmatum Thunb.",NA,NA,"Altvatter, K","7164V95",21,6,1995,"Aceraceae Collection, X-64/40-47","Yes",0,0,0,NA,NA,NA,NA
-"135413","135413","0039551MOR","Acer palmatum Thunb.",NA,NA,"Wiegrefe, S","332",21,5,1997,"Acer Collection, X-64/40-47","Yes",0,0,0,NA,NA,NA,NA
-"146593","146593","0053121MOR","Acer palmatum Thunb.",NA,NA,"Wiegrefe, S","433",12,6,1998,"Quonset hut","Yes",0,0,0,NA,NA,NA,NA
-"177775","177775","0065962MOR","Acer palmatum Thunb.",NA,NA,"Glaysher, L","13880v13",11,7,2013,"China: X-64/40-47","Yes",0,0,0,NA,NA,NA,NA
-"187441","187441","0098326MOR","Acer palmatum Thunb.",NA,NA,"Worcester, L","LW265",31,7,2018,"China: X-64/40-47","Yes",0,0,0,NA,NA,NA,NA
-"375","375","0043811MOR","Acer palmatum var. heptalobum Rehder",NA,NA,"Lesica, P","s.n.",13,6,1972,"Acer Collection S-99/95-15","Yes",0,0,0,NA,NA,NA,NA
-"104051","104051","0043810MOR","Acer palmatum var. heptalobum Rehder",NA,NA,"Hess, WJ","5052V92",13,5,1992,"Acer Collection Q-101/40-35","Yes",0,0,0,NA,NA,NA,NA
-"187861","187861","0099249MOR","Acer pauciflorum W.P.Fang",NA,NA,"Worcester, L","LW267",31,7,2018,"China: X-65/17-00","Yes",0,0,0,NA,NA,NA,NA
-"189572","189572","0100959MOR","Acer pauciflorum W.P.Fang",NA,NA,"Potenberg, K","17318v22",11,8,2022,"China: south section: X-65/17-00","Yes",0,0,0,NA,NA,NA,NA
-"138968","138968","0039553MOR","Acer pensylvanicum L.",NA,NA,"Rossi, E","359",26,6,1990,"Aceraceae Collection, W-61/15-07; south side of Ridge Road.","Yes",0,0,0,NA,NA,NA,NA
-"187899","187899","0099231MOR","Acer pensylvanicum L.",NA,NA,"Worcester, L","LW343",28,8,2018,"Acer: T-103/28-92","Yes",0,0,0,NA,NA,NA,NA
-"434","434","0039602MOR","Acer platanoides 'Crimson King'",NA,NA,"Braham, R","s.n.",23,6,1971,"Street Tree Collection, E-96/Area","Yes",0,0,0,NA,NA,NA,NA
-"35343","35343","0039613MOR","Acer platanoides 'Erectum'",NA,NA,"Schulenberg, RF","s.n.",27,9,1977,"Acer Collection, CC-102/55-90","Yes",0,0,0,NA,NA,NA,NA
-"138389","138389","0039608MOR","Acer platanoides 'Erectum'",NA,NA,"Hess, WJ","7850",13,8,1997,"Visitor Center area, N-46/Area","Yes",0,0,0,NA,NA,NA,NA
-"35344","35344","0039615MOR","Acer platanoides 'Faassen's Black'",NA,NA,"Schulenberg, RF","s.n.",27,9,1977,"Acer Collection, EE-102/30-55","Yes",0,0,0,NA,NA,NA,NA
-"441","441","0039616MOR","Acer platanoides 'Globosum'",NA,NA,"Read, RW","s.n.",14,10,1971,"Acer Collection, CC-103/55-95","Yes",0,0,0,NA,NA,NA,NA
-"193601","193601","0108129MOR","Acer platanoides 'Globosum'",NA,NA,"Potenberg, K","18624v24",17,10,2024,"China: Landscape Planting: V-61/24-59","Yes",0,0,0,NA,NA,NA,NA
-"445","445","0039617MOR","Acer platanoides 'Goldsworth Purple'",NA,NA,"Lesica, P","s.n.",24,7,1972,"Acer Collection, M-100/45-65","Yes",0,0,0,NA,NA,NA,NA
-"143771","143771","0039621MOR","Acer platanoides 'Goldsworth Purple'",NA,NA,"Bolger, K","8779V99",21,5,1999,"Forest Road, S. side; L-90/00-20","Yes",0,0,0,NA,NA,NA,NA
-"57329","57329","0039627MOR","Acer platanoides 'Improved Columnare'",NA,NA,"Ralston, N","474V85",29,4,1985,"In shrub collection, next to cattail marsh, AZ-115/Area","Yes",0,0,0,NA,NA,NA,NA
-"446","446","0039630MOR","Acer platanoides 'Oekonomierat Stoll'",NA,NA,"Kammerer, E","s.n.",6,8,1936,NA,"Yes",0,0,0,NA,NA,NA,NA
-"413","413","0039568MOR","Acer platanoides 'Schwedleri'",NA,NA,"Ciolac, C","s.n.",13,4,1972,"Geo-European Collection, W-37/35-20","Yes",0,0,0,NA,NA,NA,NA
-"464","464","0039643MOR","Acer platanoides 'Summershade'",NA,NA,"Lesica, P","s.n.",25,7,1972,"Tree Evaluation Plot, Row 6; E-96/Area","Yes",0,0,0,NA,NA,NA,NA
-"161911","161911","0053234MOR","Acer platanoides 'Undulatum' × platanoides",NA,NA,"Bonnewell, V",NA,14,5,2007,"Tree Breeding Nursery, EN1/A02","Yes",0,0,0,NA,NA,NA,NA
-"163602","163602","0053230MOR","Acer platanoides 'Undulatum' × truncatum [1]",NA,NA,"Bonnewell, V",NA,14,5,2007,"Tree Breeding Nursery, EN1/B15","Yes",0,0,0,NA,NA,NA,NA
-"80742","80742","0039657MOR","Acer platanoides 'Variegatum'",NA,NA,"Hess, WJ","2197V88",24,8,1988,"Acer Collection, EE-103/30-55","Yes",0,0,0,NA,NA,NA,NA
-"104974","104974","0039581MOR","Acer platanoides L.",NA,NA,"Hess, WJ","5255V92",1,7,1992,"Between V & U, east of Valley Road, U-37/Area","Yes",0,0,0,NA,NA,NA,NA
-"138965","138965","0039567MOR","Acer platanoides L.",NA,NA,"Rossi, E","477",6,7,1990,"East slope of Frost Hill, F-64/30-50; in open, grassy area.","Yes",0,0,0,NA,NA,NA,NA
-"162074","162074","0053195MOR","Acer platanoides L.",NA,NA,"Bonnewell, V",NA,14,5,2007,"Tree Breeding Nursery, EN1/B23","Yes",0,0,0,NA,NA,NA,NA
-"163579","163579","0053198MOR","Acer platanoides L.",NA,NA,"Bonnewell, V",NA,14,5,2007,"Tree Breeding Nursery, EN1/A21","Yes",0,0,0,NA,NA,NA,NA
-"163580","163580","0053196MOR","Acer platanoides L.",NA,NA,"Bonnewell, V",NA,14,5,2007,"Tree Breeding Nursery, EN1/A22","Yes",0,0,0,NA,NA,NA,NA
-"163581","163581","0053197MOR","Acer platanoides L.",NA,NA,"Bonnewell, V",NA,14,5,2007,"Tree Breeding Nursery, EN1/B21","Yes",0,0,0,NA,NA,NA,NA
-"485","485","0039656MOR","Acer pseudoplatanus 'Erectum'",NA,NA,"Lesica, P","s.n.",24,7,1972,"Acer Collection, N-98/55-75","Yes",0,0,0,NA,NA,NA,NA
-"56","56",NA,"Acer pseudoplatanus 'Esk Sunset'",NA,NA,"Morrison, K","58",5,7,2019,"Acer: U-99/60-94","Yes",0,0,0,NA,NA,NA,NA
-"57","57",NA,"Acer pseudoplatanus 'Esk Sunset'",NA,NA,"Morrison, K","59",5,7,2019,"Acer: U-99/42-76","Yes",0,0,0,NA,NA,NA,NA
-"489","489","0039661MOR","Acer pseudoplatanus 'Purpureum'",NA,NA,"Lesica, P","s.n.",13,6,1972,"Acer Collection, N-98/20-10","Yes",0,0,0,NA,NA,NA,NA
-"470","470","0039667MOR","Acer pseudoplatanus L.",NA,NA,"Swink, FA","s.n.",10,8,1964,"Acer Collection, N-98/85-90","Yes",0,0,0,NA,NA,NA,NA
-"471","471","0039665MOR","Acer pseudoplatanus L.",NA,NA,"Kammerer, E","s.n.",6,8,1936,"46024","Yes",0,0,0,NA,NA,NA,NA
-"472","472","0039664MOR","Acer pseudoplatanus L.",NA,NA,"Kammerer, E","s.n.",12,9,1935,NA,"Yes",0,0,0,NA,NA,NA,NA
-"474","474","0039671MOR","Acer pseudoplatanus L.",NA,NA,"Hawkinson, L","s.n.",24,10,1940,"141-13","Yes",0,0,0,NA,NA,NA,NA
-"58","58",NA,"Acer pseudosieboldianum (Pax) Kom.",NA,NA,"Morrison, K","37",3,7,2019,"Acer: S-99/40-27","Yes",0,0,0,NA,NA,NA,NA
-"60","60",NA,"Acer pseudosieboldianum × palmatum 'Koshimino'",NA,NA,"Morrison, K","28",2,7,2019,"Acer: Q-100/29-53","Yes",0,0,0,NA,NA,NA,NA
-"146761","146761","0054717MOR","Acer pseudosieboldianum × palmatum 'Koshimino'",NA,NA,"Wiegrefe, S","601",29,6,1998,"46026","Yes",0,0,0,NA,NA,NA,NA
-"187877","187877","0099243MOR","Acer pseudosieboldianum × palmatum 'Koshimino'",NA,NA,"Worcester, L","LW432",28,9,2018,"Acer: Q-100/29-53","Yes",0,0,0,NA,NA,NA,NA
-"188354","188354","0100192MOR","Acer pseudosieboldianum × palmatum 'Koshimino'",NA,NA,"Potenberg, K","16909v21",19,8,2021,"Acer: Q-100/29-53","Yes",0,0,0,NA,NA,NA,NA
-"64.1","64",NA,"Acer pycnanthum K.Koch",NA,NA,"Hartmann, K","19157v26",19,5,2026,"U-62/47-03","Yes",0,0,0,NA,NA,NA,NA
-"512","512","0039673MOR","Acer pycnanthum K.Koch",NA,NA,"Lesica, P","s.n.",25,7,1972,"Acer Collection, U-103/80-15","Yes",0,0,0,NA,NA,NA,NA
-"187723","187723","0099234MOR","Acer pycnanthum K.Koch",NA,NA,"Worcester, L","LW412",26,9,2018,"Propagation: H-30 area, Hoop House 4","Yes",0,0,0,NA,NA,NA,NA
-"193602","193602","0108128MOR","Acer pycnanthum K.Koch",NA,NA,"Potenberg, K","18626v24",17,10,2024,"Japan: U-62/47-03","Yes",0,0,0,NA,NA,NA,NA
-"193020","193020","0103810MOR","Acer rubrum 'Autumn Flame'",NA,NA,"Potenberg, K","18508v24",25,7,2024,"Meadow Lake: south side: N-50/71-79","Yes",0,0,0,NA,NA,NA,NA
-"188355","188355","0099888MOR","Acer rubrum 'Candy Ice'",NA,NA,"Dorrell, J","16922v21",26,8,2021,"Acer: T-98/04-74","Yes",0,0,0,NA,NA,NA,NA
-"554","554","0039820MOR","Acer rubrum 'Columnare'",NA,NA,"Hawkinson, L","s.n.",9,10,1940,"Acer Collection, Q-100/75-65","Yes",0,0,0,NA,NA,NA,NA
-"555","555","0039824MOR","Acer rubrum 'Columnare'",NA,NA,"Swink, FA","s.n.",10,8,1964,"Acer Collection, R-99/70-70","Yes",0,0,0,NA,NA,NA,NA
-"186975","186975","0098118MOR","Acer rubrum 'Frank Jr.'",NA,NA,"Means, E","16206v19",13,6,2019,"Parking 33: I-36/81-94","Yes",0,0,0,NA,NA,NA,NA
-"188433","188433","0099697MOR","Acer rubrum 'Frank Jr.'",NA,NA,"Dorrell, J","16880v21",29,7,2021,"Visitor Center Parking: R-46/32-32","Yes",0,0,0,NA,NA,NA,NA
-"188838","188838","0100102MOR","Acer rubrum 'Frank Jr.'",NA,NA,"Potenberg, K","16951v21",21,10,2021,"Visitor center parking south: S-47/16-41","Yes",0,0,0,NA,NA,NA,NA
-"189580","189580","0100942MOR","Acer rubrum 'Frank Jr.'",NA,NA,"Dorrell, J","16872v21",22,7,2021,"Godshalk Meadow: Parking 33: east side: J-37/14-29","Yes",0,0,0,NA,NA,NA,NA
-"147392","147392","0039834MOR","Acer rubrum 'October Glory'",NA,NA,"Packard, S","9099V99",29,10,1999,"Syringa Collection, K-51/28-57","Yes",0,0,0,NA,NA,NA,NA
-"561","561","0039831MOR","Acer rubrum 'Schlesingeri'",NA,NA,"Lesica, P","s.n.",24,7,1972,"Acer Collection, S-99/05-70","Yes",0,0,0,NA,NA,NA,NA
-"35346","35346","0039829MOR","Acer rubrum 'Schlesingeri'",NA,NA,"Schulenberg, RF","s.n.",27,9,1977,"Acer Collection, S-99/05-70","Yes",0,0,0,NA,NA,NA,NA
-"517","517","0039739MOR","Acer rubrum L.",NA,NA,"Hawkinson, L","s.n.",13,9,1940,"#104-12 Oleaceae Collection, Q-38/Area.","Yes",0,0,0,NA,NA,NA,NA
-"518","518","0039691MOR","Acer rubrum L.",NA,NA,"Eickhorst, W","s.n.",13,9,1935,"Eastern US Wetlands, FF-68/Area","Yes",0,0,0,NA,NA,NA,NA
-"519","519","0039709MOR","Acer rubrum L.",NA,NA,"Kammerer, E","s.n.",5,10,1935,"Forestry Plot, Forest Rd., K-63/Area.","Yes",0,0,0,NA,NA,NA,NA
-"520","520","0039735MOR","Acer rubrum L.",NA,NA,"Hawkinson, L","s.n.",8,10,1940,"Eastern US Wetlands, FF-68/Area.","Yes",0,0,0,NA,NA,NA,NA
-"521","521","0039726MOR","Acer rubrum L.",NA,NA,"Swink, FA","s.n.",23,7,1964,"R-52/25-55","Yes",0,0,0,NA,NA,NA,NA
-"93194","93194","0039737MOR","Acer rubrum L.",NA,NA,"Shimp, E","3697V90",19,7,1990,"Outpost, OO-33/Area in Northern Great Lakes.","Yes",0,0,0,NA,NA,NA,NA
-"103774","103774","0039724MOR","Acer rubrum L.",NA,NA,"Hess, WJ","5028V92",13,5,1992,"Acer Collection, R-98/10-85.","Yes",0,0,0,NA,NA,NA,NA
-"103935","103935","0039679MOR","Acer rubrum L.",NA,NA,"Hess, WJ","5030V92",13,5,1992,"Acer Collection, R-99/40-40","Yes",0,0,0,NA,NA,NA,NA
-"107462","107462","0039745MOR","Acer rubrum L.",NA,NA,"Packard, S","5536V92",27,10,1992,"Display Area, B-48/Area.","Yes",0,0,0,NA,NA,NA,NA
-"127848","127848","0039692MOR","Acer rubrum L.",NA,NA,"Altvatter, K","7166V95",21,6,1995,"Northern Illinois Collection, L-61/54-87","Yes",0,0,0,NA,NA,NA,NA
-"132917","132917","0039690MOR","Acer rubrum L.",NA,NA,"Allen, K","7562V96",22,8,1996,"Display Collection, B-48/25-55","Yes",0,0,0,NA,NA,NA,NA
-"141185","141185",NA,"Acer rubrum L.",NA,NA,"Ware, George",NA,24,6,1970,NA,"Yes",0,0,0,NA,NA,NA,NA
-"142093","142093","0039731MOR","Acer rubrum L.",NA,NA,"DeMink, L","s.n.",2,7,1998,"Near Juniper Collection, Service Rd., B-48/Area.","Yes",0,0,0,NA,NA,NA,NA
-"145291","145291","0039711MOR","Acer rubrum L.",NA,NA,"Crowley, W","W114",14,9,1987,"Meadow Lake, south side, N-52/01-13.","Yes",0,0,0,NA,NA,NA,NA
-"145293","145293","0039713MOR","Acer rubrum L.",NA,NA,"Crowley, W","W196",1,5,1988,"Meadow Lake, northwest side, P-46/91-59.","Yes",0,0,0,NA,NA,NA,NA
-"187863","187863","0099256MOR","Acer rubrum L.",NA,NA,"Worcester, L","LW309",9,8,2018,"Midwest: L-61/54-87","Yes",0,0,0,NA,NA,NA,NA
-"187162","187162","0098306MOR","Acer rubrum var. drummondii (Hook. & Arn. ex Nutt.) Sarg.",NA,NA,"Worcester, L","LW349",30,8,2018,"Entrance Drive: Q-42/88-33","Yes",0,0,0,NA,NA,NA,NA
-"189533","189533","0101095MOR","Acer rubrum var. drummondii (Hook. & Arn. ex Nutt.) Sarg.",NA,NA,"Potenberg, K","17177v22",26,5,2022,"Acer: S-101/43-98","Yes",0,0,0,NA,NA,NA,NA
-"29","29",NA,"Acer rufinerve Siebold & Zucc.",NA,NA,"Morrison, K","57",5,7,2019,"Acer: T-99/57-30","Yes",0,0,0,NA,NA,NA,NA
-"189612","189612","0100848MOR","Acer rufinerve Siebold & Zucc.",NA,NA,"Potenberg, K","17282v22",28,7,2022,"Japan: U-58/24-86","Yes",0,0,0,NA,NA,NA,NA
-"30","30",NA,"Acer saccharinum 'Aureum'",NA,NA,"Morrison, K","26",2,7,2019,"Acer: O-96/45-90","Yes",0,0,0,NA,NA,NA,NA
-"80883","80883","0039785MOR","Acer saccharinum 'Aureum'",NA,NA,"Hess, WJ","2195V88",24,8,1988,"Acer Collection, O-96/25-50.","Yes",0,0,0,NA,NA,NA,NA
-"31","31",NA,"Acer saccharinum 'Beebe Cutleaf Weeping'",NA,NA,"Morrison, K","27",2,7,2019,"Acer: O-97/80-10","Yes",0,0,0,NA,NA,NA,NA
-"194661","194661","0109306MOR","Acer saccharinum 'JFS H1'",NA,NA,"Chen, S","18821v25",8,5,2025,"Acer: S-102/57-51","Yes",0,0,0,NA,NA,NA,NA
-"605","605","0039792MOR","Acer saccharinum 'Laciniatum'",NA,NA,"Hawkinson, L","s.n.",26,9,1940,"18-6","Yes",0,0,0,NA,NA,NA,NA
-"606","606","0039791MOR","Acer saccharinum 'Laciniatum'",NA,NA,"Kammerer, E","s.n.",2,7,1936,NA,"Yes",0,0,0,NA,NA,NA,NA
-"193594","193594","0108136MOR","Acer saccharinum 'Laciniatum'",NA,NA,"Potenberg, K","18625v24",17,10,2024,"China: Landscape Planting: V-61/01-31","Yes",0,0,0,NA,NA,NA,NA
-"608","608","0039838MOR","Acer saccharinum 'Pyramidale'",NA,NA,"Lesica, P","s.n.",24,7,1972,"Columnar Trees, G-65/1-0.5","Yes",0,0,0,NA,NA,NA,NA
-"610","610","0039894MOR","Acer saccharinum 'Tripartitum'",NA,NA,"Hawkinson, L","s.n.",9,10,1940,NA,"Yes",0,0,0,NA,NA,NA,NA
-"580","580","0039858MOR","Acer saccharinum L.",NA,NA,"Ciolac, C","s.n.",16,1,1973,"Acer Collection, S-100/45-90","Yes",0,0,0,NA,NA,NA,NA
-"581","581","0039842MOR","Acer saccharinum L.",NA,NA,"Hawkinson, L","s.n.",26,9,1940,NA,"Yes",0,0,0,NA,NA,NA,NA
-"582","582","0039846MOR","Acer saccharinum L.",NA,NA,"Hawkinson, L","s.n.",9,10,1940,"Acer Collection, P-68/30-75","Yes",0,0,0,NA,NA,NA,NA
-"74941","74941","0039857MOR","Acer saccharinum L.",NA,NA,"Bucha, L","1624V87",13,10,1987,"Acer Collection, O-97/55-60","Yes",0,0,0,NA,NA,NA,NA
-"104055","104055","0039848MOR","Acer saccharinum L.",NA,NA,"Hess, WJ","5034V92",13,5,1992,"Acer Collection, S-100/55-20","Yes",0,0,0,NA,NA,NA,NA
-"127849","127849","0039860MOR","Acer saccharinum L.",NA,NA,"Altvatter, K","7167V95",21,6,1995,"Northern Illinois Collection, M-59/99-93","Yes",0,0,0,NA,NA,NA,NA
-"143122","143122","0039779MOR","Acer saccharinum L.",NA,NA,"DeMink, L","s.n.",7,8,1998,"Near Sand Beds, B-45/Area.","Yes",0,0,0,NA,NA,NA,NA
-"187862","187862","0099257MOR","Acer saccharinum L.",NA,NA,"Worcester, L","LW312",9,8,2018,"Midwest: O-67/85-94","Yes",0,0,0,NA,NA,NA,NA
-"632","632","0039900MOR","Acer saccharum 'Coleman'",NA,NA,"Allen, L","s.n.",24,7,1973,"Columnar Trees Coll., G-65/65-95.","Yes",0,0,0,NA,NA,NA,NA
-"104067","104067","0039893MOR","Acer saccharum 'Coleman'",NA,NA,"Hess, WJ","5046V92",13,5,1992,"Acer Collection, S-101/55-45.","Yes",0,0,0,NA,NA,NA,NA
-"189642","189642","0100746MOR","Acer saccharum 'Conicum'",NA,NA,"Potenberg, K","17388v22",8,9,2022,"Acer: O-103/97-15","Yes",0,0,0,NA,NA,NA,NA
-"654","654","0039892MOR","Acer saccharum 'Globosum'",NA,NA,"Read, RW","s.n.",14,10,1971,"Acer Collection, O-101/65-2.","Yes",0,0,0,NA,NA,NA,NA
-"104580","104580","0039905MOR","Acer saccharum 'Sweet Shadow Cut-Leaf'",NA,NA,"Hess, WJ","5205V92",17,6,1992,"Parking Lot #2, M-56/Area.","Yes",0,0,0,NA,NA,NA,NA
-"195212","195212","0112654MOR","Acer saccharum 'Sweet Shadow Cut-Leaf'",NA,NA,"Chen, S","18929v25",7,8,2025,"Acer: R-102/70-40","Yes",0,0,0,NA,NA,NA,NA
-"104131","104131","0039903MOR","Acer saccharum 'Temples Upright'",NA,NA,"Hess, WJ","5050V92",13,5,1992,"Acer Collection, Q-101/80-90.","Yes",0,0,0,NA,NA,NA,NA
-"104133","104133","0039904MOR","Acer saccharum 'Temples Upright'",NA,NA,"Hess, WJ","5051V92",13,5,1992,"Acer Collection, Q-101/70-60.","Yes",0,0,0,NA,NA,NA,NA
-"187897","187897","0099233MOR","Acer saccharum f. conicum Fernald",NA,NA,"Worcester, L","LW345",28,8,2018,"Acer: O-103/97-15","Yes",0,0,0,NA,NA,NA,NA
-"187886","187886","0099224MOR","Acer saccharum f. rugelii (Pax) E.J.Palmer & Steyerm.",NA,NA,"Worcester, L","LW335",23,8,2018,"Acer: R-101/72-73","Yes",0,0,0,NA,NA,NA,NA
-"46","46",NA,"Acer saccharum Marshall",NA,NA,"Hartmann, K","19152v26",19,5,2026,"x-61/06-55","Yes",0,0,0,NA,NA,NA,NA
-"614","614","0039863MOR","Acer saccharum Marshall",NA,NA,"Kammerer, E","s.n.",15,10,1936,"Hemlock Plot","Yes",0,0,0,NA,NA,NA,NA
-"73910","73910","0039887MOR","Acer saccharum Marshall",NA,NA,"Podrasky, N","1437V87",25,7,1987,"Ground Cover Collection, J-46/90-65","Yes",0,0,0,NA,NA,NA,NA
-"104497","104497","0039868MOR","Acer saccharum Marshall",NA,NA,"Altvatter, K","5184V92",9,6,1992,"Appalachia Collection, AA-74/49-05","Yes",0,0,0,NA,NA,NA,NA
-"127618","127618","0039884MOR","Acer saccharum Marshall",NA,NA,"Altvatter, K","7156V95",21,6,1995,"Aceraceae Collection, W-62/95-64","Yes",0,0,0,NA,NA,NA,NA
-"194981","194981","0112580MOR","Acer saccharum Marshall",NA,NA,"Chen, S","18882v25",10,7,2025,"Sterling Pond: O-2/99-12","Yes",0,0,0,NA,NA,NA,NA
-"161","161","0039899MOR","Acer saccharum subsp. grandidentatum (Nutt. ex Torr. & A.Gray) Desmarais",NA,NA,"Schulenberg, RF","s.n.",29,5,1975,"Illinois Trees Trail, T-51/15-75.","Yes",0,0,0,NA,NA,NA,NA
-"127778","127778","0039890MOR","Acer saccharum subsp. grandidentatum (Nutt. ex Torr. & A.Gray) Desmarais",NA,NA,"Altvatter, K","7173V95",21,6,1995,"Aceraceae Collection, X-61/45-04.","Yes",0,0,0,NA,NA,NA,NA
-"135417","135417","0039897MOR","Acer saccharum subsp. grandidentatum (Nutt. ex Torr. & A.Gray) Desmarais",NA,NA,"Wiegrefe, S","327",21,5,1997,"Acer Collection, X-61/45-04.","Yes",0,0,0,NA,NA,NA,NA
-"189","189","0040004MOR","Acer saccharum subsp. leucoderme (Small) Desmarais",NA,NA,"Lesica, P","s.n.",13,6,1972,"Acer Collection, T-101/65-75.","Yes",0,0,0,NA,NA,NA,NA
-"127839","127839","0040003MOR","Acer saccharum subsp. leucoderme (Small) Desmarais",NA,NA,"Altvatter, K","7157V95",21,6,1995,"Aceraceae Collection, W-63/18-42.","Yes",0,0,0,NA,NA,NA,NA
-"135414","135414","0040002MOR","Acer saccharum subsp. leucoderme (Small) Desmarais",NA,NA,"Wiegrefe, S","330",21,5,1997,"Acer Collection, W-63/18-42.","Yes",0,0,0,NA,NA,NA,NA
-"314","314","0040008MOR","Acer saccharum subsp. nigrum (F.Michx.) Desmarais",NA,NA,"Swink, FA","s.n.",10,8,1964,"Acer Collection, R-100/50-95.","Yes",0,0,0,NA,NA,NA,NA
-"315","315","0040010MOR","Acer saccharum subsp. nigrum (F.Michx.) Desmarais",NA,NA,"Ciolac, C","s.n.",16,1,1973,"Acer Collection, R-102/95-20.","Yes",0,0,0,NA,NA,NA,NA
-"127847","127847","0040015MOR","Acer saccharum subsp. nigrum (F.Michx.) Desmarais",NA,NA,"Altvatter, K","7165V95",21,6,1995,"Aceraceae Collection, K-59/56-43.","Yes",0,0,0,NA,NA,NA,NA
-"135527","135527","0040006MOR","Acer saccharum subsp. nigrum (F.Michx.) Desmarais",NA,NA,"Wiegrefe, S","335",23,5,1997,"Northern IL Collection, S section, K-59/56-43.","Yes",0,0,0,NA,NA,NA,NA
-"187901","187901","0099229MOR","Acer saccharum subsp. nigrum (F.Michx.) Desmarais",NA,NA,"Worcester, L","LW341",28,8,2018,"Acer: U-103/64-39","Yes",0,0,0,NA,NA,NA,NA
-"104049","104049","0040022MOR","Acer saccharum subsp. schneckii (Rehder) Desmarais",NA,NA,"Hess, WJ","5047V92",13,5,1992,"Acer Collection, S-101/15-50.","Yes",0,0,0,NA,NA,NA,NA
-"188073","188073","0099980MOR","Acer shirasawanum 'Munn 001'",NA,NA,"Potenberg, K","16899v21",12,8,2021,"Children's Garden: J-50/25-69","Yes",0,0,0,NA,NA,NA,NA
-"93700","93700","0040038MOR","Acer spicatum Lam.",NA,NA,"Shimp, E","3770V90",31,7,1990,"Northern Great Lakes, NN-33/Area.","Yes",0,0,0,NA,NA,NA,NA
-"135420","135420","0040035MOR","Acer spicatum Lam.",NA,NA,"Wiegrefe, S","325",21,5,1997,"Acer Collection, W-60/06-07.","Yes",0,0,0,NA,NA,NA,NA
-"138970","138970","0040037MOR","Acer spicatum Lam.",NA,NA,"Rossi, E","357",26,6,1990,"On the East Side of the Morton Arboretum in the Aceraceae Collection. On the south side of Ridge Road in W-62/15-07.","Yes",0,0,0,NA,NA,NA,NA
-"140673","140673","0040030MOR","Acer spicatum Lam.",NA,NA,"Allen, K","8341V97",28,7,1997,"In the Appalachian Collection on the side, BB-72/22-79.","Yes",0,0,0,NA,NA,NA,NA
-"187900","187900","0099230MOR","Acer spicatum Lam.",NA,NA,"Worcester, L","LW342",28,8,2018,"Acer: T-102/03-87","Yes",0,0,0,NA,NA,NA,NA
-"188141","188141","0100204MOR","Acer spicatum Lam.",NA,NA,"Dorrell, J","16928v21",26,8,2021,"Acer: P-102/03-62","Yes",0,0,0,NA,NA,NA,NA
-"187882","187882","0099228MOR","Acer stachyophyllum Hiern",NA,NA,"Worcester, L","LW340",28,8,2018,"Acer: S-100/39-93","Yes",0,0,0,NA,NA,NA,NA
-"188989","188989","0100219MOR","Acer stachyophyllum Hiern",NA,NA,"Potenberg, K","17186v22",26,5,2022,"Acer: U-100/80-30","Yes",0,0,0,NA,NA,NA,NA
-"32","32",NA,"Acer stachyophyllum subsp. betulifolium (Maxim.) P.C.deJong",NA,NA,"Morrison, K","40",3,7,2019,"Acer: S-100/20-19","Yes",0,0,0,NA,NA,NA,NA
-"33","33",NA,"Acer stachyophyllum subsp. betulifolium (Maxim.) P.C.deJong",NA,NA,"Morrison, K","39",3,7,2019,"Acer: R-100/98-27","Yes",0,0,0,NA,NA,NA,NA
-"34","34",NA,"Acer stachyophyllum subsp. betulifolium (Maxim.) P.C.deJong",NA,NA,"Morrison, K","38",3,7,2019,"Acer: S-99/02-99","Yes",0,0,0,NA,NA,NA,NA
-"187889","187889","0099221MOR","Acer stachyophyllum subsp. betulifolium (Maxim.) P.C.deJong",NA,NA,"Worcester, L","LW330",17,8,2018,"China: Z-70/85-95","Yes",0,0,0,NA,NA,NA,NA
-"188369","188369","0099746MOR","Acer stachyophyllum subsp. betulifolium (Maxim.) P.C.deJong",NA,NA,"Potenberg, K","16906v21",19,8,2021,"Acer: S-99/02-99","Yes",0,0,0,NA,NA,NA,NA
-"35","35",NA,"Acer sterculiaceum subsp. franchetii (Pax) A.E.Murray",NA,NA,"Morrison, K","49",5,7,2019,"Acer: V-100/46-74","Yes",0,0,0,NA,NA,NA,NA
-"36","36",NA,"Acer sterculiaceum subsp. franchetii (Pax) A.E.Murray",NA,NA,"Morrison, K","48",5,7,2019,"Acer: W-100/09-40","Yes",0,0,0,NA,NA,NA,NA
-"37","37",NA,"Acer sterculiaceum subsp. franchetii (Pax) A.E.Murray",NA,NA,"Morrison, K","50",5,7,2019,"Acer: V-100/14-84","Yes",0,0,0,NA,NA,NA,NA
-"188978","188978","0099994MOR","Acer sterculiaceum subsp. franchetii (Pax) A.E.Murray",NA,NA,"Potenberg, K","16942v21",30,9,2021,"Acer: Q-102/34-06","Yes",0,0,0,NA,NA,NA,NA
-"690","690","0040046MOR","Acer tataricum L.",NA,NA,"Hawkinson, L","s.n.",19,10,1940,NA,"Yes",0,0,0,NA,NA,NA,NA
-"125","125","0039759MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.",NA,NA,"Hawkinson, L","s.n.",8,10,1940,"China Collection, central, BB-66/27-41.","Yes",0,0,0,NA,NA,NA,NA
-"111557","111557","0039699MOR","Acer tataricum subsp. semenovii (Regel & Herder) A.E.Murray",NA,NA,"Wiegrefe, S","283",14,5,1993,"Acer Collection, V-61/46-63.","Yes",0,0,0,NA,NA,NA,NA
-"38","38",NA,"Acer tegmentosum Maxim.",NA,NA,"Morrison, K","44",3,7,2019,"Acer: R-98/57-34","Yes",0,0,0,NA,NA,NA,NA
-"127916","127916","0039705MOR","Acer tegmentosum Maxim.",NA,NA,"Altvatter, K","7190V95",23,6,1995,"North Eastern Asia, CC-40/33-33.","Yes",0,0,0,NA,NA,NA,NA
-"149264","149264","0039698MOR","Acer tegmentosum Maxim.",NA,NA,"Allen, K","9145V00",27,4,2000,"Aceraceae Collection, X-62/57-58.","Yes",0,0,0,NA,NA,NA,NA
-"158961","158961","0050505MOR","Acer tegmentosum Maxim.",NA,NA,"Vogel, S","9922V03",8,9,2003,"China, central section; BB-68/12-88","Yes",0,0,0,NA,NA,NA,NA
-"187251","187251","0098332MOR","Acer trautvetteri Medw.",NA,NA,"Worcester, L","LW283",4,8,2018,"Acer: V-100/14-31","Yes",0,0,0,NA,NA,NA,NA
-"735","735","0039963MOR","Acer triflorum Kom.",NA,NA,"Swink, FA","s.n.",11,8,1964,"Acer Collection, V-98/40-65.","Yes",0,0,0,NA,NA,NA,NA
-"127840","127840","0039816MOR","Acer triflorum Kom.",NA,NA,"Altvatter, K","7158V95",21,6,1995,"Aceraceae Collection, X-61/82-47.","Yes",0,0,0,NA,NA,NA,NA
-"158511","158511","0050096MOR","Acer triflorum Kom.",NA,NA,"Packard, S","9921V03",8,9,2003,"China, central section: BB-69/32-34","Yes",0,0,0,NA,NA,NA,NA
-"186631","186631","0098781MOR","Acer triflorum Kom.",NA,NA,"Means, E","15846v18",28,6,2018,"Childrens Garden: K-49/87-87","Yes",0,0,0,NA,NA,NA,NA
-"190985","190985","0102871MOR","Acer triflorum Kom.",NA,NA,"Dorrell, J","18033v23",20,7,2023,"Research Building: H-40/74-57","Yes",0,0,0,NA,NA,NA,NA
-"146799","146799","0054735MOR","Acer truncatum",NA,NA,"Wiegrefe, S","642",23,7,1998,"46029","Yes",0,0,0,NA,NA,NA,NA
-"163716","163716","0053218MOR","Acer truncatum",NA,NA,"Bonnewell, V",NA,14,5,2007,"Tree Breeding Nursery, EN1/B11","Yes",0,0,0,NA,NA,NA,NA
-"74943","74943","0039969MOR","Acer truncatum Bunge",NA,NA,"Bucha, L","1625V87",13,10,1987,"Acer Collection, N-97/60-30.","Yes",0,0,0,NA,NA,NA,NA
-"127842","127842","0039973MOR","Acer truncatum Bunge",NA,NA,"Altvatter, K","7160V95",21,6,1995,"Aceraceae Collection, V-63/61-30.","Yes",0,0,0,NA,NA,NA,NA
-"187892","187892","0099218MOR","Acer tsinglingense W.P.Fang & C.F.Hsieh",NA,NA,"Worcester, L","LW326",16,8,2018,"China: CC-66/69-06","Yes",0,0,0,NA,NA,NA,NA
-"187870","187870","0099263MOR","Acer platanoides subsp. turkestanicum (Pax) P.C.de Jong",NA,NA,"Worcester, L","LW319",14,8,2018,"Frost Hill: E-64/97-00","Yes",0,0,0,NA,NA,NA,NA
-"187883","187883","0099227MOR","Acer ukurunduense Trautv. & C.A.Mey.",NA,NA,"Worcester, L","LW339",28,8,2018,"Acer: R-98/97-50","Yes",0,0,0,NA,NA,NA,NA
-"188353","188353","0100193MOR","Acer wilsonii Rehder",NA,NA,"Dorrell, J","16925v21",26,8,2021,"Acer: Q-101/17-86","Yes",0,0,0,NA,NA,NA,NA
-"187860","187860","0099250MOR","Acer yui W.P.Fang",NA,NA,"Worcester, L","LW268",31,7,2018,"China: X-64/50-93","Yes",0,0,0,NA,NA,NA,NA
-"189664","189664","0101002MOR","Acer yui W.P.Fang",NA,NA,"Potenberg, K","17298v22",4,8,2022,"China: X-62/40-26","Yes",0,0,0,NA,NA,NA,NA
+"","SpecimenAccession","SpecimenBarcode","DeterminationCalcFullName","Collectors","CollectorNumber","Day","Month","Year","Accounted.for","Buds","Flowers","Fruits","Notes","Percent.Buds","Percent.Flowers","Percent.Fruit"
+"177676","177676","0065608MOR","Tilia","Beck, J","13957v13",15,8,2013,"Yes",0,0,0,NA,NA,NA,NA
+"190618","190618","0101807MOR","Tilia 'Moltkei'","Worcester, L","LW 590",25,9,2020,"Yes",0,0,0,NA,NA,NA,NA
+"190222","190222","0099413MOR","Tilia 'Zamoyskiana'","Worcester, L","LW 607",28,9,2020,"Yes",0,0,0,NA,NA,NA,NA
+"188220","188220","0099467MOR","Tilia × europaea 'Pallida'","Worcester, L","LW356",5,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"188217","188217","0099470MOR","Tilia × europaea L.","Worcester, L","LW350",30,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"188445","188445","0099844MOR","Tilia × europaea L.","Worcester, L","LW 454",20,6,2020,"Yes",0,0,0,NA,NA,NA,NA
+"188446","188446","0099843MOR","Tilia × europaea L.","Worcester, L","LW 455",20,6,2020,"Yes",0,0,0,NA,NA,NA,NA
+"187828","187828","0099172MOR","Tilia × flaccida Host ex Bayer","Worcester, L","LW404",25,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"188222","188222","0099465MOR","Tilia × flavescens 'Glenleven'","Worcester, L","LW402",25,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"153303","153303","0071421MOR","Tilia × zamoyskiana Wróbl.","Anderson, B","7922",2,8,1979,"Yes",0,0,0,NA,NA,NA,NA
+"188448","188448","0099841MOR","Tilia amurensis subsp. taquetii (C.K.Schneid.) Pigott","Worcester, L","LW 457",13,8,2020,"Yes",0,0,0,NA,NA,NA,NA
+"187832","187832","0099170MOR","Tilia begoniifolia Steven","Worcester, L","LW370",13,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"190040","190040","0099376MOR","Tilia chinensis Maxim.","Worcester, L","LW 618",30,9,2020,"Yes",0,0,0,NA,NA,NA,NA
+"187831","187831","0099169MOR","Tilia chingiana Hu & W.C.Cheng","Worcester, L","LW369",13,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"190042","190042","0099374MOR","Tilia cordata 'Corzam'","Worcester, L","LW 620",30,9,2020,"Yes",0,0,0,NA,NA,NA,NA
+"190637","190637","0101701MOR","Tilia cordata 'Greenspire'","Worcester, L","LW 569",23,9,2020,"Yes",0,0,0,NA,NA,NA,NA
+"189742","189742","0101219MOR","Tilia cordata 'Halka'","Worcester, L","LW 499",26,8,2020,"Yes",0,0,0,NA,NA,NA,NA
+"187827","187827","0099171MOR","Tilia cordata Mill.","Worcester, L","LW371",13,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"188447","188447","0099842MOR","Tilia cordata Mill.","Worcester, L","LW 456",9,7,2020,"Yes",0,0,0,NA,NA,NA,NA
+"190639","190639","0101699MOR","Tilia cordata Mill.","Worcester, L","LW 571",23,9,2020,"Yes",0,0,0,NA,NA,NA,NA
+"195738","195738",NA,"Tilia cordata Mill.","Dorrell, J","19019v25",23,10,2025,"Yes",0,0,0,NA,NA,NA,NA
+"187826","187826","0099168MOR","Tilia cordata Mill. subsp. cordata","Worcester, L","LW364",13,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"187833","187833","0099155MOR","Tilia cordata Mill. subsp. cordata","Worcester, L","LW233",2,7,2018,"Yes",0,0,0,NA,NA,NA,NA
+"187842","187842","0099167MOR","Tilia cordata Mill. subsp. cordata","Worcester, L","LW346",28,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"188236","188236","0099479MOR","Tilia dasystyla subsp. caucasica (V.Engl.) Pigott","DeVries, C","16240v19",3,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"188450","188450","0099839MOR","Tilia japonica (Miq.) Simonk.","DeVries, C","16170v19",5,6,2019,"Yes",0,0,0,NA,NA,NA,NA
+"188221","188221","0099466MOR","Tilia ledebourii Borbás","Worcester, L","LW368",13,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"188452","188452","0099837MOR","Tilia mandshurica Rupr. & Maxim.","Worcester, L","LW322",16,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"188235","188235","0099480MOR","Tilia mongolica Maxim.","Potenberg, K","16231v19",27,6,2019,"Yes",0,0,0,NA,NA,NA,NA
+"188451","188451","0099838MOR","Tilia mongolica Maxim.","Worcester, L","LW324",16,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"190645","190645","0101693MOR","Tilia mongolica Maxim.","Worcester, L","LW 577",23,9,2020,"Yes",0,0,0,NA,NA,NA,NA
+"196263","196263",NA,"Tilia mongolica Maxim.","Carle, M","16169v19",5,6,2019,"Yes",0,0,0,NA,NA,NA,NA
+"105005","105005","0049452MOR","Tilia oliveri Szyszyl.","Hess, WJ","5315V92",9,7,1992,"Yes",0,0,0,NA,NA,NA,NA
+"153302","153302","0071266MOR","Tilia oliveri Szyszyl.","Anderson, B","336-69",2,8,1979,"Yes",0,0,0,NA,NA,NA,NA
+"187825","187825","0099162MOR","Tilia oliveri Szyszyl.","Worcester, L","LW325",16,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"187843","187843","0099166MOR","Tilia paucicostata Maxim.","Worcester, L","LW337",28,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"187839","187839","0099163MOR","Tilia paucicostata var. dictyoneura (V.Engl. ex C.K.Schneid.) H.T.Chang & R.H.Miao","Worcester, L","LW327",16,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"28150","28150","0071312MOR","Tilia platyphyllos 'Laciniata'","Swink, FA","s.n.",28,7,1964,"Yes",0,0,0,NA,NA,NA,NA
+"28151","28151","0071313MOR","Tilia platyphyllos 'Laciniata'","Eickhorst, W","s.n.",17,7,1951,"Yes",0,0,0,NA,NA,NA,NA
+"28152","28152","0071314MOR","Tilia platyphyllos 'Laciniata'","Eickhorst, W","s.n.",10,6,1948,"Yes",0,0,0,NA,NA,NA,NA
+"190644","190644","0101694MOR","Tilia tomentosa 'Sterling'","Worcester, L","LW 576",23,9,2020,"Yes",0,0,0,NA,NA,NA,NA
+"142087","142087","0071319MOR","Tilia tomentosa Moench","DeMink, L","s.n.",6,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"152462","152462","0071320MOR","Tilia tomentosa Moench","Packard, S","9260V01",26,6,2001,"Yes",0,0,0,NA,NA,NA,NA
+"172539","172539","0057570MOR","Tilia tomentosa Moench","Ball, K","13243v11",1,11,2011,"Yes",0,0,0,NA,NA,NA,NA
+"187838","187838","0099161MOR","Tilia tomentosa Moench","Worcester, L","LW323",16,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"186947","186947","0097773MOR","Cercis canadensis 'Greswan'","Dorrell, J","16201v19",13,6,2019,"Yes",0,0,0,NA,NA,NA,NA
+"196267","196267",NA,"Cercis canadensis 'Greswan'","Potenberg, K","18907v25",31,7,2025,"Yes",0,0,0,NA,NA,NA,NA
+"186972","186972","0098115MOR","Cercis canadensis 'Hearts of Gold'","Dorrell, J","16200v19",13,6,2019,"Yes",0,0,0,NA,NA,NA,NA
+"189559","189559","0100972MOR","Cercis canadensis 'UMN7101'","Dorrell, J","17352v22",18,8,2022,"Yes",0,0,0,NA,NA,NA,NA
+"35454","35454","0043150MOR","Cercis canadensis f. alba Rehder","Grintz, M","s.n.",28,11,1977,"Yes",0,0,0,NA,NA,NA,NA
+"13914","13914","0043095MOR","Cercis canadensis L.","Braham, R","s.n.",3,7,1971,"Yes",0,0,0,NA,NA,NA,NA
+"13916","13916","0043093MOR","Cercis canadensis L.","Kammerer, E","s.n.",8,10,1937,"Yes",0,0,0,NA,NA,NA,NA
+"98146","98146","0043080MOR","Cercis canadensis L.","Swink, FA","s.n.",30,8,1991,"Yes",0,0,0,NA,NA,NA,NA
+"185097","185097","0098916MOR","Cercis canadensis L.","Beck, J","15694v17",28,9,2017,"Yes",0,0,0,NA,NA,NA,NA
+"142720","142720","0043154MOR","Cercis canadensis var. texensis (S.Watson) M.Hopkins","Kirt, S","8537V98",15,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"13954","13954","0043166MOR","Cercis chinensis Bunge","Teuscher, H","s.n.",16,4,1923,"Yes",0,0,0,"seedlings",NA,NA,NA
+"13960","13960","0043174MOR","Cercis siliquastrum L.","Braham, R","s.n.",8,7,1971,"Yes",0,0,0,NA,NA,NA,NA
+"2","2",NA,"Acer","Morrison, K","54",5,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"146660","146660","0055067MOR","Acer","Wiegrefe, S","500",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146661","146661","0055066MOR","Acer","Wiegrefe, S","501",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146662","146662","0055065MOR","Acer","Wiegrefe, S","502",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146663","146663","0055057MOR","Acer","Wiegrefe, S","503",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146664","146664","0055058MOR","Acer","Wiegrefe, S","504",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146665","146665","0055059MOR","Acer","Wiegrefe, S","s.n.",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146666","146666","0055060MOR","Acer","Wiegrefe, S","506",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146667","146667","0055061MOR","Acer","Wiegrefe, S","507",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146668","146668","0055062MOR","Acer","Wiegrefe, S","508",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146669","146669","0055063MOR","Acer","Wiegrefe, S","509",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146670","146670","0055064MOR","Acer","Wiegrefe, S","510",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146671","146671","0055854MOR","Acer","Wiegrefe, S","511",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146672","146672","0055056MOR","Acer","Wiegrefe, S","512",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146673","146673","0055353MOR","Acer","Wiegrefe, S","513",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146674","146674","0055112MOR","Acer","Wiegrefe, S","514",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146675","146675","0055113MOR","Acer","Wiegrefe, S","515",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146676","146676","0055114MOR","Acer","Wiegrefe, S","516",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146677","146677","0055115MOR","Acer","Wiegrefe, S","517",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146678","146678","0055116MOR","Acer","Wiegrefe, S","146678",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146679","146679","0055117MOR","Acer","Wiegrefe, S","519",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146680","146680","0055118MOR","Acer","Wiegrefe, S","520",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146681","146681","0055119MOR","Acer","Wiegrefe, S","521",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146682","146682","0055120MOR","Acer","Wiegrefe, S","522",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146683","146683","0055055MOR","Acer","Wiegrefe, S","523",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146684","146684","0055111MOR","Acer","Wiegrefe, S","524",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146685","146685","0055053MOR","Acer","Wiegrefe, S","525",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146686","146686","0055054MOR","Acer","Wiegrefe, S","526",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146687","146687","0055110MOR","Acer","Wiegrefe, S","527",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146688","146688","0055080MOR","Acer","Wiegrefe, S","528",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146689","146689","0055081MOR","Acer","Wiegrefe, S","529",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146690","146690","0055106MOR","Acer","Wiegrefe, S","530",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146691","146691","0055107MOR","Acer","Wiegrefe, S","531",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146692","146692","0055108MOR","Acer","Wiegrefe, S","532",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146693","146693","0055109MOR","Acer","Wiegrefe, S","533",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146694","146694","0055302MOR","Acer","Wiegrefe, S","534",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146695","146695","0055350MOR","Acer","Wiegrefe, S","535",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146696","146696","0055351MOR","Acer","Wiegrefe, S","536",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146697","146697","0055352MOR","Acer","Wiegrefe, S","537",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146698","146698","0055079MOR","Acer","Wiegrefe, S","538",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146699","146699","0055068MOR","Acer","Wiegrefe, S","539",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146700","146700","0055069MOR","Acer","Wiegrefe, S","540",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146701","146701","0055070MOR","Acer","Wiegrefe, S","541",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146702","146702","0055071MOR","Acer","Wiegrefe, S","542",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146704","146704","0055073MOR","Acer","Wiegrefe, S","544",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146705","146705","0055074MOR","Acer","Wiegrefe, S","545",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146706","146706","0055075MOR","Acer","Wiegrefe, S","546",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146707","146707","0055076MOR","Acer","Wiegrefe, S","547",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146708","146708","0055077MOR","Acer","Wiegrefe, S","548",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146709","146709","0055078MOR","Acer","Wiegrefe, S","549",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146724","146724","0055355MOR","Acer","Wiegrefe, S","SJW 95X27-6",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146725","146725","0055356MOR","Acer","Wiegrefe, S","565",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146726","146726","0055357MOR","Acer","Wiegrefe, S","566",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146727","146727","0055358MOR","Acer","Wiegrefe, S","567",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146728","146728","0055359MOR","Acer","Wiegrefe, S","568",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146729","146729","0055360MOR","Acer","Wiegrefe, S","569",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146730","146730","0055361MOR","Acer","Wiegrefe, S","570",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146731","146731","0055362MOR","Acer","Wiegrefe, S","571",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146732","146732","0055363MOR","Acer","Wiegrefe, S","572",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146733","146733","0055364MOR","Acer","Wiegrefe, S","573",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146734","146734","0055365MOR","Acer","Wiegrefe, S","574",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146735","146735","0055367MOR","Acer","Wiegrefe, S","576",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146736","146736","0055366MOR","Acer","Wiegrefe, S","575",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146737","146737","0055368MOR","Acer","Wiegrefe, S","577",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146738","146738","0055369MOR","Acer","Wiegrefe, S","578",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146739","146739","0055370MOR","Acer","Wiegrefe, S","579",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146740","146740","0055371MOR","Acer","Wiegrefe, S","580",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146741","146741","0055372MOR","Acer","Wiegrefe, S","581",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146742","146742","0055444MOR","Acer","Wiegrefe, S","582",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146744","146744","0055446MOR","Acer","Wiegrefe, S","584",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146745","146745","0055447MOR","Acer","Wiegrefe, S","585",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146746","146746","0055448MOR","Acer","Wiegrefe, S","586",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146747","146747","0055449MOR","Acer","Wiegrefe, S","587",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146748","146748","0055450MOR","Acer","Wiegrefe, S","588",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146749","146749","0055451MOR","Acer","Wiegrefe, S","589",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146750","146750","0055452MOR","Acer","Wiegrefe, S","590",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146751","146751","0055453MOR","Acer","Wiegrefe, S","591",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146752","146752","0055454MOR","Acer","Wiegrefe, S","592",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146753","146753","0055455MOR","Acer","Wiegrefe, S","593",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146754","146754","0055456MOR","Acer","Wiegrefe, S","594",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146755","146755","0055457MOR","Acer","Wiegrefe, S","595",19,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146756","146756","0055458MOR","Acer","Wiegrefe, S","596",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146757","146757","0055459MOR","Acer","Wiegrefe, S","597",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146758","146758","0055460MOR","Acer","Wiegrefe, S","598",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146759","146759","0055461MOR","Acer","Wiegrefe, S","599",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146760","146760","0052294MOR","Acer","Wiegrefe, S","600",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146765","146765","0054721MOR","Acer","Wiegrefe, S","605",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146766","146766","0054495MOR","Acer","Wiegrefe, S","606",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146767","146767","0054504MOR","Acer","Wiegrefe, S","607",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146768","146768","0054505MOR","Acer",NA,"608",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146769","146769","0054506MOR","Acer",NA,"609",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146770","146770","0054507MOR","Acer",NA,"610",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146771","146771","0054508MOR","Acer","Wiegrefe, S","611",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146772","146772","0054509MOR","Acer",NA,"612",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146773","146773","0054510MOR","Acer","Wiegrefe, S","613",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146774","146774","0054624MOR","Acer","Wiegrefe, S","614",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146776","146776","0054626MOR","Acer","Wiegrefe, S","617",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146777","146777","0054627MOR","Acer","Wiegrefe, S","618",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146778","146778","0054628MOR","Acer","Wiegrefe, S","620",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146779","146779","0054629MOR","Acer","Wiegrefe, S","621",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146780","146780","0054630MOR","Acer","Wiegrefe, S","622",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146781","146781","0054631MOR","Acer","Wiegrefe, S","623",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146782","146782","0054632MOR","Acer","Wiegrefe, S","624",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146783","146783","0054633MOR","Acer","Wiegrefe, S","625",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146784","146784","0054634MOR","Acer","Wiegrefe, S","626",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146785","146785","0054635MOR","Acer","Wiegrefe, S","627",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146789","146789","0054639MOR","Acer","Wiegrefe, S","632",23,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146790","146790","0054640MOR","Acer","Wiegrefe, S","633",23,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146791","146791","0054727MOR","Acer","Wiegrefe, S","634",23,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146792","146792","0054728MOR","Acer","Wiegrefe, S","635",23,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146793","146793","0054729MOR","Acer","Wiegrefe, S","636",23,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146794","146794","0054730MOR","Acer","Wiegrefe, S","637",23,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146795","146795","0054731MOR","Acer","Wiegrefe, S","638",23,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146796","146796","0054732MOR","Acer","Wiegrefe, S","639",23,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146797","146797","0054733MOR","Acer","Wiegrefe, S","640",23,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146798","146798","0054734MOR","Acer","Wiegrefe, S","641",23,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146803","146803","0054739MOR","Acer","Wiegrefe, S","646",23,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146804","146804","0054740MOR","Acer","Wiegrefe, S","647",23,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146805","146805","0054741MOR","Acer","Wiegrefe, S","648",23,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146806","146806","0054742MOR","Acer","Wiegrefe, S","649",23,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146920","146920","0053538MOR","Acer","Wiegrefe, S","703",12,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146921","146921","0053539MOR","Acer","Wiegrefe, S","704",12,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146922","146922","0053540MOR","Acer","Wiegrefe, S","705",12,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146923","146923","0053541MOR","Acer","Wiegrefe, S","707",12,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146924","146924","0053542MOR","Acer","Wiegrefe, S","709",12,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146925","146925","0053543MOR","Acer","Wiegrefe, S","710",12,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146926","146926","0053544MOR","Acer","Wiegrefe, S","711",12,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146929","146929","0053547MOR","Acer","Wiegrefe, S","714",12,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146930","146930","0053548MOR","Acer","Wiegrefe, S","715",12,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146931","146931","0053549MOR","Acer","Wiegrefe, S","716",12,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146932","146932","0053550MOR","Acer","Wiegrefe, S","717",12,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146933","146933","0053551MOR","Acer","Wiegrefe, S","718",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146934","146934","0053552MOR","Acer","Wiegrefe, S","719",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146935","146935","0053553MOR","Acer","Wiegrefe, S","720",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146936","146936","0053554MOR","Acer","Wiegrefe, S","721",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146937","146937","0053555MOR","Acer","Wiegrefe, S","722",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146938","146938","0053556MOR","Acer","Wiegrefe, S","723",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146939","146939","0053557MOR","Acer","Wiegrefe, S","724",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146940","146940","0053558MOR","Acer","Wiegrefe, S","725",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146941","146941","0053559MOR","Acer","Wiegrefe, S","726",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146942","146942","0053560MOR","Acer","Wiegrefe, S","727",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146943","146943","0053561MOR","Acer","Wiegrefe, S","728",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146944","146944","0053562MOR","Acer","Wiegrefe, S","729",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146945","146945","0053563MOR","Acer","Wiegrefe, S","731",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146946","146946","0053564MOR","Acer","Wiegrefe, S","732",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146947","146947","0054874MOR","Acer","Wiegrefe, S","735",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146948","146948","0054875MOR","Acer","Wiegrefe, S","736",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146949","146949","0054876MOR","Acer","Wiegrefe, S","737",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146950","146950","0054877MOR","Acer","Wiegrefe, S","738",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146951","146951","0054878MOR","Acer","Wiegrefe, S","739",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146952","146952","0054879MOR","Acer","Wiegrefe, S","740",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146953","146953","0054880MOR","Acer","Wiegrefe, S","741",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146954","146954","0054881MOR","Acer","Wiegrefe, S","742",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146955","146955","0054882MOR","Acer","Wiegrefe, S","743",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146956","146956","0054883MOR","Acer","Wiegrefe, S","744",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146957","146957","0054884MOR","Acer","Wiegrefe, S","745",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146958","146958","0054885MOR","Acer","Wiegrefe, S","746",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146959","146959","0054886MOR","Acer","Wiegrefe, S","747",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146960","146960","0054887MOR","Acer","Wiegrefe, S","748",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146961","146961","0054888MOR","Acer","Wiegrefe, S","749",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146962","146962","0054889MOR","Acer","Wiegrefe, S","750",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146963","146963","0054890MOR","Acer","Wiegrefe, S","751",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146965","146965","0054892MOR","Acer","Wiegrefe, S","753",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146966","146966","0054893MOR","Acer","Wiegrefe, S","754",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146971","146971","0054747MOR","Acer","Wiegrefe, S","654",30,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146972","146972","0054748MOR","Acer","Wiegrefe, S","655",30,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146973","146973","0054749MOR","Acer","Wiegrefe, S","656",30,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146974","146974","0054815MOR","Acer","Wiegrefe, S","657",30,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146975","146975","0054816MOR","Acer","Wiegrefe, S","658",30,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146976","146976","0054817MOR","Acer","Wiegrefe, S","659",30,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146978","146978","0054819MOR","Acer","Wiegrefe, S","661",30,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146979","146979","0054820MOR","Acer","Wiegrefe, S","662",30,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146980","146980","0054821MOR","Acer","Wiegrefe, S","663",30,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146981","146981","0054822MOR","Acer","Wiegrefe, S","664",30,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146982","146982","0054823MOR","Acer","Wiegrefe, S","665",30,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146984","146984","0054825MOR","Acer","Wiegrefe, S","667",30,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146985","146985","0054826MOR","Acer","Wiegrefe, S","668",30,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146986","146986","0054827MOR","Acer","Wiegrefe, S","669",30,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146987","146987","0054828MOR","Acer","Wiegrefe, S","670",30,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146988","146988","0054829MOR","Acer","Wiegrefe, S","675",30,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146989","146989","0054830MOR","Acer","Wiegrefe, S","676",30,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146990","146990","0054831MOR","Acer","Wiegrefe, S","677",30,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146991","146991","0054832MOR","Acer","Wiegrefe, S","678",30,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146992","146992","0054833MOR","Acer","Wiegrefe, S","683",10,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146993","146993","0054834MOR","Acer","Wiegrefe, S","684",10,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146994","146994","0054835MOR","Acer","Wiegrefe, S","685",10,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146995","146995","0054836MOR","Acer","Wiegrefe, S","686",10,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146996","146996","0054837MOR","Acer","Wiegrefe, S","687",10,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146997","146997","0054864MOR","Acer","Wiegrefe, S","688",10,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146998","146998","0054865MOR","Acer","Wiegrefe, S","689",10,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146999","146999","0054866MOR","Acer","Wiegrefe, S","690",10,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147000","147000","0054867MOR","Acer","Wiegrefe, S","691",10,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147132","147132","0055019MOR","Acer","Wiegrefe, S","864 (1 of 3)",26,6,1997,"Yes",0,0,0,NA,NA,NA,NA
+"147133","147133","0055020MOR","Acer","Wiegrefe, S","865 (2 of 3)",26,6,1997,"Yes",0,0,0,NA,NA,NA,NA
+"147134","147134","0055021MOR","Acer","Wiegrefe, S","866 (3 of 3)",26,6,1997,"Yes",0,0,0,NA,NA,NA,NA
+"147135","147135","0055022MOR","Acer","Wiegrefe, S","867 (2 of 3)",26,6,1997,"Yes",0,0,0,NA,NA,NA,NA
+"147146","147146","0055018MOR","Acer","Wiegrefe, S","863 (2 of 3)",26,6,1997,"Yes",0,0,0,NA,NA,NA,NA
+"147263","147263","0054895MOR","Acer","Wiegrefe, S","756",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147265","147265","0054909MOR","Acer","Wiegrefe, S","770",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147266","147266","0054904MOR","Acer","Wiegrefe, S","759",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147267","147267","0054897MOR","Acer","Wiegrefe, S","758",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147268","147268","0054896MOR","Acer","Wiegrefe, S","757",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147269","147269","0054903MOR","Acer","Wiegrefe, S","769",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147272","147272","0054872MOR","Acer","Wiegrefe, S","696",12,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147273","147273","0054873MOR","Acer","Wiegrefe, S","697",12,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147274","147274","0054871MOR","Acer","Wiegrefe, S","695",12,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147275","147275","0054870MOR","Acer","Wiegrefe, S","694",12,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147276","147276","0054869MOR","Acer","Wiegrefe, S","693",12,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147277","147277","0054868MOR","Acer","Wiegrefe, S","692",12,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147281","147281","0054925MOR","Acer","Wiegrefe, S","790",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147282","147282","0054926MOR","Acer","Wiegrefe, S","791",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147283","147283","0054927MOR","Acer","Wiegrefe, S","792",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147286","147286","0054911MOR","Acer","Wiegrefe, S","772",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147287","147287","0054910MOR","Acer","Wiegrefe, S","771",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147489","147489","0054899MOR","Acer","Wiegrefe, S","765",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147490","147490","0054900MOR","Acer","Wiegrefe, S","766",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147491","147491","0054901MOR","Acer","Wiegrefe, S","767",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147492","147492","0054902MOR","Acer","Wiegrefe, S","768",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147493","147493","0054905MOR","Acer","Wiegrefe, S","760",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147494","147494","0054906MOR","Acer","Wiegrefe, S","761",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147495","147495","0054907MOR","Acer","Wiegrefe, S","762",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147496","147496","0054908MOR","Acer","Wiegrefe, S","763",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"3","3",NA,"Acer 'Morton UW'","Morrison, K","32",2,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"4","4",NA,"Acer 'Morton UW'","Morrison, K","25",2,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"127906","127906","0039427MOR","Acer × freemanii 'Armstrong'","Altvatter, K","7205V95",10,7,1995,"Yes",0,0,0,NA,NA,NA,NA
+"188113","188113","0099564MOR","Acer × freemanii 'Bailston'","Beck, J","16262v19",11,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"188413","188413","0099931MOR","Acer × freemanii 'Bailston'","Potenberg, K","16780v21",10,6,2021,"Yes",0,0,0,NA,NA,NA,NA
+"188144","188144","0100201MOR","Acer × freemanii 'Jeffersred'","Potenberg, K","16889v21",12,8,2021,"Yes",0,0,0,NA,NA,NA,NA
+"188960","188960","0100404MOR","Acer × freemanii 'Jenner'","Potenberg, K","17182v22",26,5,2022,"Yes",0,0,0,NA,NA,NA,NA
+"188983","188983","0099989MOR","Acer × freemanii 'Jenner'","Potenberg, K","17181v22",26,5,2022,"Yes",0,0,0,NA,NA,NA,NA
+"56387","56387","0039430MOR","Acer × freemanii 'Marmo'","Bachtell, KR","s.n.",7,7,1985,"Yes",0,0,0,NA,NA,NA,NA
+"100000","100000","0039431MOR","Acer × freemanii 'Marmo'","Bachtell, KR","s.n.",26,9,1985,"Yes",0,0,0,NA,NA,NA,NA
+"116399","116399","0048550MOR","Acer × freemanii 'Marmo'","Sherman, L","9990V04",4,8,2004,"Yes",0,0,0,NA,NA,NA,NA
+"143673","143673","0039429MOR","Acer × freemanii 'Marmo'","Bolger, K","8844V99",3,6,1999,"Yes",0,0,0,NA,NA,NA,NA
+"186630","186630","0098775MOR","Acer × freemanii 'Marmo'","Beck, J","15845v18",28,6,2018,"Yes",0,0,0,NA,NA,NA,NA
+"188980","188980","0099992MOR","Acer × freemanii 'Marmo'","Potenberg, K","16948v21",21,10,2021,"Yes",0,0,0,NA,NA,NA,NA
+"192442","192442","0103636MOR","Acer × freemanii 'Marmo'","Kubic, C","18412v24",5,6,2024,"Yes",0,0,0,NA,NA,NA,NA
+"193046","193046","0105923MOR","Acer × freemanii 'Marmo'","Potenberg, K","18554v24",22,8,2024,"Yes",0,0,0,NA,NA,NA,NA
+"127219","127219","0039424MOR","Acer × freemanii A.E.Murray","Hess, WJ","7049V95",31,5,1995,"Yes",0,0,0,NA,NA,NA,NA
+"187894","187894","0099241MOR","Acer × zoeschense 'Annae'","Worcester, L","LW430",28,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"187434","187434","0098319MOR","Acer saccharum subsp. Floridanum (Chapm.)","Worcester, L","LW258",31,7,2018,"Yes",0,0,0,NA,NA,NA,NA
+"5","5",NA,"Acer barbinerve Maxim. ex Miq.","Morrison, K","46",5,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"6","6",NA,"Acer barbinerve Maxim. ex Miq.","Morrison, K","47",5,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"7","7",NA,"Acer barbinerve Maxim. ex Miq.","Morrison, K","45",5,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"135416","135416","0039292MOR","Acer barbinerve Maxim. ex Miq.","Wiegrefe, S","328",21,5,1997,"Yes",0,0,0,NA,NA,NA,NA
+"187875","187875","0099259MOR","Acer barbinerve Maxim. ex Miq.","Worcester, L","LW315",14,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"20","20","0039297MOR","Acer buergerianum Miq.","Swink, FA","s.n.",4,8,1964,"Yes",0,0,0,NA,NA,NA,NA
+"187898","187898","0099232MOR","Acer caesium subsp. giraldii (Pax) A.E.Murray","Worcester, L","LW344",28,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"162071","162071","0053201MOR","Acer campestre 'Baillee'","Bonnewell, V",NA,14,5,2007,"Yes",0,0,0,NA,NA,NA,NA
+"163585","163585","0053202MOR","Acer campestre 'Baillee'","Bonnewell, V","s.n.",14,5,2007,"Yes",0,0,0,NA,NA,NA,NA
+"48.1","48","0039377MOR","Acer campestre 'Compactum'","Read, RW","s.n.",12,10,1971,"Yes",0,0,0,NA,NA,NA,NA
+"8","8",NA,"Acer campestre 'Postelense'","Morrison, K","61",5,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"25","25","0039311MOR","Acer campestre L.","Hawkinson, L","s.n.",9,10,1940,"Yes",0,0,0,NA,NA,NA,NA
+"27","27","0039406MOR","Acer campestre L.","Kammerer, E","183-27",6,8,1936,"Yes",0,0,0,NA,NA,NA,NA
+"104060","104060","0039305MOR","Acer campestre L.","Hess, WJ","5041V92",13,5,1992,"Yes",0,0,0,NA,NA,NA,NA
+"104061","104061","0039304MOR","Acer campestre L.","Hess, WJ","5042V92",13,5,1992,"Yes",0,0,0,NA,NA,NA,NA
+"127781","127781","0039302MOR","Acer campestre L.","Altvatter, K","7188V95",23,6,1995,"Yes",0,0,0,NA,NA,NA,NA
+"51","51","0039386MOR","Acer campestre subsp. leiocarpum (Wallr.) Pax","Lesica, P","s.n.",24,7,1972,"Yes",0,0,0,NA,NA,NA,NA
+"47","47","0039366MOR","Acer campestre var. austriacum (Tratt.) DC.","Hawkinson, L","s.n.",19,10,1940,"Yes",0,0,0,NA,NA,NA,NA
+"146919","146919","0053537MOR","Acer campestre var. austriacum (Tratt.) DC.","Wiegrefe, S","702",10,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"147262","147262","0053565MOR","Acer campestre var. austriacum (Tratt.) DC.","Wiegrefe, S","734",14,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"162009","162009","0053110MOR","Acer campestre var. austriacum (Tratt.) DC.","Bonnewell, V",NA,14,5,2007,"Yes",0,0,0,NA,NA,NA,NA
+"163715","163715","0053203MOR","Acer campestre var. austriacum (Tratt.) DC.","Bonnewell, V",NA,14,5,2007,"Yes",0,0,0,NA,NA,NA,NA
+"161913","161913","0053200MOR","Acer campestre var. austriacum × platanoides 'Almira'","Bonnewell, V",NA,14,5,2007,"Yes",0,0,0,NA,NA,NA,NA
+"163609","163609","0053199MOR","Acer campestre var. austriacum × platanoides 'Almira'","Bonnewell, V",NA,14,5,2007,"Yes",0,0,0,NA,NA,NA,NA
+"161912","161912","0053232MOR","Acer campestre var. austriacum × platanoides 'Undulatum'","Bonnewell, V",NA,14,5,2007,"Yes",0,0,0,NA,NA,NA,NA
+"162078","162078","0053231MOR","Acer campestre var. austriacum × platanoides 'Undulatum'","Bonnewell, V",NA,14,5,2007,"Yes",0,0,0,NA,NA,NA,NA
+"187879","187879","0099240MOR","Acer campestre x miyabei","Worcester, L","LW427",27,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"55","55","0039396MOR","Acer capillipes Maxim.","Teuscher, H","s.n.",21,3,1923,"Yes",0,0,0,"Saplings",NA,NA,NA
+"80689","80689","0039385MOR","Acer cappadocicum 'Aureum'","Hess, WJ","2196V88",24,8,1988,"Yes",0,0,0,NA,NA,NA,NA
+"9","9",NA,"Acer cappadocicum Gled.","Morrison, K","60",5,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"11","11",NA,"Acer cappadocicum Gled.","Morrison, K","53",5,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"52","52",NA,"Acer cappadocicum Gled.","Morrison, K","52",5,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"187866","187866","0099246MOR","Acer cappadocicum Gled.","Worcester, L","LW255",19,7,2018,"Yes",0,0,0,NA,NA,NA,NA
+"63","63","0039394MOR","Acer carpinifolium Siebold & Zucc.","Read, RW","731",4,8,1970,"Yes",0,0,0,NA,NA,NA,NA
+"189602","189602","0100858MOR","Acer carpinifolium Siebold & Zucc.","Potenberg, K","17178v22",26,5,2022,"Yes",0,0,0,NA,NA,NA,NA
+"187890","187890","0099220MOR","Acer caudatum subsp. multiserratum A.E.Murray","Worcester, L","LW329",17,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"187891","187891","0099219MOR","Acer caudatum subsp. multiserratum A.E.Murray","Worcester, L","LW328",17,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"187245","187245","0098343MOR","Acer ceriferum Rehder","Worcester, L","LW365",13,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"189205","189205","0100550MOR","Acer ceriferum Rehder","Potenberg, K","16941v21",30,9,2021,"Yes",0,0,0,NA,NA,NA,NA
+"69","69","0039398MOR","Acer circinatum Pursh","Schulenberg, RF","s.n.",15,10,1976,"Yes",0,0,0,NA,NA,NA,NA
+"80","80","0039410MOR","Acer cissifolium (Siebold & Zucc.) K.Koch","Ciolac, C","s.n.",10,5,1973,"Yes",0,0,0,NA,NA,NA,NA
+"81","81","0039412MOR","Acer cissifolium (Siebold & Zucc.) K.Koch","Swink, FA","s.n.",10,8,1964,"Yes",0,0,0,NA,NA,NA,NA
+"135207","135207","0039409MOR","Acer cissifolium (Siebold & Zucc.) K.Koch","Wiegrefe, S","284",14,5,1993,"Yes",0,0,0,NA,NA,NA,NA
+"187158","187158","0098302MOR","Acer cissifolium (Siebold & Zucc.) K.Koch","Worcester, L","LW271",1,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"187345","187345","0098463MOR","Acer cissifolium (Siebold & Zucc.) K.Koch","Carle, M","16446v19",28,8,2019,"Yes",0,0,0,NA,NA,NA,NA
+"187722","187722","0099235MOR","Acer davidii × davidii subsp. grosseri","Worcester, L","LW413",26,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"12","12",NA,"Acer davidii Franch.","Morrison, K","42",3,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"13","13",NA,"Acer davidii Franch.","Morrison, K","43",3,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"14","14",NA,"Acer davidii Franch.","Morrison, K","63",5,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"15","15",NA,"Acer davidii Franch.","Morrison, K","62",5,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"187159","187159","0098303MOR","Acer davidii Franch.","Worcester, L","LW272",1,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"188370","188370","0099745MOR","Acer davidii Franch.","Potenberg, K","16904v21",19,8,2021,"Yes",0,0,0,NA,NA,NA,NA
+"190160","190160","0101835MOR","Acer davidii Franch.","Potenberg, K","17460v22",20,10,2022,"Yes",0,0,0,NA,NA,NA,NA
+"16","16",NA,"Acer davidii subsp. grosseri (Pax) P.C.de Jong","Morrison, K","36",3,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"91518","91518","0039462MOR","Acer davidii subsp. grosseri (Pax) P.C.de Jong","Klock, K","3323V90",15,5,1990,"Yes",0,0,0,NA,NA,NA,NA
+"189643","189643","0100745MOR","Acer davidii subsp. grosseri (Pax) P.C.de Jong","Potenberg, K","17389v22",8,9,2022,"Yes",0,0,0,NA,NA,NA,NA
+"99","99","0039416MOR","Acer diabolicum Blume ex K.Koch","Allen, L","s.n.",24,7,1973,"Yes",0,0,0,NA,NA,NA,NA
+"187873","187873","0099261MOR","Acer diabolicum Blume ex K.Koch","Worcester, L","LW317",14,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"187240","187240","0098338MOR","Acer erianthum Schwer.","Worcester, L","LW366",13,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"187874","187874","0099260MOR","Acer forrestii Diels","Worcester, L","LW316",14,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"162081","162081","0053211MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.","Bonnewell, V",NA,7,5,2007,"Yes",0,0,0,NA,NA,NA,NA
+"187596","187596","0098490MOR","Acer ginnala var. semenowii (Regel & Herd) Pax","Worcester, L","LW285",4,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"141","141","0039458MOR","Acer glabrum Torr.","Lesica, P","s.n.",24,7,1972,"Yes",0,0,0,NA,NA,NA,NA
+"189611","189611","0100849MOR","Acer grandidentatum 'JFS-NuMex 3'","Potenberg, K","17179v22",26,5,2022,"Yes",0,0,0,NA,NA,NA,NA
+"187725","187725","0099254MOR","Acer grandidentatum Nutt.","Worcester, L","LW291",4,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"175","175","0039445MOR","Acer griseum (Franch.) Pax","Swink, FA","s.n.",11,8,1964,"Yes",0,0,0,NA,NA,NA,NA
+"177520","177520","0061775MOR","Acer griseum (Franch.) Pax","Lueders, K","KL2",30,10,2013,"Yes",0,0,0,NA,NA,NA,NA
+"177523","177523","0061778MOR","Acer griseum (Franch.) Pax","Lueders, K","KL6",5,11,2013,"Yes",0,0,0,NA,NA,NA,NA
+"177723","177723","0061780MOR","Acer griseum (Franch.) Pax","Lueders, K","KL1",30,10,2013,"Yes",0,0,0,NA,NA,NA,NA
+"187895","187895","0099238MOR","Acer griseum × nikoense","Worcester, L","LW425",27,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"187878","187878","0099242MOR","Acer griseum × pseudoplatanus","Worcester, L","LW431",28,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"187880","187880","0099239MOR","Acer griseum × triflorum","Worcester, L","LW426",27,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"181","181","0039468MOR","Acer heldreichii Orph. ex Boiss.","Kammerer, E","s.n.",6,8,1936,"Yes",0,0,0,NA,NA,NA,NA
+"127852","127852","0039467MOR","Acer heldreichii Orph. ex Boiss.","Altvatter, K","7170V95",21,6,1995,"Yes",0,0,0,NA,NA,NA,NA
+"135427","135427","0039465MOR","Acer heldreichii Orph. ex Boiss.","Wiegrefe, S","336",3,6,1997,"Yes",0,0,0,NA,NA,NA,NA
+"187600","187600","0098429MOR","Acer heldreichii Orph. ex Boiss.","Worcester, L","LW290",4,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"188378","188378","0099737MOR","Acer heldreichii Orph. ex Boiss.","Dorrell, J","16927v21",26,8,2021,"Yes",0,0,0,NA,NA,NA,NA
+"728","728","0039472MOR","Acer heldreichii subsp. trautvetteri (Medw.) A.E.Murray","Read, RW","s.n.",14,10,1971,"Yes",0,0,0,NA,NA,NA,NA
+"17","17",NA,"Acer henryi Pax","Morrison, K","35",3,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"187885","187885","0099225MOR","Acer henryi Pax","Worcester, L","LW336",23,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"188371","188371","0099744MOR","Acer henryi Pax","Potenberg, K","16903v21",19,8,2021,"Yes",0,0,0,NA,NA,NA,NA
+"190159","190159","0101834MOR","Acer henryi Pax","Potenberg, K","17459v22",20,10,2022,"Yes",0,0,0,NA,NA,NA,NA
+"191014","191014","0102916MOR","Acer henryi Pax","Potenberg, K","18001v23",29,6,2023,"Yes",0,0,0,NA,NA,NA,NA
+"187724","187724","0099255MOR","Acer hyrcanum Fisch. & C.A.Mey.","Worcester, L","LW294",4,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"190976","190976","0102638MOR","Acer hyrcanum Fisch. & C.A.Mey.","Potenberg, K","18003v23",29,6,2023,"Yes",0,0,0,NA,NA,NA,NA
+"146650","146650","0053111MOR","Acer japonicum 'Aconitifolium' × japonicum 'Aconitifolium'","Wiegrefe, S","490",18,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"188","188","0043806MOR","Acer japonicum Thunb.","Lesica, P","s.n.",24,7,1972,"Yes",0,0,0,NA,NA,NA,NA
+"112950","112950","0039469MOR","Acer japonicum Thunb.","Bradtke, HL","5889V93",22,6,1993,"Yes",0,0,0,NA,NA,NA,NA
+"140435","140435","0039476MOR","Acer japonicum Thunb.","Allen, K","7161V95",21,6,1995,"Yes",0,0,0,NA,NA,NA,NA
+"147126","147126","0039471MOR","Acer japonicum Thunb.","Wiegrefe, S","348",10,7,1997,"Yes",0,0,0,NA,NA,NA,NA
+"187864","187864","0099248MOR","Acer japonicum Thunb.","Worcester, L","LW257",31,7,2018,"Yes",0,0,0,NA,NA,NA,NA
+"189526","189526","0102309MOR","Acer japonicum Thunb.","Dorrell, J","17265v22",21,7,2022,"Yes",0,0,0,NA,NA,NA,NA
+"187436","187436","0098321MOR","Acer komarovii Pojark.","Worcester, L","LW260",31,7,2018,"Yes",0,0,0,NA,NA,NA,NA
+"189670","189670","0101015MOR","Acer longipes Franch. ex Rehder","Potenberg, K","17303v22",4,8,2022,"Yes",0,0,0,NA,NA,NA,NA
+"127845","127845","0039479MOR","Acer macrophyllum Pursh","Altvatter, K","7163V95",21,6,1995,"Yes",0,0,0,NA,NA,NA,NA
+"187597","187597","0098489MOR","Acer macrophyllum Pursh","Worcester, L","LW284",4,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"189610","189610","0100850MOR","Acer macrophyllum Pursh","Potenberg, K","17180v22",26,5,2022,"Yes",0,0,0,NA,NA,NA,NA
+"18","18",NA,"Acer mandshuricum Maxim.","Morrison, K","29",2,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"19","19",NA,"Acer mandshuricum Maxim.","Morrison, K","30",2,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"53","53",NA,"Acer mandshuricum Maxim.","Morrison, K","31",2,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"187160","187160","0098304MOR","Acer mandshuricum Maxim.","Worcester, L","LW273",1,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"21","21",NA,"Acer maximowiczii Pax","Morrison, K","64",5,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"22","22",NA,"Acer maximowiczii Pax","Morrison, K","41",3,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"187726","187726","0099253MOR","Acer maximowiczii Pax","Worcester, L","LW286",4,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"189515","189515","0102298MOR","Acer maximowiczii Pax","Potenberg, K","16908v21",19,8,2021,"Yes",0,0,0,NA,NA,NA,NA
+"189603","189603","0100857MOR","Acer micranthum Siebold & Zucc.","Potenberg, K","17176v22",26,5,2022,"Yes",0,0,0,NA,NA,NA,NA
+"187055","187055","0098094MOR","Acer miyabei 'JFS-KW3AMI'","Beck, J","16437v19",22,8,2019,"Yes",0,0,0,NA,NA,NA,NA
+"167799","167799","0052216MOR","Acer miyabei 'Morton'","Potenberg, K","11424v08",21,10,2008,"Yes",0,0,0,NA,NA,NA,NA
+"167800","167800","0052197MOR","Acer miyabei 'Morton'","Potenberg, K","11423v08",21,10,2008,"Yes",0,0,0,NA,NA,NA,NA
+"168232","168232","0054161MOR","Acer miyabei 'Morton'","Potenberg, K","11444v08",4,11,2008,"Yes",0,0,0,NA,NA,NA,NA
+"168334","168334","0054350MOR","Acer miyabei 'Morton'","Potenberg, K","11446v08",4,11,2008,"Yes",0,0,0,NA,NA,NA,NA
+"168335","168335","0054351MOR","Acer miyabei 'Morton'","Potenberg, K","11443v08",4,11,2008,"Yes",0,0,0,NA,NA,NA,NA
+"168909","168909","0054692MOR","Acer miyabei 'Morton'","Potenberg, K","11417v08",14,10,2008,"Yes",0,0,0,NA,NA,NA,NA
+"168923","168923","0054706MOR","Acer miyabei 'Morton'","Potenberg, K","11418v08",14,10,2008,"Yes",0,0,0,NA,NA,NA,NA
+"169898","169898","0055276MOR","Acer miyabei 'Morton'","Potenberg, K","11429v08",28,10,2008,"Yes",0,0,0,NA,NA,NA,NA
+"169899","169899","0055275MOR","Acer miyabei 'Morton'","Potenberg, K","11428v08",28,10,2008,"Yes",0,0,0,NA,NA,NA,NA
+"146927","146927","0053545MOR","Acer miyabei × miyabei","Wiegrefe, S","712",12,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"163583","163583","0053226MOR","Acer miyabei × miyabei","Bonnewell, V",NA,14,5,2007,"Yes",0,0,0,NA,NA,NA,NA
+"219","219","0039499MOR","Acer miyabei Maxim.","Hawkinson, L","s.n.",17,9,1940,"Yes",0,0,0,NA,NA,NA,NA
+"220","220","0039508MOR","Acer miyabei Maxim.","Kammerer, E","s.n.",8,8,1935,"Yes",0,0,0,NA,NA,NA,NA
+"142044","142044","0039510MOR","Acer miyabei Maxim.","DeMink, L","s.n.",15,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"146928","146928","0053546MOR","Acer miyabei Maxim.","Wiegrefe, S","713",12,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"169900","169900","0055274MOR","Acer miyabei Maxim.","Potenberg, K","11431v08",28,10,2008,"Yes",0,0,0,NA,NA,NA,NA
+"190216","190216","0101241MOR","Acer miyabei Maxim.","Worcester, L","LW253",19,7,2018,"Yes",0,0,0,NA,NA,NA,NA
+"168231","168231","0054162MOR","Acer miyabei Maxim. 'Morton'","Ken Potenberg","11445v08",4,11,2008,"Yes",0,0,0,NA,NA,NA,NA
+"184513","184513","0095918MOR","Acer miyabei subsp. miaotaiense (P.C.Tsoong) A.E.Murray","Means, E","15557v17",10,8,2017,"Yes",0,0,0,NA,NA,NA,NA
+"64","64",NA,"Acer miyabei subsp. miaotaiense (P.CTsoong) A.E.Murray","Hartmann, K","19156v26",19,5,2026,"Yes",0,0,0,NA,NA,NA,NA
+"54","54",NA,"Acer mono f. subtrifidum (Makino) Rehder","Morrison, K","51",5,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"188790","188790","0099876MOR","Acer mono f. subtrifidum (Makino) Rehder","Dorrell, J","16920v21",26,8,2021,"Yes",0,0,0,NA,NA,NA,NA
+"189206","189206","0100551MOR","Acer mono f. subtrifidum (Makino) Rehder","Potenberg, K","16940v21",30,9,2021,"Yes",0,0,0,NA,NA,NA,NA
+"158509","158509","0050097MOR","Acer pictum subsp. mono H.Ohashi","Packard, S","9924V03",8,9,2003,"Yes",0,0,0,NA,NA,NA,NA
+"158510","158510","0050086MOR","Acer pictum subsp. mono H.Ohashi","Vogel, S","9923V03",8,9,2003,"Yes",0,0,0,NA,NA,NA,NA
+"159854","159854","0051357MOR","Acer pictum subsp. mono H.Ohashi","Packard, S","9925V03",8,9,2003,"Yes",0,0,0,NA,NA,NA,NA
+"187435","187435","0098320MOR","Acer pictum subsp. mono H.Ohashi","Worcester, L","LW259",31,7,2018,"Yes",0,0,0,NA,NA,NA,NA
+"238","238","0039512MOR","Acer monspessulanum L.","Swink, FA","s.n.",11,8,1964,"Yes",0,0,0,NA,NA,NA,NA
+"127853","127853","0039514MOR","Acer monspessulanum L.","Altvatter, K","7171V95",21,6,1995,"Yes",0,0,0,NA,NA,NA,NA
+"135503","135503","0039515MOR","Acer monspessulanum L.","Wiegrefe, S","338",3,6,1997,"Yes",0,0,0,NA,NA,NA,NA
+"187896","187896","0099236MOR","Acer monspessulanum subsp. ibericum (M.Bieb. ex Willd.) Yalt.","Worcester, L","LW414",26,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"255","255","0039520MOR","Acer negundo 'Crispum Variegatum'","Lesica, P","s.n.",18,5,1972,"Yes",0,0,0,NA,NA,NA,NA
+"80867","80867","0039521MOR","Acer negundo 'Crispum Variegatum'","Hess, WJ","2200V88",24,8,1988,"Yes",0,0,0,NA,NA,NA,NA
+"247","247","0039511MOR","Acer negundo L.","Schulenberg, RF","s.n.",15,5,1975,"Yes",0,0,0,NA,NA,NA,NA
+"103932","103932","0039522MOR","Acer negundo L.","Hess, WJ","5029V92",13,5,1992,"Yes",0,0,0,NA,NA,NA,NA
+"187887","187887","0099223MOR","Acer negundo var. texanum Pax","Worcester, L","LW332",17,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"285","285","0039527MOR","Acer negundo var. violaceum Booth ex G.Kirchn.","Ciolac, C","s.n.",16,1,1973,"Yes",0,0,0,NA,NA,NA,NA
+"287","287","0039537MOR","Acer negundo var. violaceum Booth ex G.Kirchn.","Swink, FA","s.n.",10,8,1964,"Yes",0,0,0,NA,NA,NA,NA
+"127619","127619","0039533MOR","Acer negundo var. violaceum Booth ex G.Kirchn.","Altvatter, K","7154V95",21,6,1995,"Yes",0,0,0,NA,NA,NA,NA
+"135415","135415","0039525MOR","Acer negundo var. violaceum Booth ex G.Kirchn.","Wiegrefe, S","329",21,5,1997,"Yes",0,0,0,NA,NA,NA,NA
+"187598","187598","0098488MOR","Acer negundo var. violaceum Booth ex G.Kirchn.","Worcester, L","LW288",4,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"187599","187599","0098486MOR","Acer nigrum F.Michx.","Worcester, L","LW289",4,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"187603","187603","0098426MOR","Acer maximowiczianum Miq.","Worcester, L","LW293",4,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"188424","188424","0099518MOR","Acer maximowiczianum Miq.","Dorrell, J","16918v21",26,8,2021,"Yes",0,0,0,NA,NA,NA,NA
+"187246","187246","0098344MOR","Acer oblongum Wall. ex DC.","Worcester, L","LW372",13,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"127841","127841","0039536MOR","Acer oliverianum Pax","Altvatter, K","7159V95",21,6,1995,"Yes",0,0,0,NA,NA,NA,NA
+"187161","187161","0098305MOR","Acer oliverianum Pax","Worcester, L","LW275",1,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"195184","195184","0112658MOR","Acer oliverianum Pax","Potenberg, K","17335v22",11,8,2022,"Yes",0,0,0,NA,NA,NA,NA
+"347","347","0039535MOR","Acer opalus Mill.","Braham, R","s.n.",23,6,1971,"Yes",0,0,0,NA,NA,NA,NA
+"362","362","0039545MOR","Acer opalus var. obtusatum (Willd.) Henry","Allen, L","s.n.",24,7,1973,"Yes",0,0,0,NA,NA,NA,NA
+"127851","127851","0039544MOR","Acer opalus var. obtusatum (Willd.) Henry","Altvatter, K","7169V95",21,6,1995,"Yes",0,0,0,NA,NA,NA,NA
+"135547","135547","0039546MOR","Acer opalus var. obtusatum (Willd.) Henry","Wiegrefe, S","337",3,6,1997,"Yes",0,0,0,NA,NA,NA,NA
+"370","370","0043814MOR","Acer palmatum 'Atropurpureum'","Lesica, P","s.n.",26,7,1972,"Yes",0,0,0,NA,NA,NA,NA
+"372","372","0044094MOR","Acer palmatum 'Atropurpureum'","Kammerer, E","s.n.",25,5,1937,"Yes",0,0,0,NA,NA,NA,NA
+"186512","186512","0098821MOR","Acer palmatum 'Twomblys Red Sentinel'","Potenberg, K","15837v18",19,6,2018,"Yes",0,0,0,NA,NA,NA,NA
+"146637","146637","0053132MOR","Acer palmatum × palmatum 'Sangu Kaku' [1]","Wiegrefe, S","477",18,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"187592","187592","0098494MOR","Acer palmatum subsp. amoenum (Carrière) H.Hara","Worcester, L","LW410",26,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"189675","189675","0101010MOR","Acer palmatum subsp. amoenum (Carrière) H.Hara","Potenberg, K","17308v22",4,8,2022,"Yes",0,0,0,NA,NA,NA,NA
+"187881","187881","0099237MOR","Acer palmatum subsp. matsumurae Koidz.","Worcester, L","LW424",27,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"189505","189505","0102288MOR","Acer palmatum subsp. matsumurae Koidz.","Dorrell, J","17264v22",21,7,2022,"Yes",0,0,0,NA,NA,NA,NA
+"127846","127846","0039542MOR","Acer palmatum Thunb.","Altvatter, K","7164V95",21,6,1995,"Yes",0,0,0,NA,NA,NA,NA
+"135413","135413","0039551MOR","Acer palmatum Thunb.","Wiegrefe, S","332",21,5,1997,"Yes",0,0,0,NA,NA,NA,NA
+"146593","146593","0053121MOR","Acer palmatum Thunb.","Wiegrefe, S","433",12,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"177775","177775","0065962MOR","Acer palmatum Thunb.","Glaysher, L","13880v13",11,7,2013,"Yes",0,0,0,NA,NA,NA,NA
+"187441","187441","0098326MOR","Acer palmatum Thunb.","Worcester, L","LW265",31,7,2018,"Yes",0,0,0,NA,NA,NA,NA
+"375","375","0043811MOR","Acer palmatum var. heptalobum Rehder","Lesica, P","s.n.",13,6,1972,"Yes",0,0,0,NA,NA,NA,NA
+"104051","104051","0043810MOR","Acer palmatum var. heptalobum Rehder","Hess, WJ","5052V92",13,5,1992,"Yes",0,0,0,NA,NA,NA,NA
+"187861","187861","0099249MOR","Acer pauciflorum W.P.Fang","Worcester, L","LW267",31,7,2018,"Yes",0,0,0,NA,NA,NA,NA
+"189572","189572","0100959MOR","Acer pauciflorum W.P.Fang","Potenberg, K","17318v22",11,8,2022,"Yes",0,0,0,NA,NA,NA,NA
+"138968","138968","0039553MOR","Acer pensylvanicum L.","Rossi, E","359",26,6,1990,"Yes",0,0,0,NA,NA,NA,NA
+"187899","187899","0099231MOR","Acer pensylvanicum L.","Worcester, L","LW343",28,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"434","434","0039602MOR","Acer platanoides 'Crimson King'","Braham, R","s.n.",23,6,1971,"Yes",0,0,0,NA,NA,NA,NA
+"35343","35343","0039613MOR","Acer platanoides 'Erectum'","Schulenberg, RF","s.n.",27,9,1977,"Yes",0,0,0,NA,NA,NA,NA
+"138389","138389","0039608MOR","Acer platanoides 'Erectum'","Hess, WJ","7850",13,8,1997,"Yes",0,0,0,NA,NA,NA,NA
+"35344","35344","0039615MOR","Acer platanoides 'Faassen's Black'","Schulenberg, RF","s.n.",27,9,1977,"Yes",0,0,0,NA,NA,NA,NA
+"441","441","0039616MOR","Acer platanoides 'Globosum'","Read, RW","s.n.",14,10,1971,"Yes",0,0,0,NA,NA,NA,NA
+"193601","193601","0108129MOR","Acer platanoides 'Globosum'","Potenberg, K","18624v24",17,10,2024,"Yes",0,0,0,NA,NA,NA,NA
+"445","445","0039617MOR","Acer platanoides 'Goldsworth Purple'","Lesica, P","s.n.",24,7,1972,"Yes",0,0,0,NA,NA,NA,NA
+"143771","143771","0039621MOR","Acer platanoides 'Goldsworth Purple'","Bolger, K","8779V99",21,5,1999,"Yes",0,0,0,NA,NA,NA,NA
+"57329","57329","0039627MOR","Acer platanoides 'Improved Columnare'","Ralston, N","474V85",29,4,1985,"Yes",0,0,0,NA,NA,NA,NA
+"446","446","0039630MOR","Acer platanoides 'Oekonomierat Stoll'","Kammerer, E","s.n.",6,8,1936,"Yes",0,0,0,NA,NA,NA,NA
+"413","413","0039568MOR","Acer platanoides 'Schwedleri'","Ciolac, C","s.n.",13,4,1972,"Yes",0,0,0,NA,NA,NA,NA
+"464","464","0039643MOR","Acer platanoides 'Summershade'","Lesica, P","s.n.",25,7,1972,"Yes",0,0,0,NA,NA,NA,NA
+"161911","161911","0053234MOR","Acer platanoides 'Undulatum' × platanoides","Bonnewell, V",NA,14,5,2007,"Yes",0,0,0,NA,NA,NA,NA
+"163602","163602","0053230MOR","Acer platanoides 'Undulatum' × truncatum [1]","Bonnewell, V",NA,14,5,2007,"Yes",0,0,0,NA,NA,NA,NA
+"80742","80742","0039657MOR","Acer platanoides 'Variegatum'","Hess, WJ","2197V88",24,8,1988,"Yes",0,0,0,NA,NA,NA,NA
+"104974","104974","0039581MOR","Acer platanoides L.","Hess, WJ","5255V92",1,7,1992,"Yes",0,0,0,NA,NA,NA,NA
+"138965","138965","0039567MOR","Acer platanoides L.","Rossi, E","477",6,7,1990,"Yes",0,0,0,NA,NA,NA,NA
+"162074","162074","0053195MOR","Acer platanoides L.","Bonnewell, V",NA,14,5,2007,"Yes",0,0,0,NA,NA,NA,NA
+"163579","163579","0053198MOR","Acer platanoides L.","Bonnewell, V",NA,14,5,2007,"Yes",0,0,0,NA,NA,NA,NA
+"163580","163580","0053196MOR","Acer platanoides L.","Bonnewell, V",NA,14,5,2007,"Yes",0,0,0,NA,NA,NA,NA
+"163581","163581","0053197MOR","Acer platanoides L.","Bonnewell, V",NA,14,5,2007,"Yes",0,0,0,NA,NA,NA,NA
+"485","485","0039656MOR","Acer pseudoplatanus 'Erectum'","Lesica, P","s.n.",24,7,1972,"Yes",0,0,0,NA,NA,NA,NA
+"56","56",NA,"Acer pseudoplatanus 'Esk Sunset'","Morrison, K","58",5,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"57","57",NA,"Acer pseudoplatanus 'Esk Sunset'","Morrison, K","59",5,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"489","489","0039661MOR","Acer pseudoplatanus 'Purpureum'","Lesica, P","s.n.",13,6,1972,"Yes",0,0,0,NA,NA,NA,NA
+"470","470","0039667MOR","Acer pseudoplatanus L.","Swink, FA","s.n.",10,8,1964,"Yes",0,0,0,NA,NA,NA,NA
+"471","471","0039665MOR","Acer pseudoplatanus L.","Kammerer, E","s.n.",6,8,1936,"Yes",0,0,0,NA,NA,NA,NA
+"472","472","0039664MOR","Acer pseudoplatanus L.","Kammerer, E","s.n.",12,9,1935,"Yes",0,0,0,NA,NA,NA,NA
+"474","474","0039671MOR","Acer pseudoplatanus L.","Hawkinson, L","s.n.",24,10,1940,"Yes",0,0,0,NA,NA,NA,NA
+"58","58",NA,"Acer pseudosieboldianum (Pax) Kom.","Morrison, K","37",3,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"60","60",NA,"Acer pseudosieboldianum × palmatum 'Koshimino'","Morrison, K","28",2,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"146761","146761","0054717MOR","Acer pseudosieboldianum × palmatum 'Koshimino'","Wiegrefe, S","601",29,6,1998,"Yes",0,0,0,NA,NA,NA,NA
+"187877","187877","0099243MOR","Acer pseudosieboldianum × palmatum 'Koshimino'","Worcester, L","LW432",28,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"188354","188354","0100192MOR","Acer pseudosieboldianum × palmatum 'Koshimino'","Potenberg, K","16909v21",19,8,2021,"Yes",0,0,0,NA,NA,NA,NA
+"64.1","64",NA,"Acer pycnanthum K.Koch","Hartmann, K","19157v26",19,5,2026,"Yes",0,0,0,NA,NA,NA,NA
+"512","512","0039673MOR","Acer pycnanthum K.Koch","Lesica, P","s.n.",25,7,1972,"Yes",0,0,0,NA,NA,NA,NA
+"187723","187723","0099234MOR","Acer pycnanthum K.Koch","Worcester, L","LW412",26,9,2018,"Yes",0,0,0,NA,NA,NA,NA
+"193602","193602","0108128MOR","Acer pycnanthum K.Koch","Potenberg, K","18626v24",17,10,2024,"Yes",0,0,0,NA,NA,NA,NA
+"193020","193020","0103810MOR","Acer rubrum 'Autumn Flame'","Potenberg, K","18508v24",25,7,2024,"Yes",0,0,0,NA,NA,NA,NA
+"188355","188355","0099888MOR","Acer rubrum 'Candy Ice'","Dorrell, J","16922v21",26,8,2021,"Yes",0,0,0,NA,NA,NA,NA
+"554","554","0039820MOR","Acer rubrum 'Columnare'","Hawkinson, L","s.n.",9,10,1940,"Yes",0,0,0,NA,NA,NA,NA
+"555","555","0039824MOR","Acer rubrum 'Columnare'","Swink, FA","s.n.",10,8,1964,"Yes",0,0,0,NA,NA,NA,NA
+"186975","186975","0098118MOR","Acer rubrum 'Frank Jr.'","Means, E","16206v19",13,6,2019,"Yes",0,0,0,NA,NA,NA,NA
+"188433","188433","0099697MOR","Acer rubrum 'Frank Jr.'","Dorrell, J","16880v21",29,7,2021,"Yes",0,0,0,NA,NA,NA,NA
+"188838","188838","0100102MOR","Acer rubrum 'Frank Jr.'","Potenberg, K","16951v21",21,10,2021,"Yes",0,0,0,NA,NA,NA,NA
+"189580","189580","0100942MOR","Acer rubrum 'Frank Jr.'","Dorrell, J","16872v21",22,7,2021,"Yes",0,0,0,NA,NA,NA,NA
+"147392","147392","0039834MOR","Acer rubrum 'October Glory'","Packard, S","9099V99",29,10,1999,"Yes",0,0,0,NA,NA,NA,NA
+"561","561","0039831MOR","Acer rubrum 'Schlesingeri'","Lesica, P","s.n.",24,7,1972,"Yes",0,0,0,NA,NA,NA,NA
+"35346","35346","0039829MOR","Acer rubrum 'Schlesingeri'","Schulenberg, RF","s.n.",27,9,1977,"Yes",0,0,0,NA,NA,NA,NA
+"517","517","0039739MOR","Acer rubrum L.","Hawkinson, L","s.n.",13,9,1940,"Yes",0,0,0,NA,NA,NA,NA
+"518","518","0039691MOR","Acer rubrum L.","Eickhorst, W","s.n.",13,9,1935,"Yes",0,0,0,NA,NA,NA,NA
+"519","519","0039709MOR","Acer rubrum L.","Kammerer, E","s.n.",5,10,1935,"Yes",0,0,0,NA,NA,NA,NA
+"520","520","0039735MOR","Acer rubrum L.","Hawkinson, L","s.n.",8,10,1940,"Yes",0,0,0,NA,NA,NA,NA
+"521","521","0039726MOR","Acer rubrum L.","Swink, FA","s.n.",23,7,1964,"Yes",0,0,0,NA,NA,NA,NA
+"93194","93194","0039737MOR","Acer rubrum L.","Shimp, E","3697V90",19,7,1990,"Yes",0,0,0,NA,NA,NA,NA
+"103774","103774","0039724MOR","Acer rubrum L.","Hess, WJ","5028V92",13,5,1992,"Yes",0,0,0,NA,NA,NA,NA
+"103935","103935","0039679MOR","Acer rubrum L.","Hess, WJ","5030V92",13,5,1992,"Yes",0,0,0,NA,NA,NA,NA
+"107462","107462","0039745MOR","Acer rubrum L.","Packard, S","5536V92",27,10,1992,"Yes",0,0,0,NA,NA,NA,NA
+"127848","127848","0039692MOR","Acer rubrum L.","Altvatter, K","7166V95",21,6,1995,"Yes",0,0,0,NA,NA,NA,NA
+"132917","132917","0039690MOR","Acer rubrum L.","Allen, K","7562V96",22,8,1996,"Yes",0,0,0,NA,NA,NA,NA
+"141185","141185",NA,"Acer rubrum L.","Ware, George",NA,24,6,1970,"Yes",0,0,0,NA,NA,NA,NA
+"142093","142093","0039731MOR","Acer rubrum L.","DeMink, L","s.n.",2,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"145291","145291","0039711MOR","Acer rubrum L.","Crowley, W","W114",14,9,1987,"Yes",0,0,0,NA,NA,NA,NA
+"145293","145293","0039713MOR","Acer rubrum L.","Crowley, W","W196",1,5,1988,"Yes",0,0,0,NA,NA,NA,NA
+"187863","187863","0099256MOR","Acer rubrum L.","Worcester, L","LW309",9,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"187162","187162","0098306MOR","Acer rubrum var. drummondii (Hook. & Arn. ex Nutt.) Sarg.","Worcester, L","LW349",30,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"189533","189533","0101095MOR","Acer rubrum var. drummondii (Hook. & Arn. ex Nutt.) Sarg.","Potenberg, K","17177v22",26,5,2022,"Yes",0,0,0,NA,NA,NA,NA
+"29","29",NA,"Acer rufinerve Siebold & Zucc.","Morrison, K","57",5,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"189612","189612","0100848MOR","Acer rufinerve Siebold & Zucc.","Potenberg, K","17282v22",28,7,2022,"Yes",0,0,0,NA,NA,NA,NA
+"30","30",NA,"Acer saccharinum 'Aureum'","Morrison, K","26",2,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"80883","80883","0039785MOR","Acer saccharinum 'Aureum'","Hess, WJ","2195V88",24,8,1988,"Yes",0,0,0,NA,NA,NA,NA
+"31","31",NA,"Acer saccharinum 'Beebe Cutleaf Weeping'","Morrison, K","27",2,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"194661","194661","0109306MOR","Acer saccharinum 'JFS H1'","Chen, S","18821v25",8,5,2025,"Yes",0,0,0,NA,NA,NA,NA
+"605","605","0039792MOR","Acer saccharinum 'Laciniatum'","Hawkinson, L","s.n.",26,9,1940,"Yes",0,0,0,NA,NA,NA,NA
+"606","606","0039791MOR","Acer saccharinum 'Laciniatum'","Kammerer, E","s.n.",2,7,1936,"Yes",0,0,0,NA,NA,NA,NA
+"193594","193594","0108136MOR","Acer saccharinum 'Laciniatum'","Potenberg, K","18625v24",17,10,2024,"Yes",0,0,0,NA,NA,NA,NA
+"608","608","0039838MOR","Acer saccharinum 'Pyramidale'","Lesica, P","s.n.",24,7,1972,"Yes",0,0,0,NA,NA,NA,NA
+"610","610","0039894MOR","Acer saccharinum 'Tripartitum'","Hawkinson, L","s.n.",9,10,1940,"Yes",0,0,0,NA,NA,NA,NA
+"580","580","0039858MOR","Acer saccharinum L.","Ciolac, C","s.n.",16,1,1973,"Yes",0,0,0,NA,NA,NA,NA
+"581","581","0039842MOR","Acer saccharinum L.","Hawkinson, L","s.n.",26,9,1940,"Yes",0,0,0,NA,NA,NA,NA
+"582","582","0039846MOR","Acer saccharinum L.","Hawkinson, L","s.n.",9,10,1940,"Yes",0,0,0,NA,NA,NA,NA
+"74941","74941","0039857MOR","Acer saccharinum L.","Bucha, L","1624V87",13,10,1987,"Yes",0,0,0,NA,NA,NA,NA
+"104055","104055","0039848MOR","Acer saccharinum L.","Hess, WJ","5034V92",13,5,1992,"Yes",0,0,0,NA,NA,NA,NA
+"127849","127849","0039860MOR","Acer saccharinum L.","Altvatter, K","7167V95",21,6,1995,"Yes",0,0,0,NA,NA,NA,NA
+"143122","143122","0039779MOR","Acer saccharinum L.","DeMink, L","s.n.",7,8,1998,"Yes",0,0,0,NA,NA,NA,NA
+"187862","187862","0099257MOR","Acer saccharinum L.","Worcester, L","LW312",9,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"632","632","0039900MOR","Acer saccharum 'Coleman'","Allen, L","s.n.",24,7,1973,"Yes",0,0,0,NA,NA,NA,NA
+"104067","104067","0039893MOR","Acer saccharum 'Coleman'","Hess, WJ","5046V92",13,5,1992,"Yes",0,0,0,NA,NA,NA,NA
+"189642","189642","0100746MOR","Acer saccharum 'Conicum'","Potenberg, K","17388v22",8,9,2022,"Yes",0,0,0,NA,NA,NA,NA
+"654","654","0039892MOR","Acer saccharum 'Globosum'","Read, RW","s.n.",14,10,1971,"Yes",0,0,0,NA,NA,NA,NA
+"104580","104580","0039905MOR","Acer saccharum 'Sweet Shadow Cut-Leaf'","Hess, WJ","5205V92",17,6,1992,"Yes",0,0,0,NA,NA,NA,NA
+"195212","195212","0112654MOR","Acer saccharum 'Sweet Shadow Cut-Leaf'","Chen, S","18929v25",7,8,2025,"Yes",0,0,0,NA,NA,NA,NA
+"104131","104131","0039903MOR","Acer saccharum 'Temples Upright'","Hess, WJ","5050V92",13,5,1992,"Yes",0,0,0,NA,NA,NA,NA
+"104133","104133","0039904MOR","Acer saccharum 'Temples Upright'","Hess, WJ","5051V92",13,5,1992,"Yes",0,0,0,NA,NA,NA,NA
+"187897","187897","0099233MOR","Acer saccharum f. conicum Fernald","Worcester, L","LW345",28,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"187886","187886","0099224MOR","Acer saccharum f. rugelii (Pax) E.J.Palmer & Steyerm.","Worcester, L","LW335",23,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"46","46",NA,"Acer saccharum Marshall","Hartmann, K","19152v26",19,5,2026,"Yes",0,0,0,NA,NA,NA,NA
+"614","614","0039863MOR","Acer saccharum Marshall","Kammerer, E","s.n.",15,10,1936,"Yes",0,0,0,NA,NA,NA,NA
+"73910","73910","0039887MOR","Acer saccharum Marshall","Podrasky, N","1437V87",25,7,1987,"Yes",0,0,0,NA,NA,NA,NA
+"104497","104497","0039868MOR","Acer saccharum Marshall","Altvatter, K","5184V92",9,6,1992,"Yes",0,0,0,NA,NA,NA,NA
+"127618","127618","0039884MOR","Acer saccharum Marshall","Altvatter, K","7156V95",21,6,1995,"Yes",0,0,0,NA,NA,NA,NA
+"194981","194981","0112580MOR","Acer saccharum Marshall","Chen, S","18882v25",10,7,2025,"Yes",0,0,0,NA,NA,NA,NA
+"161","161","0039899MOR","Acer saccharum subsp. grandidentatum (Nutt. ex Torr. & A.Gray) Desmarais","Schulenberg, RF","s.n.",29,5,1975,"Yes",0,0,0,NA,NA,NA,NA
+"127778","127778","0039890MOR","Acer saccharum subsp. grandidentatum (Nutt. ex Torr. & A.Gray) Desmarais","Altvatter, K","7173V95",21,6,1995,"Yes",0,0,0,NA,NA,NA,NA
+"135417","135417","0039897MOR","Acer saccharum subsp. grandidentatum (Nutt. ex Torr. & A.Gray) Desmarais","Wiegrefe, S","327",21,5,1997,"Yes",0,0,0,NA,NA,NA,NA
+"189","189","0040004MOR","Acer saccharum subsp. leucoderme (Small) Desmarais","Lesica, P","s.n.",13,6,1972,"Yes",0,0,0,NA,NA,NA,NA
+"127839","127839","0040003MOR","Acer saccharum subsp. leucoderme (Small) Desmarais","Altvatter, K","7157V95",21,6,1995,"Yes",0,0,0,NA,NA,NA,NA
+"135414","135414","0040002MOR","Acer saccharum subsp. leucoderme (Small) Desmarais","Wiegrefe, S","330",21,5,1997,"Yes",0,0,0,NA,NA,NA,NA
+"314","314","0040008MOR","Acer saccharum subsp. nigrum (F.Michx.) Desmarais","Swink, FA","s.n.",10,8,1964,"Yes",0,0,0,NA,NA,NA,NA
+"315","315","0040010MOR","Acer saccharum subsp. nigrum (F.Michx.) Desmarais","Ciolac, C","s.n.",16,1,1973,"Yes",0,0,0,NA,NA,NA,NA
+"127847","127847","0040015MOR","Acer saccharum subsp. nigrum (F.Michx.) Desmarais","Altvatter, K","7165V95",21,6,1995,"Yes",0,0,0,NA,NA,NA,NA
+"135527","135527","0040006MOR","Acer saccharum subsp. nigrum (F.Michx.) Desmarais","Wiegrefe, S","335",23,5,1997,"Yes",0,0,0,NA,NA,NA,NA
+"187901","187901","0099229MOR","Acer saccharum subsp. nigrum (F.Michx.) Desmarais","Worcester, L","LW341",28,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"104049","104049","0040022MOR","Acer saccharum subsp. schneckii (Rehder) Desmarais","Hess, WJ","5047V92",13,5,1992,"Yes",0,0,0,NA,NA,NA,NA
+"188073","188073","0099980MOR","Acer shirasawanum 'Munn 001'","Potenberg, K","16899v21",12,8,2021,"Yes",0,0,0,NA,NA,NA,NA
+"93700","93700","0040038MOR","Acer spicatum Lam.","Shimp, E","3770V90",31,7,1990,"Yes",0,0,0,NA,NA,NA,NA
+"135420","135420","0040035MOR","Acer spicatum Lam.","Wiegrefe, S","325",21,5,1997,"Yes",0,0,0,NA,NA,NA,NA
+"138970","138970","0040037MOR","Acer spicatum Lam.","Rossi, E","357",26,6,1990,"Yes",0,0,0,NA,NA,NA,NA
+"140673","140673","0040030MOR","Acer spicatum Lam.","Allen, K","8341V97",28,7,1997,"Yes",0,0,0,NA,NA,NA,NA
+"187900","187900","0099230MOR","Acer spicatum Lam.","Worcester, L","LW342",28,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"188141","188141","0100204MOR","Acer spicatum Lam.","Dorrell, J","16928v21",26,8,2021,"Yes",0,0,0,NA,NA,NA,NA
+"187882","187882","0099228MOR","Acer stachyophyllum Hiern","Worcester, L","LW340",28,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"188989","188989","0100219MOR","Acer stachyophyllum Hiern","Potenberg, K","17186v22",26,5,2022,"Yes",0,0,0,NA,NA,NA,NA
+"32","32",NA,"Acer stachyophyllum subsp. betulifolium (Maxim.) P.C.deJong","Morrison, K","40",3,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"33","33",NA,"Acer stachyophyllum subsp. betulifolium (Maxim.) P.C.deJong","Morrison, K","39",3,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"34","34",NA,"Acer stachyophyllum subsp. betulifolium (Maxim.) P.C.deJong","Morrison, K","38",3,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"187889","187889","0099221MOR","Acer stachyophyllum subsp. betulifolium (Maxim.) P.C.deJong","Worcester, L","LW330",17,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"188369","188369","0099746MOR","Acer stachyophyllum subsp. betulifolium (Maxim.) P.C.deJong","Potenberg, K","16906v21",19,8,2021,"Yes",0,0,0,NA,NA,NA,NA
+"35","35",NA,"Acer sterculiaceum subsp. franchetii (Pax) A.E.Murray","Morrison, K","49",5,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"36","36",NA,"Acer sterculiaceum subsp. franchetii (Pax) A.E.Murray","Morrison, K","48",5,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"37","37",NA,"Acer sterculiaceum subsp. franchetii (Pax) A.E.Murray","Morrison, K","50",5,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"188978","188978","0099994MOR","Acer sterculiaceum subsp. franchetii (Pax) A.E.Murray","Potenberg, K","16942v21",30,9,2021,"Yes",0,0,0,NA,NA,NA,NA
+"690","690","0040046MOR","Acer tataricum L.","Hawkinson, L","s.n.",19,10,1940,"Yes",0,0,0,NA,NA,NA,NA
+"125","125","0039759MOR","Acer tataricum subsp. ginnala (Maxim.) Wesm.","Hawkinson, L","s.n.",8,10,1940,"Yes",0,0,0,NA,NA,NA,NA
+"111557","111557","0039699MOR","Acer tataricum subsp. semenovii (Regel & Herder) A.E.Murray","Wiegrefe, S","283",14,5,1993,"Yes",0,0,0,NA,NA,NA,NA
+"38","38",NA,"Acer tegmentosum Maxim.","Morrison, K","44",3,7,2019,"Yes",0,0,0,NA,NA,NA,NA
+"127916","127916","0039705MOR","Acer tegmentosum Maxim.","Altvatter, K","7190V95",23,6,1995,"Yes",0,0,0,NA,NA,NA,NA
+"149264","149264","0039698MOR","Acer tegmentosum Maxim.","Allen, K","9145V00",27,4,2000,"Yes",0,0,0,NA,NA,NA,NA
+"158961","158961","0050505MOR","Acer tegmentosum Maxim.","Vogel, S","9922V03",8,9,2003,"Yes",0,0,0,NA,NA,NA,NA
+"187251","187251","0098332MOR","Acer trautvetteri Medw.","Worcester, L","LW283",4,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"735","735","0039963MOR","Acer triflorum Kom.","Swink, FA","s.n.",11,8,1964,"Yes",0,0,0,NA,NA,NA,NA
+"127840","127840","0039816MOR","Acer triflorum Kom.","Altvatter, K","7158V95",21,6,1995,"Yes",0,0,0,NA,NA,NA,NA
+"158511","158511","0050096MOR","Acer triflorum Kom.","Packard, S","9921V03",8,9,2003,"Yes",0,0,0,NA,NA,NA,NA
+"186631","186631","0098781MOR","Acer triflorum Kom.","Means, E","15846v18",28,6,2018,"Yes",0,0,0,NA,NA,NA,NA
+"190985","190985","0102871MOR","Acer triflorum Kom.","Dorrell, J","18033v23",20,7,2023,"Yes",0,0,0,NA,NA,NA,NA
+"146799","146799","0054735MOR","Acer truncatum","Wiegrefe, S","642",23,7,1998,"Yes",0,0,0,NA,NA,NA,NA
+"163716","163716","0053218MOR","Acer truncatum","Bonnewell, V",NA,14,5,2007,"Yes",0,0,0,NA,NA,NA,NA
+"74943","74943","0039969MOR","Acer truncatum Bunge","Bucha, L","1625V87",13,10,1987,"Yes",0,0,0,NA,NA,NA,NA
+"127842","127842","0039973MOR","Acer truncatum Bunge","Altvatter, K","7160V95",21,6,1995,"Yes",0,0,0,NA,NA,NA,NA
+"187892","187892","0099218MOR","Acer tsinglingense W.P.Fang & C.F.Hsieh","Worcester, L","LW326",16,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"187870","187870","0099263MOR","Acer platanoides subsp. turkestanicum (Pax) P.C.de Jong","Worcester, L","LW319",14,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"187883","187883","0099227MOR","Acer ukurunduense Trautv. & C.A.Mey.","Worcester, L","LW339",28,8,2018,"Yes",0,0,0,NA,NA,NA,NA
+"188353","188353","0100193MOR","Acer wilsonii Rehder","Dorrell, J","16925v21",26,8,2021,"Yes",0,0,0,NA,NA,NA,NA
+"187860","187860","0099250MOR","Acer yui W.P.Fang","Worcester, L","LW268",31,7,2018,"Yes",0,0,0,NA,NA,NA,NA
+"189664","189664","0101002MOR","Acer yui W.P.Fang","Potenberg, K","17298v22",4,8,2022,"Yes",0,0,0,NA,NA,NA,NA
+"6437","6437","0044893MOR","Cornus alba 'Argenteomarginata'","Eickhorst, W","s.n.",22,5,1936,"Yes",0,0,0,NA,NA,NA,NA
+"35364","35364","0044894MOR","Cornus alba 'Argenteomarginata'","Schulenberg, RF","s.n.",26,9,1977,"Yes",0,0,0,NA,NA,NA,NA
+"6440","6440","0044897MOR","Cornus alba 'Spaethii'","Swink, FA","s.n.",8,7,1964,"Yes",0,0,0,NA,NA,NA,NA
+"6441","6441","0044895MOR","Cornus alba 'Spaethii'","Read, RW","s.n.",12,10,1971,"Yes",0,0,0,NA,NA,NA,NA
+"167999","167999","0052135MOR","Cornus alternifolia 'W. Stackman'","Carle, M","11731v09",22,7,2009,"Yes",0,0,0,NA,NA,NA,NA
+"169830","169830","0055250MOR","Cornus alternifolia 'W. Stackman'","Sherman, L","11723v09",21,7,2009,"Yes",0,0,0,NA,NA,NA,NA
+"140774","140774","0044899MOR","Cornus alternifolia L.f.","Allen, K","834597.0",28,7,1997,"Yes",0,0,0,NA,NA,NA,NA
+"153531","153531","0044900MOR","Cornus alternifolia L.f.","Bolger, K","0075-195--197",4,10,2001,"Yes",0,0,0,NA,NA,NA,NA
+"168971","168971","0054576MOR","Cornus alternifolia L.f.","Moran, E","11730v09",22,7,2009,"Yes",0,0,0,NA,NA,NA,NA
+"6456","6456","0044907MOR","Cornus amomum Mill.","Hawkinson, L","s.n.",18,9,1940,"Yes",0,0,0,NA,NA,NA,NA
+"6568","6568","0044931MOR","Cornus amomum subsp. obliqua (Raf.) J.S.Wilson","Hawkinson, L","s.n.",18,9,1940,"Yes",0,0,0,NA,NA,NA,NA
+"189677","189677","0101008MOR","Cornus controversa Hemsl.","Potenberg, K","17309v22",4,8,2022,"Yes",0,0,0,NA,NA,NA,NA
+"190143","190143","0101745MOR","Cornus darvasica (Pojark.) Pilip.","Dorrell, J","17473v22",27,10,2022,"Yes",0,0,0,NA,NA,NA,NA
+"6475","6475","0045015MOR","Cornus drummondii C.A.Mey.","Read, RW","s.n.",12,10,1971,"Yes",0,0,0,NA,NA,NA,NA
+"6511","6511","0045058MOR","Cornus florida 'Pendula'","Read, RW","496.0",21,7,1970,"Yes",0,0,0,NA,NA,NA,NA
+"6512","6512","0045057MOR","Cornus florida 'Pluribracteata'","Ciolac, C","s.n.",21,5,1973,"Yes",0,0,0,NA,NA,NA,NA
+"6515","6515","0045056MOR","Cornus florida 'Rubra'","Braham, R","s.n.",3,7,1971,"Yes",0,0,0,NA,NA,NA,NA
+"6516","6516","0045054MOR","Cornus florida 'Welchii'","Read, RW","494.0",21,7,1970,"Yes",0,0,0,NA,NA,NA,NA
+"33042","33042","0045059MOR","Cornus florida 'Welchii'","Hess, WJ","4413.0",1,8,1978,"Yes",0,0,0,NA,NA,NA,NA
+"6499","6499","0045034MOR","Cornus florida L.","Hawkinson, L","s.n.",18,10,1940,"Yes",0,0,0,NA,NA,NA,NA
+"35444","35444","0045036MOR","Cornus florida L.","Grintz, M","s.n.",28,11,1977,"Yes",0,0,0,NA,NA,NA,NA
+"68501","68501","0045116MOR","Cornus florida L.","Linden, M","825V87",27,4,1987,"Yes",0,0,0,"Can't see",NA,NA,NA
+"153589","153589","0045099MOR","Cornus florida L.","Bolger, K","0031-74--76",19,7,2001,"Yes",0,0,0,NA,NA,NA,NA
+"35334","35334","0045131MOR","Cornus foemina subsp. racemosa 'Slavins Dwarf'","Schulenberg, RF","s.n.",27,9,1977,"Yes",0,0,0,NA,NA,NA,NA
+"153596","153596","0045135MOR","Cornus kousa F.Buerger ex Hance","Bolger, K","0038-91--92",23,7,2001,"Yes",0,0,0,NA,NA,NA,NA
+"6532","6532","0045140MOR","Cornus kousa var. chinensis Osborn","Lesica, P","s.n.",25,7,1972,"Yes",0,0,0,NA,NA,NA,NA
+"157213","157213","0050515MOR","Cornus kousa var. chinensis Osborn","Gill, J","9914V03",13,8,2003,"Yes",0,0,0,NA,NA,NA,NA
+"6538","6538","0045144MOR","Cornus macrophylla Wall.","Allen, L","s.n.",24,7,1973,"Yes",0,0,0,NA,NA,NA,NA
+"146270","146270","0045143MOR","Cornus macrophylla Wall.","Hess, WJ","8440.0",20,4,1999,"Yes",0,0,0,NA,NA,NA,NA
+"155759","155759","0044976MOR","Cornus macrophylla Wall.","Hess, WJ","9694.0",8,8,2001,"Yes",0,0,0,NA,NA,NA,NA
+"155992","155992","0042341MOR","Cornus macrophylla Wall.","Packard, S","9631V02",27,8,2002,"Yes",0,0,0,NA,NA,NA,NA
+"6556","6556","0042657MOR","Cornus mas 'Aurea'","Read, RW","s.n.",12,10,1971,"Yes",0,0,0,NA,NA,NA,NA
+"6560","6560","0042652MOR","Cornus mas 'Aurea'","Swink, FA","s.n.",22,7,1964,"Yes",0,0,0,NA,NA,NA,NA
+"6561","6561","0042650MOR","Cornus mas 'Aurea'","Kammerer, E","s.n.",22,5,1936,"Yes",0,0,0,NA,NA,NA,NA
+"187015","187015","0098129MOR","Cornus mas 'Golden Glory'","Reilly, S","16582v19",7,10,2019,"Yes",0,0,0,NA,NA,NA,NA
+"6548","6548","0042712MOR","Cornus mas L.","Hawkinson, L","s.n.",18,9,1940,"Yes",0,0,0,NA,NA,NA,NA
+"95896","95896","0042485MOR","Cornus mas L.","Gavlak, N","4034V90",29,8,1990,"Yes",0,0,0,NA,NA,NA,NA
+"96353","96353","0045160MOR","Cornus mas L.","Gavlak, N","4044V90",31,8,1990,"Yes",0,0,0,NA,NA,NA,NA
+"137640","137640","0042480MOR","Cornus mas L.","Maggerise, J","8073V97",9,7,1997,"Yes",0,0,0,NA,NA,NA,NA
+"137642","137642","0045190MOR","Cornus mas L.","Maggerise, J","8071V97",9,7,1997,"Yes",0,0,0,NA,NA,NA,NA
+"137705","137705","0045210MOR","Cornus mas L.","Allen, K","1183-22",20,8,1997,"Yes",0,0,0,NA,NA,NA,NA
+"138241","138241","0042689MOR","Cornus mas L.","Allen, K","8257V97",20,8,1997,"Yes",0,0,0,NA,NA,NA,NA
+"138244","138244","0042692MOR","Cornus mas L.","Allen, K","8254V97",20,8,1997,"Yes",0,0,0,NA,NA,NA,NA
+"138405","138405","0045159MOR","Cornus mas L.","Allen, K","8259V97",20,8,1997,"Yes",0,0,0,NA,NA,NA,NA
+"138410","138410","0042715MOR","Cornus mas L.","Allen, K","8263V97",20,8,1997,"Yes",0,0,0,NA,NA,NA,NA
+"181596","181596","0065547MOR","Cornus mas L.","Beck, J","14544v15",6,8,2015,"Yes",0,0,0,NA,NA,NA,NA
+"190036","190036","0101075MOR","Cornus mas L.","Dorrell, J","17470v22",27,10,2022,"Yes",0,0,0,NA,NA,NA,NA
+"95897","95897","0042723MOR","Cornus officinalis Siebold & Zucc.","Shimp, E","4010V90",28,8,1990,"Yes",0,0,0,NA,NA,NA,NA
+"168877","168877","0054660MOR","Cornus officinalis Siebold & Zucc.","Packard, S","11273v08",24,8,2008,"Yes",0,0,0,NA,NA,NA,NA
+"169966","169966","0055403MOR","Cornus officinalis Siebold & Zucc.","Packard, S","11272v08",24,8,2008,"Yes",0,0,0,NA,NA,NA,NA
+"188835","188835","0100105MOR","Cornus officinalis Siebold & Zucc.","Potenberg, K","16959v21",21,10,2021,"Yes",0,0,0,NA,NA,NA,NA
+"185100","185100","0098912MOR","Cornus pumila Koehne","Potenberg, K","15717v17",3,10,2017,"Yes",0,0,0,NA,NA,NA,NA
+"6591","6591","0042670MOR","Cornus quinquenervis Franch.","Teuscher, H","s.n.",3,5,1923,"Yes",0,0,0,NA,NA,NA,NA
+"155005","155005","0044981MOR","Cornus quinquenervis Franch.","Hess, WJ","9700.0",9,8,2001,"Yes",0,0,0,NA,NA,NA,NA
+"93701","93701","0042686MOR","Cornus rugosa Lam.","Shimp, E","3771V90",31,7,1990,"Yes",0,0,0,NA,NA,NA,NA
+"186257","186257","0095979MOR","Cornus sanguinea 'Compressa'","Means, E","15900v18",26,7,2018,"Yes",0,0,0,NA,NA,NA,NA
+"137250","137250","0042491MOR","Cornus sericea subsp. sericea","Sant, A","8068V97",9,7,1997,"Yes",0,0,0,NA,NA,NA,NA
+"6639","6639","0042585MOR","Cornus walteri Wangerin","Hawkinson, L","s.n.",22,10,1940,"Yes",0,0,0,NA,NA,NA,NA
+"6640","6640","0042589MOR","Cornus walteri Wangerin","Hawkinson, L","s.n.",18,9,1940,"Yes",0,0,0,NA,NA,NA,NA

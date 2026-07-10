@@ -19,7 +19,8 @@ dat.list <- list(
     dat.til = read.xlsx('data/Tilia_everything_else.xlsx'),
     dat.tilam = read.xlsx('data/Tilia_americana.xlsx'),
     dat.cer = read.xlsx('data/Cercis.xlsx'),
-    dat.acer = read.xlsx('data/Acer.xlsx')
+    dat.acer = read.xlsx('data/Acer.xlsx'),
+    dat.cor= read.xlsx('data/Cornus.xlsx')
 )
 
 ## check columns just to be sure
