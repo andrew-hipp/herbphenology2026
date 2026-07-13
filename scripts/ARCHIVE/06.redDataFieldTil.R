@@ -8,4 +8,4 @@ for(i in c("Percent.Buds", "Percent.Flowers",
     dat.field[[i]] <- dat.field[[i]] * 100
 }
 
-dat.field <- dat.field[!is.na(dat.cer$Percent.Flowers), ]
+dat.field <- dat.field[!is.na(dat.field$Percent.Flowers), ]
