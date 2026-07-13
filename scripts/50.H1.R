@@ -2,6 +2,7 @@
 
 library(lme4)
 library(lmerTest)
+library(ggplot2)
 
 dat.tests <- dat_ph
 for(i in names(dat.tests)) {
@@ -26,3 +27,7 @@ lmerTests <- list(
 ## to get the results, take a look here:
 lapply(lmerTests, summary)
 
+## and to plot everything
+h1plot_peak <- ggplot(dat.tests[[2]], aes(x = Year, y = doy, color = spClean))
+h1plot_peak <- h1plot_peak + geom_point() + geom_smooth(method = 'lm')
+print(h1plot_peak)
