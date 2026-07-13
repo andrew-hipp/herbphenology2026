@@ -16,7 +16,7 @@ dat.tests.strict <- list(
     peak = dat_ph[[1]][which(dat.tests[[2]]$spClean %in% keepsies$earlyAndPeak), ]
 )
 
-lmerTests <- list(
+lmerTests_yr <- list(
     early = lmer(doy ~ Year + (1 | spClean), dat.tests[[1]]),
     peak = lmer(doy ~ Year + (1 | spClean), dat.tests[[2]]),
     late = lmer(doy ~ Year + (1 | spClean), dat.tests[[3]]),
@@ -24,8 +24,26 @@ lmerTests <- list(
     peakStrict = lmer(doy ~ Year + (1 | spClean), dat.tests.strict$peak)
 )
 
+lmerTests_2_4 <- list(
+    early = lmer(doy ~ T2_4 + (1 | spClean), dat.tests[[1]]),
+    peak = lmer(doy ~ T2_4 + (1 | spClean), dat.tests[[2]]),
+    late = lmer(doy ~ T2_4 + (1 | spClean), dat.tests[[3]])
+)
+
+lmerTests_3_5 <- list(
+    early = lmer(doy ~ T3_5 + (1 | spClean), dat.tests[[1]]),
+    peak = lmer(doy ~ T3_5 + (1 | spClean), dat.tests[[2]]),
+    late = lmer(doy ~ T3_5 + (1 | spClean), dat.tests[[3]])
+)
+
+lmerTests_4_6 <- list(
+    early = lmer(doy ~ T4_6 + (1 | spClean), dat.tests[[1]]),
+    peak = lmer(doy ~ T4_6 + (1 | spClean), dat.tests[[2]]),
+    late = lmer(doy ~ T4_6 + (1 | spClean), dat.tests[[3]])
+)
+
 ## to get the results, take a look here:
-lapply(lmerTests, summary)
+lapply(lmerTests_yr, summary)
 
 ## and to plot everything
 h1plot_peak <- ggplot(dat.tests[[2]], aes(x = Year, y = doy, color = spClean))

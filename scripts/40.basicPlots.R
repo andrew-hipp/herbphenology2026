@@ -8,6 +8,7 @@ if(!exists('keepsies')) stop("you MUST run 30 first!!")
 stats <- 
 for(i in names(keepsies)) {
     for(j in keepsies[[i]]) {
+        if(!i %in% names(dat_ph)) next
         dat.plot <- dat_ph[[i]][dat_ph[[i]]$spClean == j, ]
         p <- ggplot(dat.plot, aes(x = Year, y = doy))
         p <- p + geom_point() +  
