@@ -30,4 +30,3 @@ whosin <- function(x, thresh = threshold) {
 
 keepsies <- sapply(dat.sum, whosin)
 keepsies$earlyAndPeak <- intersect(keepsies[[1]], keepsies[[2]])
-

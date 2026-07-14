@@ -1,5 +1,5 @@
 # testing hypothesis 1
-install.packages("lmerTest")
+# install.packages("lmerTest")
 
 library(lme4)
 library(lmerTest)

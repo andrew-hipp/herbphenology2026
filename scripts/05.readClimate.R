@@ -95,3 +95,14 @@ for(i in row.names(dat.PRCP_byYear)) {
 
 # ## add averages to dat.mat
 dat.mat <- cbind(dat.mat, dat.PRCP_byYear[as.character(dat.mat$Year), ])
+
+
+
+
+#trying for H2
+#dat.distro <- read.xlsx('data/Distribution.xlsx')
+
+#Chicago_True <- dat.distro$`SP.Cleaned`[(dat.distro$`Chicago.Native`) %in% c("T")]
+#Chicago_False <- dat.distro$`SP.Cleaned`[(dat.distro$`Chicago.Native`) %in% c("F")]
+
+#dat.mat <- cbind(dat.mat, Chicago_True[as.character(dat.mat$Native), ])
