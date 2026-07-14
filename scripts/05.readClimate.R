@@ -1,4 +1,5 @@
 library(openxlsx)
+library(dplyr)
 
 dat.clim <- list(
     young = read.xlsx('data/climate_young.xlsx'),
@@ -19,12 +20,12 @@ dat.clim$MONTH <- sapply(
     '[',
     2)
 
-dat.clim_avg <- dat.clim %>%
+dat.clim_avg <- dat.clim |>
   mutate(
     year = YEAR,
     month = MONTH  
-    ) %>%
-  group_by(year, month) %>%
+    ) |>
+  group_by(year, month) |>
   summarize(TMAX_avg = mean(TMAX/10, na.rm = TRUE), .groups = "drop") %>%
   as.data.frame
 
