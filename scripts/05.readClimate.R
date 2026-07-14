@@ -52,3 +52,46 @@ for(i in row.names(dat.clim_byYear)) {
 
 # ## add averages to dat.mat
 dat.mat <- cbind(dat.mat, dat.clim_byYear[as.character(dat.mat$Year), ])
+
+
+
+
+
+
+#Precipitation
+
+dat.clim$YEAR_num  <- as.numeric(dat.clim$YEAR)
+dat.clim$MONTH_num <- as.numeric(dat.clim$MONTH)
+
+# Create a "Climate Year" column (Months 11 and 12 join the next calendar year)
+dat.clim$CLIM_YEAR <- ifelse(dat.clim$MONTH_num %in% c(11, 12), 
+                             dat.clim$YEAR_num + 1, 
+                             dat.clim$YEAR_num)
+
+dat.clim$CLIM_YEAR <- as.character(dat.clim$CLIM_YEAR)
+
+# dividing by 10 give precipitation in mm
+dat.prcp_avg <- dat.clim |>
+  group_by(CLIM_YEAR, MONTH) |>
+  summarize(PRCP_sum = sum(PRCP/10, na.rm = TRUE), .groups = "drop") %>%
+  as.data.frame
+
+prcp_shifted <- split(dat.prcp_avg, dat.prcp_avg$CLIM_YEAR)
+
+dat.PRCP_byYear <- data.frame(
+    year = names(prcp_shifted),
+    row.names = names(prcp_shifted)
+)
+dat.PRCP_byYear$P11_1 <- 
+    dat.PRCP_byYear$P12_2 <-
+    NA
+
+for(i in row.names(dat.PRCP_byYear)) {
+    dat.PRCP_byYear[i, "P11_1"] = 
+        sum(prcp[[i]][prcp_shifted[[i]]$MONTH %in% c('11', '12', '01'), 'PRCP_sum'], na.rm = T)
+    dat.PRCP_byYear[i, "P12_2"] = 
+        sum(prcp[[i]][prcp_shifted[[i]]$MONTH %in% c('12', '01', '02'), 'PRCP_sum'], na.rm = T)
+}
+
+# ## add averages to dat.mat
+dat.mat <- cbind(dat.mat, dat.PRCP_byYear[as.character(dat.mat$Year), ])
