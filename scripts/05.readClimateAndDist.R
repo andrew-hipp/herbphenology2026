@@ -1,6 +1,9 @@
 library(openxlsx)
 library(dplyr)
 
+dat.dist <- 
+    read.xlsx('data/Distribution.xlsx', rowNames = T)
+
 dat.clim <- list(
     young = read.xlsx('data/climate_young.xlsx'),
     old = read.xlsx('data/climate_old.xlsx')
@@ -88,21 +91,14 @@ dat.PRCP_byYear$P11_1 <-
 
 for(i in row.names(dat.PRCP_byYear)) {
     dat.PRCP_byYear[i, "P11_1"] = 
-        sum(prcp[[i]][prcp_shifted[[i]]$MONTH %in% c('11', '12', '01'), 'PRCP_sum'], na.rm = T)
+        sum(prcp_shifted[[i]][prcp_shifted[[i]]$MONTH %in% c('11', '12', '01'), 'PRCP_sum'], na.rm = T)
     dat.PRCP_byYear[i, "P12_2"] = 
-        sum(prcp[[i]][prcp_shifted[[i]]$MONTH %in% c('12', '01', '02'), 'PRCP_sum'], na.rm = T)
+        sum(prcp_shifted[[i]][prcp_shifted[[i]]$MONTH %in% c('12', '01', '02'), 'PRCP_sum'], na.rm = T)
 }
 
-# ## add averages to dat.mat
+## add averages to dat.mat
 dat.mat <- cbind(dat.mat, dat.PRCP_byYear[as.character(dat.mat$Year), ])
 
-
-
-
-#trying for H2
-#dat.distro <- read.xlsx('data/Distribution.xlsx')
-
-#Chicago_True <- dat.distro$`SP.Cleaned`[(dat.distro$`Chicago.Native`) %in% c("T")]
-#Chicago_False <- dat.distro$`SP.Cleaned`[(dat.distro$`Chicago.Native`) %in% c("F")]
-
-#dat.mat <- cbind(dat.mat, Chicago_True[as.character(dat.mat$Native), ])
+## add distributions to dat.mat
+dat.mat <- cbind(dat.mat, dat.dist[dat.mat$spClean, ])
+write.csv(dat.mat, 'out/dat.mat.withMetadata.csv')
