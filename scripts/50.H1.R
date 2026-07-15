@@ -105,9 +105,9 @@ dat.tests.tilia_peak <- dat.tests$ph4.6[grep('Tilia', dat.tests$ph4.6$spClean), 
 library(patchwork)
 ACERplot_peak <- ggplot(dat.tests.acer_peak, aes(x = Year, y = doy, color = spClean))
 ACERplot_peak <- ACERplot_peak + 
-geom_point() + 
+geom_point() + scale_color_viridis_d() +
 geom_smooth(method = 'lm', se= FALSE, linewidth=2) + 
-  geom_smooth(method = "lm", aes(group = 1), color = "black", se = FALSE , linewidth= 5) +
+  geom_smooth(method = "lm", aes(group = 1), color = "black", se = FALSE , linewidth= 3) +
 theme_bw(base_size=18) +
   theme(legend.position = "none") +
 labs(title = "Trends Acer", y= "Day of Year", color = "Species", )
@@ -115,9 +115,9 @@ print(ACERplot_peak)
 
 CERCISplot_peak <- ggplot(dat.tests.cercis_peak, aes(x = Year, y = doy, color = spClean))
 CERCISplot_peak <- CERCISplot_peak + 
-geom_point() + 
+geom_point() + scale_color_viridis_d() +
 geom_smooth(method = 'lm', se= FALSE, linewidth=2) + 
-  geom_smooth(method = "lm", aes(group = 1), color = "black", se = FALSE , linewidth= 5) +
+  geom_smooth(method = "lm", aes(group = 1), color = "black", se = FALSE , linewidth= 3) +
 theme_bw(base_size=18) +
   theme(legend.position = "none") +
 labs(title = "Trends Cercis", y= "Day of Year", color = "Species", )
@@ -125,9 +125,9 @@ print(CERCISplot_peak)
 
 CORNUSplot_peak <- ggplot(dat.tests.cornus_peak, aes(x = Year, y = doy, color = spClean))
 CORNUSplot_peak <- CORNUSplot_peak + 
-geom_point() + 
+geom_point() + scale_color_viridis_d() +
 geom_smooth(method = 'lm', se= FALSE, linewidth=2) + 
-  geom_smooth(method = "lm", aes(group = 1), color = "black", se = FALSE , linewidth= 5) +
+  geom_smooth(method = "lm", aes(group = 1), color = "black", se = FALSE , linewidth= 3) +
 theme_bw(base_size=18) +
     theme(legend.position = "none") +
 labs(title = "Trends Cornus", y= "Day of Year", color = "Species", )
@@ -135,9 +135,9 @@ print(CORNUSplot_peak)
 
 TILIAplot_peak <- ggplot(dat.tests.tilia_peak, aes(x = Year, y = doy, color = spClean))
 TILIAplot_peak <- TILIAplot_peak + 
-geom_point() + 
+geom_point() + scale_color_viridis_d() +
 geom_smooth(method = 'lm', se= FALSE, linewidth=2) + 
-  geom_smooth(method = "lm", aes(group = 1), color = "black", se = FALSE , linewidth= 5) +
+  geom_smooth(method = "lm", aes(group = 1), color = "black", se = FALSE , linewidth= 3) +
 theme_bw(base_size=18) +
   theme(legend.position = "none") +
 labs(title = "Trends Tilia", y= "Day of Year", color = "Species", )

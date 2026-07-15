@@ -169,19 +169,54 @@ h2plotchi_peak <- ggplot(dat.h2, aes(x = chicagoNative, y = doy, fill=chicagoNat
 h2plotchi_peak <- h2plotchi_peak + 
 geom_boxplot() +
 theme_bw () +
+theme (legend.position = "none") +
 labs (title = "Peak Bloom climate sensitivity by Nativity Status", x = "Chicago Distribution", y = "Day of Year") +
   scale_fill_manual(values = c("#cb76ff", "#e1d600"), labels = c("Non-Native", "Native"))
 
 print(h2plotchi_peak)
 
+##I don't think non-native to chicago and to north america are the same so need to check and then switch this for other h2plotAm_peak
+#dat.h2.NAmT = dplyr::filter(dat.h2, NAm == "T")
+#h2plotAm_peak <- ggplot(dat.h2.NAmT, aes(x = NAm, y = doy, fill= NAm))
+#h2plotAm_peak <- h2plotAm_peak + 
+#geom_boxplot() +
+#theme_bw () +
+    #theme (legend.position = "none") +
+#labs (x = "North America Distribution",
+       #y = "Day of Year", ) +
+  #scale_fill_manual(values = c("#e1d600"), labels = c("Native"))
 
-dat.h2.NAmT = dplyr::filter(dat.h2, NAm == "T")
-h2plotAm_peak <- ggplot(dat.h2.NAmT, aes(x = NAm, y = doy, fill= NAm))
+
+h2plotAm_peak <- ggplot(dat.h2, aes(x = NAm, y = doy, fill= NAm))
 h2plotAm_peak <- h2plotAm_peak + 
 geom_boxplot() +
 theme_bw () +
-labs (title = "Peak Bloom climate sensitivity by Nativity Status", x = "North America Distribution",
-       y = "Day of Year") +
-  scale_fill_manual(values = c("#cb76ff", "#e1d600"), labels = c("Non-Native", "Native"))
+    theme (legend.position = "none") +
+labs (x = "North America Distribution",
+       y = "Day of Year", ) +
+  scale_fill_manual(values = c("#cb76ff", "#e1d600"), labels = c("Native"))
+
 
 print(h2plotAm_peak)
+
+h2plotAsia_peak <- ggplot(dat.h2, aes(x = Asia, y = doy, fill=Asia))
+h2plotAsia_peak <- h2plotAsia_peak + 
+geom_boxplot() +
+theme_bw () +
+theme (legend.position = "none") +
+labs (x = "Asia Distribution", y = "Day of Year") +
+  scale_fill_manual(values = c("#cb76ff", "#e1d600"), labels = c("Non-Native", "Native"))
+
+print(h2plotAsia_peak)
+
+h2plotEurope_peak <- ggplot(dat.h2, aes(x = Europe, y = doy, fill=Europe))
+h2plotEurope_peak <- h2plotEurope_peak + 
+geom_boxplot() +
+theme_bw () +
+    theme (legend.title = element_blank()) +
+labs (x = "Europe Distribution", y = "Day of Year") +
+  scale_fill_manual(values = c("#cb76ff", "#e1d600"), labels = c("Non-Native", "Native"))
+
+print(h2plotEurope_peak)
+
+h2plotchi_peak + h2plotAm_peak + h2plotAsia_peak + h2plotEurope_peak
