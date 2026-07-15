@@ -164,3 +164,24 @@ h2.Chicago <- list( T3_5 = lmer(doy ~ T3_5 * chicagoNative + (T3_5 | spClean), d
 lapply(h2.Chicago, summary)
 
 #Miriam is writing
+
+h2plotchi_peak <- ggplot(dat.h2, aes(x = chicagoNative, y = doy, fill=chicagoNative))
+h2plotchi_peak <- h2plotchi_peak + 
+geom_boxplot() +
+theme_bw () +
+labs (title = "Peak Bloom climate sensitivity by Nativity Status", x = "Chicago Distribution", y = "Day of Year") +
+  scale_fill_manual(values = c("#cb76ff", "#e1d600"), labels = c("Non-Native", "Native"))
+
+print(h2plotchi_peak)
+
+
+dat.h2.NAmT = dplyr::filter(dat.h2, NAm == "T")
+h2plotAm_peak <- ggplot(dat.h2.NAmT, aes(x = NAm, y = doy, fill= NAm))
+h2plotAm_peak <- h2plotAm_peak + 
+geom_boxplot() +
+theme_bw () +
+labs (title = "Peak Bloom climate sensitivity by Nativity Status", x = "North America Distribution",
+       y = "Day of Year") +
+  scale_fill_manual(values = c("#cb76ff", "#e1d600"), labels = c("Non-Native", "Native"))
+
+print(h2plotAm_peak)

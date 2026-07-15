@@ -77,6 +77,11 @@ lapply(lmerTests_3_5, summary)
 lapply(lmerTests_4_6, summary)
 
 ## and to plot everything
+# Kierans Code V
+dat.tests[[2]]$genus = strsplit(dat.tests[[2]]$spClean, " ") |> lapply(function(x) x[1]) |> unlist()
+h1plot_peakclear <- ggplot(dat.tests[[2]], aes(x = Year, y = doy, color = genus))
+print(h1plot_peakclear)
+
 # add in aes shape = factor(genus) once figured out and then add specific shape to below plots
 h1plot_peak <- ggplot(dat.tests[[2]], aes(x = Year, y = doy, color = spClean))
 h1plot_peak <- h1plot_peak + 
@@ -84,62 +89,58 @@ geom_point() +
 geom_smooth(method = 'lm', se= FALSE, linewidth=2) + 
   geom_smooth(method = "lm", aes(group = 1), color = "black", se = FALSE , linewidth= 5) +
 theme_bw(base_size=18) +
-  theme(
-    legend.text = element_text(size = 10),
-    legend.title = element_text(size = 10)) +
+    theme(legend.position = "none") +
 labs(title = "Peak Flowering by Year", subtitle= "Trends across four genera", y= "Day of Year", color = "Species", )
 print(h1plot_peak)
 
 # genus level 
+
+dat.tests.acer_peak <- dat.tests$ph4.6[grep('Acer', dat.tests$ph4.6$spClean), ]
+dat.tests.cercis_peak <- dat.tests$ph4.6[grep('Cercis', dat.tests$ph4.6$spClean), ]
+dat.tests.cornus_peak <- dat.tests$ph4.6[grep('Cornus', dat.tests$ph4.6$spClean), ]
+dat.tests.tilia_peak <- dat.tests$ph4.6[grep('Tilia', dat.tests$ph4.6$spClean), ]
+
 ## not sure if I should do this or facet_warp cause this allows me to move around arrangements and add viridus
 ## To-do need to add genus data frame
 library(patchwork)
-ACERplot_peak <- ggplot(aes(x = Year, y = doy, color = spClean))
+ACERplot_peak <- ggplot(dat.tests.acer_peak, aes(x = Year, y = doy, color = spClean))
 ACERplot_peak <- ACERplot_peak + 
 geom_point() + 
 geom_smooth(method = 'lm', se= FALSE, linewidth=2) + 
   geom_smooth(method = "lm", aes(group = 1), color = "black", se = FALSE , linewidth= 5) +
-theme_dark(base_size=18) +
-  theme(
-    legend.text = element_text(size = 10),
-    legend.title = element_text(size = 10)) +
-labs(title = "Peak Flowering by Year", subtitle= "Trends Acer", y= "Day of Year", color = "Species", )
+theme_bw(base_size=18) +
+  theme(legend.position = "none") +
+labs(title = "Trends Acer", y= "Day of Year", color = "Species", )
 print(ACERplot_peak)
 
-CERCISplot_peak <- ggplot(aes(x = Year, y = doy, color = spClean))
+CERCISplot_peak <- ggplot(dat.tests.cercis_peak, aes(x = Year, y = doy, color = spClean))
 CERCISplot_peak <- CERCISplot_peak + 
 geom_point() + 
 geom_smooth(method = 'lm', se= FALSE, linewidth=2) + 
   geom_smooth(method = "lm", aes(group = 1), color = "black", se = FALSE , linewidth= 5) +
-theme_dark(base_size=18) +
-  theme(
-    legend.text = element_text(size = 10),
-    legend.title = element_text(size = 10)) +
-labs(title = "Peak Flowering by Year", subtitle= "Trends Cercis", y= "Day of Year", color = "Species", )
+theme_bw(base_size=18) +
+  theme(legend.position = "none") +
+labs(title = "Trends Cercis", y= "Day of Year", color = "Species", )
 print(CERCISplot_peak)
 
-CORNUSplot_peak <- ggplot(aes(x = Year, y = doy, color = spClean))
+CORNUSplot_peak <- ggplot(dat.tests.cornus_peak, aes(x = Year, y = doy, color = spClean))
 CORNUSplot_peak <- CORNUSplot_peak + 
 geom_point() + 
 geom_smooth(method = 'lm', se= FALSE, linewidth=2) + 
   geom_smooth(method = "lm", aes(group = 1), color = "black", se = FALSE , linewidth= 5) +
-theme_dark(base_size=18) +
-  theme(
-    legend.text = element_text(size = 10),
-    legend.title = element_text(size = 10)) +
-labs(title = "Peak Flowering by Year", subtitle= "Trends Cornus", y= "Day of Year", color = "Species", )
+theme_bw(base_size=18) +
+    theme(legend.position = "none") +
+labs(title = "Trends Cornus", y= "Day of Year", color = "Species", )
 print(CORNUSplot_peak)
 
-TILIAplot_peak <- ggplot(aes(x = Year, y = doy, color = spClean))
+TILIAplot_peak <- ggplot(dat.tests.tilia_peak, aes(x = Year, y = doy, color = spClean))
 TILIAplot_peak <- TILIAplot_peak + 
 geom_point() + 
 geom_smooth(method = 'lm', se= FALSE, linewidth=2) + 
   geom_smooth(method = "lm", aes(group = 1), color = "black", se = FALSE , linewidth= 5) +
-theme_dark(base_size=18) +
-  theme(
-    legend.text = element_text(size = 10),
-    legend.title = element_text(size = 10)) +
-labs(title = "Peak Flowering by Year", subtitle= "Trends Tilia", y= "Day of Year", color = "Species", )
+theme_bw(base_size=18) +
+  theme(legend.position = "none") +
+labs(title = "Trends Tilia", y= "Day of Year", color = "Species", )
 print(TILIAplot_peak)
 
 h1plot_peak | (ACERplot_peak + CERCISplot_peak + CORNUSplot_peak + TILIAplot_peak)
@@ -154,7 +155,3 @@ h1plot_peak | (ACERplot_peak + CERCISplot_peak + CORNUSplot_peak + TILIAplot_pea
 #hist(residuals_vector, main = "Hist of Residuals", xlab = "Residuals", col = "blue")
 #shapiro.test(residuals_vector)
 
-dat.tests.acer_peak <- dat.tests$ph4.6[grep('Acer', dat.tests$ph4.6$spClean), ]
-dat.tests.cercis_peak <- dat.tests$ph4.6[grep('Cercis', dat.tests$ph4.6$spClean), ]
-dat.tests.cornus_peak <- dat.tests$ph4.6[grep('Cornus', dat.tests$ph4.6$spClean), ]
-dat.tests.tilia_peak <- dat.tests$ph4.6[grep('Tilia', dat.tests$ph4.6$spClean), ]
