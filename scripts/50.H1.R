@@ -50,21 +50,20 @@ lmerTests_4_6 <- list(
 )
 
 #Precipitation
-#lmerTests_11_1 <- list(
-   # early = lmer(doy ~ P11_1 + (1 | spClean), dat.tests[[1]]),
-   # peak = lmer(doy ~ P11_1 + (1 | spClean), dat.tests[[2]]),
-   # late = lmer(doy ~ P11_1 + (1 | spClean), dat.tests[[3]]),
-   # earlyStrict = lmer(doy ~ P11_1 + (1 | spClean), dat.tests.strict$early),
-   # peakStrict = lmer(doy ~ P11_1 + (1 | spClean), dat.tests.strict$peak)
-#)
+lmerTests_11_1 <- list(
+   early = lmer(doy ~ P11_1 + (1 | spClean), dat.tests[[1]]),
+   peak = lmer(doy ~ P11_1 + (1 | spClean), dat.tests[[2]]),
+   late = lmer(doy ~ P11_1 + (1 | spClean), dat.tests[[3]]),
+   earlyStrict = lmer(doy ~ P11_1 + (1 | spClean), dat.tests.strict$early),
+   peakStrict = lmer(doy ~ P11_1 + (1 | spClean), dat.tests.strict$peak)
+)
 
-# lmerTests_12_2 <- list(
-   # early = lmer(doy ~ P12_2 + (1 | spClean), dat.tests[[1]]),
-   # peak = lmer(doy ~ P12_2 + (1 | spClean), dat.tests[[2]]),
-   # late = lmer(doy ~ P12_2 + (1 | spClean), dat.tests[[3]]),
-   # earlyStrict = lmer(doy ~ P12_2 + (1 | spClean), dat.tests.strict$early),
-   # peakStrict = lmer(doy ~ P12_2 + (1 | spClean), dat.tests.strict$peak)
-#)
+lmerTests_12_2 <- list(
+   early = lmer(doy ~ P12_2 + (1 | spClean), dat.tests[[1]]),
+   peak = lmer(doy ~ P12_2 + (1 | spClean), dat.tests[[2]]),
+   late = lmer(doy ~ P12_2 + (1 | spClean), dat.tests[[3]]),
+   earlyStrict = lmer(doy ~ P12_2 + (1 | spClean), dat.tests.strict$early),
+   peakStrict = lmer(doy ~ P12_2 + (1 | spClean), dat.tests.strict$peak))
 
 
 ## to get the results, take a look here:
@@ -75,6 +74,10 @@ lapply(lmerTests_2_4, summary)
 lapply(lmerTests_3_5, summary)
 #Apr-June
 lapply(lmerTests_4_6, summary)
+#Nov-Jan
+lapply(lmerTests_11_1, summary)
+#Dec-Feb
+lapply(lmerTests_12_2, summary)
 
 ## and to plot everything
 # Kierans Code V

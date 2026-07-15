@@ -169,9 +169,9 @@ h2plotchi_peak <- ggplot(dat.h2, aes(x = chicagoNative, y = doy, fill=chicagoNat
 h2plotchi_peak <- h2plotchi_peak + 
 geom_boxplot() +
 theme_bw () +
-theme (legend.position = "none") +
+theme (legend.position = "none", axis.text.x = element_blank()) +
 labs (title = "Peak Bloom climate sensitivity by Nativity Status", x = "Chicago Distribution", y = "Day of Year") +
-  scale_fill_manual(values = c("#cb76ff", "#e1d600"), labels = c("Non-Native", "Native"))
+  scale_fill_manual(values = c("#cb76ff", "#e1d600"))
 
 print(h2plotchi_peak)
 
@@ -184,17 +184,17 @@ print(h2plotchi_peak)
     #theme (legend.position = "none") +
 #labs (x = "North America Distribution",
        #y = "Day of Year", ) +
-  #scale_fill_manual(values = c("#e1d600"), labels = c("Native"))
+  #scale_fill_manual(values = c("#e1d600"))
 
 
 h2plotAm_peak <- ggplot(dat.h2, aes(x = NAm, y = doy, fill= NAm))
 h2plotAm_peak <- h2plotAm_peak + 
 geom_boxplot() +
 theme_bw () +
-    theme (legend.position = "none") +
+    theme (legend.position = "none", axis.text.x = element_blank()) +
 labs (x = "North America Distribution",
        y = "Day of Year", ) +
-  scale_fill_manual(values = c("#cb76ff", "#e1d600"), labels = c("Native"))
+  scale_fill_manual(values = c("#cb76ff", "#e1d600"))
 
 
 print(h2plotAm_peak)
@@ -203,9 +203,9 @@ h2plotAsia_peak <- ggplot(dat.h2, aes(x = Asia, y = doy, fill=Asia))
 h2plotAsia_peak <- h2plotAsia_peak + 
 geom_boxplot() +
 theme_bw () +
-theme (legend.position = "none") +
+theme (legend.position = "none", axis.text.x = element_blank()) +
 labs (x = "Asia Distribution", y = "Day of Year") +
-  scale_fill_manual(values = c("#cb76ff", "#e1d600"), labels = c("Non-Native", "Native"))
+  scale_fill_manual(values = c("#cb76ff", "#e1d600"))
 
 print(h2plotAsia_peak)
 
@@ -213,7 +213,7 @@ h2plotEurope_peak <- ggplot(dat.h2, aes(x = Europe, y = doy, fill=Europe))
 h2plotEurope_peak <- h2plotEurope_peak + 
 geom_boxplot() +
 theme_bw () +
-    theme (legend.title = element_blank()) +
+    theme (legend.title = element_blank(), axis.text.x = element_blank()) +
 labs (x = "Europe Distribution", y = "Day of Year") +
   scale_fill_manual(values = c("#cb76ff", "#e1d600"), labels = c("Non-Native", "Native"))
 
