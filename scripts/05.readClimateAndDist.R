@@ -101,4 +101,7 @@ dat.mat <- cbind(dat.mat, dat.PRCP_byYear[as.character(dat.mat$Year), ])
 
 ## add distributions to dat.mat
 dat.mat <- cbind(dat.mat, dat.dist[dat.mat$spClean, ])
+
+temp <- which(duplicated(names(dat.mat)))
+if (length(temp) > 0) dat.mat <- dat.mat[-temp]
 write.csv(dat.mat, 'out/dat.mat.withMetadata.csv')
