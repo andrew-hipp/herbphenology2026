@@ -22,3 +22,4 @@ lmerorigin <- list(
 
 
 #ggplot(dat.distro, aes(x= Chicago Native, fill= Chicago Native)) + geom_bar (color= )
+
