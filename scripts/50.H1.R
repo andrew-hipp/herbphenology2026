@@ -155,3 +155,6 @@ h1plot_peak | (ACERplot_peak + CERCISplot_peak + CORNUSplot_peak + TILIAplot_pea
 #shapiro.test(residuals_vector)
 
 dat.tests.acer_peak <- dat.tests$ph4.6[grep('Acer', dat.tests$ph4.6$spClean), ]
+dat.tests.cercis_peak <- dat.tests$ph4.6[grep('Cercis', dat.tests$ph4.6$spClean), ]
+dat.tests.cornus_peak <- dat.tests$ph4.6[grep('Cornus', dat.tests$ph4.6$spClean), ]
+dat.tests.tilia_peak <- dat.tests$ph4.6[grep('Tilia', dat.tests$ph4.6$spClean), ]

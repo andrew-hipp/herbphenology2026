@@ -111,9 +111,56 @@ message(paste0('** Best-fit temperature window by AIC: ', aic.tab$model[1],
 ## when some species have few specimens or a narrow temperature range), use this
 ## version instead. It still tests the Temp:NAm interaction but does not let each
 ## species have its own slope:
-# h2.CS_simple <- list(
-#     T2_4 = lmer(doy ~ T2_4 * NAm + (1 | spClean), data = dat.h2),
-#     T3_5 = lmer(doy ~ T3_5 * NAm + (1 | spClean), data = dat.h2),
-#     T4_6 = lmer(doy ~ T4_6 * NAm + (1 | spClean), data = dat.h2)
-# )
-# lapply(h2.CS_simple, summary)
+
+# Native to Asia
+if(!exists('dat_ph')) stop('** Run scripts 00-30 (or 000.doItAll.R) before this one **')
+dat.h2 <- dat_ph$ph4.6
+dat.h2$Asia <- factor(trimws(dat.h2$Asia), levels = c('F', 'T'))  # ref = F (non-native)
+
+nDroppedAsia <- sum(is.na(dat.h2$Asia) | is.na(dat.h2$doy))
+if(nDroppedAsia > 0) message(paste('** H2: dropping', nDroppedAsia,
+    'peak specimens with no Asia info or no doy **'))
+dat.h2 <- dat.h2[!is.na(dat.h2$Asia) & !is.na(dat.h2$doy), ]
+
+message('** H2 species per group (peak): **')
+print(tapply(dat.h2$spClean, dat.h2$Asia, function(x) length(unique(x))))
+
+## climate sensitivity ~ nativity March-May
+h2.As <- list( T3_5 = lmer(doy ~ T3_5 * Asia + (T3_5 | spClean), data = dat.h2))
+lapply(h2.As, summary)
+
+#Native to Europe
+if(!exists('dat_ph')) stop('** Run scripts 00-30 (or 000.doItAll.R) before this one **')
+dat.h2 <- dat_ph$ph4.6
+dat.h2$Europe <- factor(trimws(dat.h2$Europe), levels = c('F', 'T'))  # ref = F (non-native)
+
+nDroppedEurope <- sum(is.na(dat.h2$Europe) | is.na(dat.h2$doy))
+if(nDroppedEurope > 0) message(paste('** H2: dropping', nDroppedEurope,
+    'peak specimens with no Europe info or no doy **'))
+dat.h2 <- dat.h2[!is.na(dat.h2$Europe) & !is.na(dat.h2$doy), ]
+
+message('** H2 species per group (peak): **')
+print(tapply(dat.h2$spClean, dat.h2$Europe, function(x) length(unique(x))))
+
+## climate sensitivity ~ nativity March-May
+h2.Eu <- list( T3_5 = lmer(doy ~ T3_5 * Europe + (T3_5 | spClean), data = dat.h2))
+lapply(h2.Eu, summary)
+
+#Native to Chicago
+if(!exists('dat_ph')) stop('** Run scripts 00-30 (or 000.doItAll.R) before this one **')
+dat.h2 <- dat_ph$ph4.6
+dat.h2$chicagoNative <- factor(trimws(dat.h2$chicagoNative), levels = c('F', 'T'))  # ref = F (non-native)
+
+nDroppedChicago <- sum(is.na(dat.h2$chicagoNative) | is.na(dat.h2$doy))
+if(nDroppedChicago > 0) message(paste('** H2: dropping', nDroppedChicago,
+    'peak specimens with no Chicago info or no doy **'))
+dat.h2 <- dat.h2[!is.na(dat.h2$chicagoNative) & !is.na(dat.h2$doy), ]
+
+message('** H2 species per group (peak): **')
+print(tapply(dat.h2$spClean, dat.h2$chicagoNative, function(x) length(unique(x))))
+
+## climate sensitivity ~ nativity March-May
+h2.Chicago <- list( T3_5 = lmer(doy ~ T3_5 * chicagoNative + (T3_5 | spClean), data = dat.h2))
+lapply(h2.Chicago, summary)
+
+#Miriam is writing

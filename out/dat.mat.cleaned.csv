@@ -147,8 +147,8 @@
 "183123","183123","0091047MOR","Tilia cordata Mill.","Means, E","14932v16",16,6,2016,"Yes",30,61,0,NA,32.967032967033,67.032967032967,0,168,"Tilia cordata",FALSE,FALSE
 "188242","188242","0099473MOR","Tilia cordata Mill.","Moran, E","16228v19",26,6,2019,"Yes",39,33,0,NA,54.1666666666667,45.8333333333333,0,177,"Tilia cordata",FALSE,FALSE
 "27961","27961","0049484MOR","Tilia cordata Mill. subsp. cordata","Ciolac, C","s.n.",9,7,1969,"Yes",1,52,3,NA,1.78571428571429,92.8571428571429,5.35714285714286,190,"Tilia cordata",FALSE,FALSE
-"36817","36817","0049485MOR","Tilia cordata Mill. subsp. cordata","Anderson, B","7918",6,7,1979,"Yes",0,31,12,NA,0,72.0930232558139,27.906976744186,187,"Tilia cordata",FALSE,FALSE
-"63399","63399","0049548MOR","Tilia cordata Mill. subsp. cordata","Podrasky, N","717V86",23,6,1986,"Yes",1,13,5,NA,5.26315789473684,68.4210526315789,26.3157894736842,174,"Tilia cordata",FALSE,FALSE
+"36817","36817","0049485MOR","Tilia cordata Mill. subsp. cordata","Anderson, B","7918",6,7,1979,"Yes",0,31,12,NA,0,72.093023255814,27.906976744186,187,"Tilia cordata",FALSE,FALSE
+"63399","63399","0049548MOR","Tilia cordata Mill. subsp. cordata","Podrasky, N","717V86",23,6,1986,"Yes",1,13,5,NA,5.26315789473684,68.421052631579,26.3157894736842,174,"Tilia cordata",FALSE,FALSE
 "93112","93112","0049479MOR","Tilia cordata Mill. subsp. cordata","Packard, S","3650V90",17,7,1990,"Yes",0,0,46,NA,0,0,100,198,"Tilia cordata",FALSE,FALSE
 "93263","93263","0049480MOR","Tilia cordata Mill. subsp. cordata","Packard, S","3651V90",17,7,1990,"Yes",0,0,54,NA,0,0,100,198,"Tilia cordata",FALSE,FALSE
 "155786","155786","0040419MOR","Tilia cordata Mill. subsp. cordata","Stephens, M","9",27,6,2003,"Yes",109,50,0,NA,68.5534591194969,31.4465408805031,0,178,"Tilia cordata",FALSE,FALSE
@@ -278,11 +278,11 @@
 "120840","120840","0071253MOR","Tilia platyphyllos Scop.","Packard, S","6728V94",16,8,1994,"Yes",0,0,3,NA,0,0,100,228,"Tilia platyphyllos",FALSE,FALSE
 "122448","122448","0071252MOR","Tilia platyphyllos Scop.","Altvatter, K","6608V94",6,7,1994,"Yes",0,2,16,NA,0,11.1111111111111,88.8888888888889,187,"Tilia platyphyllos",FALSE,FALSE
 "140376","140376","0071285MOR","Tilia platyphyllos Scop.","Rossi, E","271",15,6,1990,"Yes",73,84,0,NA,46.4968152866242,53.5031847133758,0,166,"Tilia platyphyllos",FALSE,FALSE
-"155785","155785","0040401MOR","Tilia platyphyllos Scop.","Stephens, M","6",25,6,2003,"Yes",32,7,0,NA,82.051282051282,17.9487179487179,0,176,"Tilia platyphyllos",FALSE,FALSE
+"155785","155785","0040401MOR","Tilia platyphyllos Scop.","Stephens, M","6",25,6,2003,"Yes",32,7,0,NA,82.051282051282,17.948717948718,0,176,"Tilia platyphyllos",FALSE,FALSE
 "158027","158027","0050165MOR","Tilia platyphyllos Scop.","Shroll, E","10189V05",5,7,2005,"Yes",0,0,24,NA,0,0,100,186,"Tilia platyphyllos",FALSE,FALSE
 "188240","188240","0099475MOR","Tilia platyphyllos Scop.","Potenberg, K","16229v19",27,6,2019,"Yes",0,0,13,NA,0,0,100,178,"Tilia platyphyllos",FALSE,FALSE
 "65114","65114","0049521MOR","Tilia platyphyllos subsp. cordifolia (Besser) C.K.Schneid. [1]","Stoynoff, N","s.n.",28,6,1984,"Yes",3,12,32,NA,6.38297872340425,25.531914893617,68.0851063829787,180,"Tilia platyphyllos",FALSE,FALSE
-"112730","112730","0049519MOR","Tilia platyphyllos subsp. cordifolia (Besser) C.K.Schneid. [1]","Bradtke, HL","5862V93",16,6,1993,"Yes",16,39,2,NA,28.0701754385965,68.4210526315789,3.50877192982456,167,"Tilia platyphyllos",FALSE,FALSE
+"112730","112730","0049519MOR","Tilia platyphyllos subsp. cordifolia (Besser) C.K.Schneid. [1]","Bradtke, HL","5862V93",16,6,1993,"Yes",16,39,2,NA,28.0701754385965,68.421052631579,3.50877192982456,167,"Tilia platyphyllos",FALSE,FALSE
 "112754","112754","0049520MOR","Tilia platyphyllos subsp. cordifolia (Besser) C.K.Schneid. [1]","Bradtke, HL","5861V93",16,6,1993,"Yes",6,24,4,NA,17.6470588235294,70.5882352941177,11.7647058823529,167,"Tilia platyphyllos",FALSE,FALSE
 "138173","138173","0049518MOR","Tilia platyphyllos subsp. cordifolia (Besser) C.K.Schneid. [1]","Wise, R","8230V97",6,8,1997,"Yes",0,0,13,NA,0,0,100,218,"Tilia platyphyllos",FALSE,FALSE
 "188465","188465","0100249MOR","Tilia platyphyllos subsp. corinthiaca (Bosc ex K.Koch) Pigott","Worcester, L","LW403",25,9,2018,"Yes",0,0,1,NA,0,0,100,268,"Tilia platyphyllos",FALSE,FALSE
@@ -371,7 +371,7 @@
 "85524","85524","0049470MOR","Tilia americana var. americana","Klock, K","2873V89",9,8,1989,"Yes",0,0,5,NA,0,0,100,221,"Tilia americana",FALSE,FALSE
 "89773","89773","0049475MOR","Tilia americana var. americana","Packard, S","2796V89",25,7,1989,"Yes",0,0,2,NA,0,0,100,206,"Tilia americana",FALSE,FALSE
 "89774","89774","0049467MOR","Tilia americana var. americana","Packard, S","2795V89",25,7,1989,"Yes",0,1,28,NA,0,3.44827586206897,96.551724137931,206,"Tilia americana",FALSE,FALSE
-"89847","89847","0049421MOR","Tilia americana var. americana","Packard, S","2792V89",25,7,1989,"Yes",0,2,39,NA,0,4.87804878048781,95.1219512195122,206,"Tilia americana",FALSE,FALSE
+"89847","89847","0049421MOR","Tilia americana var. americana","Packard, S","2792V89",25,7,1989,"Yes",0,2,39,NA,0,4.8780487804878,95.1219512195122,206,"Tilia americana",FALSE,FALSE
 "89853","89853","0049468MOR","Tilia americana var. americana","Packard, S","2786V89",25,7,1989,"Yes",0,0,16,NA,0,0,100,206,"Tilia americana",FALSE,FALSE
 "89854","89854","0049469MOR","Tilia americana var. americana","Packard, S","2785V89",25,7,1989,"Yes",0,0,3,NA,0,0,100,206,"Tilia americana",FALSE,FALSE
 "92563","92563","0049442MOR","Tilia americana var. americana","Klock, K","3571V90",5,7,1990,"Yes",0,39,11,NA,0,78,22,186,"Tilia americana",FALSE,FALSE
@@ -678,7 +678,7 @@
 "161907","161907","0053237MOR","Acer carpinifolium × tataricum subsp. ginnala [2]","Bonnewell, V",NA,14,5,2007,"Yes",9,39,0,NA,18.75,81.25,0,134,"Acer carpinifolium",FALSE,TRUE
 "161908","161908","0053238MOR","Acer carpinifolium × tataricum subsp. ginnala [2]","Bonnewell, V",NA,14,5,2007,"Yes",14,127,0,NA,9.9290780141844,90.0709219858156,0,134,"Acer carpinifolium",FALSE,TRUE
 "163416","163416","0053217MOR","Acer carpinifolium × tataricum subsp. ginnala [2]","Bonnewell, V",NA,7,5,2007,"Yes",70,18,0,NA,79.5454545454545,20.4545454545455,0,127,"Acer carpinifolium",FALSE,TRUE
-"9416","9416","0039391MOR","Acer carpinifolium Siebold & Zucc.","Schulenberg, RF","s.n.",20,4,1977,"Yes",6,13,0,NA,31.5789473684211,68.4210526315789,0,110,"Acer carpinifolium",FALSE,FALSE
+"9416","9416","0039391MOR","Acer carpinifolium Siebold & Zucc.","Schulenberg, RF","s.n.",20,4,1977,"Yes",6,13,0,NA,31.578947368421,68.421052631579,0,110,"Acer carpinifolium",FALSE,FALSE
 "111560","111560","0039397MOR","Acer carpinifolium Siebold & Zucc.","Wiegrefe, S","262",6,5,1993,"Yes",0,5,0,NA,0,100,0,126,"Acer carpinifolium",FALSE,FALSE
 "112995","112995","0039393MOR","Acer carpinifolium Siebold & Zucc.","Altvatter, K","5950V93",6,7,1993,"Yes",0,0,9,NA,0,0,100,187,"Acer carpinifolium",FALSE,FALSE
 "127780","127780","0039392MOR","Acer carpinifolium Siebold & Zucc.","Altvatter, K","7187V95",23,6,1995,"Yes",0,0,14,NA,0,0,100,174,"Acer carpinifolium",FALSE,FALSE
@@ -712,7 +712,7 @@
 "149266","149266","0039413MOR","Acer davidii subsp. grosseri (Pax) P.C.de Jong","Allen, K","9143V00",27,4,2000,"Yes",0,18,0,NA,0,100,0,118,"Acer davidii",FALSE,FALSE
 "187859","187859","0099251MOR","Acer davidii subsp. grosseri (Pax) P.C.de Jong","Worcester, L","LW269",31,7,2018,"Yes",0,0,5,NA,0,0,100,212,"Acer davidii",FALSE,FALSE
 "67999","67999","0039419MOR","Acer forrestii Diels","Schulenberg, RF","158V84",23,5,1984,"Yes",0,8,28,NA,0,22.2222222222222,77.7777777777778,144,"Acer forrestii",FALSE,FALSE
-"135208","135208","0039418MOR","Acer forrestii Diels","Wiegrefe, S","271",7,5,1993,"Yes",68,73,2,NA,47.5524475524476,51.0489510489511,1.3986013986014,127,"Acer forrestii",FALSE,FALSE
+"135208","135208","0039418MOR","Acer forrestii Diels","Wiegrefe, S","271",7,5,1993,"Yes",68,73,2,NA,47.5524475524476,51.048951048951,1.3986013986014,127,"Acer forrestii",FALSE,FALSE
 "137629","137629","0039417MOR","Acer forrestii Diels","Bradtke, HL","8175V97",28,7,1997,"Yes",0,0,7,NA,0,0,100,209,"Acer forrestii",FALSE,FALSE
 "157210","157210","0050512MOR","Acer forrestii Diels","Stephens, M","9831V03",18,7,2003,"Yes",0,0,18,NA,0,0,100,199,"Acer forrestii",FALSE,FALSE
 "53285","53285","0039432MOR","Acer ginnala 'Durand Dwarf'","Stoynoff, N","224V84",18,5,1984,"Yes",0,0,42,NA,0,0,100,139,"Acer ginnala",TRUE,FALSE
@@ -1085,7 +1085,7 @@
 "525","525","0039740MOR","Acer rubrum L.","Braham, R","s.n.",4,5,1971,"Yes",0,11,60,NA,0,15.4929577464789,84.5070422535211,124,"Acer rubrum",FALSE,FALSE
 "526","526","0039710MOR","Acer rubrum L.","Lesica, P","s.n.",25,5,1972,"Yes",0,0,48,NA,0,0,100,146,"Acer rubrum",FALSE,FALSE
 "19117","19117","0039732MOR","Acer rubrum L.","Podrasky, N","31V84",7,5,1984,"Yes",0,191,532,NA,0,26.417704011065,73.582295988935,128,"Acer rubrum",FALSE,FALSE
-"32264","32264","0039742MOR","Acer rubrum L.","Hess, WJ","4091",25,4,1978,"Yes",7,139,0,NA,4.79452054794521,95.2054794520548,0,115,"Acer rubrum",FALSE,FALSE
+"32264","32264","0039742MOR","Acer rubrum L.","Hess, WJ","4091",25,4,1978,"Yes",7,139,0,NA,4.7945205479452,95.2054794520548,0,115,"Acer rubrum",FALSE,FALSE
 "43859","43859","0039746MOR","Acer rubrum L.","Levins, P","s.n.",1,4,1981,"Yes",10,60,0,NA,14.2857142857143,85.7142857142857,0,91,"Acer rubrum",FALSE,FALSE
 "43860","43860","0039747MOR","Acer rubrum L.","Levins, P","s.n.",1,4,1981,"Yes",93,12,0,NA,88.5714285714286,11.4285714285714,0,91,"Acer rubrum",FALSE,FALSE
 "67689","67689","0039734MOR","Acer rubrum L.","Hess, WJ","739V87",8,4,1987,"Yes",40,305,0,NA,11.5942028985507,88.4057971014493,0,98,"Acer rubrum",FALSE,FALSE
