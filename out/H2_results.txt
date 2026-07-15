@@ -1,0 +1,93 @@
+===========================================================================
+Written by Claude (Anthropic) in an interactive Claude Code session with
+Andrew Hipp <ahipp@mortonarb.org>, 2026-07-15.
+===========================================================================
+
+H2 RESULTS: Does climate sensitivity of peak flowering differ between
+species native vs. not native to North America?
+
+Analysis produced by scripts/60.H2.R
+Climate sensitivity (CS) = slope of flowering day-of-year (doy) on spring
+maximum temperature. Peak flowering = phenophases 4-6.
+
+
+MODEL SELECTION (which spring temperature window?)
+---------------------------------------------------------------------------
+Three candidate windows were compared by AIC (ML fits, identical rows):
+
+  model     AIC   dAIC  weight
+   T3_5  4544.23   0.00   1
+   T2_4  4569.81  25.58   0
+   T4_6  4584.99  40.76   0
+
+March-May maximum temperature (T3_5) is the decisively best-supported
+window (dAIC > 25 over both alternatives; Akaike weight = 1). All inference
+below uses the REML fit of the T3_5 model.
+
+
+BEST MODEL (REML fit, reported)
+---------------------------------------------------------------------------
+Formula: doy ~ T3_5 * NAm + (T3_5 | spClean)
+Data: peak-flowering specimens; 574 observations, 61 species.
+
+Fixed effects:
+                Estimate  Std.Error     df   t value   Pr(>|t|)
+  (Intercept)   179.542     7.840     34.4    22.90    < 2e-16 ***
+  T3_5           -2.450     0.454     27.8    -5.40    9.5e-06 ***
+  NAmT            1.566    12.124     23.8     0.13    0.898
+  T3_5:NAmT      -0.064     0.687     18.0    -0.09    0.927
+
+Random effects:
+  spClean (Intercept) SD = 24.25
+  spClean T3_5 slope  SD =  1.16   (corr with intercept -0.32)
+  Residual            SD = 10.34
+
+
+INTERPRETATION
+---------------------------------------------------------------------------
+H2 test = the T3_5:NAm interaction (difference in climate sensitivity
+between native and non-native species):
+
+  T3_5:NAmT = -0.064 days/degC, SE 0.69, p = 0.93  --> NOT SIGNIFICANT
+
+Climate sensitivity by group:
+  Non-native (reference):  -2.45 days/degC
+  Native (= -2.45 + -0.064): -2.51 days/degC
+
+The two groups advance peak flowering at effectively the same rate as
+spring warms. There is no evidence that North American native species
+differ from non-native species in climate sensitivity.
+
+What IS strongly supported:
+  * Overall climate sensitivity is real and large: peak flowering advances
+    ~2.45 days per 1 degC of warmer March-May temperature (p < 1e-5).
+  * Species genuinely differ in sensitivity (random slope SD = 1.16
+    days/degC across 61 species) -- but nativity does not explain that
+    variation.
+
+Caveats:
+  * This is a reasonably INFORMATIVE null, not merely low power: the
+    interaction SE (0.69) rules out sensitivity differences larger than
+    about +/- 1.4 days/degC, small relative to the -2.45 baseline. Still,
+    the effective sample size for the nativity test is the number of
+    SPECIES per group (Satterthwaite df ~18), so report as "no detectable
+    difference," not "proven identical."
+  * The NAm main effect (p = 0.90, SE 12) is uninterpretable here: because
+    temperature is intentionally left uncentered (so slopes read in real
+    days/degC), that row is the group intercept difference extrapolated to
+    0 degC, far outside the data. It is not the H2 question. The
+    interaction, which IS the question, is scale-invariant and unaffected.
+
+
+BOTTOM LINE (for write-up)
+---------------------------------------------------------------------------
+Peak flowering advanced significantly with warmer March-May temperatures
+(-2.45 days/degC, p < 0.001), and this climate sensitivity did not differ
+between North American native and non-native species (interaction =
+-0.06 days/degC, p = 0.93). Species varied in climate sensitivity, but that
+variation was unrelated to nativity.
+
+Convergence note: lme4 prints a "failed to converge" gradient warning for
+these fits. It is a known false positive (temperature ~10-20 and doy 1-365
+are on different scales); allFit confirmed all optimizers agree to within
+5e-9. The fits are trustworthy. See scripts/60.H2.R for details.
