@@ -82,10 +82,34 @@ lapply(lmerTests_12_2, summary)
 ## and to plot everything
 # Kierans Code V
 dat.tests[[2]]$genus = strsplit(dat.tests[[2]]$spClean, " ") |> lapply(function(x) x[1]) |> unlist()
-h1plot_peakclear <- ggplot(dat.tests[[2]], aes(x = Year, y = doy, color = genus))
+#First basic plot
+h1plot_peakclear <- ggplot(dat.tests[[2]], aes(x = Year, y = doy, color = spClean)) + 
+  geom_point() + geom_smooth(method = "lm", aes(group = 1), color = "black", se = TRUE, linewidth = 5) +
+  theme_bw(base_size = 18) +
+  labs(title = "Peak Flowering by Year", subtitle = "Trends across four genera", y = "Day of Year", color = "Species")
 print(h1plot_peakclear)
 
-# add in aes shape = factor(genus) once figured out and then add specific shape to below plots
+# shape for genus
+h1plot_peak <- ggplot(dat.tests[[2]], aes(x = Year, y = doy, color = spClean, shape = genus))
+h1plot_peak <- h1plot_peak + 
+geom_point() + 
+  geom_smooth(method = "lm", aes(group = 1), color = "black", se = TRUE , linewidth= 5) +
+theme_bw(base_size=18) +
+labs(title = "Peak Flowering by Year", subtitle= "Trends across four genera", y= "Day of Year", color = "Species", )
+print(h1plot_peak)
+
+#genus lines 
+## worried: are the genus lines an average of the genus and species or just the ones without species
+h1plot_peak <- ggplot(dat.tests[[2]], aes(x = Year, y = doy, shape = genus)) +
+  geom_point(aes(color = spClean)) + 
+    geom_smooth(method = "lm", aes(group = genus, color = genus), se = FALSE, linewidth = 3) + 
+    geom_smooth(method = "lm", aes(group = 1), color = "black", se = TRUE, linewidth = 5) + 
+  theme_bw(base_size = 18) + 
+  labs(title = "Peak Flowering by Year", subtitle = "Trends across four genera", y = "Day of Year", color = "Species", fill = "Genus")
+print(h1plot_peak)
+
+
+
 h1plot_peak <- ggplot(dat.tests[[2]], aes(x = Year, y = doy, color = spClean))
 h1plot_peak <- h1plot_peak + 
 geom_point() + 
