@@ -83,7 +83,7 @@ h1plot_peak <- h1plot_peak +
 geom_point() + 
 geom_smooth(method = 'lm', se= FALSE, linewidth=2) + 
   geom_smooth(method = "lm", aes(group = 1), color = "black", se = FALSE , linewidth= 5) +
-theme_dark(base_size=18) +
+theme_bw(base_size=18) +
   theme(
     legend.text = element_text(size = 10),
     legend.title = element_text(size = 10)) +
@@ -154,3 +154,4 @@ h1plot_peak | (ACERplot_peak + CERCISplot_peak + CORNUSplot_peak + TILIAplot_pea
 #hist(residuals_vector, main = "Hist of Residuals", xlab = "Residuals", col = "blue")
 #shapiro.test(residuals_vector)
 
+dat.tests.acer_peak <- dat.tests$ph4.6[grep('Acer', dat.tests$ph4.6$spClean), ]
