@@ -5,7 +5,7 @@ dat_field_ph <- list(
     ph7.8 = dat.field[dat.field$Phenophase %in% 7:8, ]
 )
 
-
+#Something here makes the integer 0
 dat.sum.field <- sapply(dat_field_ph, function(x, cultexclude = T) {
     
 if (is.data.frame(x)) {if (cultexclude) {x <- x[!(x$cult %in% TRUE) & !is.na(x$cult), ]}

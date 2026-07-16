@@ -4,6 +4,9 @@
 ###   will go into a separate data frame just for Tilia americana
 ###   Plan: separate out til am data and add in field data for a subset of analyses
 
+library(openxlsx)
+library(dplyr)
+library(ggplot2)
 dat.field = read.xlsx('data/Field_Data.xlsx')
 
 
@@ -24,3 +27,7 @@ dat.field$doy <- as.Date(dat.field$Date, format = "%m/%d/%Y") |>
 
 write.csv(dat.field, 'out/dat.field.cleaned.csv')
 rm(i)
+
+#Bar chart phenophases per tree
+ggplot(dat.field,Phenophase$exclude==0,aes(Phenophase, fill= PlantNumber)) + 
+  geom_bar()
