@@ -65,6 +65,13 @@ lmerTests_12_2 <- list(
    earlyStrict = lmer(doy ~ P12_2 + (1 | spClean), dat.tests.strict$early),
    peakStrict = lmer(doy ~ P12_2 + (1 | spClean), dat.tests.strict$peak))
 
+lmerTests1_12 <- list(
+   early = lmer(doy ~ PYEAR + (1 | spClean), dat.tests[[1]]),
+   peak = lmer(doy ~ PYEAR + (1 | spClean), dat.tests[[2]]),
+   late = lmer(doy ~ PYEAR + (1 | spClean), dat.tests[[3]]),
+   earlyStrict = lmer(doy ~ PYEAR + (1 | spClean), dat.tests.strict$early),
+   peakStrict = lmer(doy ~ PYEAR + (1 | spClean), dat.tests.strict$peak))
+
 
 ## to get the results, take a look here:
 lapply(lmerTests_yr, summary)

@@ -61,7 +61,7 @@ dat.mat <- cbind(dat.mat, dat.clim_byYear[as.character(dat.mat$Year), ])
 
 
 
-#Precipitation
+#Precipitation winter
 
 dat.clim$YEAR_num  <- as.numeric(dat.clim$YEAR)
 dat.clim$MONTH_num <- as.numeric(dat.clim$MONTH)
@@ -85,9 +85,8 @@ dat.PRCP_byYear <- data.frame(
     year = names(prcp_shifted),
     row.names = names(prcp_shifted)
 )
-dat.PRCP_byYear$P11_1 <- 
-    dat.PRCP_byYear$P12_2 <-
-    NA
+dat.PRCP_byYear$P11_1 <- NA
+dat.PRCP_byYear$P12_2 <- NA
 
 for(i in row.names(dat.PRCP_byYear)) {
     dat.PRCP_byYear[i, "P11_1"] = 
@@ -102,6 +101,41 @@ dat.mat <- cbind(dat.mat, dat.PRCP_byYear[as.character(dat.mat$Year), ])
 ## add distributions to dat.mat
 dat.mat <- cbind(dat.mat, dat.dist[dat.mat$spClean, ])
 
+
+# Precipitation year prior  
+dat.clim$YEAR_num_prior  <- as.numeric(dat.clim$YEAR) 
+dat.clim$MONTH_num_prior <- as.numeric(dat.clim$MONTH) 
+
+# Shift all months to the next climate year 
+dat.clim$CLIM_YEAR_PRIOR <- dat.clim$YEAR_num_prior + 1
+dat.clim$CLIM_YEAR_PRIOR <- as.character(dat.clim$CLIM_YEAR_PRIOR) 
+
+dat.prcp_avg_yearPrior <- dat.clim |> 
+  group_by(CLIM_YEAR_PRIOR, MONTH) |> 
+  summarize(PRCP_sum_prior = sum(PRCP/10, na.rm = TRUE), .groups = "drop") |> 
+  as.data.frame()
+
+prcp_shifted_yearPrior <- split(dat.prcp_avg_yearPrior, dat.prcp_avg_yearPrior$CLIM_YEAR_PRIOR) 
+
+dat.PRCP_forYearPrior <- data.frame( 
+  year_prior = names(prcp_shifted_yearPrior), 
+  row.names  = names(prcp_shifted_yearPrior) 
+) 
+
+dat.PRCP_forYearPrior$PYEAR <- NA 
+
+for(i in row.names(dat.PRCP_forYearPrior)) { 
+    dat.PRCP_forYearPrior[i, "PYEAR"] = 
+    sum(prcp_shifted_yearPrior[[i]][prcp_shifted_yearPrior[[i]]$MONTH %in% c('01', '02', '03','04', '05', '06','07', '08', '09', '11', '12'), 'PRCP_sum_prior'], na.rm = T)} 
+
+## Add new column to dat.mat without conflicting with previous names
+dat.mat <- cbind(dat.mat, dat.PRCP_forYearPrior[as.character(dat.mat$Year), , drop = FALSE]) 
+dat.mat <- cbind(dat.mat, dat.dist[dat.mat$spClean, , drop = FALSE])
+
+
+
 temp <- which(duplicated(names(dat.mat)))
 if (length(temp) > 0) dat.mat <- dat.mat[-temp]
 write.csv(dat.mat, 'out/dat.mat.withMetadata.csv')
+
+
