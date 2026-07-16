@@ -85,6 +85,8 @@ lapply(lmerTests_4_6, summary)
 lapply(lmerTests_11_1, summary)
 #Dec-Feb
 lapply(lmerTests_12_2, summary)
+#Jan-Dec
+lapply(lmerTests1_12, summary)
 
 ## and to plot everything
 # Kierans Code V

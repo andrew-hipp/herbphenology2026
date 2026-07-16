@@ -126,7 +126,7 @@ dat.PRCP_forYearPrior$PYEAR <- NA
 
 for(i in row.names(dat.PRCP_forYearPrior)) { 
     dat.PRCP_forYearPrior[i, "PYEAR"] = 
-    sum(prcp_shifted_yearPrior[[i]][prcp_shifted_yearPrior[[i]]$MONTH %in% c('01', '02', '03','04', '05', '06','07', '08', '09', '11', '12'), 'PRCP_sum_prior'], na.rm = T)} 
+    sum(prcp_shifted_yearPrior[[i]][prcp_shifted_yearPrior[[i]]$MONTH %in% c('01', '02', '03','04', '05', '06','07', '08', '09', '10', '11', '12'), 'PRCP_sum_prior'], na.rm = T)} 
 
 ## Add new column to dat.mat without conflicting with previous names
 dat.mat <- cbind(dat.mat, dat.PRCP_forYearPrior[as.character(dat.mat$Year), , drop = FALSE]) 
