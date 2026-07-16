@@ -21,4 +21,4 @@ for(i in 1:dim(dat.phenoPh.field)[1]){
         }
       }
 
-write.csv(dat.phenoPh.field, 'Data_Phenology_Output.csv')
+write.csv(dat.phenoPh.field, 'out/Field_Data_Phenology_Output.csv')
