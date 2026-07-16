@@ -171,7 +171,7 @@ geom_boxplot() +
 theme_bw () +
 theme (legend.position = "none", axis.text.x = element_blank()) +
 labs (title = "Peak Bloom climate sensitivity by Nativity Status", x = "Chicago Distribution", y = "Day of Year") +
-  scale_fill_manual(values = c("#cb76ff", "#ffa340"))
+  scale_fill_manual(values = c("#7bb8f9", "#f9bc7b"))
 
 print(h2plotchi_peak)
 
@@ -194,7 +194,7 @@ theme_bw () +
     theme (legend.position = "none", axis.text.x = element_blank()) +
 labs (x = "North America Distribution",
        y = "Day of Year", ) +
-  scale_fill_manual(values = c("#cb76ff", "#ffa340"))
+  scale_fill_manual(values = c("#7bb8f9", "#f9bc7b"))
 
 
 print(h2plotAm_peak)
@@ -205,7 +205,7 @@ geom_boxplot() +
 theme_bw () +
 theme (legend.position = "none", axis.text.x = element_blank()) +
 labs (x = "Asia Distribution", y = "Day of Year") +
-  scale_fill_manual(values = c("#cb76ff", "#ffa340"))
+  scale_fill_manual(values = c("#7bb8f9", "#f9bc7b"))
 
 print(h2plotAsia_peak)
 
@@ -215,7 +215,7 @@ geom_boxplot() +
 theme_bw () +
     theme (legend.title = element_blank(), axis.text.x = element_blank()) +
 labs (x = "Europe Distribution", y = "Day of Year") +
-  scale_fill_manual(values = c("#cb76ff", "#ffa340"), labels = c("Non-Native", "Native"))
+  scale_fill_manual(values = c("#7bb8f9", "#f9bc7b"), labels = c("Non-Native", "Native"))
 
 print(h2plotEurope_peak)
 

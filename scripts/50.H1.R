@@ -191,3 +191,6 @@ h1plot_peak | (ACERplot_peak + CERCISplot_peak + CORNUSplot_peak + TILIAplot_pea
 #hist(residuals_vector, main = "Hist of Residuals", xlab = "Residuals", col = "blue")
 #shapiro.test(residuals_vector)
 
+
+
+
