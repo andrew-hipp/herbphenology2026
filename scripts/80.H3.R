@@ -1,26 +1,29 @@
 
 library(lme4)
-if(!exists('dat_sum.field')) stop('** Run scripts 01 + 15 + 35 **')
-# lmer(outcome ~ fixed_predictor + (1| random_intercept_group), data)
-##Direction
+library(lubridate)
+library(emmeans)
+
+
+field = read.xlsx('data/dat.field.pheno2.xlsx')
+
+field$Direction <- factor(field$Direction)
+field$Shade <- factor(field$Shade)
+field$PlantNumber <- factor(field$PlantNumber)
+
+field$Mean_DOY <- as.Date(field$Mean_DOY)
+field$Mean_DOY <- yday(field$Mean_DOY)
+
 lmerTests_Field <- list(
-    early = lmer(doy ~ Direction + (1 | PlantNumber), dat.sum.field[[1]]),
-    peak = lmer(doy ~ Direction + (1 | PlantNumber), dat.sum.field[[2]]),
-    late = lmer(doy ~ Direction + (1 | PlantNumber), dat.sum.field[[3]])
+early = lm(Mean_DOY ~ Direction * Shade, data= filter(field, Phenophase == "early")),
+peak = lm(Mean_DOY ~ Direction * Shade, data= filter(field, Phenophase == "peak")),
+late = lm(Mean_DOY ~ Direction * Shade, data= filter(field, Phenophase == "late"))
 )
 
 lapply(lmerTests_Field, summary)
-
-# Shade
-lmerTests_Field <- list(
-    early = lmer(doy ~ Direction + Shade + (1 | PlantNumber), dat.sum.field[[1]]),
-    peak = lmer(doy ~ Direction + Shade + (1 | PlantNumber), dat.sum.field[[2]]),
-    late = lmer(doy ~ Direction + Shade + (1 | PlantNumber), dat.sum.field[[3]])
-)
-
-#Shade + Canopy Cover
-lmerTests_Field <- list(
-    early = lmer(doy ~ Direction + Shade + (Direction * Shade) + (1 | PlantNumber), dat.sum.field[[1]]),
-    peak = lmer(doy ~ Direction + Shade + (Direction * Shade) + (1 | PlantNumber), dat.sum.field[[2]]),
-    late = lmer(doy ~ Direction + Shade + (Direction * Shade) + (1 | PlantNumber), dat.sum.field[[3]])
-)
+anova(lmerTests_Field)
+# No noticable variation in doy between plants
+# South differs significantly from East
+# Shade level 1 is significantly different to no shade but shade level 2 isn't
+# The effect of shade depends on direction specifically the combo of south and shade 2
+emmeans(lmerTests_Field, ~ Direction * Shade)
+pairs(emmeans(lmerTests_Field, ~ Direction | Shade))
