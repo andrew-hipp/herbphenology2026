@@ -22,7 +22,7 @@ late = lm(Mean_DOY ~ Direction * Shade, data= filter(field, Phenophase == "late"
 lapply(lmerTests_Field, summary)
 lapply(lmerTests_Field, anova)
 
-
+##old results before I played around
 # No noticable variation in doy between plants
 # South differs significantly from East
 # Shade level 1 is significantly different to no shade but shade level 2 isn't
@@ -32,3 +32,18 @@ lmerfield <- lmer(Mean_DOY ~ Direction * Shade + (1 | PlantNumber), data= field)
 summary(lmerfield)
 emmeans(lmerfield, ~ Direction * Shade)
 pairs(emmeans(lmerfield, ~ Direction | Shade))
+
+
+lmer_trees <- list(
+early = lm(Mean_DOY ~ PlantNumber, data= filter(field, Phenophase == "early")),
+peak = lm(Mean_DOY ~ PlantNumber, data= filter(field, Phenophase == "peak")),
+late = lm(Mean_DOY ~ PlantNumber, data= filter(field, Phenophase == "late")))
+lapply(lmer_trees, summary)
+
+pairwise_results <- lapply(lmer_trees, function(model) {means <- emmeans(model, ~ PlantNumber)
+pairs(means)})
+
+pairwise_results$early
+pairwise_results$peak
+pairwise_results$late
+
