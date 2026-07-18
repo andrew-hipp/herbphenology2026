@@ -20,10 +20,15 @@ late = lm(Mean_DOY ~ Direction * Shade, data= filter(field, Phenophase == "late"
 )
 
 lapply(lmerTests_Field, summary)
-anova(lmerTests_Field)
+lapply(lmerTests_Field, anova)
+
+
 # No noticable variation in doy between plants
 # South differs significantly from East
 # Shade level 1 is significantly different to no shade but shade level 2 isn't
 # The effect of shade depends on direction specifically the combo of south and shade 2
-emmeans(lmerTests_Field, ~ Direction * Shade)
-pairs(emmeans(lmerTests_Field, ~ Direction | Shade))
+lmerfield <- lmer(Mean_DOY ~ Direction * Shade + (1 | PlantNumber), data= field)
+
+summary(lmerfield)
+emmeans(lmerfield, ~ Direction * Shade)
+pairs(emmeans(lmerfield, ~ Direction | Shade))
