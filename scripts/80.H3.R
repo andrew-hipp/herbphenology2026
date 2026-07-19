@@ -33,7 +33,7 @@ summary(lmerfield)
 emmeans(lmerfield, ~ Direction * Shade)
 pairs(emmeans(lmerfield, ~ Direction | Shade))
 
-
+#Comparing the trees to each other
 lmer_trees <- list(
 early = lm(Mean_DOY ~ PlantNumber, data= filter(field, Phenophase == "early")),
 peak = lm(Mean_DOY ~ PlantNumber, data= filter(field, Phenophase == "peak")),
@@ -47,3 +47,22 @@ pairwise_results$early
 pairwise_results$peak
 pairwise_results$late
 
+
+#
+individual <- read.xlsx('data/Field_daily.xlsx')
+
+individual_clean <- individual |>
+  mutate(
+    pheno_stage = case_when(
+      `Avg.Phenophase` %in% 1:3 ~ "early",
+      `Avg.Phenophase` %in% 4:6 ~ "peak",
+      `Avg.Phenophase` %in% 7:8 ~ "late",
+      TRUE ~ NA_character_ )) |>
+  filter(!is.na(pheno_stage)) |>
+  mutate(
+    PlantNumber = factor(PlantNumber),
+    Mean_DOY = yday(as.Date(Mean_DOY)))
+
+#Comparing each tree to the global avg instead of one tree
+global_avg_model <- lm(Mean_DOY ~ PlantNumber + pheno_stage, data = individual_clean, contrasts = list(PlantNumber = "contr.sum"))
+summary(global_avg_model)
