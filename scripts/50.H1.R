@@ -4,6 +4,9 @@
 library(lme4)
 library(lmerTest)
 library(ggplot2)
+library(dplyr)
+library(broom)
+
 
 dat.tests <- dat_ph
 for(i in names(dat.tests)) {
@@ -117,17 +120,22 @@ h1plot_peak <- ggplot(dat.tests[[2]], aes(x = Year, y = doy, shape = genus)) +
   labs(title = "Peak Flowering by Year", subtitle = "Trends across four genera", y = "Day of Year", color = "Species", fill = "Genus")
 print(h1plot_peak)
 
+#Making the slopes a mega slope
+species_slopes <- dat.tests[[2]] |> group_by(spClean) |> do(tidy(lm(doy ~ Year, data = .))) |> filter(term %in% c("(Intercept)", "Year")) |>
+select(spClean, term, estimate) |> tidyr::pivot_wider(names_from = term, values_from = estimate) |> rename(intercept = `(Intercept)`, slope = Year)
+avg_intercept <- mean(species_slopes$intercept)
+avg_slope <- mean(species_slopes$slope)
 
-
-h1plot_peak <- ggplot(dat.tests[[2]], aes(x = Year, y = doy, color = spClean))
+h1plot_peak <- ggplot(dat.tests[[2]], aes(x = Year, y = doy, color = spClean, shape = genus))
 h1plot_peak <- h1plot_peak + 
 geom_point() + 
 geom_smooth(method = 'lm', se= FALSE, linewidth=2) + 
-  geom_smooth(method = "lm", aes(group = 1), color = "black", se = FALSE , linewidth= 5) +
+ geom_abline(intercept = avg_intercept, slope = avg_slope, color = "black", linewidth = 5) +
 theme_bw(base_size=18) +
     theme(legend.position = "none") +
-labs(title = "Peak Flowering by Year", subtitle= "Trends across four genera", y= "Day of Year", color = "Species", )
+labs(color = "Species", )
 print(h1plot_peak)
+
 
 # genus level 
 
@@ -179,10 +187,48 @@ theme_bw(base_size=18) +
 labs(title = "Trends Tilia", y= "Day of Year", color = "Species", )
 print(TILIAplot_peak)
 
+
+
 h1plot_peak | (ACERplot_peak + CERCISplot_peak + CORNUSplot_peak + TILIAplot_peak)
 
+#Presentation graphs
+dat.tests.tilia.cor_peak <- dat.tests$ph4.6[grep('Tilia cordata', dat.tests$ph4.6$spClean), ]
+dat.tests.acer.sac_peak <- dat.tests$ph4.6[grep('Acer saccharinum', dat.tests$ph4.6$spClean), ]
+dat.tests.acer.plat_peak <- dat.tests$ph4.6[grep('Acer platanoides', dat.tests$ph4.6$spClean), ]
+dat.tests.cornussan_peak <- dat.tests$ph4.6[grep('Cornus sanguinea', dat.tests$ph4.6$spClean), ]
 
 
+
+TILIAcorplot_peak <- ggplot(dat.tests.tilia.cor_peak, aes(x = Year, y = doy))
+TILIAcorplot_peak <- TILIAcorplot_peak + 
+geom_point() + 
+geom_smooth(method = 'lm', se= FALSE, linewidth=2) + 
+theme_bw(base_size=20)
+print(TILIAcorplot_peak)
+
+CERCISplot_peak <- ggplot(dat.tests.cercis_peak, aes(x = Year, y = doy))
+CERCISplot_peak <- CERCISplot_peak + 
+geom_point() + 
+geom_smooth(method = 'lm', se= FALSE, linewidth=2) + 
+theme_bw(base_size=20)
+print(CERCISplot_peak)
+
+
+ACERplatplot_peak <- ggplot(dat.tests.acer.plat_peak, aes(x = Year, y = doy))
+ACERplatplot_peak <- ACERplatplot_peak + 
+geom_point() + scale_y_continuous(
+    breaks = seq(from = 100, to = 160, by = 10), limits = c(100, 155)) + 
+geom_smooth(method = 'lm', se= FALSE, linewidth=2) + 
+theme_bw(base_size=20)
+print(ACERplatplot_peak)
+
+CORNUSsanplot_peak <- ggplot(dat.tests.cornussan_peak, aes(x = Year, y = doy))
+CORNUSsanplot_peak <- CORNUSsanplot_peak + 
+geom_point() + scale_y_continuous(
+    breaks = seq(from = 150, to = 220, by = 10), limits = c(150, 220)) +
+geom_smooth(method = 'lm', se= FALSE, linewidth=2) + 
+theme_bw(base_size=20)
+print(CORNUSsanplot_peak)
 
 
 ##My mom ask me to do...
@@ -190,8 +236,4 @@ h1plot_peak | (ACERplot_peak + CERCISplot_peak + CORNUSplot_peak + TILIAplot_pea
 
 #hist(residuals_vector, main = "Hist of Residuals", xlab = "Residuals", col = "blue")
 #shapiro.test(residuals_vector)
-
-
-
-
 
