@@ -32,6 +32,8 @@ lmerfield.interact <- list(
     peak = lmer(Mean_DOY ~ Direction * Shade + (1 | PlantNumber), data= filter(field, Phenophase == "peak")),
     late = lmer(Mean_DOY ~ Direction * Shade + (1 | PlantNumber), data= filter(field, Phenophase == "late"))
 ) # close lmerfield.interact
+lapply(lmerfield.interact, anova)
+lapply(lmerfield.interact, summary)
 
 lmerfield.nointeract <- list(
     early = lmer(Mean_DOY ~ Direction + Shade + (1 | PlantNumber), data= filter(field, Phenophase == "early")),
@@ -39,17 +41,52 @@ lmerfield.nointeract <- list(
     late = lmer(Mean_DOY ~ Direction + Shade + (1 | PlantNumber), data= filter(field, Phenophase == "late"))
 ) # close lmerfields.nointeract
 
-lapply(lmerfield.nointeract, anova)
 
 lmerfield.dirOnly <- list(
     early = lmer(Mean_DOY ~ Direction + (1 | PlantNumber), data= filter(field, Phenophase == "early")),
     peak = lmer(Mean_DOY ~ Direction + (1 | PlantNumber), data= filter(field, Phenophase == "peak")),
     late = lmer(Mean_DOY ~ Direction + (1 | PlantNumber), data= filter(field, Phenophase == "late"))
-) # close lmerfields.nointeract
+) 
 
 lapply(lmerfield.dirOnly, anova)
+#Comparing each direction to eachother
+pairwise <- lapply(lmerfield.dirOnly, function(model) {means <- emmeans(model, ~ Direction )
+pairs(means)})
+pairwise$early
+pairwise$peak
+pairwise$late
 
-lapply(lmerfield, summary)
+#Comparing each direction to the overall mean
+pairwise <- lapply(lmerfield.dirOnly, function(model) {means <- emmeans(model, ~ Direction)
+    contrast(means, method = "eff")})
+pairwise$early
+pairwise$peak
+pairwise$late
+
+
+
+lmerfield.shadeOnly <- list(
+    early = lmer(Mean_DOY ~ Shade + (1 | PlantNumber), data= filter(field, Phenophase == "early")),
+    peak = lmer(Mean_DOY ~ Shade + (1 | PlantNumber), data= filter(field, Phenophase == "peak")),
+    late = lmer(Mean_DOY ~ Shade + (1 | PlantNumber), data= filter(field, Phenophase == "late"))
+) 
+
+lapply(lmerfield.shadeOnly, summary)
+lapply(lmerfield.shadeOnly, anova)
+
+pairwise_resultstry <- lapply(lmerfield.shadeOnly, function(model) {means <- emmeans(model, ~ Shade )
+pairs(means)})
+pairwise_resultstry$early
+pairwise_resultstry$peak
+pairwise_resultstry$late
+
+pairwise <- lapply(lmerfield.shadeOnly, function(model) {means <- emmeans(model, ~ Shade)
+    contrast(means, method = "eff")})
+pairwise$early
+pairwise$peak
+pairwise$late
+
+
 #google said use
 emmeans(lmerfield$late, ~ Direction * Shade)
 lapply(lmerfield.dirOnly, emmeans, ~ Direction) # just to see what the effect direction is
