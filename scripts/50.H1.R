@@ -25,8 +25,11 @@ lmerTests_yr <- list(
     peak = lmer(doy ~ Year + (1 | spClean), dat.tests[[2]]),
     late = lmer(doy ~ Year + (1 | spClean), dat.tests[[3]]),
     earlyStrict = lmer(doy ~ Year + (1 | spClean), dat.tests.strict$early),
-    peakStrict = lmer(doy ~ Year + (1 | spClean), dat.tests.strict$peak)
+    peakStrict = lmer(doy ~ Year + (1 | spClean), dat.tests.strict$peak),
+    All_together = lmer(doy ~ Year + (1 | spClean), data = bind_rows(dat.test)),
+     All_together_strict = lmer(doy ~ Year + (1 | spClean), data = bind_rows(dat.tests.strict))
 )
+ 
 
 lmerTests_2_4 <- list(
     early = lmer(doy ~ T2_4 + (1 | spClean), dat.tests[[1]]),
@@ -41,7 +44,9 @@ lmerTests_3_5 <- list(
     peak = lmer(doy ~ T3_5 + (1 | spClean), dat.tests[[2]]),
     late = lmer(doy ~ T3_5 + (1 | spClean), dat.tests[[3]]),
     earlyStrict = lmer(doy ~ T3_5 + (1 | spClean), dat.tests.strict$early),
-    peakStrict = lmer(doy ~ T3_5 + (1 | spClean), dat.tests.strict$peak)
+    peakStrict = lmer(doy ~ T3_5 + (1 | spClean), dat.tests.strict$peak),
+    All_together = lmer(doy ~ T3_5 + (1 | spClean), data = bind_rows(dat.tests)),
+     All_together_strict = lmer(doy ~ T3_5 + (1 | spClean), data = bind_rows(dat.tests.strict))
 )
 
 lmerTests_4_6 <- list(
@@ -73,7 +78,9 @@ lmerTests1_12 <- list(
    peak = lmer(doy ~ PYEAR + (1 | spClean), dat.tests[[2]]),
    late = lmer(doy ~ PYEAR + (1 | spClean), dat.tests[[3]]),
    earlyStrict = lmer(doy ~ PYEAR + (1 | spClean), dat.tests.strict$early),
-   peakStrict = lmer(doy ~ PYEAR + (1 | spClean), dat.tests.strict$peak))
+   peakStrict = lmer(doy ~ PYEAR + (1 | spClean), dat.tests.strict$peak), 
+       All_together = lmer(doy ~ PYEAR + (1 | spClean), data = bind_rows(dat.tests)),
+     All_together_strict = lmer(doy ~ PYEAR + (1 | spClean), data = bind_rows(dat.tests.strict)))
 
 
 ## to get the results, take a look here:
