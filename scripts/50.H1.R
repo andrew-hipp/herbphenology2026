@@ -209,15 +209,27 @@ dat.tests.cornussan_peak <- dat.tests$ph4.6[grep('Cornus sanguinea', dat.tests$p
 TILIAcorplot_peak <- ggplot(dat.tests.tilia.cor_peak, aes(x = Year, y = doy))
 TILIAcorplot_peak <- TILIAcorplot_peak + 
 geom_point() + 
-geom_smooth(method = 'lm', se= FALSE, linewidth=2) + 
-theme_bw(base_size=20)
+geom_smooth(method = 'lm', se= TRUE, linewidth=2) + 
+theme_bw(base_size=20) +
+stat_poly_eq(
+    aes(label = paste(after_stat(eq.label), after_stat(p.value.label), sep = "~~~")),
+    formula = y ~ x, 
+    parse = TRUE,
+    label.y = 40
+  )
 print(TILIAcorplot_peak)
+
 
 CERCISplot_peak <- ggplot(dat.tests.cercis_peak, aes(x = Year, y = doy))
 CERCISplot_peak <- CERCISplot_peak + 
 geom_point() + 
-geom_smooth(method = 'lm', se= FALSE, linewidth=2) + 
-theme_bw(base_size=20)
+geom_smooth(method = 'lm', se= TRUE, linewidth=2) + 
+theme_bw(base_size=20)+
+stat_poly_eq(
+    aes(label = paste(after_stat(eq.label), after_stat(p.value.label), sep = "~~~")),
+    formula = y ~ x, 
+    parse = TRUE,
+    label.y = 40)
 print(CERCISplot_peak)
 
 
