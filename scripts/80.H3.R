@@ -35,6 +35,7 @@ lmerfield.interact <- list(
 lapply(lmerfield.interact, anova)
 lapply(lmerfield.interact, summary)
 
+
 lmerfield.nointeract <- list(
     early = lmer(Mean_DOY ~ Direction + Shade + (1 | PlantNumber), data= filter(field, Phenophase == "early")),
     peak = lmer(Mean_DOY ~ Direction + Shade + (1 | PlantNumber), data= filter(field, Phenophase == "peak")),
