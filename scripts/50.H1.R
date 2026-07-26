@@ -139,10 +139,16 @@ geom_point() +
 geom_smooth(method = 'lm', se= FALSE, linewidth=2) + 
  geom_abline(intercept = avg_intercept, slope = avg_slope, color = "black", linewidth = 5) +
 theme_bw(base_size=18) +
-    theme(legend.position = "none") +
+    theme(legend.position = "none")  +
+stat_poly_eq(
+    aes(label = paste(after_stat(eq.label), after_stat(p.value.label), sep = "~~~")),
+    formula = y ~ x, 
+    parse = TRUE,
+    label.y = 40
+  ) +
 labs(color = "Species", )
 print(h1plot_peak)
-
+summary(lm(doy ~ Year, data = dat.tests[[2]]))
 
 # genus level 
 
