@@ -206,11 +206,21 @@ h1plot_peak | (ACERplot_peak + CERCISplot_peak + CORNUSplot_peak + TILIAplot_pea
 
 #Presentation graphs
 dat.tests.tilia.cor_peak <- dat.tests$ph4.6[grep('Tilia cordata', dat.tests$ph4.6$spClean), ]
+dat.tests.tilia.am_early <- dat.tests$ph1.3[grep('Tilia americana', dat.tests$ph1.3$spClean), ]
+dat.tests.tilia.am_peak <- dat.tests$ph4.6[grep('Tilia americana', dat.tests$ph4.6$spClean), ]
+dat.tests.tilia.am_late <- dat.tests$ph7.8[grep('Tilia americana', dat.tests$ph7.8$spClean), ]
 dat.tests.acer.sac_peak <- dat.tests$ph4.6[grep('Acer saccharinum', dat.tests$ph4.6$spClean), ]
 dat.tests.acer.plat_peak <- dat.tests$ph4.6[grep('Acer platanoides', dat.tests$ph4.6$spClean), ]
 dat.tests.cornussan_peak <- dat.tests$ph4.6[grep('Cornus sanguinea', dat.tests$ph4.6$spClean), ]
 
+dat.tests.tilia.am_early <- dat.tests.tilia.am_early %>% 
+  add_row(DeterminationCalcFullName= "Tilia americana", Year = 2026, doy = 165)
 
+dat.tests.tilia.am_peak <- dat.tests.tilia.am_peak %>% 
+  add_row(DeterminationCalcFullName= "Tilia americana", Year = 2026, doy = 178)
+
+dat.tests.tilia.am_late <- dat.tests.tilia.am_late %>% 
+  add_row(DeterminationCalcFullName= "Tilia americana", Year = 2026, doy = 188)
 
 TILIAcorplot_peak <- ggplot(dat.tests.tilia.cor_peak, aes(x = Year, y = doy))
 TILIAcorplot_peak <- TILIAcorplot_peak + 
@@ -254,6 +264,63 @@ geom_point() + scale_y_continuous(
 geom_smooth(method = 'lm', se= FALSE, linewidth=2) + 
 theme_bw(base_size=20)
 print(CORNUSsanplot_peak)
+
+
+#Plots for Tilia am including phenology
+TILIAamplot_early <- ggplot(dat.tests.tilia.am_early, aes(x = Year, y = doy))
+TILIAamplot_early <- TILIAamplot_early + 
+geom_point(aes(color = doy== "165")) + geom_vline(xintercept = 1970, color = "black", linewidth = 1) +
+geom_smooth(method = 'lm', se= TRUE, linewidth=2) + 
+theme_bw(base_size=20) +
+  scale_color_manual(
+    values = c("FALSE" = "purple", "TRUE" = "yellow"),
+    labels = c("Herbarium Data", "2026 field estimate"),
+    name = "Field work"
+  ) +
+stat_poly_eq(
+    aes(label = paste(after_stat(eq.label), after_stat(p.value.label), sep = "~~~")),
+    formula = y ~ x, 
+    parse = TRUE,
+    label.y = 40
+  )
+print(TILIAamplot_early)
+
+TILIAamplot_peak <- ggplot(dat.tests.tilia.am_peak, aes(x = Year, y = doy))
+TILIAamplot_peak <- TILIAamplot_peak + 
+geom_point(aes(color = doy== "178")) + 
+geom_smooth(method = 'lm', se= TRUE, linewidth=2) + 
+theme_bw(base_size=20) +
+  scale_color_manual(
+    values = c("FALSE" = "purple", "TRUE" = "yellow"),
+    labels = c("Herbarium Data", "2026 field estimate"),
+    name = "Field work"
+  ) +
+stat_poly_eq(
+    aes(label = paste(after_stat(eq.label), after_stat(p.value.label), sep = "~~~")),
+    formula = y ~ x, 
+    parse = TRUE,
+    label.y = 40
+  )
+print(TILIAamplot_peak)
+
+TILIAamplot_late <- ggplot(dat.tests.tilia.am_late, aes(x = Year, y = doy))
+TILIAamplot_late <- TILIAamplot_late + 
+geom_point(aes(color = doy== "188")) + 
+geom_smooth(method = 'lm', se= TRUE, linewidth=2) + 
+theme_bw(base_size=20) +
+  scale_color_manual(
+    values = c("FALSE" = "purple", "TRUE" = "yellow"),
+    labels = c("Herbarium Data", "2026 field estimate"),
+    name = "Field work"
+  ) +
+stat_poly_eq(
+    aes(label = paste(after_stat(eq.label), after_stat(p.value.label), sep = "~~~")),
+    formula = y ~ x, 
+    parse = TRUE,
+    label.y = 40
+  )
+print(TILIAamplot_late)
+
 
 
 ##My mom ask me to do...
