@@ -73,10 +73,10 @@ dat.clim$CLIM_YEAR <- ifelse(dat.clim$MONTH_num %in% c(11, 12),
 
 dat.clim$CLIM_YEAR <- as.character(dat.clim$CLIM_YEAR)
 
-# dividing by 10 give precipitation in mm *0.03937 converts to inches
+# dividing by *0.3937 converts to inches
 dat.prcp_avg <- dat.clim |>
   group_by(CLIM_YEAR, MONTH) |>
-  summarize(PRCP_sum = sum(PRCP/10*0.03937, na.rm = TRUE), .groups = "drop") %>%
+  summarize(PRCP_sum = sum(PRCP*0.3937, na.rm = TRUE), .groups = "drop") %>%
   as.data.frame
 
 prcp_shifted <- split(dat.prcp_avg, dat.prcp_avg$CLIM_YEAR)
