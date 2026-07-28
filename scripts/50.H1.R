@@ -150,6 +150,23 @@ labs(color = "Species", )
 print(h1plot_peak)
 summary(lm(doy ~ Year, data = dat.tests[[2]]))
 
+#Updated plot for presentation
+
+h1plot_peak <- ggplot(dat.tests[[2]], aes(x = Year, y = doy)) +
+  # Add geom_point back and color it by spClean
+  geom_point(aes(color = spClean), alpha = 0.6) + 
+  geom_smooth(aes(color = spClean), method = 'lm', se = FALSE, linewidth = 2) + 
+  scale_color_manual(values = c("Acer campestre" = "#4000ff", "Acer carpinifolium" = "#3c00ff", "Acer davidii" = "#0011ff", "Acer miyabei" = "#001aff", "Acer" = "#5500ff", "Acer negundo" = "#0026ff", "Acer palmatum" = "#003cff", "Acer pensylvanicum" = "#0044ff", "Acer pictum" = "#0059ff", "Acer platanoides" = "#006eff", "Acer pseudosieboldianum" = "#0073ff", "Acer rubrum" = "#008cff", "Acer saccharinum" = "#0091ff", "Acer saccharum" = "#00a2ff", "Acer tataricum" = "#00aaff", "Acer triflorum" = "#00bfff", 
+    "Cercis canadensis" = "#fcd424", 
+    "Cornus alternifolia" = "#fc247e", "Cornus amomum" = "#fc2490", "Cornus florida" = "#fc24a6", "Cornus foemina" = "#fc24cd", "Cornus kousa" = "#fc24e3", "Cornus mas" = "#fc24f5", "Cornus sanguinea" = "#fc24fc", "Cornus sericea" = "#e324fc", "Cornus walteri" = "#ea24fc", 
+    "Tilia americana" = "#fc9424", "Tilia cordata" = "#f98b15", "Tilia platyphyllos" = "#ff8400")) +
+  geom_abline(intercept = avg_intercept, slope = avg_slope, color = "black", linewidth = 5) +
+  theme_bw(base_size = 18) +
+    theme(legend.position = "none")  +
+  labs(color = "Species")
+ggsave("larger_plot.png", plot = h1plot_peak, width = 13, height = 10)
+print(h1plot_peak)
+
 # genus level 
 
 dat.tests.acer_peak <- dat.tests$ph4.6[grep('Acer', dat.tests$ph4.6$spClean), ]
@@ -328,4 +345,3 @@ print(TILIAamplot_late)
 
 #hist(residuals_vector, main = "Hist of Residuals", xlab = "Residuals", col = "blue")
 #shapiro.test(residuals_vector)
-
